@@ -17,7 +17,10 @@ jobs:
         with:
           node-version: 20
       - run: npm install --no-audit --no-fund
-      - run: node scripts/fetch-events.mjs
+      - name: Collect events
+        run: node scripts/fetch-events.mjs
+        env:
+          SHEET_CSV_URL: ${{ vars.SHEET_CSV_URL }}
       - name: Save changes
         run: |
           git config user.name "hackradar-bot"
