@@ -75,3 +75,25 @@ export function findEvents(node, acc = []) {
 export function normName(s = "") {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 }
+
+// ---------- Dates written like "OCT 09 - 11", "SEP 1 - DEC 1", "NOV 3 - 8" ----------
+const MON = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+const M = "(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)[A-Z]*\\.?";
+export const DATE_SEG = new RegExp(`^${M}\\s+\\d{1,2}(\\s*[-–]\\s*(${M}\\s+)?\\d{1,2})?$`, "i");
+export const MODE_SEG = /^(in-?person|digital( only)?|online|hybrid|on-?site)$/i;
+
+// Turns "OCT 31 - NOV 01" + 2026 into an ISO end date. If the end month comes
+// before the start month (e.g. DEC - JAN) the end falls in the next year.
+export function rangeInYear(text, year) {
+  const parts = String(text).split(/\s*[-–]\s*/);
+  const s = parts[0].trim();
+  const e = (parts[1] || parts[0]).trim();
+  const idx = (x) => {
+    const m = x.match(/[A-Za-z]{3}/);
+    return m ? MON.indexOf(m[0].toLowerCase()) : -1;
+  };
+  const sm = idx(s);
+  const em = /[A-Za-z]{3}/.test(e) ? idx(e) : sm;
+  const endYear = em < sm ? year + 1 : year;
+  return parseRange(`${s}, ${year} - ${e}, ${endYear}`);
+}
