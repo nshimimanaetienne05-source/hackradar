@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="rw">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HackRadar Rwanda</title>
+<meta name="description" content="Hackathons and competitions in one place, with live deadlines. Hackathon n'amarushanwa byose ahantu hamwe.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#0f2a43; --ink2:#3d5a76; --sky:#eaf3fb; --card:#fff; --line:#cfdceb;
+    --sun:#f5b700; --leaf:#0e8f55; --coral:#d9482b; --blue:#2166b0;
+  }
+  *{box-sizing:border-box}
+  [hidden]{display:none !important}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--sky);color:var(--ink);line-height:1.5;
+       font-family:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+  a{color:inherit}
+  :focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+  button{font:inherit;cursor:pointer}
+
+  /* ---------- Header ---------- */
+  .site{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:18px 0}
+  .brand{font-weight:800;font-size:1.25rem;letter-spacing:-.02em;display:flex;align-items:center;gap:10px}
+  .dot{width:14px;height:14px;border-radius:50%;background:var(--sun);box-shadow:0 0 0 4px var(--ink) inset,0 0 0 2px var(--sun)}
+  .tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .pill{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;
+        padding:7px 14px;font-size:.9rem;text-decoration:none;display:inline-block}
+  .pill:hover{border-color:var(--ink)}
+  .pill.gold{background:var(--sun);border-color:var(--sun);font-weight:650}
+  .lang{display:inline-flex}
+  .lang button{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 12px}
+  .lang button:first-child{border-radius:999px 0 0 999px}
+  .lang button:last-child{border-radius:0 999px 999px 0;border-left:0}
+  .lang button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+
+  /* ---------- Hero ---------- */
+  .hero{display:grid;gap:24px;padding:20px 0 30px;grid-template-columns:1fr}
+  @media(min-width:860px){.hero{grid-template-columns:1.05fr .95fr;align-items:center}}
+  h1{font-size:clamp(2rem,5.5vw,3.3rem);line-height:1.05;letter-spacing:-.03em;margin:0 0 14px;font-weight:800}
+  .hero p{margin:0 0 20px;color:var(--ink2);max-width:46ch;font-size:1.08rem}
+  .stats{display:flex;gap:10px;flex-wrap:wrap}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 16px}
+  .stat b{display:block;font-size:1.5rem;line-height:1.1;font-variant-numeric:tabular-nums}
+  .stat span{font-size:.82rem;color:var(--ink2)}
+
+  .spot{background:var(--ink);color:#fff;border-radius:20px;padding:24px;position:relative;overflow:hidden}
+  .spot::after{content:"";position:absolute;right:-60px;top:-60px;width:200px;height:200px;border-radius:50%;
+               border:2px solid rgba(245,183,0,.35);box-shadow:0 0 0 24px rgba(245,183,0,.08),0 0 0 52px rgba(245,183,0,.05)}
+  .spot small{color:#b9cde0;font-size:.9rem;display:block;margin-bottom:6px;position:relative}
+  .spot h2{margin:0 0 16px;font-size:1.35rem;line-height:1.25;letter-spacing:-.01em;position:relative}
+  .big{display:flex;gap:12px;margin-bottom:18px;position:relative}
+  .big div{text-align:left;min-width:0}
+  .big b{display:block;font-size:clamp(1.7rem,8.5vw,3.2rem);color:var(--sun);line-height:1;font-variant-numeric:tabular-nums}
+  .big span{font-size:.8rem;color:#b9cde0}
+  .spot .btn{position:relative}
+
+  .btn{border:0;border-radius:10px;padding:11px 18px;font-weight:650;background:var(--sun);color:var(--ink);text-decoration:none;display:inline-block}
+  .btn:hover{filter:brightness(.95)}
+  .btn.dark{background:var(--ink);color:#fff}
+  .btn.line{background:transparent;border:1px solid var(--line);color:var(--ink)}
+
+  /* ---------- Controls ---------- */
+  .bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:6px 0 16px}
+  .tabs{display:flex;gap:6px;flex-wrap:wrap}
+  .tabs button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:7px 14px}
+  .tabs button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+  .bar input[type=search]{flex:1;min-width:180px;border:1px solid var(--line);border-radius:999px;padding:9px 16px;
+                          font:inherit;background:var(--card);color:var(--ink)}
+
+  /* ---------- Cards ---------- */
+  .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));padding-bottom:40px}
+  .card{background:var(--card);border:1px solid var(--line);border-left:6px solid var(--blue);
+        border-radius:12px;padding:16px 18px;display:flex;flex-direction:column;gap:10px}
+  .card.soon{border-left-color:var(--sun)}
+  .card.applied{border-left-color:var(--leaf)}
+  .card.ended{opacity:.6}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{font-size:.78rem;border:1px solid var(--line);border-radius:999px;padding:1px 10px;color:var(--ink2)}
+  .chip.src{background:var(--sky)}
+  .chip.rec{border-color:var(--leaf);color:var(--leaf);font-weight:650}
+  .card h3{margin:0;font-size:1.08rem;line-height:1.3;letter-spacing:-.01em}
+  .meta{font-size:.86rem;color:var(--ink2)}
+  .time{display:flex;gap:12px;margin-top:auto}
+  .time div{min-width:44px}
+  .time b{display:block;font-size:1.35rem;line-height:1.1;font-variant-numeric:tabular-nums}
+  .time span{font-size:.72rem;color:var(--ink2)}
+  .time .done{font-weight:650;color:var(--ink2)}
+  .row{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+  .check{display:flex;gap:6px;align-items:center;font-size:.86rem;color:var(--ink2);cursor:pointer}
+  .empty{grid-column:1/-1;text-align:center;padding:36px 16px;border:1px dashed var(--line);border-radius:12px;color:var(--ink2);background:rgba(255,255,255,.5)}
+
+  footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink2);font-size:.86rem}
+  footer .wrap{display:flex;gap:16px;justify-content:space-between;align-items:center;flex-wrap:wrap}
+  footer p{margin:0;max-width:62ch}
+
+  /* ---------- Registration dialog ---------- */
+  dialog{border:0;border-radius:18px;padding:0;max-width:520px;width:calc(100% - 32px);color:var(--ink);background:var(--card)}
+  dialog::backdrop{background:rgba(15,42,67,.6)}
+  .modal{padding:24px}
+  .modal h2{margin:0 0 6px;font-size:1.35rem;letter-spacing:-.01em}
+  .modal p.s{margin:0 0 16px;color:var(--ink2);font-size:.95rem}
+  .field{margin-bottom:14px}
+  .field label.l{display:block;font-size:.86rem;color:var(--ink2);margin-bottom:5px}
+  .field input[type=text],.field input[type=email],.field select{
+    width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;font:inherit;background:#fff;color:var(--ink)}
+  .radios{display:flex;gap:8px;flex-wrap:wrap}
+  .radios label{border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer;font-size:.92rem}
+  .radios input{position:absolute;opacity:0;pointer-events:none}
+  .radios label:has(input:checked){background:var(--ink);color:#fff;border-color:var(--ink)}
+  .radios label:has(input:focus-visible){outline:3px solid var(--sun);outline-offset:2px}
+  .consent{display:flex;gap:8px;align-items:flex-start;font-size:.88rem;color:var(--ink2);margin:6px 0 16px}
+  .consent input{margin-top:4px}
+  .actions{display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap}
+
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="site">
+    <div class="brand"><span class="dot" aria-hidden="true"></span><span>HackRadar Rwanda</span></div>
+    <div class="tools">
+      <a class="pill gold" id="coffee-top" href="#" target="_blank" rel="noopener" hidden></a>
+      <button class="pill" id="me" hidden></button>
+      <div class="lang" role="group" aria-label="Language">
+        <button id="lang-rw" aria-pressed="true">RW</button><button id="lang-en" aria-pressed="false">EN</button>
+      </div>
+    </div>
+  </div>
+
+  <section class="hero">
+    <div>
+      <h1 data-i18n="heroTitle"></h1>
+      <p data-i18n="heroSub"></p>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="spot" id="spot"></div>
+  </section>
+
+  <div class="bar">
+    <div class="tabs" id="tabs"></div>
+    <input type="search" id="q" data-i18n-ph="search" aria-label="Search">
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <noscript><p>Please enable JavaScript to see the hackathons.</p></noscript>
+</div>
+
+<footer>
+  <div class="wrap">
+    <p data-i18n="foot"></p>
+    <a class="btn" id="coffee-foot" href="#" target="_blank" rel="noopener" hidden></a>
+  </div>
+</footer>
+
+<!-- Registration dialog (shown before the first pick) -->
+<dialog id="dlg" aria-labelledby="dlg-title">
+  <form class="modal" id="reg" method="dialog" autocomplete="on">
+    <h2 id="dlg-title" data-i18n="regTitle"></h2>
+    <p class="s" data-i18n="regSub"></p>
+
+    <div class="field">
+      <label class="l" for="r-name" data-i18n="fName"></label>
+      <input id="r-name" type="text" required maxlength="80" autocomplete="name">
+    </div>
+    <div class="field">
+      <label class="l" for="r-email" data-i18n="fEmail"></label>
+      <input id="r-email" type="email" required maxlength="120" autocomplete="email">
+    </div>
+    <div class="field">
+      <span class="l" style="display:block;font-size:.86rem;color:var(--ink2);margin-bottom:5px" data-i18n="fWho"></span>
+      <div class="radios" id="r-status"></div>
+    </div>
+    <div class="field">
+      <label class="l" for="r-edu" data-i18n="fEdu"></label>
+      <select id="r-edu" required></select>
+    </div>
+    <div class="field">
+      <label class="l" for="r-career" data-i18n="fCareer"></label>
+      <select id="r-career" required></select>
+    </div>
+    <label class="consent"><input type="checkbox" id="r-consent" required><span data-i18n="fConsent"></span></label>
+    <div class="actions">
+      <button type="button" class="btn line" id="r-cancel" data-i18n="cancel"></button>
+      <button type="submit" class="btn" data-i18n="regBtn"></button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ================= SETTINGS: edit these 3 lines ================= */
+  const CONFIG = {
+    // Where the hackathon list lives. Same folder by default.
+    // If this page is NOT on GitHub Pages, put the raw link of events.json here, e.g.
+    // "https://raw.githubusercontent.com/YOUR-NAME/YOUR-REPO/main/events.json"
+    EVENTS_URL: "events.json",
+    // Google Apps Script web-app link that saves registrations (see google-apps-script.gs). Empty = save only in browser.
+    REGISTER_ENDPOINT: "",
+    // Link where people can support you (Buy Me a Coffee, MoMo pay link, etc.). Empty = button hidden.
+    COFFEE_URL: ""
+  };
+  /* ================================================================ */
+
+  const I18N = {
+    rw: {
+      heroTitle: "Hackathon n'amarushanwa byose, ahantu hamwe.",
+      heroSub: "Reba ibikiri gufungura, umenye igihe birangirira, kandi wiyandikishe mbere yo guhitamo.",
+      closing: "Birangira vuba kurusha ibindi",
+      statOpen: "bifunguye ubu", statOnline: "kuri internet", statUpdated: "byavuguruwe",
+      tabAll: "Byose", tabYou: "Bikubereye", tabOnline: "Kuri internet", tabSoon: "Birangira vuba", tabMine: "Ibyanjye",
+      search: "Shakisha hackathon...",
+      pick: "Hitamo", applied: "Narasabye",
+      ends: "Birangira", noDate: "Itariki ntiramenyekana", ended: "Byarangiye",
+      d: "iminsi", h: "amasaha", m: "iminota", s: "amasegonda",
+      online: "Kuri internet", recBadge: "Bikubereye",
+      prize: "Igihembo",
+      empty: "Nta hackathon ihari kuri ubu. Ongera ugerageze nyuma.",
+      emptyMine: "Nta kintu urahitamo. Hitamo hackathon uyikunze.",
+      emptyYou: "Nta hackathon ibereye umwuga wawe ihari ubu.",
+      loadError: "Ntibyakunze gufungura urutonde. Ongera ugerageze nyuma.",
+      regTitle: "Mbere yo guhitamo, banza wiyandikishe",
+      regSub: "Dukeneye kumenya uri nde kugira ngo tukwereke ibikubereye. Bifata munsi y'umunota.",
+      fName: "Amazina yawe", fEmail: "Imeri (email)", fWho: "Uri nde?",
+      sStudent: "Umunyeshuri", sWorker: "Umukozi", sSeeker: "Ushaka akazi", sOther: "Undi",
+      fEdu: "Urwego rw'amashuri", eSecondary: "Amashuri yisumbuye", eTvet: "TVET (imyuga)",
+      eBachelor: "Kaminuza (Bachelor)", eMaster: "Master cyangwa PhD", eOther: "Ikindi",
+      fCareer: "Umwuga cyangwa icyo wiga",
+      cSoftware: "Software / IT", cAi: "AI / Data", cHealth: "Ubuzima (Health)", cBusiness: "Ubucuruzi / Finance",
+      cEducation: "Uburezi", cAgri: "Ubuhinzi n'ibidukikije", cEngineering: "Ubwubatsi / Engineering",
+      cDesign: "Ubuhanzi / Design", cOther: "Ikindi",
+      choose: "Hitamo...",
+      fConsent: "Nemera ko amakuru natanze akoreshwa mu kunyereka hackathon zinkwiriye.",
+      regBtn: "Iyandikishe ukomeze", cancel: "Funga",
+      hello: "Muraho, ", coffee: "Gura ikawa",
+      foot: "Urutonde rukusanywa ku mbuga zitandukanye buri masaha 6. Reba kuri site y'irushanwa kugira ngo wemeze itariki. Amakuru y'abiyandikishije akoreshwa gusa mu kubereka ibibakwiriye.",
+      t_health: "Ubuzima", t_ai: "AI", t_data: "Data", t_web: "Web / App", t_blockchain: "Blockchain",
+      t_fintech: "Fintech", t_climate: "Ibidukikije", t_education: "Uburezi", t_security: "Security"
+    },
+    en: {
+      heroTitle: "Every hackathon and competition, in one place.",
+      heroSub: "See what is open, know when it closes, and register before you pick.",
+      closing: "Closing soonest",
+      statOpen: "open now", statOnline: "online", statUpdated: "updated",
+      tabAll: "All", tabYou: "For you", tabOnline: "Online", tabSoon: "Closing soon", tabMine: "My picks",
+      search: "Search hackathons...",
+      pick: "Pick this", applied: "I applied",
+      ends: "Closes", noDate: "Date not listed", ended: "Ended",
+      d: "days", h: "hours", m: "min", s: "sec",
+      online: "Online", recBadge: "For you",
+      prize: "Prize",
+      empty: "No hackathons listed right now. Please check back later.",
+      emptyMine: "You have not picked anything yet. Pick a hackathon you like.",
+      emptyYou: "No hackathons match your career right now.",
+      loadError: "Could not load the list. Please try again later.",
+      regTitle: "Register before you pick",
+      regSub: "We need to know who you are so we can show you what fits. It takes under a minute.",
+      fName: "Your name", fEmail: "Email", fWho: "Who are you?",
+      sStudent: "Student", sWorker: "Worker", sSeeker: "Job seeker", sOther: "Other",
+      fEdu: "Level of education", eSecondary: "Secondary school", eTvet: "TVET (vocational)",
+      eBachelor: "University (Bachelor)", eMaster: "Master or PhD", eOther: "Other",
+      fCareer: "Career or field of study",
+      cSoftware: "Software / IT", cAi: "AI / Data", cHealth: "Health", cBusiness: "Business / Finance",
+      cEducation: "Education", cAgri: "Agriculture and environment", cEngineering: "Engineering",
+      cDesign: "Art / Design", cOther: "Other",
+      choose: "Choose...",
+      fConsent: "I agree that the information I gave is used to show me hackathons that fit me.",
+      regBtn: "Register and continue", cancel: "Close",
+      hello: "Hi, ", coffee: "Buy me a coffee",
+      foot: "The list is collected from several sites every 6 hours. Always check the official page to confirm the date. Registration details are only used to show people what fits them.",
+      t_health: "Health", t_ai: "AI", t_data: "Data", t_web: "Web / App", t_blockchain: "Blockchain",
+      t_fintech: "Fintech", t_climate: "Climate", t_education: "Education", t_security: "Security"
+    }
+  };
+
+  const STATUSES = [["student", "sStudent"], ["worker", "sWorker"], ["seeker", "sSeeker"], ["other", "sOther"]];
+  const EDUS = [["secondary", "eSecondary"], ["tvet", "eTvet"], ["bachelor", "eBachelor"], ["master", "eMaster"], ["other", "eOther"]];
+  const CAREERS = [["software", "cSoftware"], ["ai", "cAi"], ["health", "cHealth"], ["business", "cBusiness"],
+                   ["education", "cEducation"], ["agri", "cAgri"], ["engineering", "cEngineering"],
+                   ["design", "cDesign"], ["other", "cOther"]];
+  const CAREER_TAGS = {
+    software: ["web", "security", "blockchain"], ai: ["ai", "data"], health: ["health", "data"],
+    business: ["fintech"], education: ["education"], agri: ["climate"], engineering: ["climate"],
+    design: ["web"], other: []
+  };
+
+  /* ---------- State ---------- */
+  const $ = (id) => document.getElementById(id);
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  };
+  let lang = store.get("hr_lang", "rw");
+  if (!I18N[lang]) lang = "rw";
+  let profile = store.get("hr_profile", null);
+  let mine = store.get("hr_mine", {});
+  let data = { events: [], updated: null };
+  let loadFailed = false;
+  let filter = "all", query = "", pending = null;
+
+  const t = (k) => I18N[lang][k] || k;
+  const pad = (n) => String(n).padStart(2, "0");
+  const safeUrl = (u) => { try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : ""; } catch (e) { return ""; } };
+
+  function h(tag, props, ...kids) {
+    const e = document.createElement(tag);
+    if (props) for (const [k, v] of Object.entries(props)) {
+      if (k === "class") e.className = v;
+      else if (k === "text") e.textContent = v;
+      else if (k.startsWith("on")) e.addEventListener(k.slice(2), v);
+      else if (v !== false && v != null) e.setAttribute(k, v === true ? "" : v);
+    }
+    kids.flat().forEach((c) => { if (c != null && c !== false) e.append(c.nodeType ? c : document.createTextNode(c)); });
+    return e;
+  }
+
+  /* ---------- Sending data to your Google Sheet ---------- */
+  function send(payload) {
+    if (!CONFIG.REGISTER_ENDPOINT) return;
+    try {
+      fetch(CONFIG.REGISTER_ENDPOINT, {
+        method: "POST", mode: "no-cors",
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: JSON.stringify(payload)
+      }).catch(() => {});
+    } catch (e) {}
+  }
+
+  /* ---------- Registration gate ---------- */
+  function requireProfile(next) {
+    if (profile) { next(); return; }
+    pending = next;
+    openDialog();
+  }
+
+  function fillSelect(sel, items, current) {
+    sel.innerHTML = "";
+    sel.append(h("option", { value: "", text: t("choose") }));
+    items.forEach(([v, k]) => sel.append(h("option", { value: v, text: t(k) })));
+    sel.value = current || "";
+  }
+
+  function buildDialog() {
+    const cur = profile || {};
+    const box = $("r-status");
+    const chosen = (box.querySelector("input:checked") || {}).value || cur.status || "";
+    box.innerHTML = "";
+    STATUSES.forEach(([v, k]) => {
+      box.append(h("label", null,
+        h("input", { type: "radio", name: "status", value: v, required: true, checked: v === chosen }),
+        t(k)));
+    });
+    fillSelect($("r-edu"), EDUS, $("r-edu").value || cur.edu);
+    fillSelect($("r-career"), CAREERS, $("r-career").value || cur.career);
+  }
+
+  function openDialog() {
+    if (profile) {
+      $("r-name").value = profile.name || "";
+      $("r-email").value = profile.email || "";
+    }
+    buildDialog();
+    $("r-consent").checked = !!profile;
+    $("dlg").showModal();
+  }
+
+  $("r-cancel").addEventListener("click", () => { pending = null; $("dlg").close(); });
+  $("dlg").addEventListener("click", (e) => { if (e.target === $("dlg")) { pending = null; $("dlg").close(); } });
+
+  $("reg").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const status = ($("r-status").querySelector("input:checked") || {}).value;
+    if (!status) return;
+    profile = {
+      name: $("r-name").value.trim(),
+      email: $("r-email").value.trim(),
+      status, edu: $("r-edu").value, career: $("r-career").value, lang
+    };
+    store.set("hr_profile", profile);
+    send({ type: "register", name: profile.name, email: profile.email, status: profile.status,
+           education: profile.edu, career: profile.career, lang, ts: new Date().toISOString() });
+    $("dlg").close();
+    const next = pending; pending = null;
+    renderMe(); render();
+    if (next) next();   // runs right away, so the new tab is not blocked
+  });
+
+  /* ---------- Picking ---------- */
+  function actionPayload(type, ev) {
+    return { type, email: profile.email, status: profile.status, education: profile.edu, career: profile.career,
+             event: ev.name, source: ev.source, eventId: ev.id, ts: new Date().toISOString() };
+  }
+
+  function pick(ev) {
+    requireProfile(() => {
+      mine[ev.id] = mine[ev.id] || "picked";
+      store.set("hr_mine", mine);
+      send(actionPayload("pick", ev));
+      const url = safeUrl(ev.url);
+      if (url) window.open(url, "_blank", "noopener");
+      render();
+    });
+  }
+
+  function toggleApplied(ev) {
+    requireProfile(() => {
+      mine[ev.id] = mine[ev.id] === "applied" ? "picked" : "applied";
+      store.set("hr_mine", mine);
+      if (mine[ev.id] === "applied") send(actionPayload("applied", ev));
+      render();
+    });
+  }
+
+  /* ---------- Data ---------- */
+  const ts = (ev) => (ev.date ? Date.parse(ev.date) : null);
+  const isEnded = (ev) => ts(ev) !== null && ts(ev) < Date.now();
+  const matches = (ev) => {
+    if (!profile) return false;
+    const want = CAREER_TAGS[profile.career] || [];
+    return (ev.tags || []).some((x) => want.includes(x));
+  };
+
+  function visible() {
+    const q = query.toLowerCase();
+    return data.events.filter((ev) => {
+      if (filter !== "mine" && isEnded(ev)) return false;
+      if (filter === "mine" && !mine[ev.id]) return false;
+      if (filter === "online" && !ev.online) return false;
+      if (filter === "soon") { const x = ts(ev); if (x === null || x - Date.now() > 7 * 864e5) return false; }
+      if (filter === "you" && !matches(ev)) return false;
+      if (q && !(ev.name + " " + (ev.org || "") + " " + (ev.source || "")).toLowerCase().includes(q)) return false;
+      return true;
+    }).sort((a, b) => {
+      const x = ts(a), y = ts(b);
+      if (x === null && y === null) return 0;
+      if (x === null) return 1;
+      if (y === null) return -1;
+      return x - y;
+    });
+  }
+
+  /* ---------- Rendering ---------- */
+  function timeBox(ev, withSeconds) {
+    const x = ts(ev);
+    const box = h("div", { class: withSeconds ? "big" : "time" });
+    box.dataset.ts = x === null ? "" : x;
+    box.dataset.sec = withSeconds ? "1" : "";
+    return box;
+  }
+
+  function fillTime(box) {
+    const raw = box.dataset.ts;
+    box.textContent = "";
+    if (!raw) { box.append(h("span", { class: "done", text: t("noDate") })); return false; }
+    const diff = Number(raw) - Date.now();
+    if (diff <= 0) { box.append(h("span", { class: "done", text: t("ended") })); return true; }
+    const d = Math.floor(diff / 864e5), hr = Math.floor(diff / 36e5) % 24,
+          mi = Math.floor(diff / 6e4) % 60, se = Math.floor(diff / 1e3) % 60;
+    const cell = (n, k) => h("div", null, h("b", { text: n }), h("span", { text: t(k) }));
+    box.append(cell(d, "d"), cell(pad(hr), "h"), cell(pad(mi), "m"));
+    if (box.dataset.sec) box.append(cell(pad(se), "s"));
+    return false;
+  }
+
+  function card(ev) {
+    const state = mine[ev.id];
+    const x = ts(ev);
+    const soon = x !== null && x - Date.now() < 7 * 864e5 && x > Date.now();
+    const cls = "card" + (state === "applied" ? " applied" : soon ? " soon" : "") + (isEnded(ev) ? " ended" : "");
+    const chips = h("div", { class: "chips" }, h("span", { class: "chip src", text: ev.source || "" }));
+    if (ev.online) chips.append(h("span", { class: "chip", text: t("online") }));
+    if (matches(ev)) chips.append(h("span", { class: "chip rec", text: t("recBadge") }));
+    (ev.tags || []).slice(0, 3).forEach((g) => chips.append(h("span", { class: "chip", text: t("t_" + g) })));
+
+    const metaBits = [];
+    if (ev.org) metaBits.push(ev.org);
+    if (ev.location && !ev.online) metaBits.push(ev.location);
+    if (ev.prize) metaBits.push(t("prize") + ": " + ev.prize);
+    if (x !== null) metaBits.push(t("ends") + ": " + new Date(x).toLocaleDateString("en-GB",
+      { day: "numeric", month: "short", year: "numeric" }));
+
+    return h("article", { class: cls },
+      chips,
+      h("h3", { text: ev.name }),
+      metaBits.length ? h("div", { class: "meta", text: metaBits.join(" · ") }) : null,
+      timeBox(ev, false),
+      h("div", { class: "row" },
+        h("button", { class: "btn", type: "button", text: t("pick"), onclick: () => pick(ev) }),
+        h("label", { class: "check" },
+          h("input", { type: "checkbox", checked: state === "applied", onchange: () => toggleApplied(ev) }),
+          t("applied"))));
+  }
+
+  function renderSpot(list) {
+    const spot = $("spot");
+    spot.textContent = "";
+    const next = list.find((ev) => ts(ev) !== null && ts(ev) > Date.now());
+    if (!next) { spot.style.display = "none"; return; }
+    spot.style.display = "";
+    spot.append(
+      h("small", { text: t("closing") }),
+      h("h2", { text: next.name }),
+      timeBox(next, true),
+      h("button", { class: "btn", type: "button", text: t("pick"), onclick: () => pick(next) }));
+  }
+
+  function renderStats() {
+    const open = data.events.filter((e) => !isEnded(e));
+    const stat = (n, k) => h("div", { class: "stat" }, h("b", { text: n }), h("span", { text: t(k) }));
+    const box = $("stats");
+    box.textContent = "";
+    box.append(stat(open.length, "statOpen"), stat(open.filter((e) => e.online).length, "statOnline"));
+    if (data.updated) box.append(stat(new Date(data.updated).toLocaleDateString("en-GB", { day: "numeric", month: "short" }), "statUpdated"));
+  }
+
+  function renderTabs() {
+    const tabs = [["all", "tabAll"], ["you", "tabYou"], ["online", "tabOnline"], ["soon", "tabSoon"], ["mine", "tabMine"]];
+    const box = $("tabs");
+    box.textContent = "";
+    tabs.forEach(([k, label]) => box.append(h("button", {
+      type: "button", text: t(label), "aria-pressed": String(filter === k),
+      onclick: () => {
+        if (k === "you" && !profile) { requireProfile(() => { filter = "you"; renderTabs(); render(); }); return; }
+        filter = k; renderTabs(); render();
+      }
+    })));
+  }
+
+  function renderMe() {
+    const b = $("me");
+    if (profile) { b.hidden = false; b.textContent = t("hello") + profile.name.split(" ")[0]; }
+    else b.hidden = true;
+    ["coffee-top", "coffee-foot"].forEach((id) => {
+      const a = $(id);
+      const url = safeUrl(CONFIG.COFFEE_URL);
+      a.hidden = !url;
+      if (url) { a.href = url; a.textContent = t("coffee"); }
+    });
+  }
+
+  function render() {
+    const list = visible();
+    renderStats();
+    renderSpot(data.events.filter((e) => !isEnded(e)).sort((a, b) => (ts(a) ?? 1e15) - (ts(b) ?? 1e15)));
+    const grid = $("grid");
+    grid.textContent = "";
+    if (loadFailed) grid.append(h("div", { class: "empty", text: t("loadError") }));
+    else if (!list.length) {
+      const k = filter === "mine" ? "emptyMine" : filter === "you" ? "emptyYou" : "empty";
+      grid.append(h("div", { class: "empty", text: t(k) }));
+    } else list.forEach((ev) => grid.append(card(ev)));
+    tick();
+  }
+
+  function applyLang() {
+    document.documentElement.lang = lang;
+    document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
+    document.querySelectorAll("[data-i18n-ph]").forEach((el) => { el.placeholder = t(el.dataset.i18nPh); });
+    $("lang-rw").setAttribute("aria-pressed", String(lang === "rw"));
+    $("lang-en").setAttribute("aria-pressed", String(lang === "en"));
+    if ($("dlg").open) buildDialog();
+    renderTabs(); renderMe(); render();
+  }
+
+  let rerender = false;
+  function tick() {
+    let ended = false;
+    document.querySelectorAll("[data-ts]").forEach((box) => { if (fillTime(box)) ended = true; });
+    if (ended && !rerender) { rerender = true; setTimeout(() => { render(); rerender = false; }, 1500); }
+  }
+
+  /* ---------- Events ---------- */
+  $("lang-rw").onclick = () => { lang = "rw"; store.set("hr_lang", lang); applyLang(); };
+  $("lang-en").onclick = () => { lang = "en"; store.set("hr_lang", lang); applyLang(); };
+  $("q").addEventListener("input", (e) => { query = e.target.value.trim(); render(); });
+  $("me").addEventListener("click", () => { pending = null; openDialog(); });
+
+  /* ---------- Start ---------- */
+  fetch(CONFIG.EVENTS_URL, { cache: "no-cache" })
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((d) => { data = { events: Array.isArray(d.events) ? d.events : [], updated: d.updated || null }; })
+    .catch(() => { loadFailed = true; })
+    .finally(() => { applyLang(); });
+
+  applyLang();
+  setInterval(tick, 1000);
+})();
+</script>
+</body>
+</html>

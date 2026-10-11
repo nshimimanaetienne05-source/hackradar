@@ -1,0 +1,8 @@
+{
+  "name": "hackradar-rwanda",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "fetch": "node scripts/fetch-events.mjs" },
+  "dependencies": { "cheerio": "1.0.0" }
+}
