@@ -1,49 +1,15 @@
 {
-  "updated": "2026-10-11T16:40:16.114Z",
+  "updated": "2026-10-11T21:36:13.532Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (26)",
-    "MLH": "ok (67)",
+    "Unstop": "ok (25)",
+    "MLH": "ok (61)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (2)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31586",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CodeRED: Orion",
-      "url": "https://codered-orion-ccs.devpost.com/",
-      "date": "2026-10-11T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$2,100",
-      "org": "CougarCS",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31417",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "EvoHacks2026",
-      "url": "https://evohackathon2026.devpost.com/",
-      "date": "2026-10-11T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "EvoHacks",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-30491",
       "type": "hackathon",
@@ -110,6 +76,23 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31610",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "All you can do with AI",
+      "url": "https://all-you-can-do-with-ai.devpost.com/",
+      "date": "2026-10-12T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Self",
+      "tags": [
+        "ai",
+        "blockchain"
       ],
       "rwanda": false
     },
@@ -297,6 +280,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31180",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AI Lodge Hackathon 2026",
+      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+      "date": "2026-10-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SMU Business Intelligence & Analytics",
+      "tags": [
+        "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "lablab-amd-developer-hackathon-act-iii",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -413,22 +413,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768744",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Blitz'26 - Technical Coding & Debugging Event",
-      "url": "https://unstop.com/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
-      "date": "2026-10-23T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mookambigai College of Engineering",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30992",
       "type": "hackathon",
       "source": "Devpost",
@@ -447,22 +431,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769011",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "National Online Hackathon 2026",
-      "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1769011",
-      "date": "2026-10-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "EDXcellence LLP",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1768995",
       "type": "hackathon",
       "source": "Unstop",
@@ -473,6 +441,22 @@
       "online": true,
       "prize": "",
       "org": "Polygnan Foundation",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769011",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "National Online Hackathon 2026",
+      "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1769011",
+      "date": "2026-10-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "EDXcellence LLP",
       "tags": [
         "web"
       ],
@@ -527,32 +511,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768903",
+      "id": "unstop-1769111",
       "type": "competition",
       "source": "Unstop",
-      "name": "MastersUp All India CAT Mock Test",
-      "url": "https://unstop.com/quiz/mastersup-all-india-cat-mock-test-masters-up-1768903",
-      "date": "2026-10-24T18:30:00.000Z",
+      "name": "Dune Dominator",
+      "url": "https://unstop.com/competitions/dune-dominator-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769111",
+      "date": "2026-10-25T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Masters Up",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1767860",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Infographics Competition - 2026",
-      "url": "https://unstop.com/competitions/infographics-competition-2026-iim-kashipur-1767860",
-      "date": "2026-10-25T18:29:48.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Kashipur",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
       "tags": [
         "web"
       ],
@@ -662,6 +630,22 @@
         "health",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769081",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CodewithChat AI Dev Challenge: Build, Launch & Monetize with Vibe Coding",
+      "url": "https://unstop.com/hackathons/codewithchat-ai-dev-challenge-build-launch-monetize-with-vibe-coding-codewithchat-1769081",
+      "date": "2026-10-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "CodewithChat",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -949,6 +933,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1767837",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AI in Architecture Quiz",
+      "url": "https://unstop.com/quiz/ai-in-architecture-quiz-noobsync-innovations-1767837",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "NoobSync Innovations",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
