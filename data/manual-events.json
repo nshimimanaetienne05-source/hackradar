@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "NISR 2026 Big Data Hackathon (university students in Rwanda)",
+    "url": "https://statistics.gov.rw/about/hackathon/2026-hackathon-competition",
+    "date": "2026-10-20T23:59:00+02:00",
+    "type": "hackathon",
+    "location": "Rwanda",
+    "rwanda": true,
+    "org": "National Institute of Statistics of Rwanda",
+    "note": "Registration closes 20 Oct, submissions 30 Oct",
+    "tags": ["data", "ai", "climate"]
+  }
+]
