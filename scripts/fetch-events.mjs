@@ -34,6 +34,12 @@ async function getText(url) {
   return r.text();
 }
 
+// Devpost writes "$0" when no prize is listed. Show a prize only when it is a real amount.
+function cleanPrize(v) {
+  const p = stripHtml(v || "");
+  return /\d/.test(p) && !/^\D*0+([.,]0+)?$/.test(p) ? p : "";
+}
+
 // ---------- Devpost (public JSON) ----------
 async function devpost() {
   const out = [];
@@ -49,12 +55,12 @@ async function devpost() {
         id: `devpost-${h.id}`,
         type: "hackathon",
         source: "Devpost",
-        name: h.title,
+        name: String(h.title || "").trim(),
         url: h.url,
         date: parseRange(h.submission_period_dates),
         location,
         online: /online/i.test(location),
-        prize: stripHtml(h.prize_amount || ""),
+        prize: cleanPrize(h.prize_amount),
         org: h.organization_name || "",
         tags: tagsFrom([h.title, ...themes].join(" "))
       });
@@ -73,6 +79,8 @@ async function unstop() {
     );
     const list = d?.data?.data || [];
     for (const o of list) {
+      // Unstop is mostly in-person college events in India. We keep only the online ones.
+      if (!/online/i.test(String(o.region || ""))) continue;
       const link = o.public_url || "";
       const url = link.startsWith("http") ? link : `https://unstop.com/${link.replace(/^\//, "")}`;
       const date = toISO(o.regnRequirements?.end_regn_dt || o.end_regn_dt || o.end_date);
@@ -81,7 +89,7 @@ async function unstop() {
         id: `unstop-${o.id}`,
         type: kind === "hackathons" ? "hackathon" : typeFrom(text),
         source: "Unstop",
-        name: o.title,
+        name: String(o.title || "").trim(),
         url,
         date,
         location: o.region === "online" || o.region === "Online" ? "Online" : "",
