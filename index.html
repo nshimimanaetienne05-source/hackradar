@@ -1,10 +1,18 @@
 <!DOCTYPE html>
-<html lang="rw">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>HackRadar Rwanda</title>
 <meta name="description" content="Hackathons and competitions in one place, with live deadlines. Hackathon n'amarushanwa byose ahantu hamwe.">
+<meta name="theme-color" content="#0f2a43">
+<meta property="og:title" content="HackRadar Rwanda">
+<meta property="og:description" content="Hackathons, competitions and pitch contests in one place, with live deadlines.">
+<meta property="og:type" content="website">
+<!-- After publishing, add this line so WhatsApp shows a picture when the link is shared:
+<meta property="og:image" content="https://YOUR-NAME.github.io/hackradar/hanga-pitch.jpg"> -->
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%230f2a43'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%23f5b700'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap" rel="stylesheet">
@@ -24,7 +32,7 @@
   button{font:inherit;cursor:pointer}
 
   /* ---------- Header ---------- */
-  .site{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:18px 0}
+  .site{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:12px 0}
   .brand{font-weight:800;font-size:1.25rem;letter-spacing:-.02em;display:flex;align-items:center;gap:10px}
   .dot{width:14px;height:14px;border-radius:50%;background:var(--sun);box-shadow:0 0 0 4px var(--ink) inset,0 0 0 2px var(--sun)}
   .tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
@@ -83,6 +91,11 @@
   .chip{font-size:.78rem;border:1px solid var(--line);border-radius:999px;padding:1px 10px;color:var(--ink2)}
   .chip.src{background:var(--sky)}
   .chip.rec{border-color:var(--leaf);color:var(--leaf);font-weight:650}
+  .chip.rw{background:var(--leaf);border-color:var(--leaf);color:#fff;font-weight:650}
+  .chip.type{background:var(--ink);border-color:var(--ink);color:#fff;font-weight:650}
+  .types{display:flex;gap:6px;flex-wrap:wrap;margin:-4px 0 16px}
+  .types button{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:8px;padding:5px 12px;font-size:.9rem}
+  .types button[aria-pressed="true"]{border-color:var(--ink);background:var(--card);font-weight:650;box-shadow:inset 0 -3px 0 var(--sun)}
   .card h3{margin:0;font-size:1.08rem;line-height:1.3;letter-spacing:-.01em}
   .meta{font-size:.86rem;color:var(--ink2)}
   .time{display:flex;gap:12px;margin-top:auto}
@@ -95,7 +108,7 @@
   .empty{grid-column:1/-1;text-align:center;padding:36px 16px;border:1px dashed var(--line);border-radius:12px;color:var(--ink2);background:rgba(255,255,255,.5)}
 
   footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink2);font-size:.86rem}
-  footer .wrap{display:flex;gap:16px;justify-content:space-between;align-items:center;flex-wrap:wrap}
+  footer .wrap{display:grid;gap:12px}
   footer p{margin:0;max-width:62ch}
 
   /* ---------- Registration dialog ---------- */
@@ -108,6 +121,15 @@
   .field label.l{display:block;font-size:.86rem;color:var(--ink2);margin-bottom:5px}
   .field input[type=text],.field input[type=email],.field select{
     width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;font:inherit;background:#fff;color:var(--ink)}
+  .field input[type=url],.field input[type=date],.field textarea{
+    width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;font:inherit;background:#fff;color:var(--ink)}
+  .field textarea{min-height:70px;resize:vertical}
+  .thanks.err{background:#fde8e4;color:#8a2a16}
+  .thanks{margin:0 0 12px;padding:10px 12px;border-radius:10px;background:#e3f5ea;color:#0b5a37;font-size:.92rem}
+  .sugbar{margin:22px 0 0;padding:16px 18px;border:1px dashed var(--ink2);border-radius:14px;background:rgba(255,255,255,.6);
+          display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+  .sugbar p{margin:0;color:var(--ink2);max-width:52ch}
+  .momo .mname{flex-basis:100%;font-size:.9rem;color:#c3d3e3}
   .radios{display:flex;gap:8px;flex-wrap:wrap}
   .radios label{border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer;font-size:.92rem}
   .radios input{position:absolute;opacity:0;pointer-events:none}
@@ -117,22 +139,90 @@
   .consent input{margin-top:4px}
   .actions{display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap}
 
+  /* ---------- Sticky top bar and menu ---------- */
+  html{scroll-padding-top:120px}
+  .top{position:sticky;top:0;z-index:20;background:rgba(234,243,251,.95);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .navrow{display:flex;gap:4px;overflow-x:auto;padding:0 0 8px;scrollbar-width:none}
+  .navrow::-webkit-scrollbar{display:none}
+  .navrow a{white-space:nowrap;text-decoration:none;padding:7px 14px;border-radius:999px;font-size:.93rem}
+  .navrow a:hover{background:var(--card)}
+  @media(max-width:600px){.pill,.lang button{padding:9px 14px}.brand{font-size:1.1rem}}
+
+  /* ---------- Home slider ---------- */
+  .slider{position:relative;border-radius:20px;overflow:hidden;background:var(--ink);aspect-ratio:4/5;max-height:82vh;margin:14px 0 6px;touch-action:pan-y}
+  @media(min-width:700px){.slider{aspect-ratio:16/9;max-height:600px}}
+  .slider:focus-visible{outline:3px solid var(--sun)}
+  .slide{position:absolute;inset:0;opacity:0;transition:opacity .6s ease;pointer-events:none;display:grid;grid-template-rows:minmax(0,1fr) auto}
+  .imgbox{position:relative;overflow:hidden;min-height:0}
+  .imgbox .zoom{position:absolute;inset:0;display:block}
+  .slide.on{opacity:1;pointer-events:auto}
+  .slide .bgimg{position:absolute;inset:-24px;background-size:cover;background-position:center;filter:blur(22px) brightness(.6)}
+  .slide img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+  .cap{padding:12px 16px 14px;background:var(--ink);color:#fff;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+  .cap p{margin:0;font-size:clamp(.98rem,2.4vw,1.3rem);font-weight:700;max-width:46ch;line-height:1.25}
+  .sl-btn{position:absolute;top:40%;transform:translateY(-50%);width:46px;height:46px;border-radius:50%;border:0;
+          background:rgba(15,42,67,.7);color:#fff;font-size:1.5rem;line-height:1}
+  .sl-prev{left:10px}.sl-next{right:10px}
+  .dots{position:absolute;top:12px;left:0;right:0;display:flex;gap:8px;justify-content:center}
+  .dots button{width:10px;height:10px;border-radius:50%;border:0;padding:0;background:rgba(255,255,255,.55)}
+  .dots button[aria-current="true"]{background:var(--sun);width:28px;border-radius:6px}
+
+  /* ---------- Sections ---------- */
+  .sec{padding:30px 0 6px}
+  .sec h2{font-size:clamp(1.4rem,3.5vw,2rem);letter-spacing:-.02em;margin:0 0 16px}
+  .steps{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+  .step{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px}
+  .step b{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--sun);margin-bottom:10px}
+  .step h3{margin:0 0 6px;font-size:1.05rem}
+  .step p{margin:0;color:var(--ink2);font-size:.95rem}
+  details.faq{background:var(--card);border:1px solid var(--line);border-radius:12px;margin-bottom:10px}
+  details.faq summary{cursor:pointer;padding:14px 18px;font-weight:650}
+  details.faq p{margin:0;padding:0 18px 16px;color:var(--ink2)}
+  .support{background:var(--ink);color:#fff;border-radius:20px;padding:28px;margin:30px 0 40px}
+  .support h2{margin:0 0 8px;font-size:clamp(1.4rem,3.5vw,2rem);letter-spacing:-.02em}
+  .support p{color:#c3d3e3;max-width:56ch;margin:0}
+  .momo{display:flex;gap:12px;align-items:center;flex-wrap:wrap;background:rgba(255,255,255,.08);border-radius:12px;padding:14px 16px;margin:16px 0}
+  .momo span{color:#c3d3e3;font-size:.9rem}
+  .momo b{font-size:1.5rem;letter-spacing:.02em;font-variant-numeric:tabular-nums}
+  .btn.light{background:#fff;color:var(--ink)}
+  .social{display:flex;gap:8px;flex-wrap:wrap}
+  .social a{border:1px solid var(--line);border-radius:999px;padding:7px 14px;text-decoration:none;font-size:.92rem;background:var(--card)}
+  .social a:hover{border-color:var(--ink)}
+  .linkbtn{background:none;border:0;padding:0;color:var(--blue);text-decoration:underline;font-size:inherit;font-family:inherit}
+  .disc{font-size:.82rem}
+
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 </head>
 <body>
 
-<div class="wrap">
+<header class="top"><div class="wrap">
   <div class="site">
     <div class="brand"><span class="dot" aria-hidden="true"></span><span>HackRadar Rwanda</span></div>
     <div class="tools">
-      <a class="pill gold" id="coffee-top" href="#" target="_blank" rel="noopener" hidden></a>
+      <a class="pill" id="suggest-top" href="#" target="_blank" rel="noopener" hidden></a>
+      <a class="pill gold" id="coffee-top" href="#support" hidden></a>
       <button class="pill" id="me" hidden></button>
       <div class="lang" role="group" aria-label="Language">
-        <button id="lang-rw" aria-pressed="true">RW</button><button id="lang-en" aria-pressed="false">EN</button>
+        <button id="lang-en" aria-pressed="true">EN</button><button id="lang-rw" aria-pressed="false">RW</button>
       </div>
     </div>
   </div>
+  <nav class="navrow" aria-label="Menu">
+    <a href="#events" data-i18n="navEvents"></a>
+    <a href="#how" data-i18n="navHow"></a>
+    <a href="#faq" data-i18n="navFaq"></a>
+    <a href="#support" id="nav-support" data-i18n="navSupport" hidden></a>
+  </nav>
+</div></header>
+
+<div class="wrap">
+  <section class="slider" id="slider" aria-roledescription="carousel" tabindex="0" hidden>
+    <div id="slides"></div>
+    <button class="sl-btn sl-prev" id="sl-prev" type="button">&#8249;</button>
+    <button class="sl-btn sl-next" id="sl-next" type="button">&#8250;</button>
+    <div class="dots" id="dots"></div>
+  </section>
 
   <section class="hero">
     <div>
@@ -143,21 +233,99 @@
     <div class="spot" id="spot"></div>
   </section>
 
+  <div id="events"></div>
   <div class="bar">
     <div class="tabs" id="tabs"></div>
     <input type="search" id="q" data-i18n-ph="search" aria-label="Search">
   </div>
+  <div class="types" id="types"></div>
 
   <div class="grid" id="grid"></div>
+  <div class="sugbar" id="sugbar" hidden>
+    <p data-i18n="sugBar"></p>
+    <button class="btn" id="sug-open" type="button" data-i18n="suggest"></button>
+  </div>
   <noscript><p>Please enable JavaScript to see the hackathons.</p></noscript>
+
+  <section class="sec" id="how">
+    <h2 data-i18n="howTitle"></h2>
+    <div class="steps">
+      <div class="step"><b>1</b><h3 data-i18n="how1T"></h3><p data-i18n="how1D"></p></div>
+      <div class="step"><b>2</b><h3 data-i18n="how2T"></h3><p data-i18n="how2D"></p></div>
+      <div class="step"><b>3</b><h3 data-i18n="how3T"></h3><p data-i18n="how3D"></p></div>
+    </div>
+  </section>
+
+  <section class="sec" id="faq">
+    <h2 data-i18n="faqTitle"></h2>
+    <details class="faq"><summary data-i18n="q1"></summary><p data-i18n="a1"></p></details>
+    <details class="faq"><summary data-i18n="q2"></summary><p data-i18n="a2"></p></details>
+    <details class="faq"><summary data-i18n="q3"></summary><p data-i18n="a3"></p></details>
+    <details class="faq"><summary data-i18n="q4"></summary><p data-i18n="a4"></p></details>
+    <details class="faq"><summary data-i18n="q5"></summary><p data-i18n="a5"></p></details>
+  </section>
+
+  <section class="support" id="support" hidden>
+    <h2 data-i18n="supportTitle"></h2>
+    <p data-i18n="supportText"></p>
+    <div class="momo" id="momo-row">
+      <span data-i18n="momoLabel"></span>
+      <b id="momo-num"></b>
+      <button class="btn light" id="momo-copy" type="button"></button>
+      <span class="mname" id="momo-name" hidden></span>
+    </div>
+    <a class="btn" id="wa-btn" href="#" target="_blank" rel="noopener" hidden></a>
+  </section>
 </div>
 
 <footer>
   <div class="wrap">
+    <div class="social" id="social"></div>
     <p data-i18n="foot"></p>
-    <a class="btn" id="coffee-foot" href="#" target="_blank" rel="noopener" hidden></a>
+    <p class="disc" data-i18n="footDisc"></p>
+    <p class="disc"><span id="credit"></span> &middot; <button class="linkbtn" id="priv-open" type="button" data-i18n="privLink"></button></p>
   </div>
 </footer>
+
+<dialog id="priv" aria-labelledby="priv-title">
+  <div class="modal">
+    <h2 id="priv-title" data-i18n="privTitle"></h2>
+    <p data-i18n="priv1"></p>
+    <p data-i18n="priv2"></p>
+    <p data-i18n="priv3"></p>
+    <div class="actions"><button class="btn" id="priv-close" type="button" data-i18n="cancel"></button></div>
+  </div>
+</dialog>
+
+<!-- Suggest an event dialog -->
+<dialog id="sug" aria-labelledby="sug-title">
+  <form class="modal" id="sugform" method="dialog" autocomplete="off">
+    <h2 id="sug-title" data-i18n="sugTitle"></h2>
+    <p class="s" data-i18n="sugSub"></p>
+    <p class="thanks" id="sug-thanks" role="status" hidden></p>
+    <div class="field">
+      <label class="l" for="s-name" data-i18n="sName"></label>
+      <input id="s-name" type="text" required maxlength="140">
+    </div>
+    <div class="field">
+      <label class="l" for="s-link" data-i18n="sLink"></label>
+      <input id="s-link" type="url" required maxlength="300" placeholder="https://">
+    </div>
+    <div class="field">
+      <label class="l" for="s-date" data-i18n="sDate"></label>
+      <input id="s-date" type="date">
+    </div>
+    <div class="field">
+      <label class="l" for="s-note" data-i18n="sNote"></label>
+      <textarea id="s-note" maxlength="300"></textarea>
+    </div>
+    <input type="text" id="s-site" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
+    <div class="actions">
+      <button type="button" class="btn line" id="s-cancel" data-i18n="cancel"></button>
+      <button type="submit" class="btn" data-i18n="sSend"></button>
+    </div>
+  </form>
+</dialog>
 
 <!-- Registration dialog (shown before the first pick) -->
 <dialog id="dlg" aria-labelledby="dlg-title">
@@ -185,7 +353,9 @@
       <label class="l" for="r-career" data-i18n="fCareer"></label>
       <select id="r-career" required></select>
     </div>
+    <input type="text" id="r-site" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
     <label class="consent"><input type="checkbox" id="r-consent" required><span data-i18n="fConsent"></span></label>
+    <p style="margin:-6px 0 14px;font-size:.88rem"><button type="button" class="linkbtn" id="r-priv" data-i18n="privLink"></button></p>
     <div class="actions">
       <button type="button" class="btn line" id="r-cancel" data-i18n="cancel"></button>
       <button type="submit" class="btn" data-i18n="regBtn"></button>
@@ -205,19 +375,66 @@
     EVENTS_URL: "events.json",
     // Google Apps Script web-app link that saves registrations (see google-apps-script.gs). Empty = save only in browser.
     REGISTER_ENDPOINT: "",
-    // Link where people can support you (Buy Me a Coffee, MoMo pay link, etc.). Empty = button hidden.
-    COFFEE_URL: ""
+    // Your name, shown in the footer and in the WhatsApp message.
+    OWNER: "Etienne",
+    // Support section. momo = mobile money number shown with a Copy button; momoName = the name MoMo shows when someone sends money
+    // (for example the website name); whatsapp = number with country code (250...).
+    SUPPORT: { momo: "0791845998", momoName: "", whatsapp: "250791845998" },
+    // Pictures for the home slider. Upload each picture next to index.html (same place, no folder).
+    // If a file is missing, that slide is skipped. Delete the examples or add more slides.
+    SLIDES: [
+      {
+        img: "hanga-pitch.jpg",
+        link: "https://hangapitchfest.rw",
+        alt: { rw: "Ifoto ya Hanga Pitchfest n'ibihembo", en: "Hanga Pitchfest picture with the rewards" },
+        caption: { rw: "Hanga Pitchfest: ibihembo byose bishobora kuba ibyawe.", en: "Hanga Pitchfest: all the rewards can be yours." }
+      }
+    ],
+    // Your social media links. Empty = hidden. whatsapp "auto" = made from the SUPPORT number.
+    SOCIAL: { website: "https://etienne1.netlify.app/", whatsapp: "auto", instagram: "", tiktok: "", x: "", linkedin: "", youtube: "", facebook: "", github: "", telegram: "" },
+    // Optional: a Google Form link for suggestions. If empty, the built-in form is used (it needs REGISTER_ENDPOINT).
+    SUGGEST_URL: ""
   };
   /* ================================================================ */
 
   const I18N = {
     rw: {
-      heroTitle: "Hackathon n'amarushanwa byose, ahantu hamwe.",
+      heroTitle: "Hackathon, amarushanwa na pitch byose, ahantu hamwe.",
       heroSub: "Reba ibikiri gufungura, umenye igihe birangirira, kandi wiyandikishe mbere yo guhitamo.",
+      sugBar: "Hari irushanwa wabonye ritari kuri uru rutonde? Tubwire tuyongereho.",
+      sugTitle: "Tanga irushanwa", sugSub: "Twohereze ibisobanuro. Tuzabanza kubigenzura, hanyuma tubishyire ku rutonde.",
+      sName: "Izina ry'irushanwa", sLink: "Umurongo nyawo (link)", sDate: "Itariki ntarengwa (si ngombwa)", sNote: "Icyo wongeraho (si ngombwa)",
+      sSend: "Ohereza", sThanks: "Murakoze! Tuzabigenzura tubishyire ku rutonde vuba.", sBadLink: "Andika umurongo wuzuye utangirana na https://",
+      follow: "Kurikira ibindi",
+      tabRw: "Rwanda", typeAll: "Ubwoko bwose", tHackathon: "Hackathon", tCompetition: "Amarushanwa", tPitch: "Pitch",
+      bHackathon: "Hackathon", bCompetition: "Irushanwa", bPitch: "Pitch",
+      statRw: "muri Rwanda", rwBadge: "Rwanda", suggest: "Tanga irushanwa",
+      navEvents: "Amarushanwa", navHow: "Uko bikora", navFaq: "Ibibazo", navSupport: "Dushyigikire",
+      howTitle: "Uko bikora",
+      how1T: "Iyandikishe rimwe", how1D: "Tubwire uri nde (umunyeshuri cyangwa umukozi) n'umwuga wawe. Bifata munsi y'umunota.",
+      how2T: "Hitamo irushanwa", how2D: "Reba urutonde, uhitemo hackathon, irushanwa cyangwa pitch ikubereye.",
+      how3T: "Saba ku rubuga nyarwo", how3D: "Tukwohereza ku rubuga rw'abategura, ugasabirayo. Ntukirengagize itariki ntarengwa.",
+      faqTitle: "Ibibazo bikunze kubazwa",
+      q1: "Ni ubuntu?", a1: "Yego. Gukoresha uru rubuga ni ubuntu.",
+      q2: "Kuki ngomba kwiyandikisha?", a2: "Kugira ngo tukwereke ibikubereye ukurikije umwuga wawe, kandi tumenye abakoresha uru rubuga. Ntitugurisha amakuru yawe.",
+      q3: "Urutonde ruturuka he?", a3: "Rukusanywa ku mbuga nka Devpost, Unstop, MLH na Lablab, hamwe n'iby'i Rwanda twongeraho ubwacu. Buri gihe reba urubuga rw'abategura kugira ngo wemeze itariki.",
+      q4: "Nakwongeraho irushanwa nabonye?", a4: "Yego. Kanda kuri \"Tanga irushanwa\" ushyiremo umurongo (link). Tuzabanza kuyigenzura, hanyuma tuyishyire ku rutonde.",
+      q5: "Ni hano nsabira?", a5: "Oya. Iyo ukanze \"Hitamo\" ujyanwa ku rubuga rw'abategura, ari rwo usabiraho.",
+      supportTitle: "Ntera inkunga, ugure ikawa",
+      supportText: "Uru rubuga ni ubuntu. Niba rwagufashije, ushobora kunterera inkunga kuri mobile money, cyangwa unyandikire kuri WhatsApp unshimire.",
+      momoLabel: "Mobile money", momoName: "Izina ku konti", copyNum: "Kopera nimero", copied: "Byakopowe", waBtn: "Nshimire kuri WhatsApp",
+      waMsg: "Muraho {owner}, nkunze HackRadar Rwanda! Murakoze.",
+      privLink: "Ibanga ry'amakuru", privTitle: "Ibanga ry'amakuru yawe",
+      priv1: "Iyo wiyandikishije dukusanya amazina yawe, imeri, uwo uri we (umunyeshuri, umukozi...), urwego rw'amashuri n'umwuga wawe. Iyo uhisemo irushanwa, tubika irushanwa wahisemo.",
+      priv2: "Tubikoresha gusa mu kukwereka ibikubereye no kumenya abakoresha uru rubuga. Ntitugurisha amakuru yawe.",
+      priv3: "Amakuru abikwa muri Google Sheet y'ufite uru rubuga. Niba ushaka ko tuyasiba, twandikire kuri WhatsApp tuyasibe.",
+      footDisc: "Amafoto n'amakuru y'amarushanwa ni ay'abayategura. Uru rubuga nta bufatanye rufitanye na bo, ujye urebera ku rubuga rwabo nyarwo.",
+      credit: "Rwakozwe mu Rwanda na ", official: "Urubuga nyarwo",
+      slPrev: "Subira inyuma", slNext: "Komeza", slideOf: "Ifoto",
       closing: "Birangira vuba kurusha ibindi",
       statOpen: "bifunguye ubu", statOnline: "kuri internet", statUpdated: "byavuguruwe",
       tabAll: "Byose", tabYou: "Bikubereye", tabOnline: "Kuri internet", tabSoon: "Birangira vuba", tabMine: "Ibyanjye",
-      search: "Shakisha hackathon...",
+      search: "Shakisha...",
       pick: "Hitamo", applied: "Narasabye",
       ends: "Birangira", noDate: "Itariki ntiramenyekana", ended: "Byarangiye",
       d: "iminsi", h: "amasaha", m: "iminota", s: "amasegonda",
@@ -246,12 +463,42 @@
       t_fintech: "Fintech", t_climate: "Ibidukikije", t_education: "Uburezi", t_security: "Security"
     },
     en: {
-      heroTitle: "Every hackathon and competition, in one place.",
+      heroTitle: "Every hackathon, competition and pitch contest, in one place.",
       heroSub: "See what is open, know when it closes, and register before you pick.",
+      sugBar: "Saw a competition that is not on this list? Tell us and we will add it.",
+      sugTitle: "Suggest a competition", sugSub: "Send us the details. We check it first, then add it to the list.",
+      sName: "Name of the competition", sLink: "Official link", sDate: "Deadline (optional)", sNote: "Short note (optional)",
+      sSend: "Send", sThanks: "Thank you! We will check it and add it soon.", sBadLink: "Please type a full link starting with https://",
+      follow: "Follow for more",
+      tabRw: "Rwanda", typeAll: "All types", tHackathon: "Hackathons", tCompetition: "Competitions", tPitch: "Pitching",
+      bHackathon: "Hackathon", bCompetition: "Competition", bPitch: "Pitch",
+      statRw: "in Rwanda", rwBadge: "Rwanda", suggest: "Suggest an event",
+      navEvents: "Events", navHow: "How it works", navFaq: "FAQ", navSupport: "Support",
+      howTitle: "How it works",
+      how1T: "Register once", how1D: "Tell us who you are (student or worker) and your career. It takes under a minute.",
+      how2T: "Pick a contest", how2D: "Browse the list and pick a hackathon, competition or pitch that fits you.",
+      how3T: "Apply on the official site", how3D: "We send you to the organizer's page, where you apply. Do not miss the deadline.",
+      faqTitle: "Frequently asked questions",
+      q1: "Is it free?", a1: "Yes. Using this site is free.",
+      q2: "Why do I have to register?", a2: "So we can show you what fits your career and understand who uses the site. We never sell your data.",
+      q3: "Where does the list come from?", a3: "It is collected from sites like Devpost, Unstop, MLH and Lablab, plus Rwandan events we add by hand. Always check the organizer's page to confirm the date.",
+      q4: "Can I add a contest I found?", a4: "Yes. Click \"Suggest an event\" and add the link. We check it first, then add it to the list.",
+      q5: "Do I apply here?", a5: "No. When you click \"Pick this\" you go to the organizer's website, where you apply.",
+      supportTitle: "Support me, buy me a coffee",
+      supportText: "This site is free. If it helped you, you can support me with mobile money, or send me a thank-you on WhatsApp.",
+      momoLabel: "Mobile money", momoName: "Account name", copyNum: "Copy number", copied: "Copied", waBtn: "Say thanks on WhatsApp",
+      waMsg: "Hello {owner}, I like HackRadar Rwanda! Thank you.",
+      privLink: "Privacy", privTitle: "Your privacy",
+      priv1: "When you register we collect your name, email, who you are (student, worker...), your level of education and your career. When you pick a contest, we save which one you picked.",
+      priv2: "We only use it to show you what fits you and to understand who uses the site. We never sell your personal data.",
+      priv3: "The data is kept in a Google Sheet owned by the site owner. If you want it deleted, message us on WhatsApp and we will delete it.",
+      footDisc: "Pictures and contest details belong to their organizers. This site is not affiliated with them, so always check their official page.",
+      credit: "Made in Rwanda by ", official: "Official page",
+      slPrev: "Previous", slNext: "Next", slideOf: "Slide",
       closing: "Closing soonest",
       statOpen: "open now", statOnline: "online", statUpdated: "updated",
       tabAll: "All", tabYou: "For you", tabOnline: "Online", tabSoon: "Closing soon", tabMine: "My picks",
-      search: "Search hackathons...",
+      search: "Search...",
       pick: "Pick this", applied: "I applied",
       ends: "Closes", noDate: "Date not listed", ended: "Ended",
       d: "days", h: "hours", m: "min", s: "sec",
@@ -298,13 +545,13 @@
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
   };
-  let lang = store.get("hr_lang", "rw");
-  if (!I18N[lang]) lang = "rw";
+  let lang = store.get("hr_lang", "en");
+  if (!I18N[lang]) lang = "en";
   let profile = store.get("hr_profile", null);
   let mine = store.get("hr_mine", {});
   let data = { events: [], updated: null };
   let loadFailed = false;
-  let filter = "all", query = "", pending = null;
+  let filter = "all", typeFilter = "all", query = "", pending = null;
 
   const t = (k) => I18N[lang][k] || k;
   const pad = (n) => String(n).padStart(2, "0");
@@ -377,6 +624,7 @@
 
   $("reg").addEventListener("submit", (e) => {
     e.preventDefault();
+    if ($("r-site").value) { pending = null; $("dlg").close(); return; }   // bots fill the hidden field
     const status = ($("r-status").querySelector("input:checked") || {}).value;
     if (!status) return;
     profile = {
@@ -396,7 +644,7 @@
   /* ---------- Picking ---------- */
   function actionPayload(type, ev) {
     return { type, email: profile.email, status: profile.status, education: profile.edu, career: profile.career,
-             event: ev.name, source: ev.source, eventId: ev.id, ts: new Date().toISOString() };
+             event: ev.name, eventType: ev.type || "hackathon", source: ev.source, eventId: ev.id, ts: new Date().toISOString() };
   }
 
   function pick(ev) {
@@ -434,6 +682,8 @@
       if (filter !== "mine" && isEnded(ev)) return false;
       if (filter === "mine" && !mine[ev.id]) return false;
       if (filter === "online" && !ev.online) return false;
+      if (filter === "rwanda" && !ev.rwanda) return false;
+      if (typeFilter !== "all" && (ev.type || "hackathon") !== typeFilter) return false;
       if (filter === "soon") { const x = ts(ev); if (x === null || x - Date.now() > 7 * 864e5) return false; }
       if (filter === "you" && !matches(ev)) return false;
       if (q && !(ev.name + " " + (ev.org || "") + " " + (ev.source || "")).toLowerCase().includes(q)) return false;
@@ -475,7 +725,11 @@
     const x = ts(ev);
     const soon = x !== null && x - Date.now() < 7 * 864e5 && x > Date.now();
     const cls = "card" + (state === "applied" ? " applied" : soon ? " soon" : "") + (isEnded(ev) ? " ended" : "");
-    const chips = h("div", { class: "chips" }, h("span", { class: "chip src", text: ev.source || "" }));
+    const typeKey = { hackathon: "bHackathon", competition: "bCompetition", pitch: "bPitch" }[ev.type || "hackathon"];
+    const chips = h("div", { class: "chips" },
+      h("span", { class: "chip type", text: t(typeKey) }),
+      h("span", { class: "chip src", text: ev.source || "" }));
+    if (ev.rwanda) chips.append(h("span", { class: "chip rw", text: t("rwBadge") }));
     if (ev.online) chips.append(h("span", { class: "chip", text: t("online") }));
     if (matches(ev)) chips.append(h("span", { class: "chip rec", text: t("recBadge") }));
     (ev.tags || []).slice(0, 3).forEach((g) => chips.append(h("span", { class: "chip", text: t("t_" + g) })));
@@ -484,6 +738,7 @@
     if (ev.org) metaBits.push(ev.org);
     if (ev.location && !ev.online) metaBits.push(ev.location);
     if (ev.prize) metaBits.push(t("prize") + ": " + ev.prize);
+    if (ev.note) metaBits.push(ev.note);
     if (x !== null) metaBits.push(t("ends") + ": " + new Date(x).toLocaleDateString("en-GB",
       { day: "numeric", month: "short", year: "numeric" }));
 
@@ -517,12 +772,13 @@
     const stat = (n, k) => h("div", { class: "stat" }, h("b", { text: n }), h("span", { text: t(k) }));
     const box = $("stats");
     box.textContent = "";
-    box.append(stat(open.length, "statOpen"), stat(open.filter((e) => e.online).length, "statOnline"));
+    box.append(stat(open.length, "statOpen"), stat(open.filter((e) => e.rwanda).length, "statRw"),
+               stat(open.filter((e) => e.online).length, "statOnline"));
     if (data.updated) box.append(stat(new Date(data.updated).toLocaleDateString("en-GB", { day: "numeric", month: "short" }), "statUpdated"));
   }
 
   function renderTabs() {
-    const tabs = [["all", "tabAll"], ["you", "tabYou"], ["online", "tabOnline"], ["soon", "tabSoon"], ["mine", "tabMine"]];
+    const tabs = [["all", "tabAll"], ["rwanda", "tabRw"], ["you", "tabYou"], ["online", "tabOnline"], ["soon", "tabSoon"], ["mine", "tabMine"]];
     const box = $("tabs");
     box.textContent = "";
     tabs.forEach(([k, label]) => box.append(h("button", {
@@ -534,16 +790,28 @@
     })));
   }
 
+  function renderTypes() {
+    const items = [["all", "typeAll"], ["hackathon", "tHackathon"], ["competition", "tCompetition"], ["pitch", "tPitch"]];
+    const box = $("types");
+    box.textContent = "";
+    items.forEach(([k, label]) => box.append(h("button", {
+      type: "button", text: t(label), "aria-pressed": String(typeFilter === k),
+      onclick: () => { typeFilter = k; renderTypes(); render(); }
+    })));
+  }
+
   function renderMe() {
     const b = $("me");
     if (profile) { b.hidden = false; b.textContent = t("hello") + profile.name.split(" ")[0]; }
     else b.hidden = true;
-    ["coffee-top", "coffee-foot"].forEach((id) => {
-      const a = $(id);
-      const url = safeUrl(CONFIG.COFFEE_URL);
-      a.hidden = !url;
-      if (url) { a.href = url; a.textContent = t("coffee"); }
-    });
+    const sug = $("suggest-top"), sugUrl = safeUrl(CONFIG.SUGGEST_URL);
+    const canSuggest = !!(sugUrl || CONFIG.REGISTER_ENDPOINT);
+    sug.hidden = !canSuggest;
+    $("sugbar").hidden = !canSuggest;
+    sug.textContent = t("suggest");
+    if (sugUrl) { sug.href = sugUrl; sug.target = "_blank"; }
+    else { sug.href = "#"; sug.removeAttribute("target"); }
+    renderSupport();
   }
 
   function render() {
@@ -560,6 +828,171 @@
     tick();
   }
 
+  /* ---------- Support, social, privacy ---------- */
+  const S = CONFIG.SUPPORT || {};
+  const waLink = () => "https://wa.me/" + String(S.whatsapp || "").replace(/\D/g, "");
+
+  function renderSupport() {
+    const has = !!(S.momo || S.whatsapp);
+    $("support").hidden = !has;
+    $("nav-support").hidden = !has;
+    $("coffee-top").hidden = !has;
+    $("coffee-top").textContent = t("coffee");
+    if (!has) return;
+    $("momo-row").hidden = !S.momo;
+    $("momo-num").textContent = S.momo || "";
+    $("momo-name").hidden = !(S.momo && S.momoName);
+    $("momo-name").textContent = S.momoName ? t("momoName") + ": " + S.momoName : "";
+    $("momo-copy").textContent = t("copyNum");
+    const wa = $("wa-btn");
+    wa.hidden = !S.whatsapp;
+    if (S.whatsapp) {
+      wa.href = waLink() + "?text=" + encodeURIComponent(t("waMsg").replace("{owner}", CONFIG.OWNER));
+      wa.textContent = t("waBtn");
+    }
+  }
+
+  const SOCIAL_LABELS = { website: "Website", whatsapp: "WhatsApp", instagram: "Instagram", tiktok: "TikTok", x: "X", linkedin: "LinkedIn",
+                          youtube: "YouTube", facebook: "Facebook", github: "GitHub", telegram: "Telegram" };
+  function renderSocial() {
+    const box = $("social");
+    box.textContent = "";
+    const soc = Object.assign({}, CONFIG.SOCIAL);
+    if (soc.whatsapp === "auto") soc.whatsapp = S.whatsapp ? waLink() : "";
+    Object.entries(SOCIAL_LABELS).forEach(([k, label0]) => {
+      const label = k === "website" ? t("follow") : label0;
+      const url = safeUrl(soc[k]);
+      if (url) box.append(h("a", { href: url, target: "_blank", rel: "noopener", text: label }));
+    });
+    $("credit").textContent = t("credit") + CONFIG.OWNER;
+  }
+
+  $("momo-copy").addEventListener("click", () => {
+    const num = S.momo || "";
+    const done = () => {
+      $("momo-copy").textContent = t("copied");
+      setTimeout(() => { $("momo-copy").textContent = t("copyNum"); }, 1800);
+    };
+    function fallback() {
+      const ta = h("textarea", { readonly: true, style: "position:fixed;opacity:0" });
+      ta.value = num; document.body.append(ta); ta.select();
+      try { document.execCommand("copy"); } catch (e) {}
+      ta.remove(); done();
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(num).then(done, fallback);
+    else fallback();
+  });
+
+  /* ---------- Suggest an event ---------- */
+  function openSuggest() {
+    $("sugform").reset();
+    $("sug-thanks").hidden = true;
+    $("sug").showModal();
+  }
+  const sugUrlSet = () => !!safeUrl(CONFIG.SUGGEST_URL);
+  $("suggest-top").addEventListener("click", (e) => { if (!sugUrlSet()) { e.preventDefault(); openSuggest(); } });
+  $("sug-open").addEventListener("click", () => {
+    if (sugUrlSet()) window.open(safeUrl(CONFIG.SUGGEST_URL), "_blank", "noopener");
+    else openSuggest();
+  });
+  $("s-cancel").addEventListener("click", () => $("sug").close());
+  $("sug").addEventListener("click", (e) => { if (e.target === $("sug")) $("sug").close(); });
+  $("sugform").addEventListener("submit", (e) => {
+    e.preventDefault();
+    if ($("s-site").value) { $("sug").close(); return; }   // bots fill the hidden field
+    const link = safeUrl($("s-link").value.trim());
+    if (!link) { $("sug-thanks").hidden = false; $("sug-thanks").className = "thanks err"; $("sug-thanks").textContent = t("sBadLink"); return; }
+    send({ type: "suggest", name: $("s-name").value.trim().slice(0, 140), link,
+           deadline: $("s-date").value, note: $("s-note").value.trim().slice(0, 300),
+           ts: new Date().toISOString() });
+    $("sug-thanks").hidden = false;
+    $("sug-thanks").className = "thanks";
+    $("sug-thanks").textContent = t("sThanks");
+    $("sugform").reset();
+    setTimeout(() => { if ($("sug").open) $("sug").close(); }, 2200);
+  });
+
+  const openPriv = () => $("priv").showModal();
+  $("priv-open").addEventListener("click", openPriv);
+  $("r-priv").addEventListener("click", openPriv);
+  $("priv-close").addEventListener("click", () => $("priv").close());
+
+  /* ---------- Home slider ---------- */
+  let slides = [], cur = 0, timer = null;
+
+  function loadSlides() {
+    const list = Array.isArray(CONFIG.SLIDES) ? CONFIG.SLIDES : [];
+    return Promise.all(list.map((sl) => new Promise((res) => {
+      const im = new Image();
+      im.onload = () => res(sl);
+      im.onerror = () => res(null);
+      im.src = sl.img;
+    }))).then((r) => r.filter(Boolean));
+  }
+
+  function buildSlider() {
+    const box = $("slides"), dots = $("dots");
+    box.textContent = ""; dots.textContent = "";
+    $("slider").hidden = slides.length === 0;
+    slides.forEach((sl, i) => {
+      const cap = (sl.caption && (sl.caption[lang] || sl.caption.en)) || "";
+      const alt = (sl.alt && (sl.alt[lang] || sl.alt.en)) || cap;
+      const link = safeUrl(sl.link);
+      const el = h("div", { class: "slide" + (i === cur ? " on" : ""), role: "group", "aria-roledescription": "slide",
+                            "aria-label": (i + 1) + " / " + slides.length },
+        h("div", { class: "imgbox" },
+          h("div", { class: "bgimg", style: "background-image:url('" + encodeURI(sl.img).replace(/'/g, "%27") + "')" }),
+          h("a", { class: "zoom", href: sl.img, target: "_blank", rel: "noopener", "aria-label": alt },
+            h("img", { src: sl.img, alt, loading: i === 0 ? "eager" : "lazy" }))),
+        (cap || link) ? h("div", { class: "cap" },
+          cap ? h("p", { text: cap }) : null,
+          link ? h("a", { class: "btn", href: link, target: "_blank", rel: "noopener", text: t("official") }) : null) : null);
+      el.inert = i !== cur;
+      box.append(el);
+      dots.append(h("button", { type: "button", "aria-label": t("slideOf") + " " + (i + 1), "aria-current": String(i === cur),
+                                onclick: () => { go(i); restart(); } }));
+    });
+    $("sl-prev").setAttribute("aria-label", t("slPrev"));
+    $("sl-next").setAttribute("aria-label", t("slNext"));
+    $("sl-prev").hidden = slides.length < 2;
+    $("sl-next").hidden = slides.length < 2;
+    dots.hidden = slides.length < 2;
+  }
+
+  function go(i) {
+    if (!slides.length) return;
+    cur = (i + slides.length) % slides.length;
+    document.querySelectorAll(".slide").forEach((el, k) => { el.classList.toggle("on", k === cur); el.inert = k !== cur; });
+    document.querySelectorAll("#dots button").forEach((el, k) => el.setAttribute("aria-current", String(k === cur)));
+  }
+  function stop() { clearInterval(timer); timer = null; }
+  function restart() {
+    stop();
+    if (slides.length < 2 || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    timer = setInterval(() => { if (!document.hidden) go(cur + 1); }, 6000);
+  }
+
+  const sliderEl = $("slider");
+  let touchX = null;
+  sliderEl.addEventListener("mouseenter", stop);
+  sliderEl.addEventListener("mouseleave", restart);
+  sliderEl.addEventListener("focusin", stop);
+  sliderEl.addEventListener("focusout", restart);
+  sliderEl.addEventListener("touchstart", (e) => { touchX = e.touches[0].clientX; stop(); }, { passive: true });
+  sliderEl.addEventListener("touchend", (e) => {
+    if (touchX !== null) {
+      const dx = e.changedTouches[0].clientX - touchX;
+      if (Math.abs(dx) > 40) go(cur + (dx < 0 ? 1 : -1));
+    }
+    touchX = null; restart();
+  });
+  sliderEl.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowLeft") { go(cur - 1); restart(); }
+    if (e.key === "ArrowRight") { go(cur + 1); restart(); }
+  });
+  $("sl-prev").addEventListener("click", () => { go(cur - 1); restart(); });
+  $("sl-next").addEventListener("click", () => { go(cur + 1); restart(); });
+
   function applyLang() {
     document.documentElement.lang = lang;
     document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
@@ -567,7 +1000,7 @@
     $("lang-rw").setAttribute("aria-pressed", String(lang === "rw"));
     $("lang-en").setAttribute("aria-pressed", String(lang === "en"));
     if ($("dlg").open) buildDialog();
-    renderTabs(); renderMe(); render();
+    renderTabs(); renderTypes(); renderMe(); renderSocial(); buildSlider(); render();
   }
 
   let rerender = false;
@@ -591,6 +1024,7 @@
     .finally(() => { applyLang(); });
 
   applyLang();
+  loadSlides().then((r) => { slides = r; buildSlider(); restart(); });
   setInterval(tick, 1000);
 })();
 </script>
