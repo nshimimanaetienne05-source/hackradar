@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-11T11:34:33.984Z",
+  "updated": "2026-10-11T12:47:50.708Z",
   "sources": {
     "Devpost": "ok (40)",
     "Unstop": "ok (60)",
-    "MLH": "ok (0)",
-    "Lablab.ai": "failed: No embedded data found on lablab.ai (kept 0 old)"
+    "MLH": "ok (69)",
+    "Lablab.ai": "ok (3)"
   },
   "events": [
     {
@@ -75,20 +75,6 @@
       "online": false,
       "prize": "",
       "org": "C. Abdul Hakeem College of Engineering and Technology (CAHCET), Veppur, Tamil Nadu",
-      "tags": [
-        "web"
-      ]
-    },
-    {
-      "id": "unstop-1768097",
-      "source": "Unstop",
-      "name": "C Code Auction Arena 2026",
-      "url": "https://unstop.com/hackathons/c-code-auction-arena-2026-nutan-maharashtra-institue-of-engineering-and-technology-1768097",
-      "date": "2026-10-12T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Nutan Maharashtra Institue of Engineering and Technology",
       "tags": [
         "web"
       ]
@@ -340,6 +326,20 @@
       ]
     },
     {
+      "id": "unstop-1767266",
+      "source": "Unstop",
+      "name": "The Emergency Spokesperson",
+      "url": "https://unstop.com/competitions/the-emergency-spokesperson-interactup-1767266",
+      "date": "2026-10-16T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "InteractUp",
+      "tags": [
+        "web"
+      ]
+    },
+    {
       "id": "devpost-31113",
       "source": "Devpost",
       "name": "MLAI Hackathon 2026",
@@ -356,6 +356,20 @@
       ]
     },
     {
+      "id": "unstop-1768968",
+      "source": "Unstop",
+      "name": "Indian Equities Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1768968",
+      "date": "2026-10-17T00:10:06.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
+      ]
+    },
+    {
       "id": "unstop-1760989",
       "source": "Unstop",
       "name": "Kritical Hacks 2026",
@@ -367,6 +381,35 @@
       "org": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
       "tags": [
         "web"
+      ]
+    },
+    {
+      "id": "unstop-1768336",
+      "source": "Unstop",
+      "name": "Snaptitude 2026",
+      "url": "https://unstop.com/quiz/snaptitude-2026-sibm-pune-1768336",
+      "date": "2026-10-17T18:29:06.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Symbiosis Institute of Business Management (SIBM), Pune",
+      "tags": [
+        "health",
+        "fintech"
+      ]
+    },
+    {
+      "id": "unstop-1768977",
+      "source": "Unstop",
+      "name": "Pitch//break: The Survival Arena",
+      "url": "https://unstop.com/hackathons/pitchbreak-the-survival-arena-university-school-of-automation-robotics-usar-ggsipu-edc-1768977",
+      "date": "2026-10-17T18:30:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "University School of Automation & Robotics (USAR), GGSIPU EDC",
+      "tags": [
+        "education"
       ]
     },
     {
@@ -440,20 +483,6 @@
       ]
     },
     {
-      "id": "unstop-1765224",
-      "source": "Unstop",
-      "name": "Indiathon – Powered by E-Cell IIIT Bhubaneswar , Co-powered by LearnApart",
-      "url": "https://unstop.com/hackathons/indiathon-powered-by-e-cell-iiit-bhubaneswar-co-powered-by-learnapart-international-institute-of-information--1765224",
-      "date": "2026-10-18T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "International Institute of Information Technology, Bhubaneswar",
-      "tags": [
-        "education"
-      ]
-    },
-    {
       "id": "unstop-1767925",
       "source": "Unstop",
       "name": "MONEYBALL - The Strategic Auction",
@@ -468,16 +497,17 @@
       ]
     },
     {
-      "id": "unstop-1766233",
-      "source": "Unstop",
-      "name": "Cascade’26 — Flagship Hackathon",
-      "url": "https://unstop.com/hackathons/cascade26-flagship-hackathon-tantrafiesta26-iiitn-1766233",
-      "date": "2026-10-19T18:30:00.000Z",
-      "location": "",
-      "online": false,
+      "id": "lablab-amd-developer-hackathon-act-iii",
+      "source": "Lablab.ai",
+      "name": "AMD Developer Hackathon: ACT III",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii",
+      "date": "2026-10-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
       "prize": "",
-      "org": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "org": "lablab.ai",
       "tags": [
+        "ai",
         "web"
       ]
     },
@@ -491,6 +521,20 @@
       "online": false,
       "prize": "",
       "org": "Desh bhagat university",
+      "tags": [
+        "web"
+      ]
+    },
+    {
+      "id": "unstop-1766233",
+      "source": "Unstop",
+      "name": "Cascade’26 — Flagship Hackathon",
+      "url": "https://unstop.com/hackathons/cascade26-flagship-hackathon-tantrafiesta26-iiitn-1766233",
+      "date": "2026-10-19T18:30:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "Indian Institute of Information Technology (IIIT), Nagpur",
       "tags": [
         "web"
       ]
@@ -549,6 +593,20 @@
       "org": "VJTI Mumbai ",
       "tags": [
         "web"
+      ]
+    },
+    {
+      "id": "unstop-1765780",
+      "source": "Unstop",
+      "name": "Webforge AI",
+      "url": "https://unstop.com/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
+      "date": "2026-10-21T18:30:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "St Vincent pallotti college of engineering and technology nagpur",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -633,6 +691,20 @@
       "online": false,
       "prize": "",
       "org": "Sri Venkateswara College (SVC), Delhi University, Delhi",
+      "tags": [
+        "web"
+      ]
+    },
+    {
+      "id": "unstop-1768993",
+      "source": "Unstop",
+      "name": "Cinemabazi",
+      "url": "https://unstop.com/quiz/cinemabazi-birla-institute-of-management-technology-bimtech-greater-noida-1768993",
+      "date": "2026-10-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Birla Institute of Management Technology (BIMTECH), Greater Noida",
       "tags": [
         "web"
       ]
@@ -797,20 +869,6 @@
       ]
     },
     {
-      "id": "unstop-1767051",
-      "source": "Unstop",
-      "name": "Robowars",
-      "url": "https://unstop.com/competitions/robowars-crescendo-2026-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1767051",
-      "date": "2026-10-27T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra",
-      "tags": [
-        "web"
-      ]
-    },
-    {
       "id": "devpost-30984",
       "source": "Devpost",
       "name": "OpenCV AI Competition 2026, powered by AWS",
@@ -941,15 +999,15 @@
       ]
     },
     {
-      "id": "unstop-1768779",
+      "id": "unstop-1768973",
       "source": "Unstop",
-      "name": "Scrub Creator Economy Challenge 2026",
-      "url": "https://unstop.com/competitions/scrub-creator-economy-challenge-2026-scrub-1768779",
-      "date": "2026-10-30T18:31:00.000Z",
+      "name": "Elite Quiz 7.0",
+      "url": "https://unstop.com/quiz/elite-quiz-70-elite-coders-1768973",
+      "date": "2026-10-30T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Scrub.",
+      "org": "Elite Coders",
       "tags": [
         "web"
       ]
@@ -1075,16 +1133,17 @@
       ]
     },
     {
-      "id": "unstop-1768724",
-      "source": "Unstop",
-      "name": "Model Presentation and Competition 2026",
-      "url": "https://unstop.com/competitions/model-presentation-and-competition-2026-national-institute-of-technology-nit-jamshedpur-1768724",
-      "date": "2026-11-09T18:30:00.000Z",
-      "location": "",
-      "online": false,
+      "id": "lablab-vultr-hackathon",
+      "source": "Lablab.ai",
+      "name": "Vultr: Agent Rush Hackathon",
+      "url": "https://lablab.ai/ai-hackathons/vultr-hackathon",
+      "date": "2026-11-08T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
       "prize": "",
-      "org": "National Institute of Technology (NIT), Jamshedpur",
+      "org": "lablab.ai",
       "tags": [
+        "ai",
         "web"
       ]
     },
@@ -1132,6 +1191,20 @@
         "ai",
         "web",
         "education"
+      ]
+    },
+    {
+      "id": "lablab-amd-lablab-ai-academy-challenge",
+      "source": "Lablab.ai",
+      "name": "AMD AI League",
+      "url": "https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge",
+      "date": "2026-12-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "lablab.ai",
+      "tags": [
+        "ai"
       ]
     },
     {
