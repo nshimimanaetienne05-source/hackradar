@@ -7,7 +7,8 @@ import { readFile, writeFile } from "node:fs/promises";
 import * as cheerio from "cheerio";
 import {
   tagsFrom, stripHtml, parseRange, toISO, regionOk, normName,
-  DATE_SEG, MODE_SEG, rangeInYear
+  DATE_SEG, MODE_SEG, rangeInYear,
+  typeFrom, normType, looksRwandan, endOfDay, extractDeadline, parseCSV
 } from "./lib.mjs";
 
 const OUT = "events.json";
@@ -46,6 +47,7 @@ async function devpost() {
       const themes = (h.themes || []).map((t) => t.name);
       out.push({
         id: `devpost-${h.id}`,
+        type: "hackathon",
         source: "Devpost",
         name: h.title,
         url: h.url,
@@ -77,6 +79,7 @@ async function unstop() {
       const text = [o.title, o.organisation?.name].join(" ");
       out.push({
         id: `unstop-${o.id}`,
+        type: kind === "hackathons" ? "hackathon" : typeFrom(text),
         source: "Unstop",
         name: o.title,
         url,
@@ -136,6 +139,7 @@ async function mlh() {
     const loc = segs[di + 1] && !MODE_SEG.test(segs[di + 1]) ? segs[di + 1] : "";
     out.push({
       id: `mlh-${normName(name).replace(/ /g, "-")}-${year}`,
+      type: "hackathon",
       source: "MLH",
       name,
       url: href,
@@ -186,6 +190,7 @@ async function lablab() {
     seen.add(slug);
     out.push({
       id: `lablab-${slug}`,
+      type: "hackathon",
       source: "Lablab.ai",
       name,
       url,
@@ -205,16 +210,86 @@ async function lablab() {
   return out;
 }
 
+// ---------- Your Google Sheet (events from sites that have no API) ----------
+// Columns (first row): name, link, deadline, type, location, rwanda, org, note, approved
+async function sheet() {
+  const url = process.env.SHEET_CSV_URL;
+  if (!url) { console.log("SHEET_CSV_URL is not set yet, skipping the sheet."); return []; }
+  const rows = parseCSV(await getText(url));
+  const head = (rows.shift() || []).map((x) => x.trim().toLowerCase());
+  const col = (r, k) => (r[head.indexOf(k)] || "").trim();
+  const YES = /^(yes|y|true|1|approved|ok)$/i;
+  return rows
+    .filter((r) => col(r, "name") && YES.test(col(r, "approved")))
+    .map((r) => ({
+      id: `sheet-${normName(col(r, "name")).replace(/ /g, "-")}`,
+      type: normType(col(r, "type")) || typeFrom(col(r, "name")),
+      rwanda: YES.test(col(r, "rwanda")),
+      note: col(r, "note"),
+      source: "HackRadar",
+      name: col(r, "name"),
+      url: col(r, "link"),
+      date: endOfDay(toISO(col(r, "deadline"))),
+      location: col(r, "location"),
+      online: /online|virtual|remote/i.test(col(r, "location")),
+      prize: "",
+      org: col(r, "org"),
+      tags: tagsFrom(col(r, "name"))
+    }));
+}
+
+// ---------- Opportunity feeds (RSS). Only items that state a deadline are kept ----------
+const FEEDS = {
+  "Opportunity Desk": "https://opportunitydesk.org/feed/",
+  "Opportunities for Africans": "https://opportunitiesforafricans.com/feed/"
+};
+const FEED_KEEP = /competition|challenge|hackathon|pitch|contest|prize|award|accelerator/i;
+const FEED_REGION = /africa|rwanda|kigali|all countries|worldwide|global|international|online|open to all/i;
+
+async function feed(url, label) {
+  const xml = await getText(url);
+  const $ = cheerio.load(xml, { xmlMode: true });
+  const out = [];
+  $("item").each((_, el) => {
+    const $i = $(el);
+    const title = $i.find("title").first().text().trim();
+    const link = $i.find("link").first().text().trim();
+    const raw = $i.find("content\\:encoded").first().text() || $i.find("description").first().text();
+    const body = stripHtml(raw);
+    const text = `${title} ${body}`;
+    if (!title || !link || !FEED_KEEP.test(title) || !FEED_REGION.test(text)) return;
+    const date = extractDeadline(text);
+    if (!date) return;
+    out.push({
+      id: `feed-${normName(title).replace(/ /g, "-").slice(0, 80)}`,
+      type: typeFrom(title),
+      source: label,
+      name: title,
+      url: link,
+      date,
+      location: "",
+      online: false,
+      prize: "",
+      org: "",
+      tags: tagsFrom(title)
+    });
+  });
+  return out;
+}
+
 // ---------- Manual events you add by hand ----------
 async function manual() {
   try {
     const list = JSON.parse(await readFile(MANUAL, "utf8"));
     return list.map((e, i) => ({
       id: e.id || `manual-${i}-${normName(e.name).replace(/ /g, "-")}`,
-      source: e.source || "Manual",
+      type: normType(e.type) || "",
+      rwanda: e.rwanda === true,
+      note: e.note || "",
+      source: e.source || "HackRadar",
       name: e.name,
       url: e.url || "",
-      date: toISO(e.date),
+      date: endOfDay(toISO(e.date)),
       location: e.location || "",
       online: !!e.online,
       prize: e.prize || "",
@@ -227,13 +302,20 @@ async function manual() {
 }
 
 // ---------- Run everything ----------
-const SOURCES = { Devpost: devpost, Unstop: unstop, MLH: mlh, "Lablab.ai": lablab };
+const SOURCES = {
+  HackRadar: sheet,
+  Devpost: devpost,
+  Unstop: unstop,
+  MLH: mlh,
+  "Lablab.ai": lablab,
+  ...Object.fromEntries(Object.entries(FEEDS).map(([label, url]) => [label, () => feed(url, label)]))
+};
 
 let old = { events: [] };
 try { old = JSON.parse(await readFile(OUT, "utf8")); } catch { /* first run */ }
 
 const status = {};
-let all = [];
+let all = [...(await manual())];
 
 for (const [name, fn] of Object.entries(SOURCES)) {
   try {
@@ -250,13 +332,18 @@ for (const [name, fn] of Object.entries(SOURCES)) {
   }
 }
 
-all.push(...(await manual()));
+// Add type and Rwanda flag to everything.
+all = all.map((e) => ({
+  ...e,
+  type: e.type || typeFrom(`${e.name} ${(e.tags || []).join(" ")}`),
+  rwanda: looksRwandan(e)
+}));
 
 // Keep: not ended, in the right region. Remove duplicates by name.
 const seen = new Set();
 const events = all
   .filter((e) => !e.date || Date.parse(e.date) >= now)
-  .filter(regionOk)
+  .filter((e) => e.source === "HackRadar" || regionOk(e))
   .filter((e) => {
     const key = normName(e.name);
     if (seen.has(key)) return false;
