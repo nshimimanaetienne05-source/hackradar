@@ -6,7 +6,8 @@
 import { readFile, writeFile } from "node:fs/promises";
 import * as cheerio from "cheerio";
 import {
-  tagsFrom, stripHtml, parseRange, toISO, regionOk, findEvents, normName
+  tagsFrom, stripHtml, parseRange, toISO, regionOk, normName,
+  DATE_SEG, MODE_SEG, rangeInYear
 } from "./lib.mjs";
 
 const OUT = "events.json";
@@ -91,61 +92,115 @@ async function unstop() {
   return out;
 }
 
-// ---------- MLH (reads the HTML page) ----------
+// ---------- Helper: the visible text pieces inside one card ----------
+function segmentsOf(el) {
+  const segs = [];
+  const walk = (n) => {
+    if (n.type === "text") {
+      const t = n.data.replace(/\s+/g, " ").trim();
+      if (t) segs.push(t);
+    } else if (n.children && n.name !== "script" && n.name !== "style") {
+      n.children.forEach(walk);
+    }
+  };
+  walk(el);
+  return segs;
+}
+
+// ---------- MLH (reads the HTML page; mostly in-person events) ----------
 async function mlh() {
   const d = new Date();
   const season = d.getUTCMonth() >= 7 ? d.getUTCFullYear() + 1 : d.getUTCFullYear();
-  const html = await getText(`https://mlh.io/seasons/${season}/events`);
+  const html = await getText(`https://www.mlh.com/seasons/${season}/events`);
   const $ = cheerio.load(html);
   const out = [];
-  $(".event").each((_, el) => {
-    const $e = $(el);
-    const name = $e.find(".event-name, [itemprop=name]").first().text().trim();
-    const url = $e.find("a.event-link").attr("href") || $e.find("a").first().attr("href");
-    const end = $e.find("meta[itemprop=endDate]").attr("content");
-    const text = $e.text().replace(/\s+/g, " ").trim();
-    if (!name || !url) return;
+  const samples = [];
+  let year = d.getUTCFullYear();
+  let stop = false;
+
+  $("h2, h3, a").each((_, el) => {
+    if (stop) return;
+    const txt = $(el).text().replace(/\s+/g, " ").trim();
+    if (el.name === "h2" && /past/i.test(txt)) { stop = true; return; }
+    if (el.name === "h3" && /^\d{4}$/.test(txt)) { year = Number(txt); return; }
+    if (el.name !== "a") return;
+
+    const segs = segmentsOf(el);
+    if (samples.length < 3 && segs.length > 3) samples.push(segs.join(" | "));
+    const di = segs.findIndex((x) => DATE_SEG.test(x));
+    const mode = segs.find((x) => MODE_SEG.test(x));
+    const href = $(el).attr("href");
+    if (di < 1 || !mode || !href) return;
+
+    const name = segs[di - 1];
+    const loc = segs[di + 1] && !MODE_SEG.test(segs[di + 1]) ? segs[di + 1] : "";
     out.push({
-      id: `mlh-${normName(name).replace(/ /g, "-")}`,
+      id: `mlh-${normName(name).replace(/ /g, "-")}-${year}`,
       source: "MLH",
       name,
-      url,
-      date: toISO(end),
-      location: $e.find(".event-location").text().replace(/\s+/g, " ").trim(),
-      online: /digital|online/i.test(text),
+      url: href,
+      date: rangeInYear(segs[di], year),
+      location: loc,
+      online: /digital|online/i.test(mode),
       prize: "",
       org: "Major League Hacking",
       tags: tagsFrom(name)
     });
   });
+
+  if (!out.length) {
+    console.log("MLH debug, sample cards:", samples);
+    throw new Error("No events parsed (page layout may have changed)");
+  }
   return out;
 }
 
-// ---------- Lablab.ai (reads data embedded in the page) ----------
+// ---------- Lablab.ai (reads the home page cards) ----------
 async function lablab() {
-  const html = await getText("https://lablab.ai/event");
+  const html = await getText("https://lablab.ai");
   const $ = cheerio.load(html);
-  const raw = $("#__NEXT_DATA__").text();
-  if (!raw) throw new Error("No embedded data found on lablab.ai");
-  const found = findEvents(JSON.parse(raw));
-  const seen = new Set();
   const out = [];
-  for (const e of found) {
-    if (seen.has(e.slug)) continue;
-    seen.add(e.slug);
-    const name = e.name || e.title;
+  const samples = [];
+  const seen = new Set();
+  const thisYear = new Date().getUTCFullYear();
+
+  $('a[href*="/ai-hackathons/"]').each((_, el) => {
+    const href = $(el).attr("href") || "";
+    const url = new URL(href, "https://lablab.ai").href;
+    const slug = (url.split("/ai-hackathons/")[1] || "").split(/[/?#]/)[0];
+    if (!slug || seen.has(slug)) return;
+
+    const segs = segmentsOf(el);
+    if (samples.length < 3 && segs.length > 3) samples.push(segs.join(" | "));
+    if (segs.some((x) => /^finished$/i.test(x))) return;
+    const di = segs.findIndex((x) => DATE_SEG.test(x));
+    if (di < 0) return;
+    const name = segs.slice(di + 1).find((x) => !/^\d+$/.test(x));
+    if (!name) return;
+
+    const mode = segs.find((x) => MODE_SEG.test(x)) || "Online";
+    const inPerson = /in-?person|on-?site/i.test(mode);
+    let date = rangeInYear(segs[di], thisYear);
+    if (date && Date.parse(date) < now - 60 * 864e5) date = rangeInYear(segs[di], thisYear + 1);
+
+    seen.add(slug);
     out.push({
-      id: `lablab-${e.slug}`,
+      id: `lablab-${slug}`,
       source: "Lablab.ai",
       name,
-      url: `https://lablab.ai/event/${e.slug}`,
-      date: toISO(e.endDate || e.endsAt || e.end_date || e.startDate || e.startsAt || e.start_date),
-      location: "Online",
-      online: true,
+      url,
+      date,
+      location: inPerson ? "On-site" : "Online",
+      online: !inPerson,
       prize: "",
-      org: "",
+      org: "lablab.ai",
       tags: Array.from(new Set(["ai", ...tagsFrom(name)]))
     });
+  });
+
+  if (!out.length) {
+    console.log("Lablab debug, sample cards:", samples);
+    throw new Error("No upcoming events found (page layout may have changed)");
   }
   return out;
 }
