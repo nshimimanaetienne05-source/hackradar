@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-11T16:19:43.870Z",
+  "updated": "2026-10-11T16:24:27.134Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (59)",
+    "Unstop": "ok (26)",
     "MLH": "ok (68)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (2)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1766643",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Barter Mania- \" The Ultimate Barter Challenge\"",
-      "url": "https://unstop.com/competitions/barter-mania-the-ultimate-barter-challenge-atma-ram-sanatan-dharma-college-arsd-du-new-delhi-1766643",
-      "date": "2026-10-11T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Atma Ram Sanatan Dharma College (ARSD), University of Delhi (DU), New Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31586",
       "type": "hackathon",
@@ -51,44 +35,12 @@
       "date": "2026-10-11T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "EvoHacks",
       "tags": [
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1765539",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Nexora'26",
-      "url": "https://unstop.com/hackathons/nexora26-c-abdul-hakeem-college-of-engineering-and-technology-cahcet-veppur-tamil-nadu-1765539",
-      "date": "2026-10-12T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "C. Abdul Hakeem College of Engineering and Technology (CAHCET), Veppur, Tamil Nadu",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768697",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Ideathon",
-      "url": "https://unstop.com/hackathons/ideathon-ram-lal-anand-college-university-of-delhi-1768697",
-      "date": "2026-10-12T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Ram Lal Anand College, University of Delhi",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -114,12 +66,12 @@
       "id": "devpost-31098",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "Graphiques Innovation Challenge ",
+      "name": "Graphiques Innovation Challenge",
       "url": "https://graphiques-challenge.devpost.com/",
       "date": "2026-10-12T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "Hack Club",
       "tags": [
         "fintech"
@@ -135,7 +87,7 @@
       "date": "2026-10-12T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "United Hackathons",
       "tags": [
         "ai",
@@ -148,64 +100,16 @@
       "id": "devpost-31548",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "AIC Internal Competition -2026 (Agentic AI) ",
+      "name": "AIC Internal Competition -2026 (Agentic AI)",
       "url": "https://aic-ic-2026.devpost.com/",
       "date": "2026-10-12T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "AI Community @ SBU",
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1766831",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "HACK ATTACK — 8-Hour Inter-College Hackathon ",
-      "url": "https://unstop.com/hackathons/hack-attack-8-hour-inter-college-hackathon-amc-engineering-college-amcec-bengaluru-1766831",
-      "date": "2026-10-13T09:32:23.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "AMC Engineering College (AMCEC), Bengaluru",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768102",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Comverse: Champion's Cup (IPL Auction)",
-      "url": "https://unstop.com/competitions/comverse-champions-cup-ipl-auction-sri-guru-tegh-bahadur-khalsa-college-sgtb-khalsa-du-new-delhi-1768102",
-      "date": "2026-10-13T11:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Guru Tegh Bahadur Khalsa College (SGTB Khalsa), University of Delhi (DU), New Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1767798",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Comverse: Comstox 3.0 - Mock Stock Competition ",
-      "url": "https://unstop.com/competitions/comverse-comstox-30-mock-stock-competition-sri-guru-tegh-bahadur-khalsa-college-sgtb-khalsa-du-new-delhi-1767798",
-      "date": "2026-10-13T11:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Guru Tegh Bahadur Khalsa College (SGTB Khalsa), University of Delhi (DU), New Delhi",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -252,7 +156,7 @@
       "date": "2026-10-14T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "Westwood Computer Science Club",
       "tags": [
         "ai",
@@ -302,7 +206,7 @@
       "date": "2026-10-15T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "Hack47",
       "tags": [
         "web"
@@ -320,22 +224,6 @@
       "online": true,
       "prize": "₹ 30,000",
       "org": "elite coders",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768545",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hack@BVP 8.0",
-      "url": "https://unstop.com/hackathons/hack-at-bvp-80-bharati-vidyapeeths-college-of-engineering-1768545",
-      "date": "2026-10-16T13:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Bharati Vidyapeeth's College of Engineering",
       "tags": [
         "web"
       ],
@@ -366,7 +254,7 @@
       "date": "2026-10-16T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "Mạng Lưới AI",
       "tags": [
         "ai",
@@ -392,22 +280,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1760989",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Kritical Hacks 2026",
-      "url": "https://unstop.com/hackathons/kritical-hacks-2026-igdtuw-delhi-1760989",
-      "date": "2026-10-17T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1768336",
       "type": "competition",
       "source": "Unstop",
@@ -425,86 +297,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768977",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Pitch//break: The Survival Arena",
-      "url": "https://unstop.com/hackathons/pitchbreak-the-survival-arena-university-school-of-automation-robotics-usar-ggsipu-edc-1768977",
-      "date": "2026-10-17T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "University School of Automation & Robotics (USAR), GGSIPU EDC",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1766226",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Keep Alive ’26",
-      "url": "https://unstop.com/hackathons/keep-alive-26-iiitn-1766226",
-      "date": "2026-10-18T17:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Indian Institute of Information Technology (IIIT), Nagpur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768719",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ChronoForge",
-      "url": "https://unstop.com/hackathons/chronoforge-nitk-surathkal-1768719",
-      "date": "2026-10-18T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "National Institute of Technology Karnataka (NITK), Surathkal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768377",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "GameForge '26",
-      "url": "https://unstop.com/hackathons/gameforge-26-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu-d-1768377",
-      "date": "2026-10-18T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1767925",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "MONEYBALL - The Strategic Auction",
-      "url": "https://unstop.com/competitions/moneyball-the-strategic-auction-amity-university-au-noida-1767925",
-      "date": "2026-10-18T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Amity University (AU), Noida",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "lablab-amd-developer-hackathon-act-iii",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -517,38 +309,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1767851",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CRAFTCON 2K26",
-      "url": "https://unstop.com/hackathons/craftcon-2k26-desh-bhagat-university-1767851",
-      "date": "2026-10-19T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Desh bhagat university",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1766233",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CASCADE — FLAGSHIP HACKATHON ",
-      "url": "https://unstop.com/hackathons/cascade26-flagship-hackathon-tantrafiesta26-iiitn-1766233",
-      "date": "2026-10-19T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Indian Institute of Information Technology (IIIT), Nagpur",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -586,22 +346,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768506",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Code Auction",
-      "url": "https://unstop.com/hackathons/code-auction-guru-tegh-bahadur-4th-centenary-engineering-college-delhi-1768506",
-      "date": "2026-10-20T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "manual-0-nisr-2026-big-data-hackathon-university-students-in-rwanda",
       "type": "hackathon",
       "rwanda": true,
@@ -624,12 +368,12 @@
       "id": "devpost-30781",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "UnivaBio ($40,000 in prizes) ",
+      "name": "UnivaBio ($40,000 in prizes)",
       "url": "https://univabio.devpost.com/",
       "date": "2026-10-20T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "BioCataalysis",
       "tags": [
         "health"
@@ -649,38 +393,6 @@
       "org": "Eureka Institute and UnivaDev",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1765869",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CognitionNext '26",
-      "url": "https://unstop.com/hackathons/cognext-agent-force-vjti-mumbai-1765869",
-      "date": "2026-10-21T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "VJTI Mumbai ",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1765780",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Webforge AI",
-      "url": "https://unstop.com/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
-      "date": "2026-10-21T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "St Vincent pallotti college of engineering and technology nagpur",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
@@ -738,7 +450,7 @@
       "id": "unstop-1769011",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "National Online Hackathon 2026 ",
+      "name": "National Online Hackathon 2026",
       "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1769011",
       "date": "2026-10-24T18:30:00.000Z",
       "location": "Online",
@@ -815,22 +527,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768888",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mercimperium: The Flagship Event",
-      "url": "https://unstop.com/competitions/mercimperium-the-flagship-event-blisspoint-2026-27-sri-venkateswara-college-svc-du-delhi-1768888",
-      "date": "2026-10-24T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Venkateswara College (SVC), Delhi University, Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1768903",
       "type": "competition",
       "source": "Unstop",
@@ -841,22 +537,6 @@
       "online": true,
       "prize": "",
       "org": "Masters Up",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1767673",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "D3COY",
-      "url": "https://unstop.com/hackathons/d3coy-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1767673",
-      "date": "2026-10-25T14:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
       "tags": [
         "web"
       ],
@@ -899,54 +579,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1765827",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "FlashCode",
-      "url": "https://unstop.com/hackathons/flashcode-tantrafiesta26-iiitn-1765827",
-      "date": "2026-10-26T05:30:10.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Indian Institute of Information Technology (IIIT), Nagpur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768919",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Moral Hazard : An Economic Social-Deduction & Portfolio Simulation ",
-      "url": "https://unstop.com/competitions/moral-hazard-an-economic-social-deduction-portfolio-simulation-blisspoint-2026-27-sri-venkateswara-college--1768919",
-      "date": "2026-10-26T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Venkateswara College (SVC), Delhi University, Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768309",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Ecclesia 2026",
-      "url": "https://unstop.com/hackathons/ecclesia-2026-assam-down-town-university-1768309",
-      "date": "2026-10-26T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Assam down town University",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30447",
       "type": "hackathon",
       "source": "Devpost",
@@ -960,38 +592,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768905",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Market Maze: Treasure Hunt & Escape Room",
-      "url": "https://unstop.com/competitions/market-maze-treasure-hunt-escape-room-blisspoint-2026-27-sri-venkateswara-college-svc-du-delhi-1768905",
-      "date": "2026-10-27T18:29:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Venkateswara College (SVC), Delhi University, Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768914",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Econ Arena: The Strategy Case Competition",
-      "url": "https://unstop.com/competitions/econ-arena-the-strategy-case-competition-blisspoint-2026-27-sri-venkateswara-college-svc-du-delhi-1768914",
-      "date": "2026-10-27T18:29:47.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Venkateswara College (SVC), Delhi University, Delhi",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -1030,54 +630,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1767767",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Sphinx 26",
-      "url": "https://unstop.com/hackathons/sphinx-26-hackerss-unity-1767767",
-      "date": "2026-10-28T06:31:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Hackers's Unity",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768867",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Ampersand: The Debating Event",
-      "url": "https://unstop.com/competitions/ampersand-the-debating-event-blisspoint-2026-27-sri-venkateswara-college-svc-du-delhi-1768867",
-      "date": "2026-10-28T18:29:39.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Venkateswara College (SVC), Delhi University, Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768879",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Adaptonomics: The Paper Presentation Competition ",
-      "url": "https://unstop.com/competitions/adaptonomics-the-paper-presentation-competition-sri-venkateswara-college-svc-du-delhi-1768879",
-      "date": "2026-10-28T18:30:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Sri Venkateswara College (SVC), Delhi University, Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31052",
       "type": "hackathon",
       "source": "Devpost",
@@ -1104,7 +656,7 @@
       "date": "2026-10-28T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "CodeTheCure",
       "tags": [
         "health",
@@ -1210,22 +762,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1763829",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Stem for Impact 24hrs Hackathon",
-      "url": "https://unstop.com/hackathons/stem-for-impact-24hrs-hackathon-presidency-university-pu-bangalore-1763829",
-      "date": "2026-10-31T18:30:44.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "Presidency University (PU), Bangalore",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -1391,7 +927,7 @@
       "date": "2026-11-15T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "STEMise",
       "tags": [
         "web"
@@ -1457,7 +993,7 @@
       "date": "2027-01-02T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "Binnovative",
       "tags": [
         "web"
@@ -1473,7 +1009,7 @@
       "date": "2027-01-14T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "Student Organization",
       "tags": [
         "ai",
@@ -1490,7 +1026,7 @@
       "date": "2027-01-15T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$0",
+      "prize": "",
       "org": "nill",
       "tags": [
         "ai",
