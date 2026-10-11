@@ -97,3 +97,64 @@ export function rangeInYear(text, year) {
   const endYear = em < sm ? year + 1 : year;
   return parseRange(`${s}, ${year} - ${e}, ${endYear}`);
 }
+
+// ---------- Type (hackathon / competition / pitch) and Rwanda detection ----------
+export function typeFrom(text = "") {
+  if (/hack/i.test(text) || /datathon|codefest|buildathon/i.test(text)) return "hackathon";
+  if (/pitch|accelerator|incubat|demo day|seed fund|venture|startup/i.test(text)) return "pitch";
+  return "competition";
+}
+
+export function normType(value = "") {
+  const v = String(value).trim().toLowerCase();
+  if (/^hack/.test(v)) return "hackathon";
+  if (/^pitch/.test(v)) return "pitch";
+  if (/^comp|^contest|^challenge/.test(v)) return "competition";
+  return "";
+}
+
+const RWANDA = /rwanda|kigali|huye|butare|musanze|rubavu|rusizi|nyagatare|rwamagana|muhanga|kicukiro|gasabo|nyarugenge|rwandan/i;
+export function looksRwandan(ev) {
+  if (ev.rwanda === true) return true;
+  return RWANDA.test(`${ev.name || ""} ${ev.location || ""} ${ev.org || ""} ${ev.note || ""}`);
+}
+
+// ---------- Date helpers for hand-made and feed data ----------
+// A date with no time means "until the end of that day" in Kigali (21:59 UTC).
+export function endOfDay(iso) {
+  if (!iso) return null;
+  const d = new Date(iso);
+  if (d.getUTCHours() === 0 && d.getUTCMinutes() === 0) d.setUTCHours(21, 59, 0, 0);
+  return d.toISOString();
+}
+
+// Finds "Deadline: July 15, 2026" or "Deadline: 15 July 2026" inside article text.
+export function extractDeadline(text = "") {
+  const clean = String(text).replace(/(\d)(st|nd|rd|th)\b/gi, "$1");
+  const a = clean.match(/deadline[^A-Za-z0-9]{0,12}([A-Za-z]{3,9}\.?\s+\d{1,2},?\s+\d{4})/i);
+  const b = clean.match(/deadline[^A-Za-z0-9]{0,12}(\d{1,2}\s+[A-Za-z]{3,9}\.?,?\s+\d{4})/i);
+  const raw = (a && a[1]) || (b && b[1]);
+  if (!raw) return null;
+  return endOfDay(toISO(raw.replace(/\./g, "")));
+}
+
+// ---------- Tiny CSV reader (for the published Google Sheet) ----------
+export function parseCSV(text = "") {
+  const rows = [];
+  let row = [], cell = "", quoted = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (quoted) {
+      if (c === '"') {
+        if (text[i + 1] === '"') { cell += '"'; i++; } else quoted = false;
+      } else cell += c;
+    } else if (c === '"') quoted = true;
+    else if (c === ",") { row.push(cell); cell = ""; }
+    else if (c === "\n" || c === "\r") {
+      if (c === "\r" && text[i + 1] === "\n") i++;
+      row.push(cell); rows.push(row); row = []; cell = "";
+    } else cell += c;
+  }
+  if (cell || row.length) { row.push(cell); rows.push(row); }
+  return rows;
+}
