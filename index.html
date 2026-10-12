@@ -293,6 +293,7 @@
     <p data-i18n="priv1"></p>
     <p data-i18n="priv2"></p>
     <p data-i18n="priv3"></p>
+    <p data-i18n="priv4"></p>
     <div class="actions"><button class="btn" id="priv-close" type="button" data-i18n="cancel"></button></div>
   </div>
 </dialog>
@@ -355,6 +356,7 @@
     </div>
     <input type="text" id="r-site" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
     <label class="consent"><input type="checkbox" id="r-consent" required><span data-i18n="fConsent"></span></label>
+    <label class="consent"><input type="checkbox" id="r-mail"><span data-i18n="fMail"></span></label>
     <p style="margin:-6px 0 14px;font-size:.88rem"><button type="button" class="linkbtn" id="r-priv" data-i18n="privLink"></button></p>
     <div class="actions">
       <button type="button" class="btn line" id="r-cancel" data-i18n="cancel"></button>
@@ -426,8 +428,9 @@
       waMsg: "Muraho {owner}, nkunze HackRadar Rwanda! Murakoze.",
       privLink: "Ibanga ry'amakuru", privTitle: "Ibanga ry'amakuru yawe",
       priv1: "Iyo wiyandikishije dukusanya amazina yawe, imeri, uwo uri we (umunyeshuri, umukozi...), urwego rw'amashuri n'umwuga wawe. Iyo uhisemo irushanwa, tubika irushanwa wahisemo.",
-      priv2: "Tubikoresha gusa mu kukwereka ibikubereye no kumenya abakoresha uru rubuga. Ntitugurisha amakuru yawe.",
-      priv3: "Amakuru abikwa muri Google Sheet y'ufite uru rubuga. Niba ushaka ko tuyasiba, twandikire kuri WhatsApp tuyasibe.",
+      priv2: "Tubikoresha gusa mu kukwereka ibikubereye no kumenya abakoresha uru rubuga. Tukwandikira kuri imeri gusa niba warabyemeye. Ntitugurisha amakuru yawe.",
+      priv3: "Amakuru abikwa muri Google Sheet y'ufite uru rubuga. Google ibika amakuru hanze y'u Rwanda, kandi iyo wemeye ni bwo tuyabika ayo.",
+      priv4: "Ufite uburenganzira bwo kureba, gukosora no gusiba amakuru yawe, no kwisubiraho ku byo wemeye. Twandikire kuri WhatsApp tubikore. Tubika amakuru yawe igihe ugikoresha uru rubuga, kugeza ubisabye ko asibwa.",
       footDisc: "Amafoto n'amakuru y'amarushanwa ni ay'abayategura. Uru rubuga nta bufatanye rufitanye na bo, ujye urebera ku rubuga rwabo nyarwo.",
       credit: "Rwakozwe mu Rwanda na ", official: "Urubuga nyarwo",
       slPrev: "Subira inyuma", slNext: "Komeza", slideOf: "Ifoto",
@@ -455,7 +458,8 @@
       cEducation: "Uburezi", cAgri: "Ubuhinzi n'ibidukikije", cEngineering: "Ubwubatsi / Engineering",
       cDesign: "Ubuhanzi / Design", cOther: "Ikindi",
       choose: "Hitamo...",
-      fConsent: "Nemera ko amakuru natanze akoreshwa mu kunyereka hackathon zinkwiriye.",
+      fConsent: "Nemera ko amakuru yanjye abikwa muri Google Sheet (abikwa hanze y'u Rwanda) kandi akoreshwa mu kunyereka hackathon zinkwiriye.",
+      fMail: "Nshaka no kubona amakuru ya hackathon kuri imeri yanjye (si ngombwa).",
       regBtn: "Iyandikishe ukomeze", cancel: "Funga",
       hello: "Muraho, ", coffee: "Gura ikawa",
       foot: "Urutonde rukusanywa ku mbuga zitandukanye buri masaha 6. Reba kuri site y'irushanwa kugira ngo wemeze itariki. Amakuru y'abiyandikishije akoreshwa gusa mu kubereka ibibakwiriye.",
@@ -490,8 +494,9 @@
       waMsg: "Hello {owner}, I like HackRadar Rwanda! Thank you.",
       privLink: "Privacy", privTitle: "Your privacy",
       priv1: "When you register we collect your name, email, who you are (student, worker...), your level of education and your career. When you pick a contest, we save which one you picked.",
-      priv2: "We only use it to show you what fits you and to understand who uses the site. We never sell your personal data.",
-      priv3: "The data is kept in a Google Sheet owned by the site owner. If you want it deleted, message us on WhatsApp and we will delete it.",
+      priv2: "We only use it to show you what fits you and to understand who uses the site. We email you only if you agreed to it. We never sell your personal data.",
+      priv3: "The data is kept in a Google Sheet owned by the site owner. Google stores data outside Rwanda, and by agreeing you allow this.",
+      priv4: "You have the right to see, correct and delete your data, and to take back your consent at any time. Message us on WhatsApp and we will do it. We keep your data while you use the site, until you ask us to delete it.",
       footDisc: "Pictures and contest details belong to their organizers. This site is not affiliated with them, so always check their official page.",
       credit: "Made in Rwanda by ", official: "Official page",
       slPrev: "Previous", slNext: "Next", slideOf: "Slide",
@@ -519,7 +524,8 @@
       cEducation: "Education", cAgri: "Agriculture and environment", cEngineering: "Engineering",
       cDesign: "Art / Design", cOther: "Other",
       choose: "Choose...",
-      fConsent: "I agree that the information I gave is used to show me hackathons that fit me.",
+      fConsent: "I agree that my information is saved in a Google Sheet (stored outside Rwanda) and used to show me hackathons that fit me.",
+      fMail: "I also want to receive hackathon updates by email (optional).",
       regBtn: "Register and continue", cancel: "Close",
       hello: "Hi, ", coffee: "Buy me a coffee",
       foot: "The list is collected from several sites every 6 hours. Always check the official page to confirm the date. Registration details are only used to show people what fits them.",
@@ -616,6 +622,7 @@
     }
     buildDialog();
     $("r-consent").checked = !!profile;
+    $("r-mail").checked = !!(profile && profile.mail);
     $("dlg").showModal();
   }
 
@@ -630,11 +637,11 @@
     profile = {
       name: $("r-name").value.trim(),
       email: $("r-email").value.trim(),
-      status, edu: $("r-edu").value, career: $("r-career").value, lang
+      status, edu: $("r-edu").value, career: $("r-career").value, lang, mail: $("r-mail").checked
     };
     store.set("hr_profile", profile);
     send({ type: "register", name: profile.name, email: profile.email, status: profile.status,
-           education: profile.edu, career: profile.career, lang, ts: new Date().toISOString() });
+           education: profile.edu, career: profile.career, lang, mail: profile.mail ? "yes" : "no", ts: new Date().toISOString() });
     $("dlg").close();
     const next = pending; pending = null;
     renderMe(); render();
