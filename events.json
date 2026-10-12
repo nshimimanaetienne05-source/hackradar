@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-12T13:31:19.286Z",
+  "updated": "2026-10-12T14:53:50.294Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (28)",
+    "Unstop": "ok (27)",
     "MLH": "ok (60)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (2)",
@@ -622,22 +622,6 @@
       "online": true,
       "prize": "",
       "org": "Frontend Arena",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1766434",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Threws Odyssey 2026",
-      "url": "https://unstop.com/hackathons/threws-odyssey-2026-threws-the-research-world-1766434",
-      "date": "2026-10-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Threws - The Research World",
       "tags": [
         "web"
       ],
