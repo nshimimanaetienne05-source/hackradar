@@ -1,30 +1,28 @@
 {
-  "updated": "2026-10-11T21:36:13.532Z",
+  "updated": "2026-10-12T04:46:42.637Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
-    "MLH": "ok (61)",
+    "Unstop": "ok (27)",
+    "MLH": "ok (60)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (2)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
     {
-      "id": "devpost-30491",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Banana Hacks",
-      "url": "https://banana-hacks-1111.devpost.com/",
-      "date": "2026-10-12T23:59:00.000Z",
+      "id": "unstop-1768819",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Tech Trivia x Prehype for DevFest Ranchi",
+      "url": "https://unstop.com/quiz/pre-hype-devfest26-ramgarh-engineering-college-1768819",
+      "date": "2026-10-12T11:30:31.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$500",
-      "org": "n/a",
+      "prize": "",
+      "org": "Ramgarh Engineering College",
       "tags": [
-        "ai",
-        "web",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -63,23 +61,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31548",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AIC Internal Competition -2026 (Agentic AI)",
-      "url": "https://aic-ic-2026.devpost.com/",
-      "date": "2026-10-12T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "AI Community @ SBU",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31610",
       "type": "hackathon",
       "source": "Devpost",
@@ -93,22 +74,6 @@
       "tags": [
         "ai",
         "blockchain"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768931",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CODESTROAM 2026",
-      "url": "https://unstop.com/competitions/codestroam-2026-panimalar-engineering-college-pec-chennai-1768931",
-      "date": "2026-10-14T16:36:50.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Panimalar Engineering College (PEC), Chennai",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -159,6 +124,22 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Management (IIM), Kashipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769089",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Code Quest",
+      "url": "https://unstop.com/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089",
+      "date": "2026-10-15T18:29:55.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Guru Nanak Dev University, Regional Campus, Gurdaspur, Punjab",
       "tags": [
         "web"
       ],
@@ -276,6 +257,22 @@
       "tags": [
         "health",
         "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1767928",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Ace The Case 2026 | SummIT",
+      "url": "https://unstop.com/competitions/ace-the-case-2026-summit-narsee-monjee-institute-of-management-studies-nmims-mumbai-1767928",
+      "date": "2026-10-18T11:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee Institute of Management Studies (NMIMS), Mumbai",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -937,6 +934,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31626",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Hackathon Agéntico SoftwareChido 2026B",
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ITESO",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1767837",
       "type": "competition",
       "source": "Unstop",
@@ -981,6 +996,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-28603",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "MCA 2026 projects",
+      "url": "https://mca-2026-projects.devpost.com/",
+      "date": "2026-12-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mizzou Computing Association",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
