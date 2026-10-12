@@ -374,10 +374,12 @@
     // Where the hackathon list lives. Same folder by default.
     // If this page is NOT on GitHub Pages, put the raw link of events.json here, e.g.
     // "https://raw.githubusercontent.com/YOUR-NAME/YOUR-REPO/main/events.json"
+   /* ================= SETTINGS: edit these 3 lines ================= */
+  const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQmXCb-4AjOF_QXQdgRhfAaOFSdv9vvKLwUAHWazaM2EQb4yvcHqmb8wsIU6QoAflJ9P63VNVT7s6H2/pub?gid=2037660963&single=true&output=csv";
+
+  const CONFIG = {
     EVENTS_URL: "events.json",
-    // Google Apps Script web-app link that saves registrations (see google-apps-script.gs). Empty = save only in browser.
-    REGISTER_ENDPOINT: "https://script.google.com/macros/s/AKfycbyMY1_1LLZNnJgYSTU--uNjWfVKBLJ9iXg1-oSm7MymgOA0MuMthXPTD3r5LWziq1wY/exec",
-    // Your name, shown in the footer and in the WhatsApp message.
+    REGISTER_ENDPOINT: "https://script.google.com/macros/s/AKfycbx2_shgn3-IV7D1vTwgIMpr0zLTxSt1IArBqDSVzWCHYrTBiv3r9WP5Xvn4Oh6HRPz4/exec",
     OWNER: "Etienne",
     // Support section. momo = mobile money number shown with a Copy button; momoName = the name MoMo shows when someone sends money
     // (for example the website name); whatsapp = number with country code (250...).
