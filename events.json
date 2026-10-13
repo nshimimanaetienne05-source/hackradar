@@ -1,48 +1,15 @@
 {
-  "updated": "2026-10-12T14:53:50.294Z",
+  "updated": "2026-10-13T00:15:07.191Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
     "Unstop": "ok (27)",
-    "MLH": "ok (60)",
+    "MLH": "ok (61)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (2)",
-    "Opportunities for Africans": "ok (1)"
+    "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31098",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Graphiques Innovation Challenge",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "date": "2026-10-12T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hack Club",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31610",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "All you can do with AI",
-      "url": "https://all-you-can-do-with-ai.devpost.com/",
-      "date": "2026-10-12T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Self",
-      "tags": [
-        "ai",
-        "blockchain"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31481",
       "type": "hackathon",
@@ -144,22 +111,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31035",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HACK47: OFFGRID",
-      "url": "https://hack47-offgrid.devpost.com/",
-      "date": "2026-10-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hack47",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31515",
       "type": "hackathon",
       "source": "Devpost",
@@ -170,6 +121,22 @@
       "online": true,
       "prize": "₹ 30,000",
       "org": "elite coders",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31035",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "HACK47: OFFGRID",
+      "url": "https://hack47-offgrid.devpost.com/",
+      "date": "2026-10-15T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Hack47",
       "tags": [
         "web"
       ],
@@ -223,6 +190,24 @@
       "tags": [
         "ai",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31617",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "date": "2026-10-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IEEE Charlotte Section",
+      "tags": [
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -441,43 +426,116 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768853",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Blackout CTF",
-      "url": "https://unstop.com/hackathons/blackout-ctf-nexploit-1768853",
-      "date": "2026-10-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Nexploit",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769394",
+      "id": "unstop-1769341",
       "type": "competition",
       "source": "Unstop",
-      "name": "Tekken Showdown",
-      "url": "https://unstop.com/competitions/tekken-showdown-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769394",
+      "name": "CommerceX: The Economics of Growth",
+      "url": "https://unstop.com/competitions/commercex-the-economics-of-growth-caseunion-40-masters-union-school-of-business-1769341",
       "date": "2026-10-25T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "org": "Masters' Union School of Business",
       "tags": [
-        "web"
+        "fintech",
+        "education"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1769362",
+      "id": "unstop-1769331",
       "type": "competition",
       "source": "Unstop",
-      "name": "BGMI",
-      "url": "https://unstop.com/competitions/bgmi-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769362",
+      "name": "SCOPE.CREEP: The Product Management Challenge",
+      "url": "https://unstop.com/competitions/scopecreep-the-product-management-challenge-caseunion-40-masters-union-school-of-business-1769331",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Masters' Union School of Business",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769339",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AI & Analytics: From Prediction to Decision",
+      "url": "https://unstop.com/competitions/ai-analytics-from-prediction-to-decision-caseunion-40-masters-union-school-of-business-1769339",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Masters' Union School of Business",
+      "tags": [
+        "ai",
+        "data",
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769343",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Consulting: Strategy Under Pressure",
+      "url": "https://unstop.com/competitions/consulting-strategy-under-pressure-caseunion-40-masters-union-school-of-business-1769343",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Masters' Union School of Business",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769336",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Quantico: The FinTech Risk Challenge",
+      "url": "https://unstop.com/competitions/quantico-the-fintech-risk-challenge-caseunion-40-masters-union-school-of-business-1769336",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Masters' Union School of Business",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769347",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Marketing in the Age of AI",
+      "url": "https://unstop.com/competitions/marketing-in-the-age-of-ai-caseunion-40-masters-union-school-of-business-1769347",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Masters' Union School of Business",
+      "tags": [
+        "ai",
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769405",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Treasure Hunt",
+      "url": "https://unstop.com/competitions/treasure-hunt-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769405",
       "date": "2026-10-25T18:30:00.000Z",
       "location": "Online",
       "online": true,
@@ -628,6 +686,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1769252",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Mergetober",
+      "url": "https://unstop.com/hackathons/mergetober-hackers-unity-1769252",
+      "date": "2026-10-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Hackers Unity",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769526",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Ideaforge",
+      "url": "https://unstop.com/competitions/ideaforge-blacktheory-1769526",
+      "date": "2026-10-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Blacktheory",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30790",
       "type": "hackathon",
       "source": "Devpost",
@@ -660,22 +750,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1764902",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Asian Paints Smart Idea Challenge 2026",
-      "url": "https://unstop.com/competitions/crp-asian-paints-smart-idea-challenge-2026-asian-paints-1764902",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Asian Paints",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -779,22 +853,6 @@
         "web",
         "fintech",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-itu-equals-in-tech-awards-2027-for-gender-equality-mainstreaming-in-technology",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "ITU Equals in Tech Awards 2027 for Gender Equality & Mainstreaming in Technology.",
-      "url": "https://www.opportunitiesforafricans.com/itu-equals-in-tech-awards-2027-for-gender-equality-mainstreaming-in-technology/",
-      "date": "2026-11-07T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
