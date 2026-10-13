@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-13T13:44:11.175Z",
+  "updated": "2026-10-13T22:22:47.095Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (20)",
-    "MLH": "ok (61)",
+    "Unstop": "ok (30)",
+    "MLH": "ok (63)",
     "Lablab.ai": "ok (3)",
-    "Opportunity Desk": "ok (2)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
@@ -42,6 +42,23 @@
       "tags": [
         "ai",
         "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31698",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Child Safety in AI",
+      "url": "https://child-safety-in-ai.devpost.com/",
+      "date": "2026-10-14T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "STEMSisterz",
+      "tags": [
+        "ai",
         "education"
       ],
       "rwanda": false
@@ -175,22 +192,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769780",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Bizz Quiz",
-      "url": "https://unstop.com/quiz/bizz-quiz-mmmut-gorakhpur-1769780",
-      "date": "2026-10-16T23:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31113",
       "type": "hackathon",
       "source": "Devpost",
@@ -205,25 +206,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31684",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "NTU x ST Engineering Hackathon",
-      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
-      "date": "2026-10-17T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$2,500",
-      "org": "nanyang technological university",
-      "tags": [
-        "ai",
-        "web",
-        "education",
-        "security"
       ],
       "rwanda": false
     },
@@ -275,22 +257,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769689",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CFA L1 Full Course Mock Quiz",
-      "url": "https://unstop.com/quiz/cfa-l1-full-course-mock-quiz-poonji-vidya-technologies-private-limited-1769689",
-      "date": "2026-10-19T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Poonji Vidya Technologies Private Limited",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -379,22 +345,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769004",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Kannada Digital Innovation Hackathon 2026",
-      "url": "https://unstop.com/hackathons/kannada-digital-innovation-hackathon-2026-the-national-institute-of-engineering-karnataka-1769004",
-      "date": "2026-10-22T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The National Institute of Engineering, Karnataka",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30992",
       "type": "hackathon",
       "source": "Devpost",
@@ -461,48 +411,224 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769011",
+      "id": "unstop-1761355",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Digital Expedition | UI Design Challenge",
+      "url": "https://unstop.com/competitions/the-digital-expedition-ui-design-challenge-anuva-2026-the-annual-design-festival-central-institute-of-techn-1761355",
+      "date": "2026-10-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1761358",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Surface Trek | 3D Texturing Challenge",
+      "url": "https://unstop.com/competitions/the-surface-trek-3d-texturing-challenge-anuva-2026-the-annual-design-festival-central-institute-of-technolo-1761358",
+      "date": "2026-10-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1761357",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Identity Journey | Brand Identity Challenge",
+      "url": "https://unstop.com/competitions/the-identity-journey-brand-identity-challenge-anuva-2026-the-annual-design-festival-central-institute-of-te-1761357",
+      "date": "2026-10-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1761356",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Dimensional Voyage | 3D Modelling Challenge",
+      "url": "https://unstop.com/competitions/the-dimensional-voyage-3d-modelling-challenge-anuva-2026-the-annual-design-festival-central-institute-of-te-1761356",
+      "date": "2026-10-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769180",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "National Online Hackathon 2026",
-      "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1769011",
-      "date": "2026-10-24T18:30:00.000Z",
+      "name": "Circuit Debugging",
+      "url": "https://unstop.com/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
+      "date": "2026-10-25T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "EDXcellence LLP",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
       "tags": [
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1757085",
-      "type": "competition",
+      "id": "unstop-1769328",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "The Outlander’s Odyssey | Character Designing Challenge",
-      "url": "https://unstop.com/competitions/the-outlanders-odyssey-character-designing-challenge-anuva-2026-the-annual-design-festival-central-institut-1757085",
-      "date": "2026-10-24T18:30:00.000Z",
+      "name": "Hackathon",
+      "url": "https://unstop.com/hackathons/hackathon-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769328",
+      "date": "2026-10-25T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
       "tags": [
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1757087",
+      "id": "unstop-1769197",
       "type": "competition",
       "source": "Unstop",
-      "name": "Motion’s Migration | 2D Animation Challenge",
-      "url": "https://unstop.com/competitions/motions-migration-2d-animation-challenge-anuva-2026-the-annual-design-festival-central-institute-of-technol-1757087",
-      "date": "2026-10-24T18:30:00.000Z",
+      "name": "Energix",
+      "url": "https://unstop.com/competitions/energix-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769197",
+      "date": "2026-10-25T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769191",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Electromind",
+      "url": "https://unstop.com/competitions/electromind-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769191",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769122",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Hydraulic Warzone",
+      "url": "https://unstop.com/competitions/hydraulic-warzone-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769122",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769280",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Circuit Designing",
+      "url": "https://unstop.com/competitions/circuit-designing-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769280",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769240",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Verilog",
+      "url": "https://unstop.com/competitions/verilog-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769240",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769124",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Sky Forge",
+      "url": "https://unstop.com/competitions/sky-forge-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769124",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769487",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Brainwave Bonaza",
+      "url": "https://unstop.com/quiz/brainwave-bonaza-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769487",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769485",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Seismic Arena",
+      "url": "https://unstop.com/competitions/the-seismic-arena-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769485",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
       "tags": [
         "web"
       ],
@@ -525,6 +651,22 @@
         "blockchain",
         "climate",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769969",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "THE DECISION ROOM: A Real-World Challenge Simulation",
+      "url": "https://unstop.com/competitions/the-decision-room-a-real-world-challenge-simulation-interactup-1769969",
+      "date": "2026-10-26T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "InteractUp",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -680,39 +822,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-true-story-award-2027-for-journalists-20-000-prize",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "True Story Award 2027 for Journalists ($20,000 prize)",
-      "url": "https://opportunitydesk.org/2026/10/12/true-story-award-2027/",
-      "date": "2026-10-31T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-ai-ethics-and-integrity-international-association-startup-pitch-session-2026",
-      "type": "pitch",
-      "source": "Opportunity Desk",
-      "name": "AI Ethics and Integrity International Association Startup Pitch Session 2026",
-      "url": "https://opportunitydesk.org/2026/10/12/aiei-startup-pitch-session-2026/",
-      "date": "2026-10-31T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "ai",
-        "fintech"
       ],
       "rwanda": false
     },
