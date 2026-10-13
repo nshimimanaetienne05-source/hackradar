@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-13T00:15:07.191Z",
+  "updated": "2026-10-13T13:44:11.175Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (27)",
+    "Unstop": "ok (20)",
     "MLH": "ok (61)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (2)",
@@ -143,6 +143,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31520",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "RESPAWN",
+      "url": "https://respawn.devpost.com/",
+      "date": "2026-10-15T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "₹ 15,000",
+      "org": "MS Ramaiah University of Applied Science",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1766605",
       "type": "competition",
       "source": "Unstop",
@@ -153,6 +169,22 @@
       "online": true,
       "prize": "",
       "org": "Great Lakes Institute of Management (GLIM), Gurgaon",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769780",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Bizz Quiz",
+      "url": "https://unstop.com/quiz/bizz-quiz-mmmut-gorakhpur-1769780",
+      "date": "2026-10-16T23:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur",
       "tags": [
         "web"
       ],
@@ -173,6 +205,25 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31684",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "NTU x ST Engineering Hackathon",
+      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
+      "date": "2026-10-17T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$2,500",
+      "org": "nanyang technological university",
+      "tags": [
+        "ai",
+        "web",
+        "education",
+        "security"
       ],
       "rwanda": false
     },
@@ -224,6 +275,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769689",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CFA L1 Full Course Mock Quiz",
+      "url": "https://unstop.com/quiz/cfa-l1-full-course-mock-quiz-poonji-vidya-technologies-private-limited-1769689",
+      "date": "2026-10-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Poonji Vidya Technologies Private Limited",
+      "tags": [
         "web"
       ],
       "rwanda": false
@@ -346,6 +413,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31619",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Pumpkin Playground",
+      "url": "https://pumpkin-playground.devpost.com/",
+      "date": "2026-10-23T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$30",
+      "org": "ACM Long Beach",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1768929",
       "type": "hackathon",
       "source": "Unstop",
@@ -394,153 +477,32 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768869",
-      "type": "hackathon",
+      "id": "unstop-1757085",
+      "type": "competition",
       "source": "Unstop",
-      "name": "CODE RED — Competitive Programming Contest",
-      "url": "https://unstop.com/hackathons/code-red-competitive-programming-contest-xordium-50-birla-institute-of-technology-bit-mesra-patna-campus-1768869",
+      "name": "The Outlander’s Odyssey | Character Designing Challenge",
+      "url": "https://unstop.com/competitions/the-outlanders-odyssey-character-designing-challenge-anuva-2026-the-annual-design-festival-central-institut-1757085",
       "date": "2026-10-24T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Birla Institute of Technology (BIT), Mesra, Patna Campus",
+      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
       "tags": [
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1768863",
-      "type": "hackathon",
+      "id": "unstop-1757087",
+      "type": "competition",
       "source": "Unstop",
-      "name": "NexHack 3.0 — Build What's Next",
-      "url": "https://unstop.com/hackathons/nexhack-30-build-whats-next-nexhack-30-build-whats-next-nexhack-1768863",
+      "name": "Motion’s Migration | 2D Animation Challenge",
+      "url": "https://unstop.com/competitions/motions-migration-2d-animation-challenge-anuva-2026-the-annual-design-festival-central-institute-of-technol-1757087",
       "date": "2026-10-24T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "NexHack",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769341",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CommerceX: The Economics of Growth",
-      "url": "https://unstop.com/competitions/commercex-the-economics-of-growth-caseunion-40-masters-union-school-of-business-1769341",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Masters' Union School of Business",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769331",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "SCOPE.CREEP: The Product Management Challenge",
-      "url": "https://unstop.com/competitions/scopecreep-the-product-management-challenge-caseunion-40-masters-union-school-of-business-1769331",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Masters' Union School of Business",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769339",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "AI & Analytics: From Prediction to Decision",
-      "url": "https://unstop.com/competitions/ai-analytics-from-prediction-to-decision-caseunion-40-masters-union-school-of-business-1769339",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Masters' Union School of Business",
-      "tags": [
-        "ai",
-        "data",
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769343",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Consulting: Strategy Under Pressure",
-      "url": "https://unstop.com/competitions/consulting-strategy-under-pressure-caseunion-40-masters-union-school-of-business-1769343",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Masters' Union School of Business",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769336",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Quantico: The FinTech Risk Challenge",
-      "url": "https://unstop.com/competitions/quantico-the-fintech-risk-challenge-caseunion-40-masters-union-school-of-business-1769336",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Masters' Union School of Business",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769347",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Marketing in the Age of AI",
-      "url": "https://unstop.com/competitions/marketing-in-the-age-of-ai-caseunion-40-masters-union-school-of-business-1769347",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Masters' Union School of Business",
-      "tags": [
-        "ai",
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769405",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Treasure Hunt",
-      "url": "https://unstop.com/competitions/treasure-hunt-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769405",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
       "tags": [
         "web"
       ],
@@ -670,22 +632,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1766381",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "The Outpost",
-      "url": "https://unstop.com/hackathons/the-outpost-frontend-arena-1766381",
-      "date": "2026-10-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Frontend Arena",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1769252",
       "type": "hackathon",
       "source": "Unstop",
@@ -696,22 +642,6 @@
       "online": true,
       "prize": "",
       "org": "Hackers Unity",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769526",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Ideaforge",
-      "url": "https://unstop.com/competitions/ideaforge-blacktheory-1769526",
-      "date": "2026-10-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Blacktheory",
       "tags": [
         "web"
       ],
@@ -935,24 +865,6 @@
       "online": true,
       "prize": "$1,000,000",
       "org": "Meta",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31626",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Hackathon Agéntico SoftwareChido 2026B",
-      "url": "https://hackathon-agentico-2026b.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ITESO",
       "tags": [
         "ai",
         "web",
