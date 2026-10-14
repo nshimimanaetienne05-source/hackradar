@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-14T11:22:17.594Z",
+  "updated": "2026-10-14T16:42:46.860Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (20)",
-    "MLH": "ok (63)",
+    "Unstop": "ok (18)",
+    "MLH": "ok (64)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
@@ -295,38 +295,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770229",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Technical Quiz Competition 2026",
-      "url": "https://unstop.com/quiz/technical-quiz-competition-2026-inspireleap-1770229",
-      "date": "2026-10-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InspireLeap",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770084",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Panacea 5.0",
-      "url": "https://unstop.com/quiz/panacea-50-students-association-aiims-bhubaneswar-1770084",
-      "date": "2026-10-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Students Association AIIMS Bhubaneswar",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "manual-0-nisr-2026-big-data-hackathon-university-students-in-rwanda",
       "type": "hackathon",
       "rwanda": true,
@@ -412,64 +380,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768995",
+      "id": "unstop-1770422",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Revhack",
-      "url": "https://unstop.com/hackathons/revhack-polygnan-foundation-1768995",
-      "date": "2026-10-24T18:30:00.000Z",
+      "name": "BuildLab 2026",
+      "url": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
+      "date": "2026-10-24T04:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Polygnan Foundation",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1761355",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Digital Expedition | UI Design Challenge",
-      "url": "https://unstop.com/competitions/the-digital-expedition-ui-design-challenge-anuva-2026-the-annual-design-festival-central-institute-of-techn-1761355",
-      "date": "2026-10-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1761358",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Surface Trek | 3D Texturing Challenge",
-      "url": "https://unstop.com/competitions/the-surface-trek-3d-texturing-challenge-anuva-2026-the-annual-design-festival-central-institute-of-technolo-1761358",
-      "date": "2026-10-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1761357",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Identity Journey | Brand Identity Challenge",
-      "url": "https://unstop.com/competitions/the-identity-journey-brand-identity-challenge-anuva-2026-the-annual-design-festival-central-institute-of-te-1761357",
-      "date": "2026-10-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
+      "org": "Frontend Arena",
       "tags": [
         "web"
       ],
@@ -561,6 +481,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770210",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "India Scholastic Aptitude Test 2026 (ISAT)",
+      "url": "https://unstop.com/quiz/india-scholastic-aptitude-test-2026-isat-inspireleap-1770210",
+      "date": "2026-10-27T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "InspireLeap",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30984",
       "type": "hackathon",
       "source": "Devpost",
@@ -631,34 +567,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769081",
+      "id": "unstop-1770219",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "CodewithChat AI Dev Challenge: Build, Launch & Monetize with Vibe Coding",
-      "url": "https://unstop.com/hackathons/codewithchat-ai-dev-challenge-build-launch-monetize-with-vibe-coding-codewithchat-1769081",
-      "date": "2026-10-29T18:30:00.000Z",
+      "name": "Obsidian Labs CTF 2026- Jeopardy-Style Cybersecurity Challenge",
+      "url": "https://unstop.com/hackathons/obsidian-labs-ctf-2026-jeopardy-style-cybersecurity-challenge-obsidian-labs-1770219",
+      "date": "2026-10-30T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "CodewithChat",
+      "org": "Obsidian Labs",
       "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769252",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Mergetober",
-      "url": "https://unstop.com/hackathons/mergetober-hackers-unity-1769252",
-      "date": "2026-10-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hackers Unity",
-      "tags": [
-        "web"
+        "security"
       ],
       "rwanda": false
     },
@@ -695,6 +615,38 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1764903",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Tagline Trivia - Marketing & Brand Quiz",
+      "url": "https://unstop.com/quiz/tagline-trivia-marketing-brand-quiz-university-college-of-commerce-and-business-management-osmania-university-hyder-1764903",
+      "date": "2026-10-31T00:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "University College of Commerce and Business management, Osmania University, Hyderabad, Telangana",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770464",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AUV-IITB CAD Design Challenge 2026",
+      "url": "https://unstop.com/competitions/auv-iitb-cad-design-challenge-2026-auv-iitb-1770464",
+      "date": "2026-10-31T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "AUV IITB",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
