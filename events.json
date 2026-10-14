@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-14T03:54:18.584Z",
+  "updated": "2026-10-14T11:22:17.594Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (30)",
+    "Unstop": "ok (20)",
     "MLH": "ok (63)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
@@ -21,24 +21,6 @@
       "online": true,
       "prize": "₹ 100,000",
       "org": "Kamand Prompt, IIT Mandi",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31103",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "WarriorHacks 2.0",
-      "url": "https://warriorhacks-2-0.devpost.com/",
-      "date": "2026-10-14T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Westwood Computer Science Club",
       "tags": [
         "ai",
         "web",
@@ -210,6 +192,25 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31684",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "NTU x ST Engineering Hackathon",
+      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
+      "date": "2026-10-17T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$2,500",
+      "org": "nanyang technological university",
+      "tags": [
+        "ai",
+        "web",
+        "education",
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31180",
       "type": "hackathon",
       "source": "Devpost",
@@ -262,22 +263,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1767403",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Infographics Competition 2026",
-      "url": "https://unstop.com/competitions/infographics-competition-2026-narsee-monjee-institute-of-management-studies-nmims-mumbai-1767403",
-      "date": "2026-10-19T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee Institute of Management Studies (NMIMS), Mumbai",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31096",
       "type": "hackathon",
       "source": "Devpost",
@@ -306,6 +291,38 @@
       "org": "Sri Venkateswara College(DU)",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770229",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Technical Quiz Competition 2026",
+      "url": "https://unstop.com/quiz/technical-quiz-competition-2026-inspireleap-1770229",
+      "date": "2026-10-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "InspireLeap",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770084",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Panacea 5.0",
+      "url": "https://unstop.com/quiz/panacea-50-students-association-aiims-bhubaneswar-1770084",
+      "date": "2026-10-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Students Association AIIMS Bhubaneswar",
+      "tags": [
+        "education"
       ],
       "rwanda": false
     },
@@ -395,22 +412,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768929",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Orca Coders: Orcathon",
-      "url": "https://unstop.com/hackathons/orca-coders-orcathon-devharbour-1768929",
-      "date": "2026-10-24T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "DevHarbour",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1768995",
       "type": "hackathon",
       "source": "Unstop",
@@ -475,22 +476,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1761356",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Dimensional Voyage | 3D Modelling Challenge",
-      "url": "https://unstop.com/competitions/the-dimensional-voyage-3d-modelling-challenge-anuva-2026-the-annual-design-festival-central-institute-of-te-1761356",
-      "date": "2026-10-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Central Institute of Technology (CIT), Kokrajhar, Assam",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1769180",
       "type": "hackathon",
       "source": "Unstop",
@@ -523,102 +508,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769197",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Energix",
-      "url": "https://unstop.com/competitions/energix-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769197",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769191",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Electromind",
-      "url": "https://unstop.com/competitions/electromind-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769191",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769122",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Hydraulic Warzone",
-      "url": "https://unstop.com/competitions/hydraulic-warzone-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769122",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769280",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Circuit Designing",
-      "url": "https://unstop.com/competitions/circuit-designing-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769280",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769240",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Verilog",
-      "url": "https://unstop.com/competitions/verilog-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769240",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769124",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Sky Forge",
-      "url": "https://unstop.com/competitions/sky-forge-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769124",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-29114",
       "type": "hackathon",
       "source": "Devpost",
@@ -639,32 +528,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770006",
-      "type": "competition",
+      "id": "unstop-1769789",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "The Chocolate Factory - 8.0",
-      "url": "https://unstop.com/competitions/the-chocolate-factory-80-narsee-monjee-institute-of-management-studies-nmims-mumbai-1770006",
-      "date": "2026-10-26T06:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee Institute of Management Studies (NMIMS), Mumbai",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769969",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "THE DECISION ROOM: A Real-World Challenge Simulation",
-      "url": "https://unstop.com/competitions/the-decision-room-a-real-world-challenge-simulation-interactup-1769969",
+      "name": "Hackcult",
+      "url": "https://unstop.com/hackathons/hackcult-iit-gandhinagar-1769789",
       "date": "2026-10-26T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "InteractUp",
+      "org": "Indian Institute of Technology (IIT), Gandhinagar",
       "tags": [
         "web"
       ],
@@ -927,23 +800,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769121",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Homingo Hack Days: Online AI Hackathon",
-      "url": "https://unstop.com/hackathons/homingo-hack-days-online-ai-hackathon-homingo-1769121",
-      "date": "2026-11-15T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Homingo",
-      "tags": [
-        "ai",
-        "web"
       ],
       "rwanda": false
     },
