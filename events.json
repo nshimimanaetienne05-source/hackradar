@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:22:47.095Z",
+  "updated": "2026-10-14T03:54:18.584Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -257,6 +257,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1767403",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Infographics Competition 2026",
+      "url": "https://unstop.com/competitions/infographics-competition-2026-narsee-monjee-institute-of-management-studies-nmims-mumbai-1767403",
+      "date": "2026-10-19T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee Institute of Management Studies (NMIMS), Mumbai",
+      "tags": [
         "web"
       ],
       "rwanda": false
@@ -603,38 +619,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769487",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Brainwave Bonaza",
-      "url": "https://unstop.com/quiz/brainwave-bonaza-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769487",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769485",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Seismic Arena",
-      "url": "https://unstop.com/competitions/the-seismic-arena-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769485",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-29114",
       "type": "hackathon",
       "source": "Devpost",
@@ -651,6 +635,22 @@
         "blockchain",
         "climate",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770006",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Chocolate Factory - 8.0",
+      "url": "https://unstop.com/competitions/the-chocolate-factory-80-narsee-monjee-institute-of-management-studies-nmims-mumbai-1770006",
+      "date": "2026-10-26T06:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee Institute of Management Studies (NMIMS), Mumbai",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
