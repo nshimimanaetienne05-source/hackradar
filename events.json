@@ -1,32 +1,15 @@
 {
-  "updated": "2026-10-15T03:35:44.160Z",
+  "updated": "2026-10-15T10:59:17.972Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (20)",
+    "Unstop": "ok (22)",
     "MLH": "ok (66)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1770483",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "INSIGHT - Finance X Analytics",
-      "url": "https://unstop.com/quiz/insight-finance-x-analytics-iim-rohtak-1770483",
-      "date": "2026-10-15T15:00:35.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "data",
-        "fintech"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1769123",
       "type": "competition",
@@ -60,24 +43,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31481",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Multimodal AI Hackathon 2026",
-      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "date": "2026-10-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 100,000",
-      "org": "Kamand Prompt, IIT Mandi",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31042",
       "type": "hackathon",
       "source": "Devpost",
@@ -104,22 +69,6 @@
       "online": true,
       "prize": "₹ 30,000",
       "org": "elite coders",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31035",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HACK47: OFFGRID",
-      "url": "https://hack47-offgrid.devpost.com/",
-      "date": "2026-10-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hack47",
       "tags": [
         "web"
       ],
@@ -362,6 +311,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770666",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "recHERsion 2026 | Women-Only Hackathon",
+      "url": "https://unstop.com/hackathons/rechersion-2026-women-only-hackathon-nitk-surathkal-1770666",
+      "date": "2026-10-23T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769789",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Hackcult",
+      "url": "https://unstop.com/hackathons/hackcult-iit-gandhinagar-1769789",
+      "date": "2026-10-23T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology (IIT), Gandhinagar",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30992",
       "type": "hackathon",
       "source": "Devpost",
@@ -376,22 +357,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31619",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Pumpkin Playground",
-      "url": "https://pumpkin-playground.devpost.com/",
-      "date": "2026-10-23T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$30",
-      "org": "ACM Long Beach",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -444,6 +409,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770724",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Financial Analyst Interview Prep Challenge 1",
+      "url": "https://unstop.com/quiz/financial-analyst-interview-prep-challenge-1-campusfirst-india-1770724",
+      "date": "2026-10-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "CampusFirst India",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-29114",
       "type": "hackathon",
       "source": "Devpost",
@@ -460,22 +441,6 @@
         "blockchain",
         "climate",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769789",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hackcult",
-      "url": "https://unstop.com/hackathons/hackcult-iit-gandhinagar-1769789",
-      "date": "2026-10-26T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Gandhinagar",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -631,6 +596,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31619",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Pumpkin Playground",
+      "url": "https://pumpkin-playground.devpost.com/",
+      "date": "2026-10-30T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$30",
+      "org": "ACM Long Beach",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
