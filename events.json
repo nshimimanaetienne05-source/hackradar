@@ -1,47 +1,15 @@
 {
-  "updated": "2026-10-15T10:59:17.972Z",
+  "updated": "2026-10-15T16:28:41.122Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (22)",
-    "MLH": "ok (66)",
+    "Unstop": "ok (20)",
+    "MLH": "ok (67)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1769123",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Kaun Banega Kotler 4.0",
-      "url": "https://unstop.com/competitions/kaun-banega-kotler-40-marketing-fest-2026-iim-amritsar-1769123",
-      "date": "2026-10-15T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Amritsar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769125",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Cine-Sell",
-      "url": "https://unstop.com/competitions/cine-sell-marketing-fest-2026-iim-amritsar-1769125",
-      "date": "2026-10-15T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Amritsar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31042",
       "type": "hackathon",
@@ -53,22 +21,6 @@
       "online": true,
       "prize": "$275",
       "org": "Student Organization",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31515",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CodeSprint by Elite Coders",
-      "url": "https://codesprint-by-elitecoders.devpost.com/",
-      "date": "2026-10-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 30,000",
-      "org": "elite coders",
       "tags": [
         "web"
       ],
@@ -101,6 +53,38 @@
       "online": true,
       "prize": "",
       "org": "Great Lakes Institute of Management (GLIM), Gurgaon",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769123",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Kaun Banega Kotler 4.0",
+      "url": "https://unstop.com/competitions/kaun-banega-kotler-40-marketing-fest-2026-iim-amritsar-1769123",
+      "date": "2026-10-16T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Amritsar",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769125",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Cine-Sell",
+      "url": "https://unstop.com/competitions/cine-sell-marketing-fest-2026-iim-amritsar-1769125",
+      "date": "2026-10-16T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Amritsar",
       "tags": [
         "web"
       ],
@@ -153,6 +137,22 @@
       "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
         "data"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1766375",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AdMad: The Anti-Ad",
+      "url": "https://unstop.com/competitions/admad-the-anti-ad--1766375",
+      "date": "2026-10-17T16:30:25.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Raipur",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -224,6 +224,22 @@
       "tags": [
         "ai",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769914",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Omnirush Agentic Buildathon 2026",
+      "url": "https://unstop.com/hackathons/omnirush-agentic-buildathon-2026-omnirush-1769914",
+      "date": "2026-10-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Omnirush",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -361,6 +377,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770730",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Oblivion - The Ultimate Capture The Flag (CTF) Competition",
+      "url": "https://unstop.com/hackathons/oblivion-the-ultimate-capture-the-flag-ctf-competition-indian-institute-of-technology-iit-ropar-1770730",
+      "date": "2026-10-24T03:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology (IIT), Ropar",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1770422",
       "type": "hackathon",
       "source": "Unstop",
@@ -458,22 +490,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770210",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "India Scholastic Aptitude Test 2026 (ISAT)",
-      "url": "https://unstop.com/quiz/india-scholastic-aptitude-test-2026-isat-inspireleap-1770210",
-      "date": "2026-10-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InspireLeap",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -616,32 +632,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1764903",
+      "id": "unstop-1757375",
       "type": "competition",
       "source": "Unstop",
-      "name": "Tagline Trivia - Marketing & Brand Quiz",
-      "url": "https://unstop.com/quiz/tagline-trivia-marketing-brand-quiz-university-college-of-commerce-and-business-management-osmania-university-hyder-1764903",
-      "date": "2026-10-31T00:59:00.000Z",
+      "name": "goSTOPS Case Study Competition",
+      "url": "https://unstop.com/competitions/gostops-case-study-competition-gostops-1757375",
+      "date": "2026-10-31T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "University College of Commerce and Business management, Osmania University, Hyderabad, Telangana",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770464",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "AUV-IITB CAD Design Challenge 2026",
-      "url": "https://unstop.com/competitions/auv-iitb-cad-design-challenge-2026-auv-iitb-1770464",
-      "date": "2026-10-31T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "AUV IITB",
+      "org": "goStops",
       "tags": [
         "web"
       ],
@@ -735,6 +735,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31659",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Learn AR with SPECS",
+      "url": "https://learn-specs.devpost.com/",
+      "date": "2026-11-09T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$2,500",
+      "org": "Devpost",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -765,6 +782,22 @@
       "org": "STEMise",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770710",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Know Your Mind: The 7-Day Intelligence Streak Challenge",
+      "url": "https://unstop.com/competitions/know-your-mind-the-7-day-intelligence-streak-challenge-hirehelp-ai-1770710",
+      "date": "2026-11-16T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HireHelp AI",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -801,70 +834,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1746232",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Craft N Code Telangana",
-      "url": "https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "International Institute of Information Technology (IIIT), Bhubaneswar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1746142",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Craft N Code Haryana",
-      "url": "https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "International Institute of Information Technology (IIIT), Bhubaneswar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1746233",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Craft N Code Delhi",
-      "url": "https://unstop.com/hackathons/craft-n-code-delhi-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1746233",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "International Institute of Information Technology (IIIT), Bhubaneswar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1746234",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Craft N Code Tamil Nadu",
-      "url": "https://unstop.com/hackathons/craft-n-code-tamil-nadu-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology--1746234",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "International Institute of Information Technology (IIIT), Bhubaneswar",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
