@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-15T16:28:41.122Z",
+  "updated": "2026-10-15T21:01:43.654Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (20)",
-    "MLH": "ok (67)",
+    "Unstop": "ok (22)",
+    "MLH": "ok (68)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31042",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Next Founders Hackathon",
-      "url": "https://next-founders.devpost.com/",
-      "date": "2026-10-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$275",
-      "org": "Student Organization",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31520",
       "type": "hackathon",
@@ -91,22 +75,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1744139",
-      "type": "pitch",
-      "source": "Unstop",
-      "name": "Local Startups' Meet 2026- Pitching Competition",
-      "url": "https://unstop.com/competitions/local-startups-meet-2026-pitching-competition-iit-kharagpur-1744139",
-      "date": "2026-10-16T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Kharagpur",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31113",
       "type": "hackathon",
       "source": "Devpost",
@@ -121,38 +89,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770481",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "INSIGHT- Marketing X Analytics",
-      "url": "https://unstop.com/quiz/insight-marketing-x-analytics-iim-rohtak-1770481",
-      "date": "2026-10-17T15:00:35.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1766375",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "AdMad: The Anti-Ad",
-      "url": "https://unstop.com/competitions/admad-the-anti-ad--1766375",
-      "date": "2026-10-17T16:30:25.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Raipur",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -172,6 +108,22 @@
         "web",
         "education",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770865",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Branded & Buttered: Quiz 1: The Price Is Right",
+      "url": "https://unstop.com/quiz/branded-buttered-quiz-1-the-price-is-right-iim-rohtak-1770865",
+      "date": "2026-10-18T18:29:50.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -327,6 +279,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770876",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "General Case Study Competition",
+      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1770876",
+      "date": "2026-10-21T06:31:01.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rising Scholars",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1770666",
       "type": "hackathon",
       "source": "Unstop",
@@ -337,22 +305,6 @@
       "online": true,
       "prize": "",
       "org": "National Institute of Technology Karnataka (NITK), Surathkal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769789",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hackcult",
-      "url": "https://unstop.com/hackathons/hackcult-iit-gandhinagar-1769789",
-      "date": "2026-10-23T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Gandhinagar",
       "tags": [
         "web"
       ],
@@ -494,6 +446,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770963",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Business of Brands 2026 - The Ultimate Business Quiz",
+      "url": "https://unstop.com/quiz/business-of-brands-2026-the-ultimate-business-quiz-nmims-1770963",
+      "date": "2026-10-27T13:00:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee Institute of Management Studies",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30984",
       "type": "hackathon",
       "source": "Devpost",
@@ -564,6 +532,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770904",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Speed Demon | 72-Hour Hackathon",
+      "url": "https://unstop.com/hackathons/speed-demon-72-hour-hackathon-hackathon-raptors-1770904",
+      "date": "2026-10-30T17:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Hackathon Raptors",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1770219",
       "type": "hackathon",
       "source": "Unstop",
@@ -626,22 +610,6 @@
       "online": true,
       "prize": "$30",
       "org": "ACM Long Beach",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1757375",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "goSTOPS Case Study Competition",
-      "url": "https://unstop.com/competitions/gostops-case-study-competition-gostops-1757375",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "goStops",
       "tags": [
         "web"
       ],
@@ -730,6 +698,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1758745",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "BUiLDX",
+      "url": "https://unstop.com/hackathons/buildx-36-hours-online-hackathon-code-a-nova-1758745",
+      "date": "2026-11-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Code-A-Nova",
+      "tags": [
         "web"
       ],
       "rwanda": false
