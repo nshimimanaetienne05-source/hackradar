@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-14T21:21:25.804Z",
+  "updated": "2026-10-15T03:35:44.160Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (19)",
+    "Unstop": "ok (20)",
     "MLH": "ok (66)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
@@ -11,36 +11,19 @@
   },
   "events": [
     {
-      "id": "devpost-31698",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Child Safety in AI",
-      "url": "https://child-safety-in-ai.devpost.com/",
-      "date": "2026-10-14T23:59:00.000Z",
+      "id": "unstop-1770483",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "INSIGHT - Finance X Analytics",
+      "url": "https://unstop.com/quiz/insight-finance-x-analytics-iim-rohtak-1770483",
+      "date": "2026-10-15T15:00:35.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "STEMSisterz",
+      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31703",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Human + AI Hackathon ($1750 Prize Pool)",
-      "url": "https://human-ai-hackathon.devpost.com/",
-      "date": "2026-10-14T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Juniper Websites",
-      "tags": [
-        "ai",
-        "web"
+        "data",
+        "fintech"
       ],
       "rwanda": false
     },
@@ -209,6 +192,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770481",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "INSIGHT- Marketing X Analytics",
+      "url": "https://unstop.com/quiz/insight-marketing-x-analytics-iim-rohtak-1770481",
+      "date": "2026-10-17T15:00:35.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "data"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31684",
       "type": "hackathon",
       "source": "Devpost",
@@ -306,22 +305,6 @@
       "online": true,
       "prize": "",
       "org": "Sri Venkateswara College(DU)",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768626",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Baloon National Hackathon 2026",
-      "url": "https://unstop.com/hackathons/baloon-national-hackathon-2026-baloon-1768626",
-      "date": "2026-10-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Baloon",
       "tags": [
         "web"
       ],
@@ -823,6 +806,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31626",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Hackathon Agéntico SoftwareChido 2026B",
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ITESO",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1746232",
       "type": "hackathon",
       "source": "Unstop",
@@ -899,6 +900,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-28603",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "MCA 2026 projects",
+      "url": "https://mca-2026-projects.devpost.com/",
+      "date": "2026-12-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mizzou Computing Association",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
