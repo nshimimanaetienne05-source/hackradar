@@ -1,65 +1,15 @@
 {
-  "updated": "2026-10-16T16:13:47.652Z",
+  "updated": "2026-10-16T20:36:55.424Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
     "Unstop": "ok (17)",
-    "MLH": "ok (69)",
+    "MLH": "ok (70)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
-    "Opportunities for Africans": "ok (1)"
+    "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "unstop-1769123",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Kaun Banega Kotler 4.0",
-      "url": "https://unstop.com/competitions/kaun-banega-kotler-40-marketing-fest-2026-iim-amritsar-1769123",
-      "date": "2026-10-16T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Amritsar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769125",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Cine-Sell",
-      "url": "https://unstop.com/competitions/cine-sell-marketing-fest-2026-iim-amritsar-1769125",
-      "date": "2026-10-16T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Amritsar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31113",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "MLAI Hackathon 2026",
-      "url": "https://mlai-hackathon.devpost.com/",
-      "date": "2026-10-16T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mạng Lưới AI",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31684",
       "type": "hackathon",
@@ -80,23 +30,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31180",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AI Lodge Hackathon 2026",
-      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
-      "date": "2026-10-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SMU Business Intelligence & Analytics",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31512",
       "type": "hackathon",
       "source": "Devpost",
@@ -110,6 +43,23 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31180",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AI Lodge Hackathon 2026",
+      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+      "date": "2026-10-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SMU Business Intelligence & Analytics",
+      "tags": [
+        "ai",
+        "web"
       ],
       "rwanda": false
     },
@@ -230,6 +180,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770876",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "General Case Study Competition",
+      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1770876",
+      "date": "2026-10-21T06:31:01.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rising Scholars",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31617",
       "type": "hackathon",
       "source": "Devpost",
@@ -298,6 +264,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770422",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "BuildLab 2026",
+      "url": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
+      "date": "2026-10-24T04:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Frontend Arena",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1771078",
       "type": "hackathon",
       "source": "Unstop",
@@ -315,16 +297,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769180",
+      "id": "devpost-31139",
       "type": "hackathon",
-      "source": "Unstop",
-      "name": "Circuit Debugging",
-      "url": "https://unstop.com/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
-      "date": "2026-10-25T18:30:00.000Z",
+      "source": "Devpost",
+      "name": "Neighborhood Hacks",
+      "url": "https://neighborhood-hacks-2026.devpost.com/",
+      "date": "2026-10-24T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "prize": "$57,866",
+      "org": "Student Organization",
       "tags": [
         "web"
       ],
@@ -573,24 +555,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31736",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Graph Hacks",
-      "url": "https://graph-hacks.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online, from anywhere",
-      "online": true,
-      "prize": "",
-      "org": "Hacker's Unity",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1769404",
       "type": "hackathon",
       "source": "Unstop",
@@ -806,6 +770,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-the-allianz-x-social-shifters-movenow-social-innovation-challenge-2026-for-youth",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "The Allianz x Social Shifters MoveNow Social Innovation Challenge 2026 for youth-led solutions ($USD90,000 in funding)",
+      "url": "https://www.opportunitiesforafricans.com/the-allianz-x-social-shifters-movenow-social-innovation-challenge-2026/",
+      "date": "2026-12-18T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
