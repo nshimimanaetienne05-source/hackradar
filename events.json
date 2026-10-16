@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-16T03:31:44.579Z",
+  "updated": "2026-10-16T10:53:41.689Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (21)",
+    "Unstop": "ok (20)",
     "MLH": "ok (68)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1766605",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The HR Money Heist",
-      "url": "https://unstop.com/competitions/the-hr-money-heist-great-lakes-institute-of-management-glim-gurgaon-1766605",
-      "date": "2026-10-16T07:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Great Lakes Institute of Management (GLIM), Gurgaon",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1769123",
       "type": "competition",
@@ -245,22 +229,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770876",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "General Case Study Competition",
-      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1770876",
-      "date": "2026-10-21T06:31:01.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Rising Scholars",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31617",
       "type": "hackathon",
       "source": "Devpost",
@@ -345,27 +313,28 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769180",
+      "id": "unstop-1771078",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Circuit Debugging",
-      "url": "https://unstop.com/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
-      "date": "2026-10-25T18:30:00.000Z",
+      "name": "Agentic AI Hackathon",
+      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1771078",
+      "date": "2026-10-24T05:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "org": "Product Space",
       "tags": [
+        "ai",
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1769328",
+      "id": "unstop-1769180",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Hackathon",
-      "url": "https://unstop.com/hackathons/hackathon-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769328",
+      "name": "Circuit Debugging",
+      "url": "https://unstop.com/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
       "date": "2026-10-25T18:30:00.000Z",
       "location": "Online",
       "online": true,
@@ -426,22 +395,6 @@
       "org": "Narsee Monjee Institute of Management Studies",
       "tags": [
         "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770859",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "When Lean Has No Slack: Axiom & Next Operations Case Challenge 2026",
-      "url": "https://unstop.com/competitions/when-lean-has-no-slack-axiom-next-operations-case-challenge-2026-nova-exilaro26-xlri-delhi-1770859",
-      "date": "2026-10-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xavier School of Management (XLRI), Delhi",
-      "tags": [
-        "education"
       ],
       "rwanda": false
     },
@@ -526,6 +479,22 @@
       "online": true,
       "prize": "",
       "org": "Hackathon Raptors",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770609",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "WH Versehack",
+      "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
+      "date": "2026-10-30T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Writers Haven",
       "tags": [
         "web"
       ],
