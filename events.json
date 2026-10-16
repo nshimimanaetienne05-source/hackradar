@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-15T21:01:43.654Z",
+  "updated": "2026-10-16T03:31:44.579Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (22)",
+    "Unstop": "ok (21)",
     "MLH": "ok (68)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31520",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "RESPAWN",
-      "url": "https://respawn.devpost.com/",
-      "date": "2026-10-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 15,000",
-      "org": "MS Ramaiah University of Applied Science",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1766605",
       "type": "competition",
@@ -141,24 +125,6 @@
       "tags": [
         "ai",
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31617",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IEEE Hack For Humanity",
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "date": "2026-10-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IEEE Charlotte Section",
-      "tags": [
-        "ai",
-        "web",
-        "education"
       ],
       "rwanda": false
     },
@@ -295,6 +261,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31617",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "date": "2026-10-21T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IEEE Charlotte Section",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1770666",
       "type": "hackathon",
       "source": "Unstop",
@@ -393,22 +377,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770724",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Financial Analyst Interview Prep Challenge 1",
-      "url": "https://unstop.com/quiz/financial-analyst-interview-prep-challenge-1-campusfirst-india-1770724",
-      "date": "2026-10-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "CampusFirst India",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-29114",
       "type": "hackathon",
       "source": "Devpost",
@@ -458,6 +426,22 @@
       "org": "Narsee Monjee Institute of Management Studies",
       "tags": [
         "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770859",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "When Lean Has No Slack: Axiom & Next Operations Case Challenge 2026",
+      "url": "https://unstop.com/competitions/when-lean-has-no-slack-axiom-next-operations-case-challenge-2026-nova-exilaro26-xlri-delhi-1770859",
+      "date": "2026-10-27T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier School of Management (XLRI), Delhi",
+      "tags": [
+        "education"
       ],
       "rwanda": false
     },
