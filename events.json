@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-16T10:53:41.689Z",
+  "updated": "2026-10-16T16:13:47.652Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (20)",
-    "MLH": "ok (68)",
+    "Unstop": "ok (17)",
+    "MLH": "ok (69)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
-    "Opportunities for Africans": "ok (0)"
+    "Opportunities for Africans": "ok (1)"
   },
   "events": [
     {
@@ -80,22 +80,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770865",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 1: The Price Is Right",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-1-the-price-is-right-iim-rohtak-1770865",
-      "date": "2026-10-18T18:29:50.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31180",
       "type": "hackathon",
       "source": "Devpost",
@@ -109,6 +93,23 @@
       "tags": [
         "ai",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31512",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Neeley AI Forward: AI Innovation Competition",
+      "url": "https://neeley-ai-forward.devpost.com/",
+      "date": "2026-10-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Texas Christian University",
+      "tags": [
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -297,22 +298,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770422",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "BuildLab 2026",
-      "url": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
-      "date": "2026-10-24T04:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Frontend Arena",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1771078",
       "type": "hackathon",
       "source": "Unstop",
@@ -379,22 +364,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770963",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Business of Brands 2026 - The Ultimate Business Quiz",
-      "url": "https://unstop.com/quiz/business-of-brands-2026-the-ultimate-business-quiz-nmims-1770963",
-      "date": "2026-10-27T13:00:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee Institute of Management Studies",
-      "tags": [
-        "fintech"
       ],
       "rwanda": false
     },
@@ -497,22 +466,6 @@
       "org": "Writers Haven",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770219",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Obsidian Labs CTF 2026- Jeopardy-Style Cybersecurity Challenge",
-      "url": "https://unstop.com/hackathons/obsidian-labs-ctf-2026-jeopardy-style-cybersecurity-challenge-obsidian-labs-1770219",
-      "date": "2026-10-30T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Obsidian Labs",
-      "tags": [
-        "security"
       ],
       "rwanda": false
     },
@@ -620,6 +573,40 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31736",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Graph Hacks",
+      "url": "https://graph-hacks.devpost.com/",
+      "date": "2026-10-31T23:59:00.000Z",
+      "location": "Online, from anywhere",
+      "online": true,
+      "prize": "",
+      "org": "Hacker's Unity",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769404",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Neural Storm",
+      "url": "https://unstop.com/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
+      "date": "2026-11-02T14:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jawaharlal Nehru Technological University (JNTUH), Hyderabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31400",
       "type": "hackathon",
       "source": "Devpost",
@@ -635,6 +622,38 @@
         "web",
         "fintech",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-the-world-intellectual-property-organization-wipo-intellectual-property-moot-cou",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "The World Intellectual Property Organization (WIPO) Intellectual Property Moot Court Competition 2027 for law students ( Fully Funded to In-person finals at WIPO Headquarters in Geneva, Switzerland)",
+      "url": "https://www.opportunitiesforafricans.com/world-intellectual-property-organization-wipo-intellectual-property-moot-court-competition-2027/",
+      "date": "2026-11-06T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771226",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "It’s Done Bro | A Gen-Z Quiz",
+      "url": "https://unstop.com/quiz/its-done-bro-a-gen-z-quiz-quizarc-1771226",
+      "date": "2026-11-08T13:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Quizarc",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -689,6 +708,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1771084",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "The Last Daemon",
+      "url": "https://unstop.com/hackathons/the-last-daemon-beunwrapd-1771084",
+      "date": "2026-11-12T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Beunwrapd",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -719,22 +754,6 @@
       "org": "STEMise",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770710",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Know Your Mind: The 7-Day Intelligence Streak Challenge",
-      "url": "https://unstop.com/competitions/know-your-mind-the-7-day-intelligence-streak-challenge-hirehelp-ai-1770710",
-      "date": "2026-11-16T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HireHelp AI",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
