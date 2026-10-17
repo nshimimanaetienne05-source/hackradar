@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-16T20:36:55.424Z",
+  "updated": "2026-10-17T03:22:18.619Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (17)",
+    "Unstop": "ok (18)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
@@ -93,6 +93,22 @@
       "org": "Omnirush",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770890",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Policy Prism 2.0 - Bridge the Gap",
+      "url": "https://unstop.com/competitions/policy-prism-20-bridge-the-gap-international-management-institute-imi-new-delhi-1770890",
+      "date": "2026-10-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "International Management Institute (IMI), New Delhi",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -740,24 +756,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31626",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Hackathon Agéntico SoftwareChido 2026B",
-      "url": "https://hackathon-agentico-2026b.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ITESO",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -784,22 +782,6 @@
       "online": false,
       "prize": "",
       "org": "",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-28603",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "MCA 2026 projects",
-      "url": "https://mca-2026-projects.devpost.com/",
-      "date": "2026-12-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mizzou Computing Association",
       "tags": [
         "web"
       ],
