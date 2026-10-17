@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-17T03:22:18.619Z",
+  "updated": "2026-10-17T10:16:42.281Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (18)",
+    "Unstop": "ok (20)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
@@ -26,6 +26,22 @@
         "web",
         "education",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771533",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Reporeboot'26",
+      "url": "https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533",
+      "date": "2026-10-18T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -76,38 +92,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769914",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Omnirush Agentic Buildathon 2026",
-      "url": "https://unstop.com/hackathons/omnirush-agentic-buildathon-2026-omnirush-1769914",
-      "date": "2026-10-19T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Omnirush",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770890",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Policy Prism 2.0 - Bridge the Gap",
-      "url": "https://unstop.com/competitions/policy-prism-20-bridge-the-gap-international-management-institute-imi-new-delhi-1770890",
-      "date": "2026-10-19T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "International Management Institute (IMI), New Delhi",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -196,52 +180,36 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770876",
+      "id": "unstop-1771422",
       "type": "competition",
       "source": "Unstop",
-      "name": "General Case Study Competition",
-      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1770876",
-      "date": "2026-10-21T06:31:01.000Z",
+      "name": "The Data Moat: An AI-Powered EdTech Case Competition",
+      "url": "https://unstop.com/competitions/the-data-moat-an-ai-powered-edtech-case-competition-indian-institute-of-technology-iit-patna-1771422",
+      "date": "2026-10-21T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Rising Scholars",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31617",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IEEE Hack For Humanity",
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "date": "2026-10-21T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IEEE Charlotte Section",
+      "org": "Indian Institute of Technology (IIT), Patna",
       "tags": [
         "ai",
-        "web",
+        "data",
         "education"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1770666",
-      "type": "hackathon",
+      "id": "unstop-1771544",
+      "type": "competition",
       "source": "Unstop",
-      "name": "recHERsion 2026 | Women-Only Hackathon",
-      "url": "https://unstop.com/hackathons/rechersion-2026-women-only-hackathon-nitk-surathkal-1770666",
-      "date": "2026-10-23T18:30:00.000Z",
+      "name": "Samvad: Call For Article",
+      "url": "https://unstop.com/competitions/samvad-call-for-article-sp-mandalis-prin-l-n-welingkar-institute-of-management-development-research-mumbai--1771544",
+      "date": "2026-10-23T18:29:19.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
       "tags": [
-        "web"
+        "education"
       ],
       "rwanda": false
     },
@@ -274,22 +242,6 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Technology (IIT), Ropar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770422",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "BuildLab 2026",
-      "url": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
-      "date": "2026-10-24T04:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Frontend Arena",
       "tags": [
         "web"
       ],
@@ -329,6 +281,55 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1771515",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Prodyssey: The Product Management Challenge",
+      "url": "https://unstop.com/competitions/prodyssey-the-product-management-challenge-book-my-mentor-1771515",
+      "date": "2026-10-25T04:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Book My Mentor",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771427",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AI Product Hackathon",
+      "url": "https://unstop.com/hackathons/ai-product-hackathon-product-space-1771427",
+      "date": "2026-10-25T05:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Product Space",
+      "tags": [
+        "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771377",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Global Trade Challenge 2026, Edition 01: From Zero to Global",
+      "url": "https://unstop.com/competitions/global-trade-challenge-2026-edition-01-from-zero-to-global-azora-exim-1771377",
+      "date": "2026-10-25T18:28:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Azora Exim",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-29114",
       "type": "hackathon",
       "source": "Devpost",
@@ -349,6 +350,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1769975",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Design the Next Drop",
+      "url": "https://unstop.com/competitions/design-the-next-drop-the-tough-ones-private-limited-1769975",
+      "date": "2026-10-26T00:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "The Tough Ones Private Limited",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30447",
       "type": "hackathon",
       "source": "Devpost",
@@ -361,6 +378,22 @@
       "org": "Devpost",
       "tags": [
         "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771536",
+      "type": "pitch",
+      "source": "Unstop",
+      "name": "XPitch - Venture Capital Case Competition",
+      "url": "https://unstop.com/competitions/xpitch-venture-capital-case-competition-xvc-next-case-challenge-2026-nova-exilaro26-xlri-delhi-1771536",
+      "date": "2026-10-27T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier School of Management (XLRI), Delhi",
+      "tags": [
         "education"
       ],
       "rwanda": false
@@ -436,6 +469,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1771560",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Sankalp: Season 5 - A Consulting Case Competition",
+      "url": "https://unstop.com/competitions/sankalp-season-5-a-consulting-case-competition-nova-exilaro26-xlri-delhi-1771560",
+      "date": "2026-10-29T13:00:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier School of Management (XLRI), Delhi",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1770904",
       "type": "hackathon",
       "source": "Unstop",
@@ -464,6 +513,22 @@
       "org": "Writers Haven",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771497",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AI Skill Assessment – Test Your AI Knowledge",
+      "url": "https://unstop.com/quiz/ai-skill-assessment-test-your-ai-knowledge-ies-university-bhopal-1771497",
+      "date": "2026-10-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IES University, Bhopal",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -618,22 +683,6 @@
       "org": "",
       "tags": [
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771226",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "It’s Done Bro | A Gen-Z Quiz",
-      "url": "https://unstop.com/quiz/its-done-bro-a-gen-z-quiz-quizarc-1771226",
-      "date": "2026-11-08T13:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Quizarc",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
