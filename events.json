@@ -1,34 +1,15 @@
 {
-  "updated": "2026-10-17T10:16:42.281Z",
+  "updated": "2026-10-17T15:07:33.130Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (20)",
+    "Unstop": "ok (18)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "devpost-31684",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "NTU x ST Engineering Hackathon",
-      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
-      "date": "2026-10-17T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$2,500",
-      "org": "nanyang technological university",
-      "tags": [
-        "ai",
-        "web",
-        "education",
-        "security"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1771533",
       "type": "hackathon",
@@ -63,23 +44,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31180",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AI Lodge Hackathon 2026",
-      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
-      "date": "2026-10-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SMU Business Intelligence & Analytics",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "lablab-amd-developer-hackathon-act-iii",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -108,6 +72,23 @@
       "prize": "$9,117",
       "org": "hyperbloom hacks",
       "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31511",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "HEALTHHACK 48",
+      "url": "https://healthhack-48.devpost.com/",
+      "date": "2026-10-19T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HealthHack",
+      "tags": [
+        "health",
         "web"
       ],
       "rwanda": false
@@ -232,22 +213,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770730",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Oblivion - The Ultimate Capture The Flag (CTF) Competition",
-      "url": "https://unstop.com/hackathons/oblivion-the-ultimate-capture-the-flag-ctf-competition-indian-institute-of-technology-iit-ropar-1770730",
-      "date": "2026-10-24T03:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Ropar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1771078",
       "type": "hackathon",
       "source": "Unstop",
@@ -350,22 +315,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1769975",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Design the Next Drop",
-      "url": "https://unstop.com/competitions/design-the-next-drop-the-tough-ones-private-limited-1769975",
-      "date": "2026-10-26T00:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The Tough Ones Private Limited",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30447",
       "type": "hackathon",
       "source": "Devpost",
@@ -383,18 +332,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771536",
-      "type": "pitch",
+      "id": "unstop-1770970",
+      "type": "competition",
       "source": "Unstop",
-      "name": "XPitch - Venture Capital Case Competition",
-      "url": "https://unstop.com/competitions/xpitch-venture-capital-case-competition-xvc-next-case-challenge-2026-nova-exilaro26-xlri-delhi-1771536",
+      "name": "Equity Odyssey",
+      "url": "https://unstop.com/competitions/equity-odyssey-satywati-college-university-of-delhi-du-new-delhi-1770970",
       "date": "2026-10-27T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Xavier School of Management (XLRI), Delhi",
+      "org": "Satywati College, University of Delhi (DU), New Delhi",
       "tags": [
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -511,6 +460,22 @@
       "online": true,
       "prize": "",
       "org": "Writers Haven",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771573",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Tiny Hacks",
+      "url": "https://unstop.com/hackathons/tiny-hacks-vishveshwarya-group-of-institutions-vgi-greater-noida-uttar-pradesh-1771573",
+      "date": "2026-10-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Vishveshwarya Group of Institutions (VGI), Greater Noida, Uttar Pradesh",
       "tags": [
         "web"
       ],
@@ -699,22 +664,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1758745",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "BUiLDX",
-      "url": "https://unstop.com/hackathons/buildx-36-hours-online-hackathon-code-a-nova-1758745",
-      "date": "2026-11-09T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Code-A-Nova",
-      "tags": [
         "web"
       ],
       "rwanda": false
