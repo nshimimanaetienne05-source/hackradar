@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T15:07:33.130Z",
+  "updated": "2026-10-17T20:15:21.588Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -27,19 +27,18 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31512",
+      "id": "devpost-31591",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "Neeley AI Forward: AI Innovation Competition",
-      "url": "https://neeley-ai-forward.devpost.com/",
+      "name": "Technica 2026",
+      "url": "https://technica-2026.devpost.com/",
       "date": "2026-10-18T23:59:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Texas Christian University",
+      "org": "technica",
       "tags": [
-        "ai",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -72,23 +71,6 @@
       "prize": "$9,117",
       "org": "hyperbloom hacks",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31511",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HEALTHHACK 48",
-      "url": "https://healthhack-48.devpost.com/",
-      "date": "2026-10-19T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HealthHack",
-      "tags": [
-        "health",
         "web"
       ],
       "rwanda": false
@@ -191,6 +173,22 @@
       "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
       "tags": [
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771600",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "IndiaStox Nifty Midcap 100 Predictions Challenge",
+      "url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1771600",
+      "date": "2026-10-23T18:30:21.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -418,22 +416,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771560",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Sankalp: Season 5 - A Consulting Case Competition",
-      "url": "https://unstop.com/competitions/sankalp-season-5-a-consulting-case-competition-nova-exilaro26-xlri-delhi-1771560",
-      "date": "2026-10-29T13:00:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xavier School of Management (XLRI), Delhi",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1770904",
       "type": "hackathon",
       "source": "Unstop",
@@ -530,22 +512,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31619",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Pumpkin Playground",
-      "url": "https://pumpkin-playground.devpost.com/",
-      "date": "2026-10-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$30",
-      "org": "ACM Long Beach",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -664,6 +630,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1758745",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "BUiLDX",
+      "url": "https://unstop.com/hackathons/buildx-36-hours-online-hackathon-code-a-nova-1758745",
+      "date": "2026-11-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Code-A-Nova",
+      "tags": [
         "web"
       ],
       "rwanda": false
