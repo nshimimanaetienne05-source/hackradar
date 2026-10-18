@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-18T10:32:28.620Z",
+  "updated": "2026-10-18T15:30:27.889Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (17)",
+    "Unstop": "ok (10)",
     "MLH": "ok (76)",
-    "Lablab.ai": "ok (3)",
+    "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (2)"
   },
@@ -43,19 +43,55 @@
       "rwanda": false
     },
     {
-      "id": "lablab-amd-developer-hackathon-act-iii",
+      "id": "devpost-31512",
       "type": "hackathon",
-      "source": "Lablab.ai",
-      "name": "AMD Developer Hackathon: ACT III",
-      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii",
+      "source": "Devpost",
+      "name": "Neeley AI Forward: AI Innovation Competition",
+      "url": "https://neeley-ai-forward.devpost.com/",
       "date": "2026-10-18T23:59:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "lablab.ai",
+      "org": "Texas Christian University",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31180",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AI Lodge Hackathon 2026",
+      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+      "date": "2026-10-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SMU Business Intelligence & Analytics",
       "tags": [
         "ai",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31684",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "NTU x ST Engineering Hackathon",
+      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
+      "date": "2026-10-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$2,500",
+      "org": "nanyang technological university",
+      "tags": [
+        "ai",
+        "web",
+        "education",
+        "security"
       ],
       "rwanda": false
     },
@@ -88,22 +124,6 @@
       "org": "HealthHack",
       "tags": [
         "health",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1744244",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Xperia 2026",
-      "url": "https://unstop.com/competitions/xperia-2026-nmims-indore-1744244",
-      "date": "2026-10-20T08:30:48.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee Institute of Management Studies (NMIMS), Indore",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -210,23 +230,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771078",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Agentic AI Hackathon",
-      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1771078",
-      "date": "2026-10-24T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31139",
       "type": "hackathon",
       "source": "Devpost",
@@ -238,23 +241,6 @@
       "prize": "$57,866",
       "org": "Student Organization",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771427",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "AI Product Hackathon",
-      "url": "https://unstop.com/hackathons/ai-product-hackathon-product-space-1771427",
-      "date": "2026-10-25T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "ai",
         "web"
       ],
       "rwanda": false
@@ -327,22 +313,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771841",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mind Race Championship: 1v1 Maths & Logic Battle",
-      "url": "https://unstop.com/quiz/mind-race-championship-1v1-maths-logic-battle-mind-race-1771841",
-      "date": "2026-10-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mind Race",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -431,22 +401,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771791",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "BizQuezt 36: India’s Unicorn Playbook",
-      "url": "https://unstop.com/quiz/bizquezt-36-indias-unicorn-playbook-ies-university-bhopal-1771791",
-      "date": "2026-10-30T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IES University, Bhopal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30790",
       "type": "hackathon",
       "source": "Devpost",
@@ -483,18 +437,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771865",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Gen AI Quiz Competition",
-      "url": "https://unstop.com/quiz/gen-ai-quiz-competition-biforgence-private-limited-1771865",
-      "date": "2026-10-31T18:30:00.000Z",
+      "id": "devpost-31619",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Pumpkin Playground",
+      "url": "https://pumpkin-playground.devpost.com/",
+      "date": "2026-10-30T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "Biforgence Private Limited",
+      "prize": "$30",
+      "org": "ACM Long Beach",
       "tags": [
-        "ai"
+        "web"
       ],
       "rwanda": false
     },
@@ -546,22 +500,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769404",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Neural Storm",
-      "url": "https://unstop.com/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
-      "date": "2026-11-02T14:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Jawaharlal Nehru Technological University (JNTUH), Hyderabad",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
