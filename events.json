@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-17T20:15:21.588Z",
+  "updated": "2026-10-18T03:27:23.607Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (18)",
-    "MLH": "ok (70)",
+    "Unstop": "ok (17)",
+    "MLH": "ok (76)",
     "Lablab.ai": "ok (3)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (2)"
@@ -143,24 +143,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771422",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Data Moat: An AI-Powered EdTech Case Competition",
-      "url": "https://unstop.com/competitions/the-data-moat-an-ai-powered-edtech-case-competition-indian-institute-of-technology-iit-patna-1771422",
-      "date": "2026-10-21T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Patna",
-      "tags": [
-        "ai",
-        "data",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1771544",
       "type": "competition",
       "source": "Unstop",
@@ -272,22 +254,6 @@
       "org": "Product Space",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771377",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Global Trade Challenge 2026, Edition 01: From Zero to Global",
-      "url": "https://unstop.com/competitions/global-trade-challenge-2026-edition-01-from-zero-to-global-azora-exim-1771377",
-      "date": "2026-10-25T18:28:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Azora Exim",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -598,6 +564,23 @@
         "web",
         "fintech",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771594",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Omnikon Bug Hunt 2026 - Web Security Challenge",
+      "url": "https://unstop.com/competitions/omnikon-bug-hunt-2026-web-security-challenge-omnikon-1771594",
+      "date": "2026-11-05T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Omnikon",
+      "tags": [
+        "web",
+        "security"
       ],
       "rwanda": false
     },
