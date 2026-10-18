@@ -1,64 +1,15 @@
 {
-  "updated": "2026-10-18T15:30:27.889Z",
+  "updated": "2026-10-18T20:13:13.381Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
     "Unstop": "ok (10)",
-    "MLH": "ok (76)",
+    "MLH": "ok (72)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "unstop-1771533",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Reporeboot'26",
-      "url": "https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533",
-      "date": "2026-10-18T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31591",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Technica 2026",
-      "url": "https://technica-2026.devpost.com/",
-      "date": "2026-10-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "technica",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31512",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Neeley AI Forward: AI Innovation Competition",
-      "url": "https://neeley-ai-forward.devpost.com/",
-      "date": "2026-10-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Texas Christian University",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31180",
       "type": "hackathon",
@@ -73,25 +24,6 @@
       "tags": [
         "ai",
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31684",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "NTU x ST Engineering Hackathon",
-      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
-      "date": "2026-10-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$2,500",
-      "org": "nanyang technological university",
-      "tags": [
-        "ai",
-        "web",
-        "education",
-        "security"
       ],
       "rwanda": false
     },
@@ -196,6 +128,40 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1772015",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Branded & Buttered: Quiz 2: The \"Today's Special\" Illusion",
+      "url": "https://unstop.com/quiz/branded-buttered-quiz-2-the-todays-special-illusion-iim-rohtak-1772015",
+      "date": "2026-10-21T18:29:12.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31617",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "date": "2026-10-21T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IEEE Charlotte Section",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1771544",
       "type": "competition",
       "source": "Unstop",
@@ -241,6 +207,23 @@
       "prize": "$57,866",
       "org": "Student Organization",
       "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771427",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AI Product Hackathon",
+      "url": "https://unstop.com/hackathons/ai-product-hackathon-product-space-1771427",
+      "date": "2026-10-25T05:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Product Space",
+      "tags": [
+        "ai",
         "web"
       ],
       "rwanda": false
@@ -349,22 +332,6 @@
         "health",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771263",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Brand Bandits: Same Vibe. Different Brand. Zero Lawsuits.",
-      "url": "https://unstop.com/competitions/brand-bandits-same-vibe-different-brand-zero-lawsuits-indian-institute-of-technology-iit-patna-1771263",
-      "date": "2026-10-29T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Patna",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -654,6 +621,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31773",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "LaunchPad Hacks",
+      "url": "https://launchpad-hacks.devpost.com/",
+      "date": "2026-11-20T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$300",
+      "org": "Hack4TodayOrg",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
