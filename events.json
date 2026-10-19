@@ -1,32 +1,15 @@
 {
-  "updated": "2026-10-18T20:13:13.381Z",
+  "updated": "2026-10-19T03:38:41.559Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (10)",
-    "MLH": "ok (72)",
+    "Unstop": "ok (9)",
+    "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "devpost-31180",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AI Lodge Hackathon 2026",
-      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
-      "date": "2026-10-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SMU Business Intelligence & Analytics",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31096",
       "type": "hackathon",
@@ -128,22 +111,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772015",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 2: The \"Today's Special\" Illusion",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-2-the-todays-special-illusion-iim-rohtak-1772015",
-      "date": "2026-10-21T18:29:12.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31617",
       "type": "hackathon",
       "source": "Devpost",
@@ -154,6 +121,24 @@
       "online": true,
       "prize": "",
       "org": "IEEE Charlotte Section",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31676",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "HACK INSIGHT",
+      "url": "https://hack-insight.devpost.com/",
+      "date": "2026-10-22T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$144",
+      "org": "NED ",
       "tags": [
         "ai",
         "web",
@@ -471,6 +456,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31736",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "CreateAThon",
+      "url": "https://graph-hacks.devpost.com/",
+      "date": "2026-10-31T23:59:00.000Z",
+      "location": "Online, from anywhere",
+      "online": true,
+      "prize": "",
+      "org": "Hacker's Unity",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31400",
       "type": "hackathon",
       "source": "Devpost",
@@ -683,6 +685,22 @@
       "online": false,
       "prize": "",
       "org": "",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-28603",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "MCA 2026 projects",
+      "url": "https://mca-2026-projects.devpost.com/",
+      "date": "2026-12-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mizzou Computing Association",
       "tags": [
         "web"
       ],
