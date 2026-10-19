@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T03:38:41.559Z",
+  "updated": "2026-10-19T12:24:27.164Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -22,23 +22,6 @@
       "prize": "$9,117",
       "org": "hyperbloom hacks",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31511",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HEALTHHACK 48",
-      "url": "https://healthhack-48.devpost.com/",
-      "date": "2026-10-19T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HealthHack",
-      "tags": [
-        "health",
         "web"
       ],
       "rwanda": false
@@ -147,6 +130,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1771740",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Vichaar Manthan 26",
+      "url": "https://unstop.com/competitions/vichaar-manthan-26-shaheed-bhagat-singh-evening-college-sbsec-university-of-delhi-du-new-delhi-1771740",
+      "date": "2026-10-23T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Shaheed Bhagat Singh Evening College (SBSEC), University of Delhi (DU), New Delhi",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1771544",
       "type": "competition",
       "source": "Unstop",
@@ -197,18 +196,17 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771427",
+      "id": "devpost-31798",
       "type": "hackathon",
-      "source": "Unstop",
-      "name": "AI Product Hackathon",
-      "url": "https://unstop.com/hackathons/ai-product-hackathon-product-space-1771427",
-      "date": "2026-10-25T05:30:00.000Z",
+      "source": "Devpost",
+      "name": "Taskforge",
+      "url": "https://taskforge.devpost.com/",
+      "date": "2026-10-24T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "Product Space",
+      "prize": "$200",
+      "org": "HackathonForEveryone",
       "tags": [
-        "ai",
         "web"
       ],
       "rwanda": false
@@ -230,6 +228,22 @@
         "blockchain",
         "climate",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1772304",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Code Conqueror India 2026 - National Hackathon",
+      "url": "https://unstop.com/hackathons/code-conqueror-india-2026-national-hackathon-wecodecoders-1772304",
+      "date": "2026-10-26T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "WeCodeCoders",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -317,22 +331,6 @@
         "health",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770609",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "WH Versehack",
-      "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
-      "date": "2026-10-30T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Writers Haven",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -492,18 +490,18 @@
       "rwanda": false
     },
     {
-      "id": "feed-the-world-intellectual-property-organization-wipo-intellectual-property-moot-cou",
+      "id": "feed-the-africa-jobs-fund-sdrb-somalia-business-plan-competition-2026-for-young-somal",
       "type": "competition",
       "source": "Opportunities for Africans",
-      "name": "The World Intellectual Property Organization (WIPO) Intellectual Property Moot Court Competition 2027 for law students ( Fully Funded to In-person finals at WIPO Headquarters in Geneva, Switzerland)",
-      "url": "https://www.opportunitiesforafricans.com/world-intellectual-property-organization-wipo-intellectual-property-moot-court-competition-2027/",
+      "name": "The Africa Jobs Fund × SDRB Somalia Business Plan Competition 2026 for young Somalis",
+      "url": "https://www.opportunitiesforafricans.com/the-africa-jobs-fund-x-sdrb-somalia-business-plan-competition-2026-for-young-somalis/",
       "date": "2026-11-06T21:59:00.000Z",
       "location": "",
       "online": false,
       "prize": "",
       "org": "",
       "tags": [
-        "education"
+        "fintech"
       ],
       "rwanda": false
     },
@@ -609,6 +607,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1772263",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Brainwave - Interschool Quiz Competition",
+      "url": "https://unstop.com/quiz/brainwave-interschool-quiz-competition-indian-school-of-business-finance-1772263",
+      "date": "2026-11-17T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian School Of Business & Finance",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31024",
       "type": "hackathon",
       "source": "Devpost",
@@ -685,22 +700,6 @@
       "online": false,
       "prize": "",
       "org": "",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-28603",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "MCA 2026 projects",
-      "url": "https://mca-2026-projects.devpost.com/",
-      "date": "2026-12-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mizzou Computing Association",
       "tags": [
         "web"
       ],
