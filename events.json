@@ -1,15 +1,31 @@
 {
-  "updated": "2026-10-20T11:02:56.420Z",
+  "updated": "2026-10-20T16:28:42.724Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (14)",
+    "Unstop": "ok (17)",
     "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (2)"
+    "Opportunities for Africans": "ok (0)"
   },
   "events": [
+    {
+      "id": "unstop-1772173",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Inner Ravana - Conquer the Ten Within",
+      "url": "https://unstop.com/quiz/inner-ravana-conquer-the-ten-within-iim-rohtak-1772173",
+      "date": "2026-10-20T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
     {
       "id": "unstop-1769108",
       "type": "competition",
@@ -78,24 +94,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31609",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "InternWell Hack 2.0",
-      "url": "https://interwell-hack2-0.devpost.com/",
-      "date": "2026-10-20T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 1,000",
-      "org": "InternWell-SLIET",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31617",
       "type": "hackathon",
       "source": "Devpost",
@@ -119,7 +117,7 @@
       "source": "Devpost",
       "name": "HACK INSIGHT",
       "url": "https://hack-insight.devpost.com/",
-      "date": "2026-10-22T23:59:00.000Z",
+      "date": "2026-10-21T23:59:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "$144",
@@ -315,6 +313,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1770773",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "FTS Open Trivia Challenge",
+      "url": "https://unstop.com/quiz/fts-open-trivia-challenge-nit-rourkela-1770773",
+      "date": "2026-10-27T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Rourkela",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30984",
       "type": "hackathon",
       "source": "Devpost",
@@ -385,20 +399,18 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31789",
+      "id": "unstop-1770609",
       "type": "hackathon",
-      "source": "Devpost",
-      "name": "STEM2Connect AI Hackathon",
-      "url": "https://stem2connect-online-hackathon.devpost.com/",
-      "date": "2026-10-28T23:59:00.000Z",
+      "source": "Unstop",
+      "name": "WH Versehack",
+      "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
+      "date": "2026-10-30T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "STEM2Connect",
+      "org": "Writers Haven",
       "tags": [
-        "ai",
-        "web",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -455,23 +467,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-29411",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Galuxium Nexus V2",
-      "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$14,644",
-      "org": "Galuxium",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31627",
       "type": "hackathon",
       "source": "Devpost",
@@ -488,18 +483,19 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772376",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Damage Control",
-      "url": "https://unstop.com/competitions/damage-control-flame-university-1772376",
-      "date": "2026-11-01T18:30:00.000Z",
-      "location": "Online",
+      "id": "devpost-31736",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "CreateAThon",
+      "url": "https://graph-hacks.devpost.com/",
+      "date": "2026-10-31T23:59:00.000Z",
+      "location": "Online, from anywhere",
       "online": true,
       "prize": "",
-      "org": "FLAME University ",
+      "org": "Hacker's Unity",
       "tags": [
-        "web"
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -544,22 +540,6 @@
       "source": "Opportunity Desk",
       "name": "AJF × SDRB Somalia Business Plan Competition 2026",
       "url": "https://opportunitydesk.org/2026/10/20/ajf-sdrb-somalia-business-plan-competition-2026/",
-      "date": "2026-11-06T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-the-africa-jobs-fund-sdrb-somalia-business-plan-competition-2026-for-young-somal",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "The Africa Jobs Fund × SDRB Somalia Business Plan Competition 2026 for young Somalis",
-      "url": "https://www.opportunitiesforafricans.com/the-africa-jobs-fund-x-sdrb-somalia-business-plan-competition-2026-for-young-somalis/",
       "date": "2026-11-06T21:59:00.000Z",
       "location": "",
       "online": false,
@@ -706,6 +686,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31789",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "STEM2Connect AI Hackathon",
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "date": "2026-11-21T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "STEM2Connect",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -768,6 +766,24 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-30789",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Arbiter Hacks V1",
+      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "date": "2026-12-21T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$3,800",
+      "org": "Arbiter ",
+      "tags": [
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -835,22 +851,6 @@
       "org": "Bidaya",
       "tags": [
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-sadc-media-awards-competition-2027-for-journalists-from-southern-africa-usd-14-0",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "SADC Media Awards Competition 2027 for Journalists from Southern Africa (USD 14,000 in prizes)",
-      "url": "https://www.opportunitiesforafricans.com/sadc-media-awards-competition-2027-for-journalists-from-southern-africa/",
-      "date": "2027-02-28T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     }
