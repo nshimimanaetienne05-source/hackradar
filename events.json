@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-19T22:04:47.909Z",
+  "updated": "2026-10-20T03:49:31.643Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (14)",
+    "Unstop": "ok (15)",
     "MLH": "ok (67)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -311,6 +311,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770773",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "FTS Open Trivia Challenge",
+      "url": "https://unstop.com/quiz/fts-open-trivia-challenge-nit-rourkela-1770773",
+      "date": "2026-10-27T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Rourkela",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
