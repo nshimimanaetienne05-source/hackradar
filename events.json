@@ -1,47 +1,15 @@
 {
-  "updated": "2026-10-20T16:28:42.724Z",
+  "updated": "2026-10-20T21:21:02.542Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (17)",
-    "MLH": "ok (68)",
+    "Unstop": "ok (14)",
+    "MLH": "ok (69)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (0)"
+    "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1772173",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Inner Ravana - Conquer the Ten Within",
-      "url": "https://unstop.com/quiz/inner-ravana-conquer-the-ten-within-iim-rohtak-1772173",
-      "date": "2026-10-20T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769108",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Call for Research Articles for The Economics Association (2026-27)",
-      "url": "https://unstop.com/competitions/call-for-research-articles-for-the-economics-association-2026-27-sri-venkateswara-collegedu-1769108",
-      "date": "2026-10-20T18:29:44.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Sri Venkateswara College(DU)",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "manual-0-nisr-2026-big-data-hackathon-university-students-in-rwanda",
       "type": "hackathon",
@@ -280,6 +248,22 @@
       "rwanda": false
     },
     {
+      "id": "mlh-fph-example-2026",
+      "type": "hackathon",
+      "source": "MLH",
+      "name": "fph-example",
+      "url": "https://events.mlh.com/events/15611-fph-example?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=fph-example",
+      "date": "2026-10-25T23:59:00.000Z",
+      "location": "Everywhere, Worldwide, US",
+      "online": false,
+      "prize": "",
+      "org": "Major League Hacking",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1772304",
       "type": "hackathon",
       "source": "Unstop",
@@ -309,22 +293,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1770773",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FTS Open Trivia Challenge",
-      "url": "https://unstop.com/quiz/fts-open-trivia-challenge-nit-rourkela-1770773",
-      "date": "2026-10-27T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Rourkela",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -500,6 +468,40 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1772376",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Damage Control",
+      "url": "https://unstop.com/competitions/damage-control-flame-university-1772376",
+      "date": "2026-11-01T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "FLAME University ",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31666",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Mathematics for systems security",
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Software Engineering Club (DEV)",
+      "tags": [
+        "ai",
+        "education",
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31400",
       "type": "hackathon",
       "source": "Devpost",
@@ -515,22 +517,6 @@
         "web",
         "fintech",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1772511",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hacksphere 2.0",
-      "url": "https://unstop.com/competitions/hacksphere-20-sai-ram-engineering-college-1772511",
-      "date": "2026-11-06T13:40:54.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Sai Ram Engineering College",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -704,6 +690,23 @@
       "rwanda": false
     },
     {
+      "id": "feed-the-ye-youth-ecopreneurs-programme-yeco-2026-2027-for-young-green-entrepreneurs-",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "The Ye! Youth Ecopreneurs Programme (YECO) 2026/2027 for young Green Entrepreneurs ($100,000 prize & All-Expenses-Paid Trip to International Conference)",
+      "url": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
+      "date": "2026-11-22T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "fintech",
+        "climate"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -834,22 +837,6 @@
       "tags": [
         "ai",
         "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31715",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "The Arcticathon",
-      "url": "https://the-arcticathon.devpost.com/",
-      "date": "2027-01-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$100,500",
-      "org": "Bidaya",
-      "tags": [
         "education"
       ],
       "rwanda": false
