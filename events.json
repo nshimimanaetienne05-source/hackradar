@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-20T03:49:31.643Z",
+  "updated": "2026-10-20T11:02:56.420Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (15)",
-    "MLH": "ok (67)",
+    "Unstop": "ok (14)",
+    "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (0)",
+    "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "unstop-1772173",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Inner Ravana - Conquer the Ten Within",
-      "url": "https://unstop.com/quiz/inner-ravana-conquer-the-ten-within-iim-rohtak-1772173",
-      "date": "2026-10-20T12:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1769108",
       "type": "competition",
@@ -182,6 +166,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1771520",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Prajwalan - 2K26",
+      "url": "https://unstop.com/hackathons/prajwalan-2k26-ramdeobaba-university-1771520",
+      "date": "2026-10-24T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Ramdeobaba University",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1772461",
       "type": "competition",
       "source": "Unstop",
@@ -315,22 +315,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770773",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FTS Open Trivia Challenge",
-      "url": "https://unstop.com/quiz/fts-open-trivia-challenge-nit-rourkela-1770773",
-      "date": "2026-10-27T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Rourkela",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30984",
       "type": "hackathon",
       "source": "Devpost",
@@ -401,18 +385,20 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771573",
+      "id": "devpost-31789",
       "type": "hackathon",
-      "source": "Unstop",
-      "name": "Tiny Hacks",
-      "url": "https://unstop.com/hackathons/tiny-hacks-vishveshwarya-group-of-institutions-vgi-greater-noida-uttar-pradesh-1771573",
-      "date": "2026-10-30T18:30:00.000Z",
+      "source": "Devpost",
+      "name": "STEM2Connect AI Hackathon",
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "date": "2026-10-28T23:59:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Vishveshwarya Group of Institutions (VGI), Greater Noida, Uttar Pradesh",
+      "org": "STEM2Connect",
       "tags": [
-        "web"
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -502,23 +488,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31736",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CreateAThon",
-      "url": "https://graph-hacks.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online, from anywhere",
-      "online": true,
-      "prize": "",
-      "org": "Hacker's Unity",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1772376",
       "type": "competition",
       "source": "Unstop",
@@ -566,6 +535,22 @@
       "org": "Sai Ram Engineering College",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-ajf-sdrb-somalia-business-plan-competition-2026",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "AJF × SDRB Somalia Business Plan Competition 2026",
+      "url": "https://opportunitydesk.org/2026/10/20/ajf-sdrb-somalia-business-plan-competition-2026/",
+      "date": "2026-11-06T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "fintech"
       ],
       "rwanda": false
     },
@@ -738,6 +723,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1772584",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "EO Mumbai Global Student Entrepreneur Awards 2026",
+      "url": "https://unstop.com/competitions/eo-mumbai-global-student-entrepreneur-awards-2026-eo-mumbai-1772584",
+      "date": "2026-11-30T06:28:08.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "EO Mumbai",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1771785",
       "type": "hackathon",
       "source": "Unstop",
@@ -816,6 +818,22 @@
       "tags": [
         "ai",
         "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31715",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "The Arcticathon",
+      "url": "https://the-arcticathon.devpost.com/",
+      "date": "2027-01-30T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$100,500",
+      "org": "Bidaya",
+      "tags": [
         "education"
       ],
       "rwanda": false
