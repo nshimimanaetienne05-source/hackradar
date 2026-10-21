@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:21:02.542Z",
+  "updated": "2026-10-21T03:40:01.155Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -10,57 +10,6 @@
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "manual-0-nisr-2026-big-data-hackathon-university-students-in-rwanda",
-      "type": "hackathon",
-      "rwanda": true,
-      "note": "Registration closes 20 Oct, submissions 30 Oct",
-      "source": "HackRadar",
-      "name": "NISR 2026 Big Data Hackathon (university students in Rwanda)",
-      "url": "https://statistics.gov.rw/about/hackathon/2026-hackathon-competition",
-      "date": "2026-10-20T21:59:00.000Z",
-      "location": "Rwanda",
-      "online": false,
-      "prize": "",
-      "org": "National Institute of Statistics of Rwanda",
-      "tags": [
-        "data",
-        "ai",
-        "climate"
-      ]
-    },
-    {
-      "id": "devpost-30781",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "UnivaBio ($40,000 in prizes)",
-      "url": "https://univabio.devpost.com/",
-      "date": "2026-10-20T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "BioCataalysis",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-30588",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "EurekaDev 2026",
-      "url": "https://eurekadev.devpost.com/",
-      "date": "2026-10-20T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$19,122",
-      "org": "Eureka Institute and UnivaDev",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31617",
       "type": "hackathon",
@@ -244,6 +193,22 @@
         "blockchain",
         "climate",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31777",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "GLITCHATHON",
+      "url": "https://glitchathon.devpost.com/",
+      "date": "2026-10-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "₹ 200",
+      "org": "sir padampat singhania university ",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -451,23 +416,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31736",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CreateAThon",
-      "url": "https://graph-hacks.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online, from anywhere",
-      "online": true,
-      "prize": "",
-      "org": "Hacker's Unity",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1772376",
       "type": "competition",
       "source": "Unstop",
@@ -498,6 +446,22 @@
         "ai",
         "education",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31793",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AQX Sports Analytics Data Bowl 4.0",
+      "url": "https://aqxanalyticsfour.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$50",
+      "org": "Devpost",
+      "tags": [
+        "data"
       ],
       "rwanda": false
     },
@@ -781,7 +745,7 @@
       "date": "2026-12-21T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$3,800",
+      "prize": "$7,800",
       "org": "Arbiter ",
       "tags": [
         "ai",
