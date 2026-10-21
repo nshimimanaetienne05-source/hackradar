@@ -1,33 +1,15 @@
 {
-  "updated": "2026-10-21T11:19:37.977Z",
+  "updated": "2026-10-21T16:45:54.820Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (14)",
-    "MLH": "ok (69)",
+    "Unstop": "ok (15)",
+    "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (1)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31617",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IEEE Hack For Humanity",
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "date": "2026-10-21T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IEEE Charlotte Section",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31676",
       "type": "hackathon",
@@ -39,6 +21,24 @@
       "online": true,
       "prize": "$144",
       "org": "NED ",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31617",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "date": "2026-10-21T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IEEE Charlotte Section",
       "tags": [
         "ai",
         "web",
@@ -245,22 +245,6 @@
       "rwanda": false
     },
     {
-      "id": "mlh-fph-example-2026",
-      "type": "hackathon",
-      "source": "MLH",
-      "name": "fph-example",
-      "url": "https://events.mlh.com/events/15611-fph-example?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=fph-example",
-      "date": "2026-10-25T23:59:00.000Z",
-      "location": "Everywhere, Worldwide, US",
-      "online": false,
-      "prize": "",
-      "org": "Major League Hacking",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1772304",
       "type": "hackathon",
       "source": "Unstop",
@@ -432,6 +416,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1772846",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "FirstCommit '26 — National Online Hackathon by CampusCode",
+      "url": "https://unstop.com/hackathons/firstcommit-26-national-online-hackathon-by-campuscode-campus-code-1772846",
+      "date": "2026-10-31T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Campus Code",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31627",
       "type": "hackathon",
       "source": "Devpost",
@@ -501,18 +501,18 @@
       "rwanda": false
     },
     {
-      "id": "feed-ajf-sdrb-somalia-business-plan-competition-2026",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "AJF × SDRB Somalia Business Plan Competition 2026",
-      "url": "https://opportunitydesk.org/2026/10/20/ajf-sdrb-somalia-business-plan-competition-2026/",
-      "date": "2026-11-06T21:59:00.000Z",
-      "location": "",
-      "online": false,
+      "id": "unstop-1772904",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Prasunex Innovathon 2026",
+      "url": "https://unstop.com/hackathons/prasunex-innovathon-2026-prasunex-1772904",
+      "date": "2026-11-03T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
       "prize": "",
-      "org": "",
+      "org": "PRASUNEX",
       "tags": [
-        "fintech"
+        "web"
       ],
       "rwanda": false
     },
@@ -715,6 +715,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773066",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Case Conclave",
+      "url": "https://unstop.com/competitions/case-conclave-arithmos-80-the-management-and-strategy-festival-narsee-monjee-college-of-commerce-and-econom-1773066",
+      "date": "2026-12-10T07:00:28.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
+      "tags": [
+        "fintech"
       ],
       "rwanda": false
     },
