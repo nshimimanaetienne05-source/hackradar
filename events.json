@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:40:01.155Z",
+  "updated": "2026-10-21T11:19:37.977Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -43,6 +43,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771036",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Hacksphere 3.0",
+      "url": "https://unstop.com/hackathons/hacksphere-30-birla-institute-of-technology-science-bits-pilani-hyderabad-campus-1771036",
+      "date": "2026-10-23T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Birla Institute of Technology & Science (BITS) Pilani, Hyderabad Campus",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -97,16 +113,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772461",
-      "type": "competition",
+      "id": "unstop-1772551",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Treasure Hunt",
-      "url": "https://unstop.com/competitions/treasure-hunt-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1772461",
-      "date": "2026-10-24T18:31:00.000Z",
+      "name": "ELUCode-6",
+      "url": "https://unstop.com/hackathons/elucode-6-edulinkup-1772551",
+      "date": "2026-10-24T09:00:20.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Vaish College of Engineering, Rohtak, Haryana",
+      "org": "EduLinkUp",
       "tags": [
         "web"
       ],
@@ -173,6 +189,22 @@
       "org": "Tryb",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1772672",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Data Detectives",
+      "url": "https://unstop.com/competitions/data-detectives-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1772672",
+      "date": "2026-10-25T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Vaish College of Engineering, Rohtak, Haryana",
+      "tags": [
+        "data"
       ],
       "rwanda": false
     },
@@ -416,18 +448,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772376",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Damage Control",
-      "url": "https://unstop.com/competitions/damage-control-flame-university-1772376",
-      "date": "2026-11-01T18:30:00.000Z",
+      "id": "devpost-31793",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AQX Sports Analytics Data Bowl 4.0",
+      "url": "https://aqxanalyticsfour.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "FLAME University ",
+      "prize": "$50",
+      "org": "Devpost",
       "tags": [
-        "web"
+        "data"
       ],
       "rwanda": false
     },
@@ -446,22 +478,6 @@
         "ai",
         "education",
         "security"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31793",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AQX Sports Analytics Data Bowl 4.0",
-      "url": "https://aqxanalyticsfour.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$50",
-      "org": "Devpost",
-      "tags": [
-        "data"
       ],
       "rwanda": false
     },
@@ -535,6 +551,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1771235",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Chain Reaction '26",
+      "url": "https://unstop.com/competitions/chain-reaction-26-iim-indore-1771235",
+      "date": "2026-11-12T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Indore",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -549,23 +581,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771798",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Catalyst - Solo AI Hackathon",
-      "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
-      "date": "2026-11-13T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Makers Need More (MnM)",
-      "tags": [
-        "ai",
-        "web"
       ],
       "rwanda": false
     },
@@ -688,39 +703,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772584",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "EO Mumbai Global Student Entrepreneur Awards 2026",
-      "url": "https://unstop.com/competitions/eo-mumbai-global-student-entrepreneur-awards-2026-eo-mumbai-1772584",
-      "date": "2026-11-30T06:28:08.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "EO Mumbai",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771785",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hack Era 2.0",
-      "url": "https://unstop.com/hackathons/hack-era-20-erazone-1771785",
-      "date": "2026-11-30T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Erazone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -751,6 +733,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771267",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Indiapreneur 16.0",
+      "url": "https://unstop.com/competitions/indiapreneur160-indira-university-1771267",
+      "date": "2026-12-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indira university",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
