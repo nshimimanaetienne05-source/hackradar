@@ -1,33 +1,15 @@
 {
-  "updated": "2026-10-21T16:45:54.820Z",
+  "updated": "2026-10-21T21:21:16.178Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (15)",
+    "Unstop": "ok (18)",
     "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31676",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HACK INSIGHT",
-      "url": "https://hack-insight.devpost.com/",
-      "date": "2026-10-21T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$144",
-      "org": "NED ",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31617",
       "type": "hackathon",
@@ -129,6 +111,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773187",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Niti Gyaan 6.0",
+      "url": "https://unstop.com/competitions/niti-gyaan-60--1773187",
+      "date": "2026-10-24T18:30:51.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Visakhapatnam",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31139",
       "type": "hackathon",
       "source": "Devpost",
@@ -189,22 +187,6 @@
       "org": "Tryb",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1772672",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Data Detectives",
-      "url": "https://unstop.com/competitions/data-detectives-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1772672",
-      "date": "2026-10-25T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Vaish College of Engineering, Rohtak, Haryana",
-      "tags": [
-        "data"
       ],
       "rwanda": false
     },
@@ -312,6 +294,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773221",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Bid and Code: Design & Frontend Competition by ACM",
+      "url": "https://unstop.com/hackathons/bid-and-code-design-frontend-competition-by-acm-university-school-of-information-communication-and-technology-1773221",
+      "date": "2026-10-28T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "University School of Information, Communication and Technology (USICT), GGS Indraprastha University (GGSIPU), New Delhi",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31052",
       "type": "hackathon",
       "source": "Devpost",
@@ -344,6 +342,22 @@
         "health",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1772724",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "X-ITE 2026 - National Article Writing Competition",
+      "url": "https://unstop.com/competitions/x-ite-2026-national-article-writing-competition-ximb-bhubaneswar-1772724",
+      "date": "2026-10-29T17:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier Institute of Management (XIMB), Bhubaneswar",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -448,6 +462,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31736",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "CreateAThon",
+      "url": "https://graph-hacks.devpost.com/",
+      "date": "2026-10-31T23:59:00.000Z",
+      "location": "Online, from anywhere",
+      "online": true,
+      "prize": "",
+      "org": "Hacker's Unity",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31793",
       "type": "hackathon",
       "source": "Devpost",
@@ -517,6 +548,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773172",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Simulation Event",
+      "url": "https://unstop.com/competitions/simulation-event-advent-26-kirori-mal-college-kmc-du-delhi-1773172",
+      "date": "2026-11-03T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Kirori Mal College (KMC), University of Delhi, Delhi",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "lablab-vultr-hackathon",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -547,22 +594,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771235",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Chain Reaction '26",
-      "url": "https://unstop.com/competitions/chain-reaction-26-iim-indore-1771235",
-      "date": "2026-11-12T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Indore",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
