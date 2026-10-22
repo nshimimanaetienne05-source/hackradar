@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T16:46:19.186Z",
+  "updated": "2026-10-22T21:16:54.518Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (24)",
-    "MLH": "ok (69)",
+    "Unstop": "ok (23)",
+    "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
@@ -61,18 +61,20 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771520",
+      "id": "devpost-31617",
       "type": "hackathon",
-      "source": "Unstop",
-      "name": "Prajwalan - 2K26",
-      "url": "https://unstop.com/hackathons/prajwalan-2k26-ramdeobaba-university-1771520",
-      "date": "2026-10-24T06:30:00.000Z",
+      "source": "Devpost",
+      "name": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "date": "2026-10-23T23:59:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Ramdeobaba University",
+      "org": "IEEE Charlotte Section",
       "tags": [
-        "web"
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -87,6 +89,22 @@
       "online": true,
       "prize": "",
       "org": "EduLinkUp",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1771520",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Prajwalan - 2K26",
+      "url": "https://unstop.com/hackathons/prajwalan-2k26-ramdeobaba-university-1771520",
+      "date": "2026-10-24T12:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Ramdeobaba University",
       "tags": [
         "web"
       ],
@@ -137,22 +155,6 @@
       "online": true,
       "prize": "$200",
       "org": "HackathonForEveryone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771928",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Tryb Weekend Challenge 1: Build, Launch & Play",
-      "url": "https://unstop.com/hackathons/tryb-weekend-challenge-1-build-launch-play-tryb-arcade-26-the-build-play-festival-prizes-worth-rs225-lakhs-tr-1771928",
-      "date": "2026-10-25T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Tryb",
       "tags": [
         "web"
       ],
@@ -496,24 +498,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31666",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Mathematics for systems security",
-      "url": "https://mathematics-systems-security.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Software Engineering Club (DEV)",
-      "tags": [
-        "ai",
-        "education",
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31400",
       "type": "hackathon",
       "source": "Devpost",
@@ -543,6 +527,22 @@
       "online": true,
       "prize": "",
       "org": "PRASUNEX",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773484",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Sigfi & Finshots Competition",
+      "url": "https://unstop.com/competitions/sigfi-finshots-iim-lucknow-1773484",
+      "date": "2026-11-04T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Lucknow",
       "tags": [
         "web"
       ],
@@ -880,22 +880,6 @@
       "online": true,
       "prize": "",
       "org": "Kartexa",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773293",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Your Idea. Our Capital: 50k Sprint (Season 2)",
-      "url": "https://unstop.com/competitions/your-idea-our-capital-season-2-interactup-1773293",
-      "date": "2026-12-31T01:34:18.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InteractUp",
       "tags": [
         "web"
       ],
