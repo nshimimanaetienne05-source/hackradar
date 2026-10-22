@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T03:39:56.016Z",
+  "updated": "2026-10-22T11:18:47.657Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -93,34 +93,20 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773205",
+      "id": "unstop-1773404",
       "type": "competition",
       "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 3: What's in a Name",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-3-whats-in-a-name-iim-rohtak-1773205",
-      "date": "2026-10-24T17:46:57.000Z",
+      "name": "Shield-Up 2K26: The Cyber Quiz",
+      "url": "https://unstop.com/quiz/shield-up-2k26-the-cyber-quiz-ibs-hyderabad-1773404",
+      "date": "2026-10-24T12:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
+      "org": "ICFAI Business School (IBS), Hyderabad",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773187",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Niti Gyaan 6.0",
-      "url": "https://unstop.com/competitions/niti-gyaan-60--1773187",
-      "date": "2026-10-24T18:30:51.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Visakhapatnam",
-      "tags": [
-        "web"
+        "fintech",
+        "education",
+        "security"
       ],
       "rwanda": false
     },
@@ -166,7 +152,7 @@
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Inspire leap private limited",
+      "org": "Inspire Leap Private Limited",
       "tags": [
         "web"
       ],
@@ -225,18 +211,19 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772304",
-      "type": "hackathon",
+      "id": "unstop-1773295",
+      "type": "competition",
       "source": "Unstop",
-      "name": "Code Conqueror India 2026 - National Hackathon",
-      "url": "https://unstop.com/hackathons/code-conqueror-india-2026-national-hackathon-wecodecoders-1772304",
-      "date": "2026-10-26T18:29:00.000Z",
+      "name": "National Cloud Skill Quest 2026: Hands-on Skill Challenge, Win Branded Swags & Certificates",
+      "url": "https://unstop.com/quiz/national-cloud-skill-quest-2026-hands-on-skill-challenge-win-branded-swags-certificates-ambedkar-delhi-skill-and-en-1773295",
+      "date": "2026-10-26T03:31:47.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "WeCodeCoders",
+      "org": "Ambedkar Delhi Skill and Entrepreneurship University (DSEU), Shakarpur Campus- I, Delhi",
       "tags": [
-        "web"
+        "web",
+        "fintech"
       ],
       "rwanda": false
     },
@@ -272,22 +259,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773226",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "General Case Study Competition",
-      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1773226",
-      "date": "2026-10-27T18:33:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Rising Scholars",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -394,18 +365,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770609",
-      "type": "hackathon",
+      "id": "unstop-1772638",
+      "type": "competition",
       "source": "Unstop",
-      "name": "WH Versehack",
-      "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
-      "date": "2026-10-30T18:29:00.000Z",
+      "name": "Product Management Quiz by Tough Tongue AI (Mock Interview)",
+      "url": "https://unstop.com/quiz/product-management-quiz-by-tough-tongue-ai-mock-interview-tough-tongue-ai-1772638",
+      "date": "2026-10-30T07:00:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Writers Haven",
+      "org": "Tough Tongue AI",
       "tags": [
-        "web"
+        "ai"
       ],
       "rwanda": false
     },
@@ -611,6 +582,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773478",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Cyber Security Quiz Competition",
+      "url": "https://unstop.com/quiz/cyber-security-quiz-competition-biforgence-private-limited-1773478",
+      "date": "2026-11-04T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Biforgence Private Limited",
+      "tags": [
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "lablab-vultr-hackathon",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -624,6 +611,23 @@
       "tags": [
         "ai",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1769646",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Datanova 2026 Global Data-Thon",
+      "url": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
+      "date": "2026-11-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Swiss School of Management, Rome, Italy",
+      "tags": [
+        "data",
+        "education"
       ],
       "rwanda": false
     },
@@ -781,22 +785,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773066",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Case Conclave",
-      "url": "https://unstop.com/competitions/case-conclave-arithmos-80-the-management-and-strategy-festival-narsee-monjee-college-of-commerce-and-econom-1773066",
-      "date": "2026-12-10T07:00:28.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30789",
       "type": "hackathon",
       "source": "Devpost",
@@ -815,16 +803,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771267",
+      "id": "unstop-1773293",
       "type": "competition",
       "source": "Unstop",
-      "name": "Indiapreneur 16.0",
-      "url": "https://unstop.com/competitions/indiapreneur160-indira-university-1771267",
-      "date": "2026-12-30T18:30:00.000Z",
+      "name": "Your Idea. Our Capital: 50k Sprint (Season 2)",
+      "url": "https://unstop.com/competitions/your-idea-our-capital-season-2-interactup-1773293",
+      "date": "2026-12-31T01:34:18.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indira university",
+      "org": "InteractUp",
       "tags": [
         "web"
       ],
