@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T11:18:47.657Z",
+  "updated": "2026-10-22T16:46:19.186Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (20)",
-    "MLH": "ok (68)",
+    "Unstop": "ok (24)",
+    "MLH": "ok (69)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
@@ -143,22 +143,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772359",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Ideathon 6.0: Ideas into Impact",
-      "url": "https://unstop.com/hackathons/ideathon-60-ideas-into-impact-inspire-leap-private-limited-1772359",
-      "date": "2026-10-25T14:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Inspire Leap Private Limited",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1771928",
       "type": "hackathon",
       "source": "Unstop",
@@ -211,19 +195,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773295",
+      "id": "unstop-1773344",
       "type": "competition",
       "source": "Unstop",
-      "name": "National Cloud Skill Quest 2026: Hands-on Skill Challenge, Win Branded Swags & Certificates",
-      "url": "https://unstop.com/quiz/national-cloud-skill-quest-2026-hands-on-skill-challenge-win-branded-swags-certificates-ambedkar-delhi-skill-and-en-1773295",
-      "date": "2026-10-26T03:31:47.000Z",
+      "name": "Prudentia",
+      "url": "https://unstop.com/competitions/prudentia-cerebro-2026-27-indian-institute-of-information-technology-vadodara-1773344",
+      "date": "2026-10-26T02:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Ambedkar Delhi Skill and Entrepreneurship University (DSEU), Shakarpur Campus- I, Delhi",
+      "org": "Indian Institute of Information Technology Vadodara",
       "tags": [
-        "web",
-        "fintech"
+        "web"
       ],
       "rwanda": false
     },
@@ -349,22 +332,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772724",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "X-ITE 2026 - National Article Writing Competition",
-      "url": "https://unstop.com/competitions/x-ite-2026-national-article-writing-competition-ximb-bhubaneswar-1772724",
-      "date": "2026-10-29T17:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xavier Institute of Management (XIMB), Bhubaneswar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1772638",
       "type": "competition",
       "source": "Unstop",
@@ -377,6 +344,38 @@
       "org": "Tough Tongue AI",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770609",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "WH Versehack",
+      "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
+      "date": "2026-10-30T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Writers Haven",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1772647",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CodeOdyssey '26",
+      "url": "https://unstop.com/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
+      "date": "2026-10-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "JECRC University (JECRCU), Vidhani, Jaipur, Rajasthan",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -443,22 +442,6 @@
       "online": true,
       "prize": "$30",
       "org": "ACM Long Beach",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771441",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeQuest: National Tech Hackathon 2026",
-      "url": "https://unstop.com/hackathons/codequest-national-tech-hackathon-2026-dotrepo-1771441",
-      "date": "2026-10-31T12:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "DotRepo",
       "tags": [
         "web"
       ],
@@ -566,22 +549,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773172",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Simulation Event",
-      "url": "https://unstop.com/competitions/simulation-event-advent-26-kirori-mal-college-kmc-du-delhi-1773172",
-      "date": "2026-11-03T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Kirori Mal College (KMC), University of Delhi, Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1773478",
       "type": "competition",
       "source": "Unstop",
@@ -679,6 +646,25 @@
       "org": "STEMise",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31552",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "UGREEN Hackathon 2026 on AI NAS",
+      "url": "https://ugreenhackathon.devpost.com/",
+      "date": "2026-11-16T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$46,000",
+      "org": "UGREEN",
+      "tags": [
+        "ai",
+        "web",
+        "climate",
+        "education"
       ],
       "rwanda": false
     },
@@ -785,6 +771,87 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773409",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Eco Grid",
+      "url": "https://unstop.com/competitions/the-eco-grid-arithmos-80-the-management-and-strategy-festival-narsee-monjee-college-of-commerce-and-economi-1773409",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773418",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Digital Mint",
+      "url": "https://unstop.com/competitions/the-digital-mint-narsee-monjee-college-of-commerce-and-economics-mumbai-1773418",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773414",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Final Lap",
+      "url": "https://unstop.com/competitions/the-final-lap-narsee-monjee-college-of-commerce-and-economics-mumbai-1773414",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773353",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Empire of Facade",
+      "url": "https://unstop.com/competitions/empire-of-facade-narsee-monjee-college-of-commerce-and-economics-mumbai-1773353",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773377",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Data Hive",
+      "url": "https://unstop.com/competitions/data-hive-narsee-monjee-college-of-commerce-and-economics-mumbai-1773377",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
+      "tags": [
+        "data",
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30789",
       "type": "hackathon",
       "source": "Devpost",
@@ -799,6 +866,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1772568",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Aven Journal by Kartexa — Call for Research Papers",
+      "url": "https://unstop.com/competitions/aven-journal-by-kartexa-call-for-research-papers-kartexa-1772568",
+      "date": "2026-12-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Kartexa",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
