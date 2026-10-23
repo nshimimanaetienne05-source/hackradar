@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:16:54.518Z",
+  "updated": "2026-10-23T03:44:28.108Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -248,6 +248,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773050",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "HRectify 2026 | HR Case Competition",
+      "url": "https://unstop.com/competitions/hrectify-2026-hr-case-competition-nmims-1773050",
+      "date": "2026-10-27T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Narsee Monjee Institute of Management Studies",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30984",
       "type": "hackathon",
       "source": "Devpost",
@@ -330,22 +346,6 @@
         "health",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1772638",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Product Management Quiz by Tough Tongue AI (Mock Interview)",
-      "url": "https://unstop.com/quiz/product-management-quiz-by-tough-tongue-ai-mock-interview-tough-tongue-ai-1772638",
-      "date": "2026-10-30T07:00:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Tough Tongue AI",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
