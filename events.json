@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-23T03:44:28.108Z",
+  "updated": "2026-10-23T11:09:24.361Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (23)",
+    "Unstop": "ok (25)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -11,12 +11,28 @@
   },
   "events": [
     {
+      "id": "unstop-1773755",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Day 3 Quiz – Eurasian Integration",
+      "url": "https://unstop.com/quiz/day-3-quiz-eurasian-integration-iim-rohtak-1773755",
+      "date": "2026-10-23T18:00:44.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1771036",
       "type": "hackathon",
       "source": "Unstop",
       "name": "Hacksphere 3.0",
       "url": "https://unstop.com/hackathons/hacksphere-30-birla-institute-of-technology-science-bits-pilani-hyderabad-campus-1771036",
-      "date": "2026-10-23T06:30:00.000Z",
+      "date": "2026-10-23T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
@@ -111,24 +127,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773404",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Shield-Up 2K26: The Cyber Quiz",
-      "url": "https://unstop.com/quiz/shield-up-2k26-the-cyber-quiz-ibs-hyderabad-1773404",
-      "date": "2026-10-24T12:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education",
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31139",
       "type": "hackathon",
       "source": "Devpost",
@@ -191,22 +189,6 @@
       "online": true,
       "prize": "₹ 200",
       "org": "sir padampat singhania university ",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773344",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Prudentia",
-      "url": "https://unstop.com/competitions/prudentia-cerebro-2026-27-indian-institute-of-information-technology-vadodara-1773344",
-      "date": "2026-10-26T02:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Information Technology Vadodara",
       "tags": [
         "web"
       ],
@@ -350,16 +332,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770609",
+      "id": "unstop-1662965",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "WH Versehack",
-      "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
-      "date": "2026-10-30T18:29:00.000Z",
+      "name": "Reverse Coding Challenge 2026",
+      "url": "https://unstop.com/hackathons/reverse-coding-challenge-2026-infotechiezz-1662965",
+      "date": "2026-10-30T16:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Writers Haven",
+      "org": "InfoTechiezz",
       "tags": [
         "web"
       ],
@@ -450,6 +432,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773674",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "| International STEM Olympiad",
+      "url": "https://unstop.com/competitions/international-stem-olympiad-bits-1773674",
+      "date": "2026-10-31T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Birla Institute of Technology & Science, Pilani Campus",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1772846",
       "type": "hackathon",
       "source": "Unstop",
@@ -460,6 +458,38 @@
       "online": true,
       "prize": "",
       "org": "Campus Code",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773815",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "L2 Economics Mock Quiz",
+      "url": "https://unstop.com/quiz/l2-economics-mock-quiz-poonji-vidya-technologies-private-limited-1773815",
+      "date": "2026-10-31T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Poonji Vidya Technologies Private Limited",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1770016",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Ops-Udbhav",
+      "url": "https://unstop.com/competitions/ops-udbhav-iim-amritsar-1770016",
+      "date": "2026-10-31T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Amritsar",
       "tags": [
         "web"
       ],
@@ -494,6 +524,24 @@
       "org": "Devpost",
       "tags": [
         "data"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31666",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Mathematics for systems security",
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Software Engineering Club (DEV)",
+      "tags": [
+        "ai",
+        "education",
+        "security"
       ],
       "rwanda": false
     },
@@ -533,32 +581,32 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773484",
+      "id": "unstop-1773797",
       "type": "competition",
       "source": "Unstop",
-      "name": "Sigfi & Finshots Competition",
-      "url": "https://unstop.com/competitions/sigfi-finshots-iim-lucknow-1773484",
-      "date": "2026-11-04T18:30:00.000Z",
+      "name": "Data Structures Blitz Quiz 2026",
+      "url": "https://unstop.com/quiz/data-structures-blitz-quiz-2026-pes-college-of-engineering-chhsambhajinagar-1773797",
+      "date": "2026-11-05T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Lucknow",
+      "org": "PES College of Engineering Chh.Sambhajinagar",
       "tags": [
-        "web"
+        "data"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1773478",
+      "id": "unstop-1773941",
       "type": "competition",
       "source": "Unstop",
-      "name": "Cyber Security Quiz Competition",
-      "url": "https://unstop.com/quiz/cyber-security-quiz-competition-biforgence-private-limited-1773478",
-      "date": "2026-11-04T18:30:00.000Z",
+      "name": "Cyber Security Quiz 2026",
+      "url": "https://unstop.com/quiz/cyber-security-quiz-2026-savitribai-phule-pune-university-sppu-pune-1773941",
+      "date": "2026-11-07T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Biforgence Private Limited",
+      "org": "Savitribai Phule Pune University (SPPU), Pune",
       "tags": [
         "security"
       ],
