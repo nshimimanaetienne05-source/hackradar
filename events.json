@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-23T11:09:24.361Z",
+  "updated": "2026-10-23T16:37:47.840Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
+    "Unstop": "ok (22)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (0)",
+    "Opportunity Desk": "failed: The operation was aborted due to timeout (kept 0 old)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1773755",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Day 3 Quiz – Eurasian Integration",
-      "url": "https://unstop.com/quiz/day-3-quiz-eurasian-integration-iim-rohtak-1773755",
-      "date": "2026-10-23T18:00:44.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1771036",
       "type": "hackathon",
@@ -121,6 +105,22 @@
       "online": true,
       "prize": "",
       "org": "Ramdeobaba University",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773814",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Marksoc Case Competition",
+      "url": "https://unstop.com/competitions/marksoc-case-competition-dtu-new-delhi-1773814",
+      "date": "2026-10-24T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Delhi Technological University (DTU), New Delhi",
       "tags": [
         "web"
       ],
@@ -348,22 +348,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772647",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeOdyssey '26",
-      "url": "https://unstop.com/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
-      "date": "2026-10-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "JECRC University (JECRCU), Vidhani, Jaipur, Rajasthan",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30790",
       "type": "hackathon",
       "source": "Devpost",
@@ -432,22 +416,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773674",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "| International STEM Olympiad",
-      "url": "https://unstop.com/competitions/international-stem-olympiad-bits-1773674",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Birla Institute of Technology & Science, Pilani Campus",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1772846",
       "type": "hackathon",
       "source": "Unstop",
@@ -464,11 +432,11 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773815",
+      "id": "unstop-1774153",
       "type": "competition",
       "source": "Unstop",
-      "name": "L2 Economics Mock Quiz",
-      "url": "https://unstop.com/quiz/l2-economics-mock-quiz-poonji-vidya-technologies-private-limited-1773815",
+      "name": "CFA L1 CI, Eco & Quants Mock Quiz",
+      "url": "https://unstop.com/quiz/cfa-l1-ci-eco-quants-mock-quiz-poonji-vidya-technologies-private-limited-1774153",
       "date": "2026-10-31T18:30:00.000Z",
       "location": "Online",
       "online": true,
@@ -480,16 +448,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1770016",
+      "id": "unstop-1773815",
       "type": "competition",
       "source": "Unstop",
-      "name": "Ops-Udbhav",
-      "url": "https://unstop.com/competitions/ops-udbhav-iim-amritsar-1770016",
+      "name": "L2 Economics Mock Quiz",
+      "url": "https://unstop.com/quiz/l2-economics-mock-quiz-poonji-vidya-technologies-private-limited-1773815",
       "date": "2026-10-31T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Amritsar",
+      "org": "Poonji Vidya Technologies Private Limited",
       "tags": [
         "web"
       ],
@@ -546,6 +514,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1774154",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CyberVerse: The Cybersecurity Challenge",
+      "url": "https://unstop.com/quiz/cyberverse-the-cybersecurity-challenge-techverse-solutions-1774154",
+      "date": "2026-11-02T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "TechVerse Solutions",
+      "tags": [
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31400",
       "type": "hackathon",
       "source": "Devpost",
@@ -581,34 +565,99 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773797",
+      "id": "unstop-1774102",
       "type": "competition",
       "source": "Unstop",
-      "name": "Data Structures Blitz Quiz 2026",
-      "url": "https://unstop.com/quiz/data-structures-blitz-quiz-2026-pes-college-of-engineering-chhsambhajinagar-1773797",
+      "name": "CoreVerse : The Computer Fundamentals Challenge",
+      "url": "https://unstop.com/quiz/coreverse-the-computer-fundamentals-challenge-techverse-solutions-1774102",
       "date": "2026-11-05T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "PES College of Engineering Chh.Sambhajinagar",
+      "org": "TechVerse Solutions",
       "tags": [
-        "data"
+        "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1773941",
+      "id": "unstop-1773978",
       "type": "competition",
       "source": "Unstop",
-      "name": "Cyber Security Quiz 2026",
-      "url": "https://unstop.com/quiz/cyber-security-quiz-2026-savitribai-phule-pune-university-sppu-pune-1773941",
-      "date": "2026-11-07T18:29:00.000Z",
+      "name": "Bargain Battles",
+      "url": "https://unstop.com/competitions/bargain-battles-punjab-engineering-college-pec-chandigarh-1773978",
+      "date": "2026-11-05T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Savitribai Phule Pune University (SPPU), Pune",
+      "org": "Punjab Engineering College (PEC), Chandigarh",
       "tags": [
-        "security"
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1774122",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Brainstorm 5.0",
+      "url": "https://unstop.com/quiz/brainstorm-50-xavier-school-of-management-xlri-1774122",
+      "date": "2026-11-05T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier School of Management (XLRI)",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1774039",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "TollGate: A Finance Case Competition",
+      "url": "https://unstop.com/competitions/tollgate-a-finance-case-competition-nova-exilaro26-xlri-delhi-1774039",
+      "date": "2026-11-06T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier School of Management (XLRI), Delhi",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1766609",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Airtel Sync 2026 - Digital Track",
+      "url": "https://unstop.com/competitions/crp-airtel-sync-2026-digital-track-airtel-sync-2026-airtel-1766609",
+      "date": "2026-11-06T18:29:06.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Airtel",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1736256",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Airtel Sync 2026 - Network Track",
+      "url": "https://unstop.com/competitions/crp-airtel-sync-2026-network-track-airtel-sync-2026-airtel-1736256",
+      "date": "2026-11-06T18:29:25.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Airtel",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -819,83 +868,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773409",
-      "type": "competition",
+      "id": "unstop-1773120",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "The Eco Grid",
-      "url": "https://unstop.com/competitions/the-eco-grid-arithmos-80-the-management-and-strategy-festival-narsee-monjee-college-of-commerce-and-economi-1773409",
-      "date": "2026-12-09T18:30:00.000Z",
+      "name": "Hackday 2.0",
+      "url": "https://unstop.com/hackathons/hackday-20-decodep-community-1773120",
+      "date": "2026-12-11T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
+      "org": "DECODEP community",
       "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773418",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Digital Mint",
-      "url": "https://unstop.com/competitions/the-digital-mint-narsee-monjee-college-of-commerce-and-economics-mumbai-1773418",
-      "date": "2026-12-09T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773414",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Final Lap",
-      "url": "https://unstop.com/competitions/the-final-lap-narsee-monjee-college-of-commerce-and-economics-mumbai-1773414",
-      "date": "2026-12-09T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773353",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Empire of Facade",
-      "url": "https://unstop.com/competitions/empire-of-facade-narsee-monjee-college-of-commerce-and-economics-mumbai-1773353",
-      "date": "2026-12-09T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773377",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Data Hive",
-      "url": "https://unstop.com/competitions/data-hive-narsee-monjee-college-of-commerce-and-economics-mumbai-1773377",
-      "date": "2026-12-09T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Narsee Monjee College of Commerce and Economics, Mumbai",
-      "tags": [
-        "data",
-        "fintech"
+        "web"
       ],
       "rwanda": false
     },
@@ -914,22 +898,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1772568",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Aven Journal by Kartexa — Call for Research Papers",
-      "url": "https://unstop.com/competitions/aven-journal-by-kartexa-call-for-research-papers-kartexa-1772568",
-      "date": "2026-12-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Kartexa",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
