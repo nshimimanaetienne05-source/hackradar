@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-24T10:27:00.477Z",
+  "updated": "2026-10-24T15:31:45.214Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (26)",
+    "Unstop": "ok (16)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -21,22 +21,6 @@
       "online": true,
       "prize": "$200",
       "org": "HackathonForEveryone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1772336",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Timelapse",
-      "url": "https://unstop.com/competitions/timelapse-manipal-university-mu-jaipur-1772336",
-      "date": "2026-10-25T16:10:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Manipal University (MU), Jaipur",
       "tags": [
         "web"
       ],
@@ -110,22 +94,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771520",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Prajwalan - 2K26",
-      "url": "https://unstop.com/hackathons/prajwalan-2k26-ramdeobaba-university-1771520",
-      "date": "2026-10-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Ramdeobaba University",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -381,24 +349,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31666",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Mathematics for systems security",
-      "url": "https://mathematics-systems-security.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Software Engineering Club (DEV)",
-      "tags": [
-        "ai",
-        "education",
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31400",
       "type": "hackathon",
       "source": "Devpost",
@@ -484,54 +434,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1774254",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "ProdCraft",
-      "url": "https://unstop.com/competitions/prodcraft-solaris-2026--1774254",
-      "date": "2026-11-05T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774273",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mark X",
-      "url": "https://unstop.com/competitions/mark-x-solaris-2026--1774273",
-      "date": "2026-11-05T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774280",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mind-Wizz",
-      "url": "https://unstop.com/competitions/mind-wizz-solaris-2026--1774280",
-      "date": "2026-11-05T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1774071",
       "type": "hackathon",
       "source": "Unstop",
@@ -548,34 +450,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1774366",
+      "id": "unstop-1774756",
       "type": "competition",
       "source": "Unstop",
-      "name": "Capital Quest",
-      "url": "https://unstop.com/competitions/capital-quest-solaris-2026--1774366",
+      "name": "Xplore & Nova Exilaro Article Writing Competition",
+      "url": "https://unstop.com/competitions/xplore-nova-exilaro-article-writing-competition-xlri-delhi-1774756",
       "date": "2026-11-06T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
+      "org": "Xavier School of Management (XLRI), Delhi",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774364",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Vitt Sangram",
-      "url": "https://unstop.com/competitions/vitt-sangram-solaris-2026--1774364",
-      "date": "2026-11-06T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
+        "education"
       ],
       "rwanda": false
     },
@@ -677,22 +563,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774613",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "DSA War 2026",
-      "url": "https://unstop.com/quiz/dsa-war-2026-devengers-1774613",
-      "date": "2026-11-13T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Devengers",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
