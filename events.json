@@ -1,33 +1,15 @@
 {
-  "updated": "2026-10-23T21:06:28.484Z",
+  "updated": "2026-10-24T03:38:38.179Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
+    "Unstop": "ok (27)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "failed: The operation was aborted due to timeout (kept 0 old)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31617",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IEEE Hack For Humanity",
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "date": "2026-10-23T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IEEE Charlotte Section",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1772551",
       "type": "hackathon",
@@ -105,6 +87,24 @@
       "org": "HackathonForEveryone",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31617",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "date": "2026-10-24T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IEEE Charlotte Section",
+      "tags": [
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -282,6 +282,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1774143",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Adflix",
+      "url": "https://unstop.com/competitions/adflix-indian-institute-of-technology-iit-patna-1774143",
+      "date": "2026-10-29T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology (IIT), Patna",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1662965",
       "type": "hackathon",
       "source": "Unstop",
@@ -414,22 +430,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773815",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "L2 Economics Mock Quiz",
-      "url": "https://unstop.com/quiz/l2-economics-mock-quiz-poonji-vidya-technologies-private-limited-1773815",
-      "date": "2026-10-31T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Poonji Vidya Technologies Private Limited",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31627",
       "type": "hackathon",
       "source": "Devpost",
@@ -458,24 +458,6 @@
       "org": "Devpost",
       "tags": [
         "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31666",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Mathematics for systems security",
-      "url": "https://mathematics-systems-security.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Software Engineering Club (DEV)",
-      "tags": [
-        "ai",
-        "education",
-        "security"
       ],
       "rwanda": false
     },
@@ -683,6 +665,38 @@
       "source": "Unstop",
       "name": "Capital Quest",
       "url": "https://unstop.com/competitions/capital-quest-solaris-2026--1774366",
+      "date": "2026-11-06T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Udaipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1774364",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Vitt Sangram",
+      "url": "https://unstop.com/competitions/vitt-sangram-solaris-2026--1774364",
+      "date": "2026-11-06T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Udaipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1774345",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Saudagar 2026",
+      "url": "https://unstop.com/competitions/saudagar-2026-solaris-2026--1774345",
       "date": "2026-11-06T18:30:00.000Z",
       "location": "Online",
       "online": true,
