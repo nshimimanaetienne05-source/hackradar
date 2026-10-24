@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-24T15:31:45.214Z",
+  "updated": "2026-10-24T20:22:52.239Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (16)",
+    "Unstop": "ok (19)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -98,6 +98,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1775195",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CTF",
+      "url": "https://unstop.com/hackathons/ctf-iiitdm-kancheepuram-1775195",
+      "date": "2026-10-27T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IIITDM Kancheepuram",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30984",
       "type": "hackathon",
       "source": "Devpost",
@@ -127,22 +143,6 @@
       "org": "GitLab",
       "tags": [
         "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773221",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Bid and Code: Design & Frontend Competition by ACM",
-      "url": "https://unstop.com/hackathons/bid-and-code-design-frontend-competition-by-acm-university-school-of-information-communication-and-technology-1773221",
-      "date": "2026-10-28T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "University School of Information, Communication and Technology (USICT), GGS Indraprastha University (GGSIPU), New Delhi",
-      "tags": [
         "education"
       ],
       "rwanda": false
@@ -301,22 +301,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772846",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "FirstCommit '26 — National Online Hackathon by CampusCode",
-      "url": "https://unstop.com/hackathons/firstcommit-26-national-online-hackathon-by-campuscode-campus-code-1772846",
-      "date": "2026-10-31T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Campus Code",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31627",
       "type": "hackathon",
       "source": "Devpost",
@@ -386,16 +370,32 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772904",
-      "type": "hackathon",
+      "id": "unstop-1775194",
+      "type": "competition",
       "source": "Unstop",
-      "name": "Prasunex Innovathon 2026",
-      "url": "https://unstop.com/hackathons/prasunex-innovathon-2026-prasunex-1772904",
+      "name": "Xposure'26",
+      "url": "https://unstop.com/competitions/xposure26-imt-ghaziabad-1775194",
       "date": "2026-11-03T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "PRASUNEX",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1774573",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "ReBuild '26 — The Dashboard Recreation Hackathon by CampusCode",
+      "url": "https://unstop.com/hackathons/rebuild-26-the-dashboard-recreation-hackathon-by-campuscode-campus-code-1774573",
+      "date": "2026-11-04T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Campus Code",
       "tags": [
         "web"
       ],
@@ -412,22 +412,6 @@
       "online": true,
       "prize": "",
       "org": "The Institution of Engineers and Scientists",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774239",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Gambit 2035: The Great Power Game",
-      "url": "https://unstop.com/competitions/gambit-2035-the-great-power-game-solaris-2026--1774239",
-      "date": "2026-11-05T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
       "tags": [
         "web"
       ],
@@ -462,38 +446,6 @@
       "org": "Xavier School of Management (XLRI), Delhi",
       "tags": [
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774345",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Saudagar 2026",
-      "url": "https://unstop.com/competitions/saudagar-2026-solaris-2026--1774345",
-      "date": "2026-11-06T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773983",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Summersault Challenge 2026 | Operations Track",
-      "url": "https://unstop.com/competitions/crp-summersault-challenge-2026-operations-track-godrej-properties-ltd-1773983",
-      "date": "2026-11-07T03:54:06.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Godrej Properties Ltd",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -567,6 +519,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1775042",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Mantravat - The Flagship Case Competition",
+      "url": "https://unstop.com/competitions/mantravat-the-flagship-case-competition-solaris-2026--1775042",
+      "date": "2026-11-13T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Udaipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30500",
       "type": "hackathon",
       "source": "Devpost",
@@ -598,6 +566,22 @@
         "web",
         "climate",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1768983",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Think Out Loud 5.0",
+      "url": "https://unstop.com/competitions/think-out-loud-50-vivekananda-institute-of-professional-studies-vips-delhi-1768983",
+      "date": "2026-11-18T00:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -646,6 +630,22 @@
       "online": true,
       "prize": "$300",
       "org": "Hack4TodayOrg",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1775207",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CodeClash: The November Nexus 2026",
+      "url": "https://unstop.com/hackathons/codeclash-the-november-nexus-2026-lets-code-community-1775207",
+      "date": "2026-11-21T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Lets Code Community",
       "tags": [
         "web"
       ],
