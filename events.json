@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-25T10:54:12.497Z",
+  "updated": "2026-10-25T15:41:21.782Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (21)",
+    "Unstop": "ok (17)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1775912",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Python Quiz",
-      "url": "https://unstop.com/quiz/python-quiz-sns-college-of-pharmacy-motihari-bihar-1775912",
-      "date": "2026-10-25T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SNS College of Pharmacy, Motihari, Bihar",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-29114",
       "type": "hackathon",
@@ -43,22 +27,6 @@
         "blockchain",
         "climate",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31777",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "GLITCHATHON",
-      "url": "https://glitchathon.devpost.com/",
-      "date": "2026-10-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 200",
-      "org": "sir padampat singhania university ",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -232,6 +200,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1775302",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "IndiaStox Nifty Midcap 100 Predictions Challenge",
+      "url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1775302",
+      "date": "2026-10-30T18:30:21.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1775305",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Indian Macro Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1775305",
+      "date": "2026-10-30T18:30:56.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30790",
       "type": "hackathon",
       "source": "Devpost",
@@ -349,6 +349,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31666",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Mathematics for systems security",
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Software Engineering Club (DEV)",
+      "tags": [
+        "ai",
+        "education",
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31400",
       "type": "hackathon",
       "source": "Devpost",
@@ -434,18 +452,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1774756",
+      "id": "unstop-1776298",
       "type": "competition",
       "source": "Unstop",
-      "name": "Xplore & Nova Exilaro Article Writing Competition",
-      "url": "https://unstop.com/competitions/xplore-nova-exilaro-article-writing-competition-xlri-delhi-1774756",
-      "date": "2026-11-06T18:30:00.000Z",
+      "name": "Campus Placement Aptitude Challenge 1",
+      "url": "https://unstop.com/quiz/campus-placement-aptitude-challenge-1-campusfirst-india-1776298",
+      "date": "2026-11-07T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Xavier School of Management (XLRI), Delhi",
+      "org": "CampusFirst India",
       "tags": [
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -502,22 +520,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1775042",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mantravat - The Flagship Case Competition",
-      "url": "https://unstop.com/competitions/mantravat-the-flagship-case-competition-solaris-2026--1775042",
-      "date": "2026-11-13T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30500",
       "type": "hackathon",
       "source": "Devpost",
@@ -553,22 +555,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1768983",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Think Out Loud 5.0",
-      "url": "https://unstop.com/competitions/think-out-loud-50-vivekananda-institute-of-professional-studies-vips-delhi-1768983",
-      "date": "2026-11-18T00:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31024",
       "type": "hackathon",
       "source": "Devpost",
@@ -587,16 +573,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772647",
+      "id": "unstop-1773166",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "CodeOdyssey '26",
-      "url": "https://unstop.com/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
-      "date": "2026-11-19T20:10:38.000Z",
+      "name": "TechFusion MERN Stack Coding Challenge 2026",
+      "url": "https://unstop.com/hackathons/techfusion-mern-stack-coding-challenge-2026-hi-tech-institute-of-engineering-and-technology-hiet-ghaziabad-1773166",
+      "date": "2026-11-19T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "JECRC University (JECRCU), Vidhani, Jaipur, Rajasthan",
+      "org": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
       "tags": [
         "web"
       ],
@@ -631,6 +617,23 @@
       "org": "Hack4TodayOrg",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31795",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AccessED Hacks",
+      "url": "https://accessed-hacks.devpost.com/",
+      "date": "2026-11-20T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$225",
+      "org": "AccessEDnpo",
+      "tags": [
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -699,6 +702,25 @@
       "tags": [
         "web",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31737",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "HackWithAditya",
+      "url": "https://hackwithaditya.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "₹ 500,000",
+      "org": "Aditya University",
+      "tags": [
+        "health",
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
