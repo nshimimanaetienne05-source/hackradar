@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:22:52.239Z",
+  "updated": "2026-10-25T03:36:30.396Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -10,22 +10,6 @@
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31798",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Taskforge",
-      "url": "https://taskforge.devpost.com/",
-      "date": "2026-10-24T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$200",
-      "org": "HackathonForEveryone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-29114",
       "type": "hackathon",
