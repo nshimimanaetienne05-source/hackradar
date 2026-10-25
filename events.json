@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T15:41:21.782Z",
+  "updated": "2026-10-25T20:29:40.011Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (17)",
-    "MLH": "ok (70)",
+    "Unstop": "ok (22)",
+    "MLH": "ok (67)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
@@ -232,6 +232,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1776773",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Portfolio Design Hackathon 2026 – Build, Deploy & Showcase Your Creative",
+      "url": "https://unstop.com/hackathons/portfolio-design-hackathon-2026-build-deploy-showcase-your-creative-skillinf-1776773",
+      "date": "2026-10-30T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Skillinf",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1776472",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Indian Equities Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1776472",
+      "date": "2026-10-30T18:40:45.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30790",
       "type": "hackathon",
       "source": "Devpost",
@@ -327,6 +359,22 @@
       "online": true,
       "prize": "$100",
       "org": "Next Byte Hacks",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1777067",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CAD Battle",
+      "url": "https://unstop.com/competitions/cad-battle-indian-institute-of-technology-iit-patna-1777067",
+      "date": "2026-11-01T13:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology (IIT), Patna",
       "tags": [
         "web"
       ],
@@ -452,16 +500,32 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1776298",
-      "type": "competition",
+      "id": "unstop-1776294",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Campus Placement Aptitude Challenge 1",
-      "url": "https://unstop.com/quiz/campus-placement-aptitude-challenge-1-campusfirst-india-1776298",
+      "name": "BharatCode Build League",
+      "url": "https://unstop.com/hackathons/bharatcode-build-league-bharatcode-build-league-build-with-ai-and-win-rs10000-and-a-rs60000-sde-internship-bh-1776294",
       "date": "2026-11-07T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "CampusFirst India",
+      "org": "BharatCode.ai",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1776892",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Operation Ward Zero",
+      "url": "https://unstop.com/hackathons/operation-ward-zero-wooble-software-private-limited-1776892",
+      "date": "2026-11-07T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Wooble Software Private Limited",
       "tags": [
         "web"
       ],
@@ -498,6 +562,23 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31664",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Herhack",
+      "url": "https://herhack.devpost.com/",
+      "date": "2026-11-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "₹ 200,000",
+      "org": "Echelon institute of technology",
+      "tags": [
+        "web",
+        "blockchain"
       ],
       "rwanda": false
     },
@@ -551,6 +632,23 @@
         "web",
         "climate",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31797",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Green Shift Hacks",
+      "url": "https://green-shift-hacks.devpost.com/",
+      "date": "2026-11-17T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$125",
+      "org": "HackathonForEveryone",
+      "tags": [
+        "web",
+        "climate"
       ],
       "rwanda": false
     },
