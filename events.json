@@ -1,15 +1,31 @@
 {
-  "updated": "2026-10-25T03:36:30.396Z",
+  "updated": "2026-10-25T10:54:12.497Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (19)",
+    "Unstop": "ok (21)",
     "MLH": "ok (70)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
+    {
+      "id": "unstop-1775912",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Python Quiz",
+      "url": "https://unstop.com/quiz/python-quiz-sns-college-of-pharmacy-motihari-bihar-1775912",
+      "date": "2026-10-25T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SNS College of Pharmacy, Motihari, Bihar",
+      "tags": [
+        "health"
+      ],
+      "rwanda": false
+    },
     {
       "id": "devpost-29114",
       "type": "hackathon",
@@ -178,6 +194,22 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Technology (IIT), Jodhpur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1775833",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Code Clash",
+      "url": "https://unstop.com/hackathons/code-clash-cerebro-2026-27-indian-institute-of-information-technology-vadodara-1775833",
+      "date": "2026-10-29T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Information Technology Vadodara",
       "tags": [
         "web"
       ],
@@ -354,22 +386,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1775194",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Xposure'26",
-      "url": "https://unstop.com/competitions/xposure26-imt-ghaziabad-1775194",
-      "date": "2026-11-03T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Ghaziabad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1774573",
       "type": "hackathon",
       "source": "Unstop",
@@ -447,23 +463,6 @@
       "tags": [
         "ai",
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769646",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Datanova 2026 Global Data-Thon",
-      "url": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
-      "date": "2026-11-09T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Swiss School of Management, Rome, Italy",
-      "tags": [
-        "data",
-        "education"
       ],
       "rwanda": false
     },
@@ -604,6 +603,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773229",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Out of Bounds - Web Game Development Hackathon",
+      "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
+      "date": "2026-11-20T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Code Variant",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31773",
       "type": "hackathon",
       "source": "Devpost",
@@ -684,25 +699,6 @@
       "tags": [
         "web",
         "security"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31737",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HackWithAditya",
-      "url": "https://hackwithaditya.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 500,000",
-      "org": "Aditya University",
-      "tags": [
-        "health",
-        "ai",
-        "web",
-        "education"
       ],
       "rwanda": false
     },
