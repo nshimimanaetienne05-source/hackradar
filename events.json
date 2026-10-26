@@ -1,32 +1,15 @@
 {
-  "updated": "2026-10-26T12:25:00.107Z",
+  "updated": "2026-10-26T22:23:24.560Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (37)",
-    "MLH": "ok (64)",
+    "Unstop": "ok (29)",
+    "MLH": "ok (63)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-30447",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Build With AI: Basics",
-      "url": "https://learn-ai-basics.devpost.com/",
-      "date": "2026-10-26T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$2,500",
-      "org": "Devpost",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31805",
       "type": "hackathon",
@@ -46,18 +29,17 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1776819",
-      "type": "hackathon",
+      "id": "unstop-1779068",
+      "type": "competition",
       "source": "Unstop",
-      "name": "AI and Maths Hackathon",
-      "url": "https://unstop.com/competitions/ai-and-maths-hackathon-indian-institute-of-technology-iit-patna-1776819",
-      "date": "2026-10-27T18:29:00.000Z",
+      "name": "Day 4 Quiz – India’s Free Trade Agreements",
+      "url": "https://unstop.com/quiz/day-4-quiz-indias-free-trade-agreements-iim-rohtak-1779068",
+      "date": "2026-10-27T12:30:35.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Technology (IIT), Patna",
+      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
-        "ai",
         "web"
       ],
       "rwanda": false
@@ -262,6 +244,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1771557",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Technophilia 2.0",
+      "url": "https://unstop.com/quiz/technophilia-20-ramdeobaba-university-1771557",
+      "date": "2026-10-30T06:00:03.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "RamdeoBaba University",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1777961",
       "type": "competition",
       "source": "Unstop",
@@ -362,39 +360,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1774085",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Gen-AI Product Hackathon",
-      "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1774085",
-      "date": "2026-10-31T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1777333",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Green Forge",
-      "url": "https://unstop.com/competitions/green-forge-indian-institute-of-technology-iit-patna-1777333",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Patna",
-      "tags": [
-        "climate"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31627",
       "type": "hackathon",
       "source": "Devpost",
@@ -446,6 +411,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31555",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "FUSE Society Blueprint 2026",
+      "url": "https://fuse-society-blueprint-2026.devpost.com/",
+      "date": "2026-10-31T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$250",
+      "org": "Fuse Society",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31793",
       "type": "hackathon",
       "source": "Devpost",
@@ -462,20 +443,20 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31666",
+      "id": "devpost-31742",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "Mathematics for systems security",
-      "url": "https://mathematics-systems-security.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
+      "name": "Codex x TwitchCon Hackathon",
+      "url": "https://twitchcon-codex.devpost.com/",
+      "date": "2026-11-02T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "Software Engineering Club (DEV)",
+      "prize": "$25,000",
+      "org": "Twitch",
       "tags": [
         "ai",
-        "education",
-        "security"
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -499,40 +480,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31742",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Codex x TwitchCon Hackathon",
-      "url": "https://twitchcon-codex.devpost.com/",
-      "date": "2026-11-02T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$25,000",
-      "org": "Twitch",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1778035",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Prometheus X Next: The ProdMan Case Competition",
-      "url": "https://unstop.com/competitions/prometheus-next-the-tech-case-competition-nova-exilaro26-xlri-delhi-1778035",
-      "date": "2026-11-04T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xavier School of Management (XLRI), Delhi",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1774573",
       "type": "hackathon",
       "source": "Unstop",
@@ -549,34 +496,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773842",
+      "id": "unstop-1776294",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Next Horizon 2026",
-      "url": "https://unstop.com/hackathons/next-horizon-2026-the-institution-of-engineers-and-scientists-1773842",
-      "date": "2026-11-05T18:30:00.000Z",
+      "name": "BharatCode Build League",
+      "url": "https://unstop.com/hackathons/bharatcode-build-league-bharatcode-build-league-build-with-ai-and-win-rs10000-and-a-rs60000-sde-internship-bh-1776294",
+      "date": "2026-11-07T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "The Institution of Engineers and Scientists",
+      "org": "BharatCode.ai",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774071",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ChaosCore Hackathon 2026",
-      "url": "https://unstop.com/hackathons/chaoscore-hackathon-2026-invoqe-1774071",
-      "date": "2026-11-06T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Invoqe",
-      "tags": [
-        "web"
+        "ai"
       ],
       "rwanda": false
     },
@@ -597,18 +528,35 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1776294",
+      "id": "unstop-1778754",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "BharatCode Build League",
-      "url": "https://unstop.com/hackathons/bharatcode-build-league-bharatcode-build-league-build-with-ai-and-win-rs10000-and-a-rs60000-sde-internship-bh-1776294",
-      "date": "2026-11-07T18:30:00.000Z",
+      "name": "Bug Bounty",
+      "url": "https://unstop.com/hackathons/bug-bounty-oronzo-llp-1778754",
+      "date": "2026-11-08T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "BharatCode.ai",
+      "org": "Oronzo LLP",
       "tags": [
-        "ai"
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1778597",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Hacksprint 3.0",
+      "url": "https://unstop.com/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
+      "date": "2026-11-08T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Karpagam Academy of Higher Education",
+      "tags": [
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -659,22 +607,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1777434",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Metal Masters National Quiz",
-      "url": "https://unstop.com/quiz/metal-masters-national-quiz-op-jindal-university-opju-raigarh-chhattisgarh-1777434",
-      "date": "2026-11-09T14:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "OP Jindal University (OPJU), Raigarh, Chhattisgarh",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -739,7 +671,7 @@
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "hackosquadCTF",
+      "org": "Hackosquad",
       "tags": [
         "web"
       ],
@@ -816,42 +748,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1777753",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Dhanvyuh",
-      "url": "https://unstop.com/competitions/dhanvyuh-arthatantra-symbiosis-school-of-banking-and-finance-ssbf-maharastra-1777753",
-      "date": "2026-11-15T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis School of Banking and Finance (SSBF), Maharastra",
-      "tags": [
-        "health",
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1777747",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Nivesh Yatra",
-      "url": "https://unstop.com/competitions/nivesh-yatra-arthatantra-symbiosis-school-of-banking-and-finance-ssbf-maharastra-1777747",
-      "date": "2026-11-15T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis School of Banking and Finance (SSBF), Maharastra",
-      "tags": [
-        "health",
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30500",
       "type": "hackathon",
       "source": "Devpost",
@@ -864,6 +760,24 @@
       "org": "STEMise",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31666",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Mathematics for systems security",
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "date": "2026-11-15T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Software Engineering Club (DEV)",
+      "tags": [
+        "ai",
+        "education",
+        "security"
       ],
       "rwanda": false
     },
