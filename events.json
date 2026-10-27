@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-27T17:37:14.570Z",
+  "updated": "2026-10-27T21:53:36.572Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (33)",
+    "Unstop": "ok (32)",
     "MLH": "ok (63)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (1)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31792",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Hack to the Future",
-      "url": "https://hack-to-the-missing-future-ai.devpost.com/",
-      "date": "2026-10-27T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HackathonForEveryone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1780917",
       "type": "hackathon",
@@ -193,18 +177,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1771557",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Technophilia 2.0",
-      "url": "https://unstop.com/quiz/technophilia-20-ramdeobaba-university-1771557",
-      "date": "2026-10-30T06:00:03.000Z",
+      "id": "devpost-31714",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Hybrid Micro Mouse Challenge",
+      "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
+      "date": "2026-10-29T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "RamdeoBaba University",
+      "prize": "₹ 55,000",
+      "org": "Alliance University",
       "tags": [
-        "web"
+        "education"
       ],
       "rwanda": false
     },
@@ -344,6 +328,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1781205",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Nivesh 9.0",
+      "url": "https://unstop.com/competitions/nivesh-90-samriddhi-2026-goa-institute-of-management-gim-goa-1781205",
+      "date": "2026-11-01T18:29:03.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Goa Institute of Management (GIM), Goa",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31793",
       "type": "hackathon",
       "source": "Devpost",
@@ -413,22 +413,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1779068",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Day 4 Quiz – India’s Free Trade Agreements",
-      "url": "https://unstop.com/quiz/day-4-quiz-indias-free-trade-agreements-iim-rohtak-1779068",
-      "date": "2026-11-03T17:09:53.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1774573",
       "type": "hackathon",
       "source": "Unstop",
@@ -471,6 +455,22 @@
       "online": true,
       "prize": "",
       "org": "Oronzo LLP",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1780598",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Treasure Restoration",
+      "url": "https://unstop.com/competitions/treasure-restoration-great-lakes-institute-of-management-glim-gurgaon-1780598",
+      "date": "2026-11-06T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Great Lakes Institute of Management (GLIM), Gurgaon",
       "tags": [
         "web"
       ],
@@ -526,16 +526,32 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1779581",
+      "id": "unstop-1780900",
       "type": "competition",
       "source": "Unstop",
-      "name": "Full Mock Quiz",
-      "url": "https://unstop.com/quiz/full-mock-quiz-poonji-vidya-technologies-private-limited-1779581",
+      "name": "Priors Weekly Contest #1: Price the odds, beat the clock",
+      "url": "https://unstop.com/competitions/priors-weekly-contest-1-price-the-odds-beat-the-clock-priors-1780900",
       "date": "2026-11-09T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Poonji Vidya Technologies Private Limited",
+      "org": "Priors",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1781204",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AetherHack",
+      "url": "https://unstop.com/competitions/aetherhack-nit-rourkela-1781204",
+      "date": "2026-11-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Rourkela",
       "tags": [
         "web"
       ],
@@ -559,18 +575,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772644",
+      "id": "unstop-1779001",
       "type": "competition",
       "source": "Unstop",
-      "name": "Digital Leadership Development Program",
-      "url": "https://unstop.com/competitions/crp-digital-leadership-development-program-collins-aerospace-1772644",
-      "date": "2026-11-10T18:29:00.000Z",
+      "name": "Synergy '26: Orion Case Study Competition",
+      "url": "https://unstop.com/competitions/synergy-26-orion-case-study-competition-xavier-school-of-management-xlri-jamshedpur-1779001",
+      "date": "2026-11-10T06:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Collins Aerospace",
+      "org": "Xavier School of Management (XLRI), Jamshedpur",
       "tags": [
-        "web"
+        "education"
       ],
       "rwanda": false
     },
@@ -638,6 +654,22 @@
       "org": "Makers Need More (MnM)",
       "tags": [
         "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1781090",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Mock Stock",
+      "url": "https://unstop.com/competitions/mock-stock-e-summit26-jadavpur-university-jadavpur-university-kolkata-1781090",
+      "date": "2026-11-14T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
+      "tags": [
         "web"
       ],
       "rwanda": false
@@ -759,22 +791,6 @@
       "org": "HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1769465",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Cyber Threat Horizon: The National Quiz Championship",
-      "url": "https://unstop.com/quiz/cyber-threat-horizon-the-national-quiz-championship-orcashield-1769465",
-      "date": "2026-11-20T06:29:29.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "OrcaShield",
-      "tags": [
-        "security"
       ],
       "rwanda": false
     },
@@ -968,6 +984,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773486",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Articulate: National Creative Poster Design Competition",
+      "url": "https://unstop.com/competitions/articulate-national-creative-poster-design-competition-indian-institute-of-science-education-and-research-i-1773486",
+      "date": "2026-11-30T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Science Education and Research (IISER) Berhampur",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -980,22 +1012,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-allianz-movenow-social-innovation-challenge-2026-90-000-total-prize",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "Allianz MoveNow Social Innovation Challenge 2026 ($90,000 total prize)",
-      "url": "https://opportunitydesk.org/2026/10/27/allianz-movenow-social-innovation-challenge-2026/",
-      "date": "2026-12-18T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
