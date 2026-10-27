@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:23:24.560Z",
+  "updated": "2026-10-27T04:03:16.451Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -10,24 +10,6 @@
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31805",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "NextSpark Hacks",
-      "url": "https://nextspark-hacks.devpost.com/",
-      "date": "2026-10-26T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$100",
-      "org": "Independent Student Organizer",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1779068",
       "type": "competition",
@@ -90,6 +72,24 @@
       "org": "GitLab",
       "tags": [
         "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31805",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "NextSpark Hacks",
+      "url": "https://nextspark-hacks.devpost.com/",
+      "date": "2026-10-27T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$100",
+      "org": "Independent Student Organizer",
+      "tags": [
+        "ai",
+        "web",
         "education"
       ],
       "rwanda": false
@@ -407,22 +407,6 @@
         "web",
         "education",
         "security"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31555",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "FUSE Society Blueprint 2026",
-      "url": "https://fuse-society-blueprint-2026.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$250",
-      "org": "Fuse Society",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
