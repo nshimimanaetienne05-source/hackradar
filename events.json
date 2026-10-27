@@ -1,80 +1,15 @@
 {
-  "updated": "2026-10-27T11:44:01.060Z",
+  "updated": "2026-10-27T17:37:14.570Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
     "Unstop": "ok (33)",
     "MLH": "ok (63)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (0)",
+    "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1779068",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Day 4 Quiz – India’s Free Trade Agreements",
-      "url": "https://unstop.com/quiz/day-4-quiz-indias-free-trade-agreements-iim-rohtak-1779068",
-      "date": "2026-10-27T12:30:35.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1778928",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Ops Arena | Quiz 2: Process Paradox",
-      "url": "https://unstop.com/quiz/the-ops-arena-quiz-2-process-paradox-iim-rohtak-1778928",
-      "date": "2026-10-27T15:00:49.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1775195",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CTF",
-      "url": "https://unstop.com/hackathons/ctf-iiitdm-kancheepuram-1775195",
-      "date": "2026-10-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IIITDM Kancheepuram",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31503",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Life After Code",
-      "url": "https://gitlab-transcend.devpost.com/",
-      "date": "2026-10-27T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$45,000",
-      "org": "GitLab",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31792",
       "type": "hackathon",
@@ -92,6 +27,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1780917",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Lumina'26 Hackathon",
+      "url": "https://unstop.com/hackathons/lumina26-hackathon-ieee-student-branch-jiit-noida-1780917",
+      "date": "2026-10-28T05:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IEEE Student Branch JIIT, Noida",
+      "tags": [
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1776287",
       "type": "hackathon",
       "source": "Unstop",
@@ -102,6 +54,38 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Technology (IIT), Patna",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1775195",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CTF",
+      "url": "https://unstop.com/hackathons/ctf-iiitdm-kancheepuram-1775195",
+      "date": "2026-10-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IIITDM Kancheepuram",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1780615",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Python Quiz",
+      "url": "https://unstop.com/quiz/python-quiz-sns-college-of-engineering-1780615",
+      "date": "2026-10-28T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SNS College of Engineering (SNSCE), Coimbatore",
       "tags": [
         "web"
       ],
@@ -326,6 +310,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31555",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "FUSE Society Blueprint 2026",
+      "url": "https://fuse-society-blueprint-2026.devpost.com/",
+      "date": "2026-10-31T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$250",
+      "org": "Fuse Society",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31731",
       "type": "hackathon",
       "source": "Devpost",
@@ -340,22 +340,6 @@
         "web",
         "education",
         "security"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31555",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "FUSE Society Blueprint 2026",
-      "url": "https://fuse-society-blueprint-2026.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$250",
-      "org": "Fuse Society",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -425,6 +409,22 @@
         "web",
         "fintech",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1779068",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Day 4 Quiz – India’s Free Trade Agreements",
+      "url": "https://unstop.com/quiz/day-4-quiz-indias-free-trade-agreements-iim-rohtak-1779068",
+      "date": "2026-11-03T17:09:53.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -521,22 +521,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1760398",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Chatbot Mania Quiz",
-      "url": "https://unstop.com/quiz/chatbot-mania-quiz-iim-rohtak-1760398",
-      "date": "2026-11-09T15:00:53.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -811,22 +795,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773229",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Out of Bounds - Web Game Development Hackathon",
-      "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
-      "date": "2026-11-20T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Code Variant",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31773",
       "type": "hackathon",
       "source": "Devpost",
@@ -931,6 +899,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1772496",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "K Hacks 4.0",
+      "url": "https://unstop.com/hackathons/k-hacks-40-anna-university-au-chennai-1772496",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Anna University (AU), Chennai",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31737",
       "type": "hackathon",
       "source": "Devpost",
@@ -1000,6 +984,22 @@
       "rwanda": false
     },
     {
+      "id": "feed-allianz-movenow-social-innovation-challenge-2026-90-000-total-prize",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "Allianz MoveNow Social Innovation Challenge 2026 ($90,000 total prize)",
+      "url": "https://opportunitydesk.org/2026/10/27/allianz-movenow-social-innovation-challenge-2026/",
+      "date": "2026-12-18T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30789",
       "type": "hackathon",
       "source": "Devpost",
@@ -1013,6 +1013,23 @@
       "tags": [
         "ai",
         "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31572",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Codegeist 2026: Build with context. Ship with confidence.",
+      "url": "https://codegeist2026.devpost.com/",
+      "date": "2026-12-22T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$120,000",
+      "org": "Atlassian",
+      "tags": [
+        "ai",
         "education"
       ],
       "rwanda": false
