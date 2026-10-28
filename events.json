@@ -1,32 +1,15 @@
 {
-  "updated": "2026-10-28T04:29:47.115Z",
+  "updated": "2026-10-28T12:16:53.773Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (29)",
+    "Unstop": "ok (27)",
     "MLH": "ok (63)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1780917",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Lumina'26 Hackathon",
-      "url": "https://unstop.com/hackathons/lumina26-hackathon-ieee-student-branch-jiit-noida-1780917",
-      "date": "2026-10-28T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IEEE Student Branch JIIT, Noida",
-      "tags": [
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1776287",
       "type": "hackathon",
@@ -157,22 +140,6 @@
       "org": "Alliance University",
       "tags": [
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1781463",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 4 : The Ghost Kitchen Playbook",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-4-the-ghost-kitchen-playbook-iim-rohtak-1781463",
-      "date": "2026-10-30T14:29:42.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -344,22 +311,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1779090",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Reel the Waste - Reveal the Change",
-      "url": "https://unstop.com/events/reel-the-waste-reveal-the-change-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1779090",
-      "date": "2026-11-02T11:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31742",
       "type": "hackathon",
       "source": "Devpost",
@@ -397,6 +348,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1748416",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Osmosis 8.0",
+      "url": "https://unstop.com/quiz/osmosis-80-iim-kashipur-1748416",
+      "date": "2026-11-03T11:30:20.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kashipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31748",
       "type": "hackathon",
       "source": "Devpost",
@@ -429,16 +396,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1780598",
+      "id": "unstop-1773480",
       "type": "competition",
       "source": "Unstop",
-      "name": "Treasure Restoration",
-      "url": "https://unstop.com/competitions/treasure-restoration-great-lakes-institute-of-management-glim-gurgaon-1780598",
-      "date": "2026-11-06T18:29:00.000Z",
+      "name": "Tek-Qubit: Women of Impact 2026",
+      "url": "https://unstop.com/quiz/crp-tek-qubit-women-of-impact-2026-tekion-1773480",
+      "date": "2026-11-06T18:29:15.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Great Lakes Institute of Management (GLIM), Gurgaon",
+      "org": "Tekion",
       "tags": [
         "web"
       ],
@@ -470,9 +437,9 @@
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "BharatCode.ai",
+      "org": "Bharat Code",
       "tags": [
-        "ai"
+        "web"
       ],
       "rwanda": false
     },
@@ -487,6 +454,22 @@
       "online": true,
       "prize": "",
       "org": "Wooble Software Private Limited",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1782209",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Investomania",
+      "url": "https://unstop.com/competitions/investomania-e-summit26-jadavpur-university-jadavpur-university-kolkata-1782209",
+      "date": "2026-11-08T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
       "tags": [
         "web"
       ],
@@ -559,22 +542,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1779001",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Synergy '26: Orion Case Study Competition",
-      "url": "https://unstop.com/competitions/synergy-26-orion-case-study-competition-xavier-school-of-management-xlri-jamshedpur-1779001",
-      "date": "2026-11-10T06:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xavier School of Management (XLRI), Jamshedpur",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31664",
       "type": "hackathon",
       "source": "Devpost",
@@ -638,22 +605,6 @@
       "org": "Makers Need More (MnM)",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1781090",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mock Stock",
-      "url": "https://unstop.com/competitions/mock-stock-e-summit26-jadavpur-university-jadavpur-university-kolkata-1781090",
-      "date": "2026-11-14T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Jadavpur University (JU), Kolkata",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -952,6 +903,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1781358",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Pixels To Prognosis",
+      "url": "https://unstop.com/hackathons/pixels-to-prognosis-iit-madras-1781358",
+      "date": "2026-11-27T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology (IIT), Madras",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1777504",
       "type": "hackathon",
       "source": "Unstop",
@@ -966,22 +933,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774232",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Ops Hunt",
-      "url": "https://unstop.com/competitions/ops-hunt--1774232",
-      "date": "2026-11-28T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -1049,6 +1000,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-28603",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "MCA 2026 projects",
+      "url": "https://mca-2026-projects.devpost.com/",
+      "date": "2026-12-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mizzou Computing Association",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
