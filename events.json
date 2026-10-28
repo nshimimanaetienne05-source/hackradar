@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-27T21:53:36.572Z",
+  "updated": "2026-10-28T04:29:47.115Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (29)",
     "MLH": "ok (63)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -54,22 +54,6 @@
       "online": true,
       "prize": "",
       "org": "IIITDM Kancheepuram",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1780615",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Python Quiz",
-      "url": "https://unstop.com/quiz/python-quiz-sns-college-of-engineering-1780615",
-      "date": "2026-10-28T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SNS College of Engineering (SNSCE), Coimbatore",
       "tags": [
         "web"
       ],
@@ -161,22 +145,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31748",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Girls Who Code HHS Hackathon 2026",
-      "url": "https://gwchhs-hackathon-2026.devpost.com/",
-      "date": "2026-10-29T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$50",
-      "org": "Girls Who Code HHS",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31714",
       "type": "hackathon",
       "source": "Devpost",
@@ -189,6 +157,22 @@
       "org": "Alliance University",
       "tags": [
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1781463",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Branded & Buttered: Quiz 4 : The Ghost Kitchen Playbook",
+      "url": "https://unstop.com/quiz/branded-buttered-quiz-4-the-ghost-kitchen-playbook-iim-rohtak-1781463",
+      "date": "2026-10-30T14:29:42.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -413,32 +397,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1774573",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ReBuild '26 — The Dashboard Recreation Hackathon by CampusCode",
-      "url": "https://unstop.com/hackathons/rebuild-26-the-dashboard-recreation-hackathon-by-campuscode-campus-code-1774573",
-      "date": "2026-11-04T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Campus Code",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31619",
+      "id": "devpost-31748",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "Pumpkin Playground",
-      "url": "https://pumpkin-playground.devpost.com/",
+      "name": "Girls Who Code HHS Hackathon 2026",
+      "url": "https://gwchhs-hackathon-2026.devpost.com/",
       "date": "2026-11-05T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$30",
-      "org": "ACM Long Beach",
+      "prize": "$50",
+      "org": "Girls Who Code HHS",
       "tags": [
         "web"
       ],
@@ -471,6 +439,22 @@
       "online": true,
       "prize": "",
       "org": "Great Lakes Institute of Management (GLIM), Gurgaon",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31619",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Pumpkin Playground",
+      "url": "https://pumpkin-playground.devpost.com/",
+      "date": "2026-11-06T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$50",
+      "org": "ACM Long Beach",
       "tags": [
         "web"
       ],
@@ -943,6 +927,24 @@
       "org": "Aditya University",
       "tags": [
         "health",
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31626",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Hackathon Agéntico SoftwareChido 2026B",
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ITESO",
+      "tags": [
         "ai",
         "web",
         "education"
