@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T22:17:56.925Z",
+  "updated": "2026-10-29T04:45:31.610Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -160,34 +160,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1781785",
-      "type": "pitch",
-      "source": "Unstop",
-      "name": "Pitch Tank 6.0",
-      "url": "https://unstop.com/competitions/pitch-tank-60-samriddhi-2026-goa-institute-of-management-gim-goa-1781785",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Goa Institute of Management (GIM), Goa",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1781868",
+      "id": "unstop-1782916",
       "type": "competition",
       "source": "Unstop",
-      "name": "BizRupt 5.0",
-      "url": "https://unstop.com/competitions/bizrupt-50-samriddhi-2026-goa-institute-of-management-gim-goa-1781868",
+      "name": "Eco-Lution: Your Ticket to The World of Management (GIM)-International Case Competition for UG Students",
+      "url": "https://unstop.com/competitions/eco-lution-your-ticket-to-the-world-of-management-gim-international-case-competition-for-ug-students-samrid-1782916",
       "date": "2026-10-31T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
       "org": "Goa Institute of Management (GIM), Goa",
       "tags": [
-        "web"
+        "education"
       ],
       "rwanda": false
     },
@@ -255,6 +239,22 @@
         "web",
         "education",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1782944",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Brand Wars 2.0",
+      "url": "https://unstop.com/competitions/brand-wars-20-lady-shri-ram-college-for-women-lsr-du-new-delhi-1782944",
+      "date": "2026-11-01T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Lady Shri Ram College for Women (LSR) University of Delhi (DU)",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -1000,6 +1000,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-28603",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "MCA 2026 projects",
+      "url": "https://mca-2026-projects.devpost.com/",
+      "date": "2026-12-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mizzou Computing Association",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
