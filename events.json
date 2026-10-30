@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-30T04:45:07.777Z",
+  "updated": "2026-10-30T12:18:10.471Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (28)",
+    "Unstop": "ok (30)",
     "MLH": "ok (63)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (1)",
@@ -79,40 +79,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31515",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CodeSprint by Elite Coders",
-      "url": "https://codesprint-by-elitecoders.devpost.com/",
-      "date": "2026-10-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 30,000",
-      "org": "elite coders",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31551",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Learn to Hack: MATLAB Edition 2026",
-      "url": "https://ntu-matlab-2026.devpost.com/",
-      "date": "2026-10-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "CCEB ANATA",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1782516",
       "type": "hackathon",
       "source": "Unstop",
@@ -123,6 +89,70 @@
       "online": true,
       "prize": "",
       "org": "Product Space",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1784313",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Compensation, Benefits, and Total Rewards",
+      "url": "https://unstop.com/quiz/compensation-benefits-and-total-rewards-iim-rohtak-1784313",
+      "date": "2026-10-31T11:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1781452",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "PrAIyaan 4.0",
+      "url": "https://unstop.com/competitions/praiyaan-40-samriddhi-2026-goa-institute-of-management-gim-goa-1781452",
+      "date": "2026-10-31T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Goa Institute of Management (GIM), Goa",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1782951",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Pravartan 2.0",
+      "url": "https://unstop.com/competitions/pravartan-20-samriddhi-2026-goa-institute-of-management-gim-goa-1782951",
+      "date": "2026-10-31T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Goa Institute of Management (GIM), Goa",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1781438",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Chrysalis 9.0",
+      "url": "https://unstop.com/competitions/chrysalis-90-samriddhi-2026-goa-institute-of-management-gim-goa-1781438",
+      "date": "2026-10-31T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Goa Institute of Management (GIM), Goa",
       "tags": [
         "web"
       ],
@@ -208,22 +238,6 @@
       "org": "Devpost",
       "tags": [
         "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1783640",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "ProdMad 6.0: Product Management Case Competition",
-      "url": "https://unstop.com/competitions/prodmad-60-product-management-case-competition-iim-shillong-1783640",
-      "date": "2026-11-02T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Shillong",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -463,16 +477,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1783637",
-      "type": "competition",
+      "id": "unstop-1775867",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Mega Monthly Quiz 32",
-      "url": "https://unstop.com/quiz/mega-monthly-quiz-32-netclan-explorer-1783637",
-      "date": "2026-11-11T18:30:00.000Z",
+      "name": "Bug Bounty: Multiverse Wars Competition",
+      "url": "https://unstop.com/hackathons/bug-bounty-multiverse-wars-competition-hackosquadctf-1775867",
+      "date": "2026-11-12T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Netclan Explorer",
+      "org": "Hackosquad",
       "tags": [
         "web"
       ],
@@ -806,6 +820,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31626",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Hackathon Agéntico SoftwareChido 2026B",
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ITESO",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1781358",
       "type": "hackathon",
       "source": "Unstop",
@@ -868,6 +900,22 @@
       "online": true,
       "prize": "",
       "org": "Godstockss",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1780976",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Deva re Deva | A Quiz on Indian Mythology",
+      "url": "https://unstop.com/quiz/deva-re-deva-a-quiz-on-indian-mythology-quizarc-1780976",
+      "date": "2026-11-29T13:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Quizarc",
       "tags": [
         "web"
       ],
