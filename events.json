@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:30:37.333Z",
+  "updated": "2026-10-30T04:45:07.777Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -95,18 +95,20 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31606",
+      "id": "devpost-31551",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "LancerHacks",
-      "url": "https://lancerhacks2026.devpost.com/",
+      "name": "Learn to Hack: MATLAB Edition 2026",
+      "url": "https://ntu-matlab-2026.devpost.com/",
       "date": "2026-10-30T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$800",
-      "org": "pasadena city college",
+      "prize": "",
+      "org": "CCEB ANATA",
       "tags": [
-        "web"
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
