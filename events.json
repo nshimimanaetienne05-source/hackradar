@@ -1,32 +1,15 @@
 {
-  "updated": "2026-10-31T16:56:22.010Z",
+  "updated": "2026-10-31T21:07:35.283Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (26)",
+    "Unstop": "ok (25)",
     "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31736",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CreateAThon",
-      "url": "https://graph-hacks.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online, from anywhere",
-      "online": true,
-      "prize": "",
-      "org": "Hacker's Unity",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31731",
       "type": "hackathon",
@@ -42,22 +25,6 @@
         "web",
         "education",
         "security"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1786664",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FinSight: Sharpen Your Financial Insight - 5",
-      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-5-iim-rohtak-1786664",
-      "date": "2026-11-01T18:29:56.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -106,6 +73,24 @@
       "online": true,
       "prize": "$300",
       "org": "Lovhack",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31841",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Global AI Hackathon - Devcon 2026 By Mel",
+      "url": "https://trick-or-build.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Agentic Day (co-hosted with Mel)",
       "tags": [
         "ai",
         "web",
@@ -167,6 +152,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31946",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Remote Control AI",
+      "url": "https://remote-control-ai.devpost.com/",
+      "date": "2026-11-05T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "avacado",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1787442",
       "type": "competition",
       "source": "Unstop",
@@ -215,16 +216,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1786692",
-      "type": "competition",
+      "id": "unstop-1786387",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 5 : The QSR Positioning Wars",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-5-the-qsr-positioning-wars-iim-rohtak-1786692",
-      "date": "2026-11-07T09:12:46.000Z",
+      "name": "CODE SHIFT 2026",
+      "url": "https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387",
+      "date": "2026-11-07T17:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
+      "org": "InfoTechiezz",
       "tags": [
         "web"
       ],
@@ -392,22 +393,6 @@
         "health",
         "data",
         "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1786516",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "General Case Study Competition",
-      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1786516",
-      "date": "2026-11-11T06:30:43.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Rising Scholars",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -753,22 +738,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1786399",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Prod-a-Vista",
-      "url": "https://unstop.com/competitions/prod-a-vista--1786399",
-      "date": "2026-11-25T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Raipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1772496",
       "type": "hackathon",
       "source": "Unstop",
@@ -818,6 +787,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31504",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Code For DFW",
+      "url": "https://code-for-dfw.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "n/a",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -935,6 +920,22 @@
       "org": "Karma Enterprises",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1787458",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "What's Your AI-Q? – Daily AI Quiz Challenge | Win Exciting Gadgets",
+      "url": "https://unstop.com/quiz/whats-your-ai-q-daily-ai-quiz-challenge-win-exciting-gadgets-ies-university-bhopal-1787458",
+      "date": "2026-12-13T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IES University, Bhopal",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
