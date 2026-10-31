@@ -1,33 +1,15 @@
 {
-  "updated": "2026-10-30T21:59:52.635Z",
+  "updated": "2026-10-31T04:29:32.929Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (29)",
+    "Unstop": "ok (32)",
     "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31054",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Qloo Agentic Hackathon",
-      "url": "https://qloo.devpost.com/",
-      "date": "2026-10-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$25,000",
-      "org": "Qloo",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1782516",
       "type": "hackathon",
@@ -41,6 +23,22 @@
       "org": "Product Space",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1786140",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "ML Codeathon 1.0",
+      "url": "https://unstop.com/hackathons/ml-codeathon-10-ksrangasamy-college-of-technology-college-thiruchengode-tamil-nadu-1786140",
+      "date": "2026-10-31T15:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "K.S.Rangasamy College of Technology College, Thiruchengode, Tamil Nadu",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -126,22 +124,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31555",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "FUSE Society Blueprint 2026",
-      "url": "https://fuse-society-blueprint-2026.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$250",
-      "org": "Fuse Society",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31731",
       "type": "hackathon",
       "source": "Devpost",
@@ -156,6 +138,22 @@
         "web",
         "education",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1786664",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "FinSight: Sharpen Your Financial Insight - 5",
+      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-5-iim-rohtak-1786664",
+      "date": "2026-11-01T18:29:56.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -558,6 +556,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31187",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "STEMergent Hacks 2026",
+      "url": "https://stemergent-hacks.devpost.com/",
+      "date": "2026-11-15T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "STEMergent",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31666",
       "type": "hackathon",
       "source": "Devpost",
@@ -595,6 +611,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1759072",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Tathya 4.0",
+      "url": "https://unstop.com/competitions/tathya-40-goa-institute-of-management-gim-goa-1759072",
+      "date": "2026-11-17T06:30:53.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Goa Institute of Management (GIM), Goa",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -626,22 +658,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1780048",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Orbix - 48-Hour Global Open Innovation Hackathon",
-      "url": "https://unstop.com/hackathons/orbix-48-hour-global-open-innovation-hackathon-makers-need-more-mnm-1780048",
-      "date": "2026-11-20T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Makers Need More (MnM)",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -799,6 +815,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31504",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Code For DFW",
+      "url": "https://code-for-dfw.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "n/a",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
