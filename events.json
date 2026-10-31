@@ -1,47 +1,15 @@
 {
-  "updated": "2026-10-31T11:49:06.489Z",
+  "updated": "2026-10-31T16:56:22.010Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (27)",
+    "Unstop": "ok (26)",
     "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1786140",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ML Codeathon 1.0",
-      "url": "https://unstop.com/hackathons/ml-codeathon-10-ksrangasamy-college-of-technology-college-thiruchengode-tamil-nadu-1786140",
-      "date": "2026-10-31T15:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "K.S.Rangasamy College of Technology College, Thiruchengode, Tamil Nadu",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31627",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Next Byte Hacks V5",
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$100",
-      "org": "Next Byte Hacks",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31736",
       "type": "hackathon",
@@ -128,6 +96,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31779",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "TRMI X Lovhack : Multiplayer Everything Hackathon",
+      "url": "https://lovhack-trmi-2026.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$300",
+      "org": "Lovhack",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31742",
       "type": "hackathon",
       "source": "Devpost",
@@ -181,18 +167,34 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31946",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Remote Control AI",
-      "url": "https://remote-control-ai.devpost.com/",
-      "date": "2026-11-05T23:59:00.000Z",
+      "id": "unstop-1787442",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "IndiaStox Nifty Midcap 100 Predictions Challenge",
+      "url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1787442",
+      "date": "2026-11-06T19:30:33.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "avacado",
+      "org": "Indiastox",
       "tags": [
-        "ai"
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1787441",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Indian Equities Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1787441",
+      "date": "2026-11-06T19:30:36.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -223,6 +225,22 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31627",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Next Byte Hacks V5",
+      "url": "https://next-byte-hacks-v5.devpost.com/",
+      "date": "2026-11-07T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$100",
+      "org": "Next Byte Hacks",
       "tags": [
         "web"
       ],
@@ -489,6 +507,22 @@
       "org": "TrishulX",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1787448",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Crack the Case",
+      "url": "https://unstop.com/competitions/crack-the-case-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1787448",
+      "date": "2026-11-13T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
+      "tags": [
+        "education"
       ],
       "rwanda": false
     },
@@ -784,22 +818,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31504",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Code For DFW",
-      "url": "https://code-for-dfw.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "n/a",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
