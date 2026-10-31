@@ -1,31 +1,15 @@
 {
-  "updated": "2026-10-31T04:29:32.929Z",
+  "updated": "2026-10-31T11:49:06.489Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (27)",
     "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1782516",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Product Verse Hackathon",
-      "url": "https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516",
-      "date": "2026-10-31T04:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1786140",
       "type": "hackathon",
@@ -39,54 +23,6 @@
       "org": "K.S.Rangasamy College of Technology College, Thiruchengode, Tamil Nadu",
       "tags": [
         "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1782951",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Pravartan 2.0",
-      "url": "https://unstop.com/competitions/pravartan-20-samriddhi-2026-goa-institute-of-management-gim-goa-1782951",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Goa Institute of Management (GIM), Goa",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1781452",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "PrAIyaan 4.0",
-      "url": "https://unstop.com/competitions/praiyaan-40-samriddhi-2026-goa-institute-of-management-gim-goa-1781452",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Goa Institute of Management (GIM), Goa",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1781438",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Chrysalis 9.0",
-      "url": "https://unstop.com/competitions/chrysalis-90-samriddhi-2026-goa-institute-of-management-gim-goa-1781438",
-      "date": "2026-10-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Goa Institute of Management (GIM), Goa",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -174,18 +110,20 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1786692",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 5 : The QSR Positioning Wars",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-5-the-qsr-positioning-wars-iim-rohtak-1786692",
-      "date": "2026-11-02T12:59:19.000Z",
+      "id": "devpost-31942",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "INCEPTION 2026",
+      "url": "https://inception2026.devpost.com/",
+      "date": "2026-11-01T23:59:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
+      "org": "HIMATIFA UPN \"Veteran\" Jawa Timur",
       "tags": [
-        "web"
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -243,6 +181,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31946",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Remote Control AI",
+      "url": "https://remote-control-ai.devpost.com/",
+      "date": "2026-11-05T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "avacado",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31619",
       "type": "hackathon",
       "source": "Devpost",
@@ -255,6 +209,38 @@
       "org": "ACM Long Beach",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1786692",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Branded & Buttered: Quiz 5 : The QSR Positioning Wars",
+      "url": "https://unstop.com/quiz/branded-buttered-quiz-5-the-qsr-positioning-wars-iim-rohtak-1786692",
+      "date": "2026-11-07T09:12:46.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1774919",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "DataZoids 5.0 - A Pan India Analytics Case Study Challenge",
+      "url": "https://unstop.com/competitions/datazoids-50-a-pan-india-analytics-case-study-challenge-iim-kashipur-1774919",
+      "date": "2026-11-08T18:29:10.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kashipur",
+      "tags": [
+        "data"
       ],
       "rwanda": false
     },
@@ -502,23 +488,6 @@
       "prize": "",
       "org": "TrishulX",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1771798",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Catalyst - Solo AI Hackathon",
-      "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
-      "date": "2026-11-13T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Makers Need More (MnM)",
-      "tags": [
-        "ai",
         "web"
       ],
       "rwanda": false
@@ -883,22 +852,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1780976",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Deva re Deva | A Quiz on Indian Mythology",
-      "url": "https://unstop.com/quiz/deva-re-deva-a-quiz-on-indian-mythology-quizarc-1780976",
-      "date": "2026-11-29T13:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Quizarc",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
