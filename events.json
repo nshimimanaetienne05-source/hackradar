@@ -1,33 +1,15 @@
 {
-  "updated": "2026-11-01T12:48:58.650Z",
+  "updated": "2026-11-01T21:47:15.304Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (22)",
+    "Unstop": "ok (24)",
     "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31779",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "TRMI X Lovhack : Multiplayer Everything Hackathon",
-      "url": "https://lovhack-trmi-2026.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$300",
-      "org": "Lovhack",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31841",
       "type": "hackathon",
@@ -149,39 +131,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1763841",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Nexus Quest - Class VI",
-      "url": "https://unstop.com/quiz/nexus-quest-class-vi-nexus-quest-iit-hyderabad-1763841",
-      "date": "2026-11-07T04:54:02.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Hyderabad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1788810",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Live Project Opportunity: Equity Valuation, Quantitative Finance & Market Research & Analytics Roles",
-      "url": "https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810",
-      "date": "2026-11-07T11:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Caplexus Capital",
-      "tags": [
-        "data",
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1783260",
       "type": "hackathon",
       "source": "Unstop",
@@ -208,22 +157,6 @@
       "online": true,
       "prize": "",
       "org": "InfoTechiezz",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1763839",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Nexus Quest - Class VII",
-      "url": "https://unstop.com/quiz/nexus-quest-class-vii-nexus-quest-iit-hyderabad-1763839",
-      "date": "2026-11-07T18:29:18.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Hyderabad",
       "tags": [
         "web"
       ],
@@ -290,6 +223,22 @@
       "online": true,
       "prize": "",
       "org": "WeCodeCoders",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1789845",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Product Teardown",
+      "url": "https://unstop.com/competitions/product-teardown--1789845",
+      "date": "2026-11-10T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Visakhapatnam",
       "tags": [
         "web"
       ],
@@ -476,6 +425,23 @@
       "org": "TrishulX",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1789982",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Project Last Mile: Analytics Case Challenge",
+      "url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+      "date": "2026-11-14T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier School of Management (XLRI)",
+      "tags": [
+        "data",
+        "education"
       ],
       "rwanda": false
     },
@@ -772,6 +738,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1790046",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "National HR Colosseum 11.0",
+      "url": "https://unstop.com/competitions/national-hr-colosseum-110-xavier-school-of-management-xlri-1790046",
+      "date": "2026-11-23T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xavier School of Management (XLRI)",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31737",
       "type": "hackathon",
       "source": "Devpost",
@@ -887,6 +869,22 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1782683",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CTF - Capture The Flag",
+      "url": "https://unstop.com/hackathons/ctf-capture-the-flag-iit-madras-1782683",
+      "date": "2026-11-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology (IIT), Madras",
       "tags": [
         "web"
       ],
