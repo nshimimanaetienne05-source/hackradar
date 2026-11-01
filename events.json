@@ -1,33 +1,15 @@
 {
-  "updated": "2026-10-31T21:07:35.283Z",
+  "updated": "2026-11-01T04:49:59.970Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
+    "Unstop": "ok (24)",
     "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31731",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "305 EmpowHER Edition October 2026 — 305Hackathons.vercel.app",
-      "url": "https://305empowheroct2026.devpost.com/",
-      "date": "2026-10-31T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "CODE CRUNCH",
-      "tags": [
-        "web",
-        "education",
-        "security"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31793",
       "type": "hackathon",
@@ -41,24 +23,6 @@
       "org": "Devpost",
       "tags": [
         "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31942",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "INCEPTION 2026",
-      "url": "https://inception2026.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HIMATIFA UPN \"Veteran\" Jawa Timur",
-      "tags": [
-        "ai",
-        "web",
-        "education"
       ],
       "rwanda": false
     },
@@ -99,6 +63,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1788045",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Artha-Quake: India's Policy Challenge Quiz",
+      "url": "https://unstop.com/quiz/artha-quake-indias-policy-challenge-quiz-iim-rohtak-1788045",
+      "date": "2026-11-02T11:30:15.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31742",
       "type": "hackathon",
       "source": "Devpost",
@@ -131,6 +111,23 @@
         "ai",
         "web",
         "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31580",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Ostad Presents YUNet AIgnite Buildathon 2026",
+      "url": "https://yunet-aignite26.devpost.com/",
+      "date": "2026-11-05T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Youth Upskill Network - YUNet",
+      "tags": [
+        "ai",
         "education"
       ],
       "rwanda": false
@@ -226,6 +223,22 @@
       "online": true,
       "prize": "",
       "org": "InfoTechiezz",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1787492",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Prabhav 7.0",
+      "url": "https://unstop.com/competitions/prabhav-70-indian-institute-of-management-iim-nagpur-1787492",
+      "date": "2026-11-07T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Nagpur",
       "tags": [
         "web"
       ],
@@ -379,6 +392,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31060",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Agentic Hackathon",
+      "url": "https://agentic-hackathon.devpost.com/",
+      "date": "2026-11-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$480",
+      "org": "Devin",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31883",
       "type": "hackathon",
       "source": "Devpost",
@@ -512,6 +543,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31719",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
+      "url": "https://scope-ai-thon-2026.devpost.com/",
+      "date": "2026-11-14T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$CAD 1,400",
+      "org": "mcgill university",
+      "tags": [
+        "health",
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1784554",
       "type": "hackathon",
       "source": "Unstop",
@@ -595,22 +644,6 @@
         "web",
         "climate",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1759072",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Tathya 4.0",
-      "url": "https://unstop.com/competitions/tathya-40-goa-institute-of-management-gim-goa-1759072",
-      "date": "2026-11-17T06:30:53.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Goa Institute of Management (GIM), Goa",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
