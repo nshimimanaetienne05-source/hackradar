@@ -1,33 +1,15 @@
 {
-  "updated": "2026-11-01T21:47:15.304Z",
+  "updated": "2026-11-02T04:51:28.645Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (24)",
-    "MLH": "ok (65)",
+    "Unstop": "ok (22)",
+    "MLH": "ok (64)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31841",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Global AI Hackathon - Devcon 2026 By Mel",
-      "url": "https://trick-or-build.devpost.com/",
-      "date": "2026-11-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Agentic Day (co-hosted with Mel)",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31742",
       "type": "hackathon",
@@ -634,22 +616,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773183",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Bot Royale",
-      "url": "https://unstop.com/competitions/bot-royale-saturnalia-2026-thapar-institute-of-engineering-and-technology-tiet-patiala-1773183",
-      "date": "2026-11-19T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Thapar Institute of Engineering and Technology (TIET), Patiala",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31773",
       "type": "hackathon",
       "source": "Devpost",
@@ -841,24 +807,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1777504",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Agents that act. Systems that answer. | Free Virtual Agentic-AI Hackathon",
-      "url": "https://unstop.com/hackathons/agents-that-act-systems-that-answer-studentchakra-1777504",
-      "date": "2026-11-28T01:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Studentchakra",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1787484",
       "type": "competition",
       "source": "Unstop",
@@ -907,6 +855,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31733",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
+      "url": "https://305veteransnov2026.devpost.com/",
+      "date": "2026-11-30T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "GOOGLE DEVELOPER GROUP AT FIU",
+      "tags": [
+        "web",
+        "education",
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -919,6 +885,23 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31960",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "ML Empowerment Build Challenge 4.0",
+      "url": "https://ml-build-challenge-4.devpost.com/",
+      "date": "2026-12-02T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ML Empowerment Foundation",
+      "tags": [
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
