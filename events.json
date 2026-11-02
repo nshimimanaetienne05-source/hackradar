@@ -1,15 +1,31 @@
 {
-  "updated": "2026-11-02T04:51:28.645Z",
+  "updated": "2026-11-02T14:57:44.351Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (22)",
+    "Unstop": "ok (21)",
     "MLH": "ok (64)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (0)",
-    "Opportunities for Africans": "ok (0)"
+    "Opportunity Desk": "ok (1)",
+    "Opportunities for Africans": "ok (2)"
   },
   "events": [
+    {
+      "id": "unstop-1790018",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Ops Arena | Quiz 5: Supply Chain Showdown",
+      "url": "https://unstop.com/quiz/the-ops-arena-quiz-5-supply-chain-showdown-iim-rohtak-1790018",
+      "date": "2026-11-02T15:15:50.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
     {
       "id": "devpost-31742",
       "type": "hackathon",
@@ -43,6 +59,40 @@
         "ai",
         "web",
         "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31811",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "BDBI x SpaceXSI Grokathon",
+      "url": "https://bdbi-x-spacexsi.devpost.com/",
+      "date": "2026-11-02T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SpaceXSI",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31815",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Neural Storm",
+      "url": "https://neuralstorm.devpost.com/",
+      "date": "2026-11-04T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "₹ 20,000",
+      "org": "JNTUH",
+      "tags": [
+        "ai",
         "education"
       ],
       "rwanda": false
@@ -93,6 +143,22 @@
       "org": "avacado",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1768033",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "National Level E-Quiz 7.0",
+      "url": "https://unstop.com/quiz/national-level-e-quiz-chaitanya-bharathi-institute-of-technology-gandipet-telangana-1768033",
+      "date": "2026-11-06T18:29:08.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Chaitanya Bharathi Institute of Technology, Gandipet, Telangana",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -157,6 +223,57 @@
       "org": "Next Byte Hacks",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31705",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "2026 UXC NYU Fall Design-a-thon",
+      "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
+      "date": "2026-11-07T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$1,000",
+      "org": "New York University",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1789949",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Global Case Masters 2026",
+      "url": "https://unstop.com/competitions/global-case-masters-2026-imt-ghaziabad-1789949",
+      "date": "2026-11-08T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31489",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "EthnoHack",
+      "url": "https://ethnohack2026.devpost.com/",
+      "date": "2026-11-08T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "€8,000",
+      "org": "ETHCSTWIN",
+      "tags": [
+        "health",
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -568,54 +685,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1773182",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Designathon",
-      "url": "https://unstop.com/competitions/designathon-saturnalia-2026-thapar-institute-of-engineering-and-technology-tiet-patiala-1773182",
-      "date": "2026-11-19T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Thapar Institute of Engineering and Technology (TIET), Patiala",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773180",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Kaggle Wars",
-      "url": "https://unstop.com/competitions/kaggle-wars-saturnalia-2026-thapar-institute-of-engineering-and-technology-tiet-patiala-1773180",
-      "date": "2026-11-19T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Thapar Institute of Engineering and Technology (TIET), Patiala",
-      "tags": [
-        "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773173",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Sommium",
-      "url": "https://unstop.com/competitions/sommium-saturnalia-2026-thapar-institute-of-engineering-and-technology-tiet-patiala-1773173",
-      "date": "2026-11-19T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Thapar Institute of Engineering and Technology (TIET), Patiala",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31773",
       "type": "hackathon",
       "source": "Devpost",
@@ -757,22 +826,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31504",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Code For DFW",
-      "url": "https://code-for-dfw.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "n/a",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1781358",
       "type": "hackathon",
       "source": "Unstop",
@@ -803,22 +856,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1787484",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Call for Articles: Arbitrage November",
-      "url": "https://unstop.com/competitions/call-for-articles-arbitrage-november-iim-rohtak-1787484",
-      "date": "2026-11-29T18:29:15.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -855,24 +892,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31733",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
-      "url": "https://305veteransnov2026.devpost.com/",
-      "date": "2026-11-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "GOOGLE DEVELOPER GROUP AT FIU",
-      "tags": [
-        "web",
-        "education",
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -889,19 +908,18 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31960",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "ML Empowerment Build Challenge 4.0",
-      "url": "https://ml-build-challenge-4.devpost.com/",
-      "date": "2026-12-02T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
+      "id": "feed-erase-indifference-challenge-2026-90-000-prize",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "Erase Indifference Challenge 2026 (€90,000 prize)",
+      "url": "https://opportunitydesk.org/2026/11/02/erase-indifference-challenge-2026/",
+      "date": "2026-12-04T21:59:00.000Z",
+      "location": "",
+      "online": false,
       "prize": "",
-      "org": "ML Empowerment Foundation",
+      "org": "",
       "tags": [
-        "ai",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -974,22 +992,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-28603",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "MCA 2026 projects",
-      "url": "https://mca-2026-projects.devpost.com/",
-      "date": "2026-12-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mizzou Computing Association",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31787",
       "type": "hackathon",
       "source": "Devpost",
@@ -1055,6 +1057,38 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-continental-reinsurance-plc-pan-african-re-insurance-journalism-awards-2027-for-",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "Continental Reinsurance Plc Pan-African Re/Insurance Journalism Awards 2027 for Young African Journalists",
+      "url": "https://www.opportunitiesforafricans.com/continental-reinsurance-plc-pan-african-re-insurance-journalism-awards-2027/",
+      "date": "2027-01-31T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-st-gallen-symposium-global-ideas-competition-2027-chf-20-000-prize-expenses-paid",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "St. Gallen Symposium Global Ideas Competition 2027 (CHF 20,000 Prize & expenses-paid participation to the 56th St. Gallen Symposium in Switzerland)",
+      "url": "https://www.opportunitiesforafricans.com/st-gallen-symposium-global-ideas-competition-2027/",
+      "date": "2027-02-01T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     }
