@@ -1,15 +1,31 @@
 {
-  "updated": "2026-11-03T00:40:15.608Z",
+  "updated": "2026-11-03T13:45:55.812Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (18)",
+    "Unstop": "ok (30)",
     "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (4)"
   },
   "events": [
+    {
+      "id": "unstop-1792108",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "BUILD / 04: Diwali Codefest 2026 | Online Qualifier & Final",
+      "url": "https://unstop.com/hackathons/build-04-diwali-codefest-2026-online-qualifier-final-apex-institute-of-technology-chandigarh-university-1792108",
+      "date": "2026-11-03T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Apex Institute of Technology, Chandigarh University",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
     {
       "id": "devpost-31815",
       "type": "hackathon",
@@ -24,6 +40,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1791734",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Market Masters – The Business Simulation Challenge",
+      "url": "https://unstop.com/competitions/market-masters-the-business-simulation-challenge-national-institute-of-technology-nit-raipur-1791734",
+      "date": "2026-11-05T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Raipur",
+      "tags": [
+        "fintech"
       ],
       "rwanda": false
     },
@@ -73,6 +105,23 @@
       "org": "avacado",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1792034",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Stock Analysis - November 2026",
+      "url": "https://unstop.com/competitions/stock-analysis-november-2026-ibs-business-school-ahmedabad-1792034",
+      "date": "2026-11-06T02:02:47.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IBS Business School Ahmedabad",
+      "tags": [
+        "fintech",
+        "education"
       ],
       "rwanda": false
     },
@@ -157,6 +206,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1773188",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Ad-Vantage",
+      "url": "https://unstop.com/competitions/ad-vantage-iim-kashipur-1773188",
+      "date": "2026-11-08T17:00:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kashipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1791236",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Samvad: Call For Article",
+      "url": "https://unstop.com/competitions/samvad-call-for-article-sp-mandalis-prin-l-n-welingkar-institute-of-management-development-research-mumbai--1791236",
+      "date": "2026-11-08T18:46:33.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31489",
       "type": "hackathon",
       "source": "Devpost",
@@ -210,64 +291,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1783775",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeNova India 2026 - National Hackathon",
-      "url": "https://unstop.com/hackathons/codenova-india-2026-national-hackathon-wecodecoders-1783775",
-      "date": "2026-11-10T07:00:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "WeCodeCoders",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1789845",
+      "id": "unstop-1788111",
       "type": "competition",
       "source": "Unstop",
-      "name": "Product Teardown",
-      "url": "https://unstop.com/competitions/product-teardown--1789845",
+      "name": "Optaqon 6.0",
+      "url": "https://unstop.com/competitions/optaqon-60--1788111",
       "date": "2026-11-10T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
       "org": "Indian Institute of Management (IIM), Visakhapatnam",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1782942",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeHive Community Duel Night",
-      "url": "https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942",
-      "date": "2026-11-10T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Code Hive",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1782685",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Shaastra Programming Contest 2027",
-      "url": "https://unstop.com/hackathons/shaastra-programming-contest-2027-iit-madras-1782685",
-      "date": "2026-11-10T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Madras",
       "tags": [
         "web"
       ],
@@ -323,22 +356,6 @@
         "health",
         "data",
         "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1791696",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Disquisition 9.0",
-      "url": "https://unstop.com/competitions/disquisition-90-iim-kashipur-1791696",
-      "date": "2026-11-11T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Kashipur",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -410,18 +427,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1783835",
-      "type": "hackathon",
+      "id": "unstop-1791930",
+      "type": "competition",
       "source": "Unstop",
-      "name": "CodeZen India 2026 - National Hackathon",
-      "url": "https://unstop.com/hackathons/codezen-india-2026-national-hackathon-wecodecoders-1783835",
-      "date": "2026-11-13T01:30:00.000Z",
+      "name": "Crack the Product Case with Case Master AI | 14 November Edition",
+      "url": "https://unstop.com/competitions/crack-the-product-case-with-case-master-ai-14-november-edition-languify-1791930",
+      "date": "2026-11-13T04:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "WeCodeCoders",
+      "org": "Languify",
       "tags": [
-        "web"
+        "ai"
       ],
       "rwanda": false
     },
@@ -437,6 +454,39 @@
       "prize": "",
       "org": "TrishulX",
       "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1791573",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "MassX CTF 2026",
+      "url": "https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573",
+      "date": "2026-11-13T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Panipat Institute of Engineering & Technology (PIET), Panipat",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1792269",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Agentic AI Hackathon",
+      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
+      "date": "2026-11-14T05:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Product Space",
+      "tags": [
+        "ai",
         "web"
       ],
       "rwanda": false
@@ -472,6 +522,22 @@
       "org": "Acadable",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1791166",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Building Brands - The Streetwear Business Challenge",
+      "url": "https://unstop.com/competitions/building-brands-the-streetwear-business-challenge-the-tough-ones-private-limited-1791166",
+      "date": "2026-11-15T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "The Tough Ones Private Limited",
+      "tags": [
+        "fintech"
       ],
       "rwanda": false
     },
@@ -524,6 +590,38 @@
         "ai",
         "education",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1793112",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Queryquest: SQL Problem-Solving Challenge",
+      "url": "https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
+      "date": "2026-11-16T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "The National Institute of Engineering, Karnataka",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1793030",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Hack Paradise",
+      "url": "https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030",
+      "date": "2026-11-16T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -599,12 +697,12 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1792046",
-      "type": "pitch",
+      "id": "unstop-1792017",
+      "type": "competition",
       "source": "Unstop",
-      "name": "Pitch Up 12.0",
-      "url": "https://unstop.com/competitions/pitch-up-120-impelz-120-institute-of-management-technology-imt-hyderabad-1792046",
-      "date": "2026-11-20T09:40:20.000Z",
+      "name": "Prakshepan",
+      "url": "https://unstop.com/competitions/prakshepan-impelz-120-institute-of-management-technology-imt-hyderabad-1792017",
+      "date": "2026-11-19T12:59:07.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
@@ -664,6 +762,22 @@
         "blockchain",
         "fintech",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1792023",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Cogentix",
+      "url": "https://unstop.com/competitions/cogentix-impelz-120-institute-of-management-technology-imt-hyderabad-1792023",
+      "date": "2026-11-21T18:29:44.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Hyderabad",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -740,22 +854,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1781358",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Pixels To Prognosis",
-      "url": "https://unstop.com/hackathons/pixels-to-prognosis-iit-madras-1781358",
-      "date": "2026-11-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Madras",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -770,6 +868,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1793128",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Reflections Competitions: November-2026",
+      "url": "https://unstop.com/competitions/reflections-competitions-november-2026-peoples-reflection-1793128",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "People's Reflection",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -806,6 +920,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1790680",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "National Online Hackathon 2026",
+      "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680",
+      "date": "2026-12-01T03:02:22.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "EDXcellence LLP",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -822,34 +952,35 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1792044",
-      "type": "competition",
+      "id": "unstop-1791313",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Market Mosaic",
-      "url": "https://unstop.com/competitions/market-mosaic-impelz-120-institute-of-management-technology-imt-hyderabad-1792044",
-      "date": "2026-12-03T18:29:41.000Z",
+      "name": "CodeAstra India 2026 – National Hackathon",
+      "url": "https://unstop.com/hackathons/codeastra-india-2026-national-hackathon-wecodecoders-1791313",
+      "date": "2026-12-02T05:07:13.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Institute of Management Technology (IMT), Hyderabad",
+      "org": "WeCodeCoders",
       "tags": [
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "feed-erase-indifference-challenge-2026-90-000-prize",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "Erase Indifference Challenge 2026 (€90,000 prize)",
-      "url": "https://opportunitydesk.org/2026/11/02/erase-indifference-challenge-2026/",
-      "date": "2026-12-04T21:59:00.000Z",
-      "location": "",
-      "online": false,
+      "id": "devpost-31960",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "ML Empowerment Build Challenge 4.0",
+      "url": "https://ml-build-challenge-4.devpost.com/",
+      "date": "2026-12-02T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
       "prize": "",
-      "org": "",
+      "org": "ML Empowerment Foundation",
       "tags": [
-        "web"
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -867,22 +998,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1777639",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Rack It Up 2026: 48-Hour Online Hackathon by Rack'Em",
-      "url": "https://unstop.com/hackathons/rack-it-up-2026-48-hour-online-hackathon-by-rackem-karma-enterprises-1777639",
-      "date": "2026-12-09T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Karma Enterprises",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -1039,6 +1154,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-pan-african-re-insurance-journalism-awards-2027",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "Pan-African Re/Insurance Journalism Awards 2027",
+      "url": "https://opportunitydesk.org/2026/11/03/pan-african-re-insurance-journalism-awards-2027/",
+      "date": "2027-01-31T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
