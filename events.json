@@ -1,85 +1,15 @@
 {
-  "updated": "2026-11-02T14:57:44.351Z",
+  "updated": "2026-11-03T00:40:15.608Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (21)",
-    "MLH": "ok (64)",
+    "Unstop": "ok (18)",
+    "MLH": "ok (65)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (2)"
+    "Opportunities for Africans": "ok (4)"
   },
   "events": [
-    {
-      "id": "unstop-1790018",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Ops Arena | Quiz 5: Supply Chain Showdown",
-      "url": "https://unstop.com/quiz/the-ops-arena-quiz-5-supply-chain-showdown-iim-rohtak-1790018",
-      "date": "2026-11-02T15:15:50.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31742",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Codex x TwitchCon Hackathon",
-      "url": "https://twitchcon-codex.devpost.com/",
-      "date": "2026-11-02T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$25,000",
-      "org": "Twitch",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31400",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
-      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-      "date": "2026-11-02T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$6,000",
-      "org": "Perfect Corp",
-      "tags": [
-        "ai",
-        "web",
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31811",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "BDBI x SpaceXSI Grokathon",
-      "url": "https://bdbi-x-spacexsi.devpost.com/",
-      "date": "2026-11-02T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SpaceXSI",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31815",
       "type": "hackathon",
@@ -143,22 +73,6 @@
       "org": "avacado",
       "tags": [
         "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1768033",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "National Level E-Quiz 7.0",
-      "url": "https://unstop.com/quiz/national-level-e-quiz-chaitanya-bharathi-institute-of-technology-gandipet-telangana-1768033",
-      "date": "2026-11-06T18:29:08.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Chaitanya Bharathi Institute of Technology, Gandipet, Telangana",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -239,22 +153,6 @@
       "org": "New York University",
       "tags": [
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1789949",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Global Case Masters 2026",
-      "url": "https://unstop.com/competitions/global-case-masters-2026-imt-ghaziabad-1789949",
-      "date": "2026-11-08T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Ghaziabad",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -429,6 +327,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1791696",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Disquisition 9.0",
+      "url": "https://unstop.com/competitions/disquisition-90-iim-kashipur-1791696",
+      "date": "2026-11-11T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kashipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1783838",
       "type": "hackathon",
       "source": "Unstop",
@@ -524,23 +438,6 @@
       "org": "TrishulX",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1789982",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Project Last Mile: Analytics Case Challenge",
-      "url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
-      "date": "2026-11-14T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xavier School of Management (XLRI)",
-      "tags": [
-        "data",
-        "education"
       ],
       "rwanda": false
     },
@@ -667,6 +564,23 @@
       "rwanda": false
     },
     {
+      "id": "feed-auda-nepad-home-grown-solutions-agribusiness-accelerator-program-2027-for-africa",
+      "type": "pitch",
+      "source": "Opportunities for Africans",
+      "name": "AUDA-NEPAD Home-Grown Solutions Agribusiness Accelerator Program 2027 for African-owned/led growth-stage companies.",
+      "url": "https://www.opportunitiesforafricans.com/auda-nepad-home-grown-solutions-agribusiness-accelerator-program-2027/",
+      "date": "2026-11-18T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "fintech",
+        "climate"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31024",
       "type": "hackathon",
       "source": "Devpost",
@@ -681,6 +595,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1792046",
+      "type": "pitch",
+      "source": "Unstop",
+      "name": "Pitch Up 12.0",
+      "url": "https://unstop.com/competitions/pitch-up-120-impelz-120-institute-of-management-technology-imt-hyderabad-1792046",
+      "date": "2026-11-20T09:40:20.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Hyderabad",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -769,22 +699,6 @@
       "tags": [
         "web",
         "security"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1790046",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "National HR Colosseum 11.0",
-      "url": "https://unstop.com/competitions/national-hr-colosseum-110-xavier-school-of-management-xlri-1790046",
-      "date": "2026-11-23T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xavier School of Management (XLRI)",
-      "tags": [
-        "education"
       ],
       "rwanda": false
     },
@@ -908,6 +822,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1792044",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Market Mosaic",
+      "url": "https://unstop.com/competitions/market-mosaic-impelz-120-institute-of-management-technology-imt-hyderabad-1792044",
+      "date": "2026-12-03T18:29:41.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Hyderabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "feed-erase-indifference-challenge-2026-90-000-prize",
       "type": "competition",
       "source": "Opportunity Desk",
@@ -953,6 +883,58 @@
       "org": "Karma Enterprises",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31642",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AWS MSP AI Hackathon",
+      "url": "https://aws-agentic-msp.devpost.com/",
+      "date": "2026-12-11T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$64,000",
+      "org": "AWS",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31083",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "QNX Global Hackathon",
+      "url": "https://qnx.devpost.com/",
+      "date": "2026-12-15T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$50,000",
+      "org": "QNX",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-waaw-foundation-scholarship-2026-for-african-female-students-500-award",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "WAAW Foundation Scholarship 2026 for African Female Students ($500 award)",
+      "url": "https://www.opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students/",
+      "date": "2026-12-18T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "education"
       ],
       "rwanda": false
     },
