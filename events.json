@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-04T13:54:42.312Z",
+  "updated": "2026-11-04T23:18:19.080Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
     "Unstop": "ok (31)",
-    "MLH": "ok (67)",
+    "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (3)"
   },
   "events": [
     {
-      "id": "devpost-31815",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Neural Storm",
-      "url": "https://neuralstorm.devpost.com/",
-      "date": "2026-11-04T23:59:00.000Z",
+      "id": "unstop-1793804",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Pecunia 9.0",
+      "url": "https://unstop.com/quiz/pecunia-90-corporate-month-ibs-hyderabad-1793804",
+      "date": "2026-11-05T13:29:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "₹ 20,000",
-      "org": "JNTUH",
+      "prize": "",
+      "org": "ICFAI Business School (IBS), Hyderabad",
       "tags": [
-        "ai",
+        "fintech",
         "education"
       ],
       "rwanda": false
@@ -38,6 +38,23 @@
       "online": true,
       "prize": "",
       "org": "Youth Upskill Network - YUNet",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31815",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Neural Storm",
+      "url": "https://neuralstorm.devpost.com/",
+      "date": "2026-11-05T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "₹ 20,000",
+      "org": "JNTUH",
       "tags": [
         "ai",
         "education"
@@ -77,22 +94,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1789846",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CyberCalibre 2026 — National Cybersecurity Skills Championship",
-      "url": "https://unstop.com/competitions/cybercalibre-2026-national-cybersecurity-skills-championship-upleague-1789846",
-      "date": "2026-11-06T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "UpLeague",
-      "tags": [
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31619",
       "type": "hackathon",
       "source": "Devpost",
@@ -109,22 +110,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1783260",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ELUCode - 7",
-      "url": "https://unstop.com/hackathons/elucode-7-edulinkup-1783260",
-      "date": "2026-11-07T14:30:08.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "EduLinkUp",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1786387",
       "type": "hackathon",
       "source": "Unstop",
@@ -135,22 +120,6 @@
       "online": true,
       "prize": "",
       "org": "InfoTechiezz",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1792117",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Op Fiesta 26'",
-      "url": "https://unstop.com/quiz/op-fiesta-26-dms-iit-delhi-1792117",
-      "date": "2026-11-07T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Department of Management Studies (DMS), Indian Institute of Technology (IIT), Delhi",
       "tags": [
         "web"
       ],
@@ -185,6 +154,23 @@
       "org": "New York University",
       "tags": [
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1795047",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Db2Hack 2026 | Build AI Applications on IBM Db2",
+      "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
+      "date": "2026-11-08T10:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
+      "tags": [
+        "ai",
+        "web"
       ],
       "rwanda": false
     },
@@ -242,6 +228,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1795122",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Coding Track - NITS Hacks 9.0",
+      "url": "https://unstop.com/hackathons/coding-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1795122",
+      "date": "2026-11-09T03:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Silchar",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1794956",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "UI/UX Track - NITS Hacks 9.0",
+      "url": "https://unstop.com/competitions/uiux-track-nits-hacks-90-nits-hacks-90-national-institute-of-technology-nit-silchar-1794956",
+      "date": "2026-11-09T03:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Silchar",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1793434",
       "type": "competition",
       "source": "Unstop",
@@ -252,6 +270,22 @@
       "online": true,
       "prize": "",
       "org": "Stockspilot",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1794955",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Software Track – NITS Hacks 9.0",
+      "url": "https://unstop.com/hackathons/software-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1794955",
+      "date": "2026-11-09T05:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Silchar",
       "tags": [
         "web"
       ],
@@ -360,22 +394,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1783838",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Innovate - Online Hackathon",
-      "url": "https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838",
-      "date": "2026-11-11T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Aveeranex (OPC) Private Limited",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1793112",
       "type": "hackathon",
       "source": "Unstop",
@@ -409,22 +427,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1785430",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Tatusta",
-      "url": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
-      "date": "2026-11-12T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Thakur College of Engineering and Technology (TCET), Mumbai",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -439,22 +441,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1784666",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hackday",
-      "url": "https://unstop.com/hackathons/hackday-trishulx-1784666",
-      "date": "2026-11-13T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "TrishulX",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -611,23 +597,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1793804",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Pecunia 9.0",
-      "url": "https://unstop.com/quiz/pecunia-90-corporate-month-ibs-hyderabad-1793804",
-      "date": "2026-11-17T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -659,6 +628,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1795184",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AIQUIZON 1.0",
+      "url": "https://unstop.com/quiz/aiquizon-10-gla-university-mathura-1795184",
+      "date": "2026-11-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Gla University Mathura",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -932,22 +917,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1784643",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Ops Samasya - 2026",
-      "url": "https://unstop.com/competitions/ops-samasya-2026--1784643",
-      "date": "2026-12-01T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -1134,22 +1103,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1772916",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CyberQuest",
-      "url": "https://unstop.com/quiz/cyberquest-cyberethic-1772916",
-      "date": "2026-12-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "CyberEthic",
-      "tags": [
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31787",
       "type": "hackathon",
       "source": "Devpost",
@@ -1164,6 +1117,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1793066",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Queeriosity Quizzes",
+      "url": "https://unstop.com/quiz/queeriosity-quizzes-iim-bangalore-1793066",
+      "date": "2026-12-31T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Bangalore",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
