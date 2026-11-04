@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-04T05:12:43.461Z",
+  "updated": "2026-11-04T13:54:42.312Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "failed: HTTP 403 for https://unstop.com/api/public/opportunity/search-result?opportunity=hackathons&per_page=30&oppstatus=open (kept 25 old)",
+    "Unstop": "ok (31)",
     "MLH": "ok (67)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (1)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (3)"
   },
   "events": [
@@ -24,22 +24,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1791734",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Market Masters – The Business Simulation Challenge",
-      "url": "https://unstop.com/competitions/market-masters-the-business-simulation-challenge-national-institute-of-technology-nit-raipur-1791734",
-      "date": "2026-11-05T06:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Raipur",
-      "tags": [
-        "fintech"
       ],
       "rwanda": false
     },
@@ -89,23 +73,6 @@
       "org": "avacado",
       "tags": [
         "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1792034",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Stock Analysis - November 2026",
-      "url": "https://unstop.com/competitions/stock-analysis-november-2026-ibs-business-school-ahmedabad-1792034",
-      "date": "2026-11-06T02:02:47.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IBS Business School Ahmedabad",
-      "tags": [
-        "fintech",
-        "education"
       ],
       "rwanda": false
     },
@@ -222,22 +189,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1791236",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Samvad: Call For Article",
-      "url": "https://unstop.com/competitions/samvad-call-for-article-sp-mandalis-prin-l-n-welingkar-institute-of-management-development-research-mumbai--1791236",
-      "date": "2026-11-08T18:46:33.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31489",
       "type": "hackathon",
       "source": "Devpost",
@@ -320,6 +271,38 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1793916",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Dart Browser AI Opportunity Challenge",
+      "url": "https://unstop.com/competitions/dart-browser-ai-opportunity-challenge-dart-browser-1793916",
+      "date": "2026-11-10T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Dart Browser",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1794745",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Consultimate 6.0",
+      "url": "https://unstop.com/competitions/consultimate-60--1794745",
+      "date": "2026-11-10T18:29:18.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Visakhapatnam",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -409,22 +392,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1785430",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Tatusta",
-      "url": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
-      "date": "2026-11-12T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Thakur College of Engineering and Technology (TCET), Mumbai",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1785416",
       "type": "hackathon",
       "source": "Unstop",
@@ -438,6 +405,22 @@
       "tags": [
         "web",
         "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1785430",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Tatusta",
+      "url": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
+      "date": "2026-11-12T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Thakur College of Engineering and Technology (TCET), Mumbai",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -509,36 +492,18 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31719",
+      "id": "unstop-1767441",
       "type": "hackathon",
-      "source": "Devpost",
-      "name": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
-      "url": "https://scope-ai-thon-2026.devpost.com/",
-      "date": "2026-11-14T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$CAD 1,400",
-      "org": "mcgill university",
-      "tags": [
-        "health",
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1791166",
-      "type": "competition",
       "source": "Unstop",
-      "name": "Building Brands - The Streetwear Business Challenge",
-      "url": "https://unstop.com/competitions/building-brands-the-streetwear-business-challenge-the-tough-ones-private-limited-1791166",
-      "date": "2026-11-15T18:30:00.000Z",
+      "name": "h4ckc0n - Global Hacking CTF Competition",
+      "url": "https://unstop.com/competitions/h4ckc0n-global-hacking-ctf-competition-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1767441",
+      "date": "2026-11-14T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "The Tough Ones Private Limited",
+      "org": "Indraprastha Institute of Information Technology (IIIT), Delhi",
       "tags": [
-        "fintech"
+        "web"
       ],
       "rwanda": false
     },
@@ -630,6 +595,39 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1794736",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "StackCart Creator Clash , A Video Editing Competition!",
+      "url": "https://unstop.com/competitions/stackcart-creator-clash-a-video-editing-competition-stackcart-1794736",
+      "date": "2026-11-17T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "StackCart",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1793804",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Pecunia 9.0",
+      "url": "https://unstop.com/quiz/pecunia-90-corporate-month-ibs-hyderabad-1793804",
+      "date": "2026-11-17T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ICFAI Business School (IBS), Hyderabad",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -642,23 +640,6 @@
       "org": "HackathonForEveryone",
       "tags": [
         "web",
-        "climate"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-auda-nepad-home-grown-solutions-agribusiness-accelerator-program-2027-for-africa",
-      "type": "pitch",
-      "source": "Opportunities for Africans",
-      "name": "AUDA-NEPAD Home-Grown Solutions Agribusiness Accelerator Program 2027 for African-owned/led growth-stage companies.",
-      "url": "https://www.opportunitiesforafricans.com/auda-nepad-home-grown-solutions-agribusiness-accelerator-program-2027/",
-      "date": "2026-11-18T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "fintech",
         "climate"
       ],
       "rwanda": false
@@ -678,22 +659,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1792017",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Prakshepan",
-      "url": "https://unstop.com/competitions/prakshepan-impelz-120-institute-of-management-technology-imt-hyderabad-1792017",
-      "date": "2026-11-19T12:59:07.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Hyderabad",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -782,6 +747,70 @@
       "tags": [
         "web",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31798",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Taskforge",
+      "url": "https://taskforge.devpost.com/",
+      "date": "2026-11-24T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HackathonForEveryone",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1793345",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Copilot Clash : AI Quiz",
+      "url": "https://unstop.com/quiz/copilot-clash-ai-quiz-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1793345",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-the-ilo-better-regional-migration-management-brmm-programme-university-essay-wri",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzibar)",
+      "url": "https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/",
+      "date": "2026-11-25T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-the-ilo-better-regional-migration-management-brmm-programme-journalism-and-story",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "The ILO Better Regional Migration Management (BRMM)Programme Journalism and Storytelling Competition 2026 (Fully Funded to the Fifth LMAG in Zanzibar)",
+      "url": "https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmmprogramme-journalism-and-storytelling-competition-2026/",
+      "date": "2026-11-25T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -984,6 +1013,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1794522",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CodeElitePune - Hack With Pune",
+      "url": "https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
+      "date": "2026-12-03T13:00:48.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HackWithPune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31667",
       "type": "hackathon",
       "source": "Devpost",
@@ -1037,22 +1082,6 @@
       "rwanda": false
     },
     {
-      "id": "feed-waaw-foundation-scholarship-2026-for-african-female-students-500-award",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "WAAW Foundation Scholarship 2026 for African Female Students ($500 award)",
-      "url": "https://www.opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students/",
-      "date": "2026-12-18T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31480",
       "type": "hackathon",
       "source": "Devpost",
@@ -1061,7 +1090,7 @@
       "date": "2026-12-18T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "€997",
+      "prize": "€1,000",
       "org": "HETIC",
       "tags": [
         "ai",
@@ -1186,22 +1215,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-pan-african-re-insurance-journalism-awards-2027",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "Pan-African Re/Insurance Journalism Awards 2027",
-      "url": "https://opportunitydesk.org/2026/11/03/pan-african-re-insurance-journalism-awards-2027/",
-      "date": "2027-01-31T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     }
