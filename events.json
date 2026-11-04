@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-03T22:58:19.377Z",
+  "updated": "2026-11-04T05:12:43.461Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (29)",
+    "Unstop": "failed: HTTP 403 for https://unstop.com/api/public/opportunity/search-result?opportunity=hackathons&per_page=30&oppstatus=open (kept 25 old)",
     "MLH": "ok (67)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (1)",
@@ -805,24 +805,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31626",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Hackathon Agéntico SoftwareChido 2026B",
-      "url": "https://hackathon-agentico-2026b.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ITESO",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1793392",
       "type": "hackathon",
       "source": "Unstop",
@@ -1066,6 +1048,23 @@
       "prize": "",
       "org": "",
       "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31480",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AI Agents for Founders Challenge — HETIC 2026",
+      "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+      "date": "2026-12-18T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "€997",
+      "org": "HETIC",
+      "tags": [
+        "ai",
         "education"
       ],
       "rwanda": false
