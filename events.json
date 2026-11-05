@@ -1,32 +1,15 @@
 {
-  "updated": "2026-11-04T23:18:19.080Z",
+  "updated": "2026-11-05T05:33:51.671Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (31)",
+    "Unstop": "ok (30)",
     "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (3)"
   },
   "events": [
-    {
-      "id": "unstop-1793804",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Pecunia 9.0",
-      "url": "https://unstop.com/quiz/pecunia-90-corporate-month-ibs-hyderabad-1793804",
-      "date": "2026-11-05T13:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31580",
       "type": "hackathon",
@@ -478,22 +461,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1767441",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "h4ckc0n - Global Hacking CTF Competition",
-      "url": "https://unstop.com/competitions/h4ckc0n-global-hacking-ctf-competition-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1767441",
-      "date": "2026-11-14T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indraprastha Institute of Information Technology (IIIT), Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30500",
       "type": "hackathon",
       "source": "Devpost",
@@ -542,6 +509,22 @@
         "ai",
         "education",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1795252",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Coin War",
+      "url": "https://unstop.com/quiz/coin-war-academy-of-technology-adisaptagram-1795252",
+      "date": "2026-11-16T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Academy Of Technology (Adisaptagram)",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -1011,6 +994,23 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1794097",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CyberPeace Foundation ISR Innovation Hackathon | Defence Intelligence Summit 2027",
+      "url": "https://unstop.com/competitions/cyberpeace-foundation-isr-innovation-hackathon-defence-intelligence-summit-2027-iit-madras-1794097",
+      "date": "2026-12-07T12:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Technology (IIT), Madras",
+      "tags": [
+        "web",
+        "security"
       ],
       "rwanda": false
     },
