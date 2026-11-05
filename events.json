@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T05:33:51.671Z",
+  "updated": "2026-11-05T14:09:51.360Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (30)",
+    "Unstop": "ok (27)",
     "MLH": "ok (68)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (0)",
+    "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (3)"
   },
   "events": [
@@ -45,22 +45,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31748",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Girls Who Code HHS Hackathon 2026",
-      "url": "https://gwchhs-hackathon-2026.devpost.com/",
-      "date": "2026-11-05T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$50",
-      "org": "Girls Who Code HHS",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31946",
       "type": "hackathon",
       "source": "Devpost",
@@ -87,22 +71,6 @@
       "online": true,
       "prize": "$50",
       "org": "ACM Long Beach",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1786387",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CODE SHIFT 2026",
-      "url": "https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387",
-      "date": "2026-11-07T17:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InfoTechiezz",
       "tags": [
         "web"
       ],
@@ -243,22 +211,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1793434",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Weekly Swing Challenge",
-      "url": "https://unstop.com/competitions/the-weekly-swing-challenge-stockspilot-1793434",
-      "date": "2026-11-09T03:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Stockspilot",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1794955",
       "type": "hackathon",
       "source": "Unstop",
@@ -288,38 +240,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1793916",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Dart Browser AI Opportunity Challenge",
-      "url": "https://unstop.com/competitions/dart-browser-ai-opportunity-challenge-dart-browser-1793916",
-      "date": "2026-11-10T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Dart Browser",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1794745",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Consultimate 6.0",
-      "url": "https://unstop.com/competitions/consultimate-60--1794745",
-      "date": "2026-11-10T18:29:18.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Visakhapatnam",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -377,6 +297,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1793717",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "LOGOTANTRA: Logo and Tagline making competition",
+      "url": "https://unstop.com/competitions/logotantra-logo-and-tagline-making-competition-juxtapose26-lady-shri-ram-college-for-women-lsr-du-new-delhi-1793717",
+      "date": "2026-11-11T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Lady Shri Ram College for Women (LSR) University of Delhi (DU)",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1793112",
       "type": "hackathon",
       "source": "Unstop",
@@ -428,6 +364,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1797032",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Technothon",
+      "url": "https://unstop.com/hackathons/technothon-national-institute-of-technology-nit-agartala-1797032",
+      "date": "2026-11-13T13:04:03.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Agartala",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1791573",
       "type": "hackathon",
       "source": "Unstop",
@@ -457,6 +409,24 @@
       "tags": [
         "ai",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31719",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
+      "url": "https://scope-ai-thon-2026.devpost.com/",
+      "date": "2026-11-14T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$CAD 1,400",
+      "org": "mcgill university",
+      "tags": [
+        "health",
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -529,22 +499,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1793030",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hack Paradise",
-      "url": "https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030",
-      "date": "2026-11-16T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31552",
       "type": "hackathon",
       "source": "Devpost",
@@ -560,22 +514,6 @@
         "web",
         "climate",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1794736",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "StackCart Creator Clash , A Video Editing Competition!",
-      "url": "https://unstop.com/competitions/stackcart-creator-clash-a-video-editing-competition-stackcart-1794736",
-      "date": "2026-11-17T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "StackCart",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -597,6 +535,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1796683",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Maple Bridge AI Governance Case Competition 2026",
+      "url": "https://unstop.com/competitions/maple-bridge-ai-governance-case-competition-2026-public-policy-india-1796683",
+      "date": "2026-11-18T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Public Policy India",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1796644",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Aayam - Case Study Competition",
+      "url": "https://unstop.com/competitions/aayam-case-study-competition-national-institute-of-technology-nit-agartala-1796644",
+      "date": "2026-11-18T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Agartala",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31024",
       "type": "hackathon",
       "source": "Devpost",
@@ -611,22 +581,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1795184",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "AIQUIZON 1.0",
-      "url": "https://unstop.com/quiz/aiquizon-10-gla-university-mathura-1795184",
-      "date": "2026-11-19T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Gla University Mathura",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -735,18 +689,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1793345",
+      "id": "feed-ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-202",
       "type": "competition",
-      "source": "Unstop",
-      "name": "Copilot Clash : AI Quiz",
-      "url": "https://unstop.com/quiz/copilot-clash-ai-quiz-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1793345",
-      "date": "2026-11-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
+      "source": "Opportunity Desk",
+      "name": "ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027",
+      "url": "https://opportunitydesk.org/2026/11/05/ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-2027/",
+      "date": "2026-11-25T21:59:00.000Z",
+      "location": "",
+      "online": false,
       "prize": "",
-      "org": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+      "org": "",
       "tags": [
-        "ai"
+        "web"
       ],
       "rwanda": false
     },
@@ -998,6 +952,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1792025",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "INNOVATE INDIA - Hackathon 2026",
+      "url": "https://unstop.com/hackathons/innovate-hackathon-2026-devharbour-1792025",
+      "date": "2026-12-06T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "DevHarbour",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1794097",
       "type": "hackathon",
       "source": "Unstop",
@@ -1117,6 +1087,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1794889",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "The Code Vibes Hackathon 2.0",
+      "url": "https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
+      "date": "2026-12-30T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "THE CODE VIBES",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
