@@ -1,31 +1,15 @@
 {
-  "updated": "2026-11-06T05:30:30.044Z",
+  "updated": "2026-11-06T13:52:13.755Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (29)",
+    "Unstop": "ok (35)",
     "MLH": "ok (24)",
     "Lablab.ai": "ok (2)",
-    "Opportunity Desk": "ok (1)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "devpost-31619",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Pumpkin Playground",
-      "url": "https://pumpkin-playground.devpost.com/",
-      "date": "2026-11-06T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$50",
-      "org": "ACM Long Beach",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31627",
       "type": "hackathon",
@@ -55,23 +39,6 @@
       "org": "New York University",
       "tags": [
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1795047",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "IBM Db2Hack 2026 | Build AI Applications on IBM Db2",
-      "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
-      "date": "2026-11-08T10:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
-      "tags": [
-        "ai",
-        "web"
       ],
       "rwanda": false
     },
@@ -155,6 +122,22 @@
       "online": true,
       "prize": "",
       "org": "National Institute of Technology (NIT), Silchar",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1795047",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "IBM Db2Hack 2026",
+      "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
+      "date": "2026-11-09T10:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
       "tags": [
         "web"
       ],
@@ -255,12 +238,45 @@
       "date": "2026-11-10T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
+      "prize": "$28,000",
       "org": "ADHAYAN",
       "tags": [
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1798516",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Logic Bumble – Coding & Debugging Challenge",
+      "url": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+      "date": "2026-11-11T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Army Institute of Technology (AIT), Pune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1785416",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Madlab - The Ultimate Innovation Hackathon",
+      "url": "https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416",
+      "date": "2026-11-12T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Shri Chinai College of Commerce & Economics",
+      "tags": [
+        "web",
+        "fintech"
       ],
       "rwanda": false
     },
@@ -326,23 +342,6 @@
       "prize": "",
       "org": "Lady Shri Ram College for Women (LSR) University of Delhi (DU)",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1792269",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Agentic AI Hackathon",
-      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
-      "date": "2026-11-14T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "ai",
         "web"
       ],
       "rwanda": false
@@ -488,38 +487,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1796683",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Maple Bridge AI Governance Case Competition 2026",
-      "url": "https://unstop.com/competitions/maple-bridge-ai-governance-case-competition-2026-public-policy-india-1796683",
-      "date": "2026-11-18T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Public Policy India",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1796644",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Aayam - Case Study Competition",
-      "url": "https://unstop.com/competitions/aayam-case-study-competition-national-institute-of-technology-nit-agartala-1796644",
-      "date": "2026-11-18T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Agartala",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31024",
       "type": "hackathon",
       "source": "Devpost",
@@ -534,6 +501,38 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1798687",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "DIWALI QUIZ COMPETITION 2026",
+      "url": "https://unstop.com/quiz/diwali-quiz-competition-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1798687",
+      "date": "2026-11-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ISTE Student Chapter, Bengaluru",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1798578",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Green Diwali, Good Karma Challenge 2026",
+      "url": "https://unstop.com/competitions/green-diwali-good-karma-challenge-2026-green-diwali-good-karma-3r-zero-waste-1798578",
+      "date": "2026-11-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "3R Zero Waste Pvt Ltd",
+      "tags": [
+        "climate"
       ],
       "rwanda": false
     },
@@ -625,6 +624,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1797414",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "FundQuest'26: The Shark Tank Event",
+      "url": "https://unstop.com/competitions/fundquest26-the-shark-tank-event-iim-mumbai-1797414",
+      "date": "2026-11-22T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Mumbai",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -674,16 +689,16 @@
       "rwanda": false
     },
     {
-      "id": "feed-ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-202",
+      "id": "unstop-1798691",
       "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027",
-      "url": "https://opportunitydesk.org/2026/11/05/ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-2027/",
-      "date": "2026-11-25T21:59:00.000Z",
-      "location": "",
-      "online": false,
+      "source": "Unstop",
+      "name": "Call for HR Articles: Impressions - November 2026",
+      "url": "https://unstop.com/competitions/call-for-hr-articles-impressions-november-2026-iim-rohtak-1798691",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
       "prize": "",
-      "org": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
         "web"
       ],
@@ -811,6 +826,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1797422",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Excel at Excel",
+      "url": "https://unstop.com/competitions/excel-at-excel-backwaters-2027-iim-kozhikodes-management-festival-indian-institute-of-management-iim-kozhik-1797422",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kozhikode",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31682",
       "type": "hackathon",
       "source": "Devpost",
@@ -837,22 +868,6 @@
       "online": true,
       "prize": "",
       "org": "EDXcellence LLP",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1783781",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Unstop Creator Circle",
-      "url": "https://unstop.com/competitions/unstop-creator-circle-unstop-1783781",
-      "date": "2026-12-01T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Unstop",
       "tags": [
         "web"
       ],
@@ -973,6 +988,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1798287",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Seed Hackathon 2026",
+      "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+      "date": "2026-12-09T06:30:40.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SEED Global Education Services Private Limited",
+      "tags": [
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31642",
       "type": "hackathon",
       "source": "Devpost",
@@ -1078,6 +1110,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-28603",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "MCA 2026 projects",
+      "url": "https://mca-2026-projects.devpost.com/",
+      "date": "2026-12-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mizzou Computing Association",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31787",
       "type": "hackathon",
       "source": "Devpost",
@@ -1159,6 +1207,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1797250",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Placement Apti Quiz",
+      "url": "https://unstop.com/quiz/placement-apti-quiz-solutions-2k27-army-institute-of-technology-ait-pune-1797250",
+      "date": "2027-02-28T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Army Institute of Technology (AIT), Pune",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
