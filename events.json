@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-07T04:59:13.270Z",
+  "updated": "2026-11-07T12:36:27.273Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (36)",
+    "Unstop": "ok (33)",
     "MLH": "ok (24)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -23,22 +23,6 @@
       "org": "Next Byte Hacks",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31705",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "2026 UXC NYU Fall Design-a-thon",
-      "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
-      "date": "2026-11-07T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$1,000",
-      "org": "New York University",
-      "tags": [
-        "education"
       ],
       "rwanda": false
     },
@@ -91,54 +75,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1795122",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Coding Track - NITS Hacks 9.0",
-      "url": "https://unstop.com/hackathons/coding-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1795122",
-      "date": "2026-11-09T03:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Silchar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1794955",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Software Track – NITS Hacks 9.0",
-      "url": "https://unstop.com/hackathons/software-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1794955",
-      "date": "2026-11-09T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Silchar",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1795047",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "IBM Db2Hack 2026",
-      "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
-      "date": "2026-11-09T10:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -232,38 +168,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1798516",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Logic Bumble – Coding & Debugging Challenge",
-      "url": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
-      "date": "2026-11-11T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Army Institute of Technology (AIT), Pune",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1798955",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Jinzai - The Annual HR Competition",
-      "url": "https://unstop.com/competitions/jinzai-the-annual-hr-competition-indian-institute-of-managementvishakapatnam-1798955",
-      "date": "2026-11-11T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute Of Management,Vishakapatnam",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -282,16 +186,33 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1798814",
+      "id": "unstop-1799880",
       "type": "competition",
       "source": "Unstop",
-      "name": "Bears and Bulls - Equity Research Competition 7.0",
-      "url": "https://unstop.com/competitions/bears-and-bulls-equity-research-competition-70--1798814",
-      "date": "2026-11-13T14:34:07.000Z",
+      "name": "Reel-o-feel-ia",
+      "url": "https://unstop.com/competitions/reel-o-feel-ia-university-school-of-management-and-entrepreneurship-usmedelhi-1799880",
+      "date": "2026-11-13T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Visakhapatnam",
+      "org": "University School of Management and Entrepreneurship (USME),Delhi",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799801",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Audacity to Be -  Photography Competition (kuchh Toh Log Kahenge, Logon Ka Kaam Hai Kehna)",
+      "url": "https://unstop.com/competitions/audacity-to-be-photography-competition-kuchh-toh-log-kahenge-logon-ka-kaam-hai-kehna-juxtapose26-lady-shri--1799801",
+      "date": "2026-11-13T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Lady Shri Ram College for Women (LSR) University of Delhi (DU)",
       "tags": [
         "web"
       ],
@@ -488,24 +409,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1797252",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Web App Testing, Bug Hunting & Security Challenge - aixplore.app",
-      "url": "https://unstop.com/competitions/web-app-testing-bug-hunting-security-challenge-ai-xplore-1797252",
-      "date": "2026-11-18T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "AI Xplore",
-      "tags": [
-        "ai",
-        "web",
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31024",
       "type": "hackathon",
       "source": "Devpost",
@@ -524,12 +427,12 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1798247",
-      "type": "competition",
+      "id": "unstop-1799782",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Exp Horizons 8.0",
-      "url": "https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247",
-      "date": "2026-11-19T18:30:00.000Z",
+      "name": "Expanding Horizons 8.0  CIVIL",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+      "date": "2026-11-20T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
@@ -540,66 +443,112 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1794509",
-      "type": "competition",
+      "id": "unstop-1799780",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Finovate",
-      "url": "https://unstop.com/competitions/finovate-symbiosis-school-of-banking-and-finance-ssbf-maharastra-1794509",
-      "date": "2026-11-19T18:30:00.000Z",
+      "name": "Expanding Horizons 8.0  EE",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+      "date": "2026-11-20T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Symbiosis School of Banking and Finance (SSBF), Maharastra",
+      "org": "Motilal Nehru National Institute of Technology",
       "tags": [
-        "health",
-        "fintech",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1798578",
-      "type": "competition",
+      "id": "unstop-1799778",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Green Diwali, Good Karma Challenge 2026",
-      "url": "https://unstop.com/competitions/green-diwali-good-karma-challenge-2026-green-diwali-good-karma-3r-zero-waste-1798578",
-      "date": "2026-11-19T18:30:00.000Z",
+      "name": "Expanding Horizons 8.0  ECE",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+      "date": "2026-11-20T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "3R Zero Waste Pvt Ltd",
+      "org": "Motilal Nehru National Institute of Technology",
       "tags": [
-        "climate"
+        "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1798687",
-      "type": "competition",
+      "id": "unstop-1799776",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "DIWALI QUIZ COMPETITION 2026",
-      "url": "https://unstop.com/quiz/diwali-quiz-competition-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1798687",
-      "date": "2026-11-19T18:30:00.000Z",
+      "name": "Expanding Horizons 8.0 Consultancy",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+      "date": "2026-11-20T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "ISTE Student Chapter, Bengaluru",
+      "org": "Motilal Nehru National Institute of Technology",
       "tags": [
-        "education"
+        "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1797956",
-      "type": "competition",
+      "id": "unstop-1799791",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Constitutional Quiz Competition",
-      "url": "https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956",
-      "date": "2026-11-19T18:30:00.000Z",
+      "name": "Expanding Horizons 8.0 Chemical",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+      "date": "2026-11-20T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "The Legal Elite Council",
+      "org": "Motilal Nehru National Institute of Technology",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799788",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Expanding Horizons 8.0  Mechanical",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+      "date": "2026-11-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Motilal Nehru National Institute of Technology",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799790",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Expanding Horizons 8.0   BIOTECH",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+      "date": "2026-11-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Motilal Nehru National Institute of Technology",
+      "tags": [
+        "health"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799767",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Expanding Horizons 8.0 Software",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+      "date": "2026-11-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Motilal Nehru National Institute of Technology",
       "tags": [
         "web"
       ],
@@ -659,6 +608,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1791175",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Mudra",
+      "url": "https://unstop.com/competitions/mudra-venture-verse-oriental-institute-of-science-and-technology-1791175",
+      "date": "2026-11-21T12:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Oriental Institute of Science and Technology",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31789",
       "type": "hackathon",
       "source": "Devpost",
@@ -694,22 +659,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1786652",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "VYTRON'26",
-      "url": "https://unstop.com/hackathons/vytron26-droidecks-1786652",
-      "date": "2026-11-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Droidecks",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31798",
       "type": "hackathon",
       "source": "Devpost",
@@ -720,22 +669,6 @@
       "online": true,
       "prize": "",
       "org": "HackathonForEveryone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1798691",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Call for HR Articles: Impressions - November 2026",
-      "url": "https://unstop.com/competitions/call-for-hr-articles-impressions-november-2026-iim-rohtak-1798691",
-      "date": "2026-11-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
         "web"
       ],
@@ -779,22 +712,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1793392",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "404 Hackathon",
-      "url": "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392",
-      "date": "2026-11-26T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "haX baby",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1798702",
       "type": "hackathon",
       "source": "Unstop",
@@ -825,38 +742,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1797543",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Flare",
-      "url": "https://unstop.com/hackathons/flare-hoollow-1797543",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hoollow",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1793128",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Reflections Competitions: November-2026",
-      "url": "https://unstop.com/competitions/reflections-competitions-november-2026-peoples-reflection-1793128",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "People's Reflection",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -893,22 +778,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1792826",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeCrafters India 2026 - National Hackathon",
-      "url": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826",
-      "date": "2026-12-02T13:00:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HackWithPune",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31960",
       "type": "hackathon",
       "source": "Devpost",
@@ -922,22 +791,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1794522",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeElitePune - Hack With Pune",
-      "url": "https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
-      "date": "2026-12-03T13:00:48.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HackWithPune",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -959,34 +812,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1792025",
+      "id": "devpost-31994",
       "type": "hackathon",
-      "source": "Unstop",
-      "name": "INNOVATE INDIA - Hackathon 2026",
-      "url": "https://unstop.com/hackathons/innovate-hackathon-2026-devharbour-1792025",
-      "date": "2026-12-06T18:29:00.000Z",
+      "source": "Devpost",
+      "name": "AI OpenBuild",
+      "url": "https://ai-openbuild.devpost.com/",
+      "date": "2026-12-10T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "DevHarbour",
+      "prize": "$150",
+      "org": "AI OpenBuild",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1798287",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Seed Hackathon 2026",
-      "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
-      "date": "2026-12-09T06:30:40.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SEED Global Education Services Private Limited",
-      "tags": [
-        "web",
+        "ai",
         "education"
       ],
       "rwanda": false
@@ -1115,22 +952,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1794889",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "The Code Vibes Hackathon 2.0",
-      "url": "https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
-      "date": "2026-12-30T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "THE CODE VIBES",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31108",
       "type": "hackathon",
       "source": "Devpost",
@@ -1178,6 +999,70 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799800",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Solidworks",
+      "url": "https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
+      "date": "2027-02-28T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Army Institute of technology, Pune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799762",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Project Jupyter",
+      "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
+      "date": "2027-02-28T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Army Institute of technology, Pune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799765",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Crackhunt",
+      "url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
+      "date": "2027-02-28T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Army Institute of technology, Pune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799775",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Circuit Craft",
+      "url": "https://unstop.com/competitions/circuit-craft-solutions-2k27-army-institute-of-technology-pune-1799775",
+      "date": "2027-02-28T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Army Institute of technology, Pune",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
