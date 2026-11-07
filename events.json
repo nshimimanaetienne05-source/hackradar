@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-06T22:47:19.332Z",
+  "updated": "2026-11-07T04:59:13.270Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (36)",
     "MLH": "ok (24)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -264,22 +264,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1793112",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Queryquest: SQL Problem-Solving Challenge",
-      "url": "https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
-      "date": "2026-11-12T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The National Institute of Engineering, Karnataka",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -314,28 +298,45 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1791573",
+      "id": "unstop-1799509",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "MassX CTF 2026",
-      "url": "https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573",
-      "date": "2026-11-13T18:30:00.000Z",
+      "name": "AI Builder Hackathon",
+      "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+      "date": "2026-11-14T05:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Panipat Institute of Engineering & Technology (PIET), Panipat",
+      "org": "Product Space",
       "tags": [
+        "ai",
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1792269",
+      "id": "unstop-1799475",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Agentic AI Hackathon",
-      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
+      "name": "AI Product Buildathon",
+      "url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
       "date": "2026-11-14T05:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Product Space",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799510",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Gen-AI Product Hackathon",
+      "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
+      "date": "2026-11-14T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
@@ -360,6 +361,24 @@
       "tags": [
         "health",
         "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799543",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Data Analytics Hackathon",
+      "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
+      "date": "2026-11-15T05:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Gradient Learnings",
+      "tags": [
+        "data",
+        "web",
         "education"
       ],
       "rwanda": false
@@ -555,22 +574,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1797956",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Constitutional Quiz Competition",
-      "url": "https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956",
-      "date": "2026-11-19T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The Legal Elite Council",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1798687",
       "type": "competition",
       "source": "Unstop",
@@ -583,6 +586,22 @@
       "org": "ISTE Student Chapter, Bengaluru",
       "tags": [
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1797956",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Constitutional Quiz Competition",
+      "url": "https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956",
+      "date": "2026-11-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "The Legal Elite Council",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -654,22 +673,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1797414",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FundQuest'26: The Shark Tank Event",
-      "url": "https://unstop.com/competitions/fundquest26-the-shark-tank-event-iim-mumbai-1797414",
-      "date": "2026-11-22T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Mumbai",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -768,24 +771,6 @@
       "online": true,
       "prize": "$45,000",
       "org": "FabricVTON",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31626",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Hackathon Agéntico SoftwareChido 2026B",
-      "url": "https://hackathon-agentico-2026b.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ITESO",
       "tags": [
         "ai",
         "web",
@@ -1002,23 +987,6 @@
       "org": "SEED Global Education Services Private Limited",
       "tags": [
         "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31994",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AI OpenBuild",
-      "url": "https://ai-openbuild.devpost.com/",
-      "date": "2026-12-10T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$150",
-      "org": "AI OpenBuild",
-      "tags": [
-        "ai",
         "education"
       ],
       "rwanda": false
