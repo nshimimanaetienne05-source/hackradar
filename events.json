@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-08T12:53:19.213Z",
+  "updated": "2026-11-08T21:46:41.151Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (35)",
+    "Unstop": "ok (34)",
     "MLH": "ok (24)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -167,6 +167,40 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31883",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "DATANOVA 2026 GLOBAL DATA-THON",
+      "url": "https://datanova-2026-global-data-thon.devpost.com/",
+      "date": "2026-11-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$1,750",
+      "org": "DataNova",
+      "tags": [
+        "health",
+        "data",
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-32023",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IBM Db2Hack 2026",
+      "url": "https://ibm-db2hack-2026.devpost.com/",
+      "date": "2026-11-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IBM",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1800146",
       "type": "competition",
       "source": "Unstop",
@@ -282,6 +316,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31719",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
+      "url": "https://scope-ai-thon-2026.devpost.com/",
+      "date": "2026-11-14T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$CAD 1,400",
+      "org": "mcgill university",
+      "tags": [
+        "health",
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30500",
       "type": "hackathon",
       "source": "Devpost",
@@ -346,6 +398,22 @@
       "org": "Khalsa Street - Finance and Investment Cell, SGTBKC",
       "tags": [
         "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799179",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Hackrush 2026",
+      "url": "https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179",
+      "date": "2026-11-16T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -788,6 +856,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31794",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Code for Change",
+      "url": "https://code-for-change-global.devpost.com/",
+      "date": "2026-12-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$200",
+      "org": "HackathonForEveryone",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "lablab-amd-lablab-ai-academy-challenge",
       "type": "hackathon",
       "source": "Lablab.ai",
@@ -800,6 +884,23 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31960",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "ML Empowerment Build Challenge 4.0",
+      "url": "https://ml-build-challenge-4.devpost.com/",
+      "date": "2026-12-02T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ML Empowerment Foundation",
+      "tags": [
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -850,6 +951,41 @@
       "tags": [
         "data",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31972",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "SLAY HACKS",
+      "url": "https://slayy-hacks.devpost.com/",
+      "date": "2026-12-07T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$4,500",
+      "org": "cite & slayy",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31994",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AI OpenBuild",
+      "url": "https://ai-openbuild.devpost.com/",
+      "date": "2026-12-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$150",
+      "org": "AI OpenBuild",
+      "tags": [
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -1016,22 +1152,6 @@
       "source": "Unstop",
       "name": "Solidworks",
       "url": "https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
-      "date": "2027-02-28T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Army Institute of technology, Pune",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799765",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Crackhunt",
-      "url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
       "date": "2027-02-28T18:30:00.000Z",
       "location": "Online",
       "online": true,
