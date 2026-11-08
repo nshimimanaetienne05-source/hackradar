@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-08T04:53:36.225Z",
+  "updated": "2026-11-08T12:53:19.213Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
+    "Unstop": "ok (35)",
     "MLH": "ok (24)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
@@ -81,6 +81,39 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1782942",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CodeHive Community Duel Night",
+      "url": "https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942",
+      "date": "2026-11-10T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Code Hive",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1789431",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AI Vibeathon 2026: 24-Hour AI Hackathon",
+      "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
+      "date": "2026-11-10T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "DotRepo",
+      "tags": [
+        "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31664",
       "type": "hackathon",
       "source": "Devpost",
@@ -116,20 +149,20 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31883",
+      "id": "devpost-31831",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "DATANOVA 2026 GLOBAL DATA-THON",
-      "url": "https://datanova-2026-global-data-thon.devpost.com/",
+      "name": "Ctrl+V Hackathon",
+      "url": "https://ctrl-v-hackathon-31831.devpost.com/",
       "date": "2026-11-10T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$1,750",
-      "org": "DataNova",
+      "prize": "$28,000",
+      "org": "ADHAYAN",
       "tags": [
-        "health",
-        "data",
-        "fintech"
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -164,6 +197,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1800962",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CAD Rush – AAYAM XI",
+      "url": "https://unstop.com/competitions/cad-rush-national-institute-of-technology-nit-agartala-1800962",
+      "date": "2026-11-13T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Agartala",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -212,6 +261,22 @@
       "org": "Product Space",
       "tags": [
         "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1800995",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Campus Placement Aptitude Challenge 3",
+      "url": "https://unstop.com/quiz/campus-placement-aptitude-challenge-3-campusfirst-india-1800995",
+      "date": "2026-11-14T18:50:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "CampusFirst India",
+      "tags": [
         "web"
       ],
       "rwanda": false
@@ -552,22 +617,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1791175",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mudra",
-      "url": "https://unstop.com/competitions/mudra-venture-verse-oriental-institute-of-science-and-technology-1791175",
-      "date": "2026-11-21T12:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Oriental Institute of Science and Technology",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1800924",
       "type": "hackathon",
       "source": "Unstop",
@@ -651,6 +700,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31820",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "HackTheFashion Global'26",
+      "url": "https://hackthefashion-global26.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$45,000",
+      "org": "FabricVTON",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31737",
       "type": "hackathon",
       "source": "Devpost",
@@ -663,24 +730,6 @@
       "org": "Aditya University",
       "tags": [
         "health",
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31820",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HackTheFashion Global'26",
-      "url": "https://hackthefashion-global26.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$45,000",
-      "org": "FabricVTON",
-      "tags": [
         "ai",
         "web",
         "education"
@@ -755,6 +804,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1794522",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CodeElitePune - Hack With Pune",
+      "url": "https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
+      "date": "2026-12-03T13:00:48.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HackWithPune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31667",
       "type": "hackathon",
       "source": "Devpost",
@@ -768,6 +833,23 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799281",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Adaption Dataset Challenge",
+      "url": "https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281",
+      "date": "2026-12-06T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Hackyard Technologies Pvt limited",
+      "tags": [
+        "data",
+        "web"
       ],
       "rwanda": false
     },
@@ -950,22 +1032,6 @@
       "source": "Unstop",
       "name": "Crackhunt",
       "url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
-      "date": "2027-02-28T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Army Institute of technology, Pune",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799762",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Project Jupyter",
-      "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
       "date": "2027-02-28T18:30:00.000Z",
       "location": "Online",
       "online": true,
