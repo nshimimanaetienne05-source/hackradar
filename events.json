@@ -1,31 +1,15 @@
 {
-  "updated": "2026-11-07T21:32:09.127Z",
+  "updated": "2026-11-08T04:53:36.225Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (26)",
+    "Unstop": "ok (25)",
     "MLH": "ok (24)",
     "Lablab.ai": "ok (2)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31627",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Next Byte Hacks V5",
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "date": "2026-11-07T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$100",
-      "org": "Next Byte Hacks",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31489",
       "type": "hackathon",
@@ -150,6 +134,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1800146",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Technothon",
+      "url": "https://unstop.com/competitions/technothon-national-institute-of-technology-nit-agartala-1800146",
+      "date": "2026-11-12T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology (NIT), Agartala",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -168,28 +168,43 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1799880",
+      "id": "unstop-1800858",
       "type": "competition",
       "source": "Unstop",
-      "name": "Reel-o-feel-ia",
-      "url": "https://unstop.com/competitions/reel-o-feel-ia-university-school-of-management-and-entrepreneurship-usmedelhi-1799880",
-      "date": "2026-11-13T18:29:00.000Z",
+      "name": "Indian Macro Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1800858",
+      "date": "2026-11-13T19:30:04.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "University School of Management and Entrepreneurship (USME),Delhi",
+      "org": "Indiastox",
       "tags": [
-        "fintech",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1799509",
+      "id": "unstop-1800853",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Indian Equities Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1800853",
+      "date": "2026-11-13T19:30:22.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1800891",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "AI Builder Hackathon",
-      "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+      "name": "NextGen AI Hackathon",
+      "url": "https://unstop.com/hackathons/nextgen-ai-hackathon-product-space-1800891",
       "date": "2026-11-14T05:30:00.000Z",
       "location": "Online",
       "online": true,
@@ -198,57 +213,6 @@
       "tags": [
         "ai",
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799475",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "AI Product Buildathon",
-      "url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
-      "date": "2026-11-14T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799510",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Gen-AI Product Hackathon",
-      "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
-      "date": "2026-11-14T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799543",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Data Analytics Hackathon",
-      "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
-      "date": "2026-11-15T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Gradient Learnings",
-      "tags": [
-        "data",
-        "web",
-        "education"
       ],
       "rwanda": false
     },
@@ -371,6 +335,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1791920",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "MARS Creator Challenge 2026",
+      "url": "https://unstop.com/competitions/mars-creator-challenge-2026-algoxilla-1791920",
+      "date": "2026-11-19T17:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Algoxilla",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -582,6 +562,22 @@
       "online": true,
       "prize": "",
       "org": "Oriental Institute of Science and Technology",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1800924",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "ELUCode - 8",
+      "url": "https://unstop.com/hackathons/elucode-8-edulinkup-1800924",
+      "date": "2026-11-21T15:30:51.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "EduLinkUp",
       "tags": [
         "web"
       ],
@@ -970,22 +966,6 @@
       "source": "Unstop",
       "name": "Project Jupyter",
       "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
-      "date": "2027-02-28T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Army Institute of technology, Pune",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799775",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Circuit Craft",
-      "url": "https://unstop.com/competitions/circuit-craft-solutions-2k27-army-institute-of-technology-pune-1799775",
       "date": "2027-02-28T18:30:00.000Z",
       "location": "Online",
       "online": true,
