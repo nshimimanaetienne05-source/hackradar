@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-09T05:01:29.088Z",
+  "updated": "2026-11-09T15:27:18.959Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (25)",
     "MLH": "ok (24)",
-    "Lablab.ai": "ok (1)",
-    "Opportunity Desk": "ok (0)",
+    "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
+    "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
@@ -166,48 +166,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1800962",
+      "id": "unstop-1802402",
       "type": "competition",
       "source": "Unstop",
-      "name": "CAD Rush – AAYAM XI",
-      "url": "https://unstop.com/competitions/cad-rush-national-institute-of-technology-nit-agartala-1800962",
+      "name": "Finomenal",
+      "url": "https://unstop.com/quiz/finomenal-aryabhatta-college-du-delhi-1802402",
       "date": "2026-11-13T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "National Institute of Technology (NIT), Agartala",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1800858",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Indian Macro Prediction Challenge",
-      "url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1800858",
-      "date": "2026-11-13T19:30:04.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indiastox",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1800853",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Indian Equities Prediction Challenge",
-      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1800853",
-      "date": "2026-11-13T19:30:22.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indiastox",
+      "org": "Aryabhatta College (AC), Delhi University (DU), Delhi",
       "tags": [
         "web"
       ],
@@ -231,16 +199,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1800995",
+      "id": "unstop-1774167",
       "type": "competition",
       "source": "Unstop",
-      "name": "Campus Placement Aptitude Challenge 3",
-      "url": "https://unstop.com/quiz/campus-placement-aptitude-challenge-3-campusfirst-india-1800995",
-      "date": "2026-11-14T18:50:00.000Z",
+      "name": "International STEM Olympiad",
+      "url": "https://unstop.com/competitions/international-stem-olympiad-bits-1774167",
+      "date": "2026-11-14T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "CampusFirst India",
+      "org": "Birla Institute of Technology & Science, Pilani Campus",
       "tags": [
         "web"
       ],
@@ -261,6 +229,22 @@
         "health",
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1801625",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "LongTable Growth Hackathon – The First 100",
+      "url": "https://unstop.com/competitions/longtable-growth-hackathon-the-first-100-lilywilliam-craftedcode-opc-private-limited-1801625",
+      "date": "2026-11-15T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Lilywilliam Craftedcode (OPC) Private Limited",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -333,38 +317,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1798564",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Casestreet",
-      "url": "https://unstop.com/competitions/casestreet-khalsa-street-finance-and-investment-cell-sgtbkc-1798564",
-      "date": "2026-11-16T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Khalsa Street - Finance and Investment Cell, SGTBKC",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799179",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Hackrush 2026",
-      "url": "https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179",
-      "date": "2026-11-16T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31552",
       "type": "hackathon",
       "source": "Devpost",
@@ -415,22 +367,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1791920",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "MARS Creator Challenge 2026",
-      "url": "https://unstop.com/competitions/mars-creator-challenge-2026-algoxilla-1791920",
-      "date": "2026-11-19T17:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Algoxilla",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -563,22 +499,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1800639",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Brand Wars - The Ultimate Marketing Showdown (Online)",
-      "url": "https://unstop.com/competitions/brand-wars-the-ultimate-marketing-showdown-online-interactup-1800639",
-      "date": "2026-11-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InteractUp",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31773",
       "type": "hackathon",
       "source": "Devpost",
@@ -666,18 +586,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1801626",
-      "type": "competition",
+      "id": "unstop-1802169",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Statistics for Analysts Challenge 1",
-      "url": "https://unstop.com/quiz/statistics-for-analysts-challenge-1-campusfirst-india-1801626",
-      "date": "2026-11-22T10:45:00.000Z",
+      "name": "Housing Fintech Challenge",
+      "url": "https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bombay-1802169",
+      "date": "2026-11-22T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "CampusFirst India",
+      "org": "Indian Institute of Technology (IIT), Bombay",
       "tags": [
-        "web"
+        "fintech"
       ],
       "rwanda": false
     },
@@ -711,22 +631,6 @@
       "org": "HackathonForEveryone",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1800742",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Call for Articles: Analytics November 2026",
-      "url": "https://unstop.com/competitions/call-for-articles-analytics-november-2026-iim-rohtak-1800742",
-      "date": "2026-11-25T20:50:57.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "data"
       ],
       "rwanda": false
     },
@@ -768,23 +672,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1800324",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Agentware | 72-Hour Hackathon",
-      "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
-      "date": "2026-11-27T17:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hackathon Raptors",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -799,6 +686,38 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1781282",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Amp it Up by Amara Raja",
+      "url": "https://unstop.com/competitions/crp-amp-it-up-by-amara-raja-amp-it-up-by-amara-raja-amara-raja-group-1781282",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Amara Raja Group",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1801886",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Women in Energy – Powering Tomorrow | By Amara Raja",
+      "url": "https://unstop.com/competitions/crp-women-in-energy-powering-tomorrow-by-amara-raja-amp-it-up-by-amara-raja-amara-raja-group-1801886",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Amara Raja Group",
+      "tags": [
+        "climate"
       ],
       "rwanda": false
     },
@@ -971,6 +890,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1802843",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Neural Nexus 2026 - The AI, Technology & Future Challenge",
+      "url": "https://unstop.com/quiz/neural-nexus-2026-the-ai-technology-future-challenge-chhatrapati-shahu-ji-maharaj-university-csjmu-kanpur-1802843",
+      "date": "2026-12-14T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31083",
       "type": "hackathon",
       "source": "Devpost",
@@ -1110,16 +1045,32 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1799800",
+      "id": "feed-generation-regen-challenge-to-attend-the-one-young-world-summit-2027-fully-funde",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "Generation Regen Challenge to Attend the One Young World Summit 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/11/09/generation-regen-challenge-2027/",
+      "date": "2027-02-24T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1802090",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Solidworks",
-      "url": "https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
+      "name": "CSS Battle",
+      "url": "https://unstop.com/hackathons/css-battle-solutions-2k27-army-institute-of-technology-ait-pune-1802090",
       "date": "2027-02-28T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Army Institute of technology, Pune",
+      "org": "Army Institute of Technology (AIT), Pune",
       "tags": [
         "web"
       ],
