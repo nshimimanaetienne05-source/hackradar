@@ -1,68 +1,15 @@
 {
-  "updated": "2026-11-08T21:46:41.151Z",
+  "updated": "2026-11-09T05:01:29.088Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (34)",
+    "Unstop": "ok (32)",
     "MLH": "ok (24)",
-    "Lablab.ai": "ok (2)",
+    "Lablab.ai": "ok (1)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31489",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "EthnoHack",
-      "url": "https://ethnohack2026.devpost.com/",
-      "date": "2026-11-08T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "€8,000",
-      "org": "ETHCSTWIN",
-      "tags": [
-        "health",
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "mlh-solana-hackathon-2026",
-      "type": "hackathon",
-      "source": "MLH",
-      "name": "Solana Hackathon",
-      "url": "https://events.mlh.com/events/15200-solana-hackathon?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Solana+Hackathon",
-      "date": "2026-11-08T23:59:00.000Z",
-      "location": "Everywhere, Worldwide, US",
-      "online": true,
-      "prize": "",
-      "org": "Major League Hacking",
-      "tags": [
-        "web",
-        "blockchain"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "lablab-vultr-hackathon",
-      "type": "hackathon",
-      "source": "Lablab.ai",
-      "name": "Vultr: Agent Rush Hackathon",
-      "url": "https://lablab.ai/ai-hackathons/vultr-hackathon",
-      "date": "2026-11-08T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "lablab.ai",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31659",
       "type": "hackathon",
@@ -92,23 +39,6 @@
       "prize": "",
       "org": "Code Hive",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1789431",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "AI Vibeathon 2026: 24-Hour AI Hackathon",
-      "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
-      "date": "2026-11-10T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "DotRepo",
-      "tags": [
-        "ai",
         "web"
       ],
       "rwanda": false
@@ -201,22 +131,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1800146",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Technothon",
-      "url": "https://unstop.com/competitions/technothon-national-institute-of-technology-nit-agartala-1800146",
-      "date": "2026-11-12T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology (NIT), Agartala",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -231,6 +145,23 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1789431",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AI Vibeathon 2026: 24-Hour AI Hackathon",
+      "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
+      "date": "2026-11-13T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "DotRepo",
+      "tags": [
+        "ai",
+        "web"
       ],
       "rwanda": false
     },
@@ -344,6 +275,22 @@
       "online": true,
       "prize": "",
       "org": "STEMise",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31495",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IceHacks",
+      "url": "https://icehacks.devpost.com/",
+      "date": "2026-11-15T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$17,150",
+      "org": "CodeStarters",
       "tags": [
         "web"
       ],
@@ -715,6 +662,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1801626",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Statistics for Analysts Challenge 1",
+      "url": "https://unstop.com/quiz/statistics-for-analysts-challenge-1-campusfirst-india-1801626",
+      "date": "2026-11-22T10:45:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "CampusFirst India",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
