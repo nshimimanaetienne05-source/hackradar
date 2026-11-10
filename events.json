@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-10T14:28:34.976Z",
+  "updated": "2026-11-10T22:56:05.481Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (29)",
+    "Unstop": "ok (30)",
     "MLH": "ok (24)",
     "Lablab.ai": "ok (1)",
     "Opportunity Desk": "ok (1)",
@@ -28,58 +28,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31831",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Ctrl+V Hackathon",
-      "url": "https://ctrl-v-hackathon-31831.devpost.com/",
-      "date": "2026-11-10T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$28,000",
-      "org": "ADHAYAN",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31883",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "DATANOVA 2026 GLOBAL DATA-THON",
-      "url": "https://datanova-2026-global-data-thon.devpost.com/",
-      "date": "2026-11-10T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$1,750",
-      "org": "DataNova",
-      "tags": [
-        "health",
-        "data",
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1803115",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Reforming education for Viksit Bharat",
-      "url": "https://unstop.com/competitions/reforming-education-for-viksit-bharat-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1803115",
-      "date": "2026-11-11T06:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31060",
       "type": "hackathon",
       "source": "Devpost",
@@ -94,6 +42,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31680",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
+      "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
+      "date": "2026-11-11T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "₹ 10,000",
+      "org": "Institute of Engineering & Management",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -235,6 +199,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1804812",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Storage Wars 2.0",
+      "url": "https://unstop.com/quiz/storage-wars-20-sri-guru-tegh-bahadur-khalsa-college-sgtb-khalsa-du-new-delhi-1804812",
+      "date": "2026-11-16T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Sri Guru Tegh Bahadur Khalsa College (SGTB Khalsa), University of Delhi (DU), New Delhi",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31552",
       "type": "hackathon",
       "source": "Devpost",
@@ -270,6 +250,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1804888",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Poorvabhyas 8.0",
+      "url": "https://unstop.com/competitions/poorvabhyas-80-shaheed-sukhdev-college-of-business-studies-sscbs-du-delhi-1804888",
+      "date": "2026-11-17T19:26:07.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Shaheed Sukhdev College of Business Studies, University of Delhi",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -283,6 +279,22 @@
       "tags": [
         "web",
         "climate"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1804774",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Game Creation using AI",
+      "url": "https://unstop.com/competitions/game-creation-using-ai-mumbai-university-mu-mumbai-1804774",
+      "date": "2026-11-18T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mumbai University (MU), Mumbai",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -301,22 +313,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799782",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Expanding Horizons 8.0  CIVIL",
-      "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
-      "date": "2026-11-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Motilal Nehru National Institute of Technology",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -489,22 +485,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1803073",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CyberHX Global Campus Ambassador Challenge 2026",
-      "url": "https://unstop.com/competitions/cyberhx-global-campus-ambassador-challenge-2026-cyberhx-global-campus-ambassador-challenge-2026-cyber-hx-1803073",
-      "date": "2026-11-22T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Cyber HX",
-      "tags": [
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -540,16 +520,64 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1804878",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Shark Tank : An On-the-Spot Product Innovation Challenge",
+      "url": "https://unstop.com/competitions/shark-tank-interactup-1804878",
+      "date": "2026-11-23T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "InteractUp",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1803958",
       "type": "competition",
       "source": "Unstop",
       "name": "Ops Quiz",
-      "url": "https://unstop.com/competitions/ops-quiz-solaris-2026--1803958",
+      "url": "https://unstop.com/quiz/ops-quiz-solaris-2026--1803958",
       "date": "2026-11-23T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
       "org": "Indian Institute of Management (IIM), Udaipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1803556",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Brain Battle",
+      "url": "https://unstop.com/quiz/brain-battle-goel-institute-of-technology-management-gitm-1803556",
+      "date": "2026-11-23T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Goel Institute of Technology & Management (GITM)",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1804879",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Tech Trivia",
+      "url": "https://unstop.com/quiz/tech-trivia-techzen-innovation-1804879",
+      "date": "2026-11-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "TechZen Innovation",
       "tags": [
         "web"
       ],
@@ -635,6 +663,22 @@
       "online": true,
       "prize": "",
       "org": "Jaihind College of Engineering (Kuran), Narayangaon, Maharashtra",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1803518",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "APJ Research Quest 1: Scientific Thinking & Research Basics",
+      "url": "https://unstop.com/quiz/apj-research-quest-1-scientific-thinking-research-basics-apj-raise-1803518",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "APJ Raise",
       "tags": [
         "web"
       ],
@@ -789,6 +833,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-32079",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Learn AR with SPECS",
+      "url": "https://learn-specs.devpost.com/",
+      "date": "2026-12-07T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$2,500",
+      "org": "Devpost",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31972",
       "type": "hackathon",
       "source": "Devpost",
@@ -838,22 +899,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1802843",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Neural Nexus 2026 - The AI, Technology & Future Challenge",
-      "url": "https://unstop.com/quiz/neural-nexus-2026-the-ai-technology-future-challenge-chhatrapati-shahu-ji-maharaj-university-csjmu-kanpur-1802843",
-      "date": "2026-12-14T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
@@ -995,22 +1040,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1803917",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "National Human Resource Olympiad (NHRO)",
-      "url": "https://unstop.com/quiz/national-human-resource-olympiad-nhro-srcc-du-1803917",
-      "date": "2026-12-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Shri Ram College of Commerce, University of Delhi",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1798682",
       "type": "competition",
       "source": "Unstop",
@@ -1124,22 +1153,6 @@
       "org": "Army Institute of Technology (AIT), Pune",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1800395",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
-      "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
-      "date": "2027-07-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Galuxium",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     }
