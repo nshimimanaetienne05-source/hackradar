@@ -1,48 +1,15 @@
 {
-  "updated": "2026-11-09T15:27:18.959Z",
+  "updated": "2026-11-10T01:15:30.033Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
+    "Unstop": "ok (24)",
     "MLH": "ok (24)",
-    "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (1)"
+    "Lablab.ai": "ok (1)",
+    "Opportunity Desk": "ok (2)",
+    "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31659",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Learn AR with SPECS",
-      "url": "https://learn-specs.devpost.com/",
-      "date": "2026-11-09T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$2,500",
-      "org": "Devpost",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1782942",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeHive Community Duel Night",
-      "url": "https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942",
-      "date": "2026-11-10T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Code Hive",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31664",
       "type": "hackathon",
@@ -131,6 +98,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1803115",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Reforming education for Viksit Bharat",
+      "url": "https://unstop.com/competitions/reforming-education-for-viksit-bharat-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1803115",
+      "date": "2026-11-11T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31302",
       "type": "hackathon",
       "source": "Devpost",
@@ -166,22 +149,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1802402",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Finomenal",
-      "url": "https://unstop.com/quiz/finomenal-aryabhatta-college-du-delhi-1802402",
-      "date": "2026-11-13T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Aryabhatta College (AC), Delhi University (DU), Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1800891",
       "type": "hackathon",
       "source": "Unstop",
@@ -194,22 +161,6 @@
       "org": "Product Space",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1774167",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "International STEM Olympiad",
-      "url": "https://unstop.com/competitions/international-stem-olympiad-bits-1774167",
-      "date": "2026-11-14T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Birla Institute of Technology & Science, Pilani Campus",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -602,6 +553,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1803073",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CyberHX Global Campus Ambassador Challenge 2026",
+      "url": "https://unstop.com/competitions/cyberhx-global-campus-ambassador-challenge-2026-cyberhx-global-campus-ambassador-challenge-2026-cyber-hx-1803073",
+      "date": "2026-11-22T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Cyber HX",
+      "tags": [
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -672,6 +639,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1803129",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Claude Quiz India 2026",
+      "url": "https://unstop.com/quiz/claude-quiz-india-2026-unite-wings-educational-confederation-1803129",
+      "date": "2026-11-26T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Unite Wings Educational Confederation",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -690,38 +673,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1781282",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Amp it Up by Amara Raja",
-      "url": "https://unstop.com/competitions/crp-amp-it-up-by-amara-raja-amp-it-up-by-amara-raja-amara-raja-group-1781282",
-      "date": "2026-11-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Amara Raja Group",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1801886",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Women in Energy – Powering Tomorrow | By Amara Raja",
-      "url": "https://unstop.com/competitions/crp-women-in-energy-powering-tomorrow-by-amara-raja-amp-it-up-by-amara-raja-amara-raja-group-1801886",
-      "date": "2026-11-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Amara Raja Group",
-      "tags": [
-        "climate"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31682",
       "type": "hackathon",
       "source": "Devpost",
@@ -730,7 +681,7 @@
       "date": "2026-11-30T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$100",
+      "prize": "$300",
       "org": "The Webb Schools CSC",
       "tags": [
         "web"
@@ -906,6 +857,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1803074",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "IDEATHON- FutureX: Innovating for Global Challenges",
+      "url": "https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
+      "date": "2026-12-15T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Skill2Career",
+      "tags": [
+        "health"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-qnx-global-hackathon-2026-50-000-in-prizes",
+      "type": "hackathon",
+      "source": "Opportunity Desk",
+      "name": "QNX Global Hackathon 2026 ($50,000 in prizes)",
+      "url": "https://opportunitydesk.org/2026/11/09/qnx-global-hackathon-2026/",
+      "date": "2026-12-15T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31083",
       "type": "hackathon",
       "source": "Devpost",
@@ -1045,6 +1028,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1800218",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Call for Entries: 14th Edition of Optima-The Annual Economic Outlook 2026-27",
+      "url": "https://unstop.com/competitions/call-for-entries-14th-edition-of-optima-the-annual-economic-outlook-2026-27-daulat-ram-college-du-delhi-1800218",
+      "date": "2027-01-17T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Daulat Ram College (DRC), Delhi University (DU), Delhi",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "feed-generation-regen-challenge-to-attend-the-one-young-world-summit-2027-fully-funde",
       "type": "competition",
       "source": "Opportunity Desk",
@@ -1073,23 +1072,6 @@
       "org": "Army Institute of Technology (AIT), Pune",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-the-microsoft-imagine-cup-student-startup-competition-2027-for-early-stage-start",
-      "type": "pitch",
-      "source": "Opportunities for Africans",
-      "name": "The Microsoft Imagine Cup Student Startup Competition 2027 for early-stage startups and founders worldwide (US$250,000 in cash prizes and US$1 million in Azure prize credits)",
-      "url": "https://www.opportunitiesforafricans.com/the-microsoft-imagine-cup-student-startup-competition-2027/",
-      "date": "2027-02-28T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "fintech",
-        "education"
       ],
       "rwanda": false
     },
