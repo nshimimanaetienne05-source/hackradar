@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-11T05:03:39.396Z",
+  "updated": "2026-11-11T13:42:28.857Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (30)",
+    "Unstop": "ok (31)",
     "MLH": "ok (24)",
-    "Lablab.ai": "ok (1)",
-    "Opportunity Desk": "ok (1)",
+    "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
@@ -39,38 +39,6 @@
       "online": true,
       "prize": "₹ 10,000",
       "org": "Institute of Engineering & Management",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-32023",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IBM Db2Hack 2026",
-      "url": "https://ibm-db2hack-2026.devpost.com/",
-      "date": "2026-11-11T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IBM",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1790133",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FinSight: Sharpen Your Financial Insight - 6",
-      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-6-iim-rohtak-1790133",
-      "date": "2026-11-12T18:29:07.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
         "web"
       ],
@@ -214,16 +182,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1804812",
+      "id": "unstop-1805003",
       "type": "competition",
       "source": "Unstop",
-      "name": "Storage Wars 2.0",
-      "url": "https://unstop.com/quiz/storage-wars-20-sri-guru-tegh-bahadur-khalsa-college-sgtb-khalsa-du-new-delhi-1804812",
-      "date": "2026-11-16T06:30:00.000Z",
+      "name": "Veritas",
+      "url": "https://unstop.com/competitions/veritas-iim-calcutta-1805003",
+      "date": "2026-11-16T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Sri Guru Tegh Bahadur Khalsa College (SGTB Khalsa), University of Delhi (DU), New Delhi",
+      "org": "Indian Institute of Management (IIM), Calcutta",
       "tags": [
         "web"
       ],
@@ -298,6 +266,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1805811",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "General Case Study Competition",
+      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1805811",
+      "date": "2026-11-18T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rising Scholars",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1804774",
       "type": "competition",
       "source": "Unstop",
@@ -328,6 +312,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1804937",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Joka Writers Club",
+      "url": "https://unstop.com/competitions/joka-writers-club-iim-calcutta-1804937",
+      "date": "2026-11-20T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Calcutta",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -444,6 +444,38 @@
       "online": true,
       "prize": "",
       "org": "EduLinkUp",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1805004",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Don the Directorship",
+      "url": "https://unstop.com/competitions/don-the-directorship-iim-calcutta-1805004",
+      "date": "2026-11-21T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Calcutta",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1805005",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Minute Marvels",
+      "url": "https://unstop.com/competitions/minute-marvels-iim-calcutta-1805005",
+      "date": "2026-11-21T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Calcutta",
       "tags": [
         "web"
       ],
@@ -567,22 +599,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1803556",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Brain Battle",
-      "url": "https://unstop.com/quiz/brain-battle-goel-institute-of-technology-management-gitm-1803556",
-      "date": "2026-11-23T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Goel Institute of Technology & Management (GITM)",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1804879",
       "type": "competition",
       "source": "Unstop",
@@ -655,7 +671,7 @@
       "id": "unstop-1804299",
       "type": "competition",
       "source": "Unstop",
-      "name": "Game on Prompt",
+      "name": "Prompt Challenge: Gaming Edition",
       "url": "https://unstop.com/competitions/game-on-prompt-thinknest-1804299",
       "date": "2026-11-28T18:29:00.000Z",
       "location": "Online",
@@ -668,18 +684,34 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1803919",
+      "id": "unstop-1805787",
       "type": "competition",
       "source": "Unstop",
-      "name": "Design Spark – Tech & Innovation Quiz 2026",
-      "url": "https://unstop.com/quiz/design-spark-tech-innovation-quiz-2026-jaihind-college-of-engineering-kuran-narayangaon-maharashtra-1803919",
-      "date": "2026-11-29T18:30:00.000Z",
+      "name": "Tech Challenge 2026",
+      "url": "https://unstop.com/competitions/tech-challenge-2026-panimalar-institute-of-technology-pit-chennai-1805787",
+      "date": "2026-11-30T00:26:08.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Jaihind College of Engineering (Kuran), Narayangaon, Maharashtra",
+      "org": "Panimalar Institute Of Technology (PIT), Chennai",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1805544",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Claude AI Quiz Challenge",
+      "url": "https://unstop.com/quiz/claude-ai-quiz-challenge-buddha-institute-of-technology-bit-gorakhpur-1805544",
+      "date": "2026-11-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Buddha Institute of Technology (BIT), Gorakhpur",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -794,6 +826,25 @@
       "org": "Hack4TodayOrg",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-32009",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+      "url": "https://ai-for-medicine.devpost.com/",
+      "date": "2026-12-04T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Open Health AI Collective",
+      "tags": [
+        "health",
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -918,22 +969,6 @@
       "rwanda": false
     },
     {
-      "id": "feed-qnx-global-hackathon-2026-50-000-in-prizes",
-      "type": "hackathon",
-      "source": "Opportunity Desk",
-      "name": "QNX Global Hackathon 2026 ($50,000 in prizes)",
-      "url": "https://opportunitydesk.org/2026/11/09/qnx-global-hackathon-2026/",
-      "date": "2026-12-15T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31083",
       "type": "hackathon",
       "source": "Devpost",
@@ -982,24 +1017,6 @@
       "tags": [
         "ai",
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1772721",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Student AI Bootcamp – Sponsored by AWS",
-      "url": "https://unstop.com/competitions/crp-student-ai-bootcamp-sponsored-by-aws-amazon-web-services-aws-1772721",
-      "date": "2026-12-20T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Amazon Web Services (AWS)",
-      "tags": [
-        "ai",
-        "web",
-        "education"
       ],
       "rwanda": false
     },
