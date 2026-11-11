@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T22:56:05.481Z",
+  "updated": "2026-11-11T05:03:39.396Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -10,23 +10,6 @@
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31664",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Herhack",
-      "url": "https://herhack.devpost.com/",
-      "date": "2026-11-10T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "₹ 200,000",
-      "org": "Echelon institute of technology",
-      "tags": [
-        "web",
-        "blockchain"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31060",
       "type": "hackathon",
@@ -56,6 +39,38 @@
       "online": true,
       "prize": "₹ 10,000",
       "org": "Institute of Engineering & Management",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-32023",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IBM Db2Hack 2026",
+      "url": "https://ibm-db2hack-2026.devpost.com/",
+      "date": "2026-11-11T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IBM",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1790133",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "FinSight: Sharpen Your Financial Insight - 6",
+      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-6-iim-rohtak-1790133",
+      "date": "2026-11-12T18:29:07.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
         "web"
       ],
@@ -286,7 +301,7 @@
       "id": "unstop-1804774",
       "type": "competition",
       "source": "Unstop",
-      "name": "Game Creation using AI",
+      "name": "Google Gemini Game Creation using AI",
       "url": "https://unstop.com/competitions/game-creation-using-ai-mumbai-university-mu-mumbai-1804774",
       "date": "2026-11-18T18:30:00.000Z",
       "location": "Online",
@@ -663,22 +678,6 @@
       "online": true,
       "prize": "",
       "org": "Jaihind College of Engineering (Kuran), Narayangaon, Maharashtra",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1803518",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "APJ Research Quest 1: Scientific Thinking & Research Basics",
-      "url": "https://unstop.com/quiz/apj-research-quest-1-scientific-thinking-research-basics-apj-raise-1803518",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "APJ Raise",
       "tags": [
         "web"
       ],
