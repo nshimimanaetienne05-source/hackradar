@@ -1,33 +1,15 @@
 {
-  "updated": "2026-11-12T14:46:02.314Z",
+  "updated": "2026-11-12T23:17:16.418Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (33)",
+    "Unstop": "ok (34)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "ok (0)",
+    "Opportunity Desk": "failed: The operation was aborted due to timeout (kept 0 old)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31302",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "PayPal AI Hackathon",
-      "url": "https://paypalaihackathon.devpost.com/",
-      "date": "2026-11-12T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$67,500",
-      "org": "PayPal",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1789431",
       "type": "hackathon",
@@ -46,36 +28,35 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1805956",
+      "id": "unstop-1807639",
       "type": "competition",
       "source": "Unstop",
-      "name": "Fathom 1.0",
-      "url": "https://unstop.com/quiz/fathom-10-campus-konnect-1805956",
+      "name": "C-Suite 10.0",
+      "url": "https://unstop.com/competitions/c-suite-the-boardroom-challenge-corporate-month-ibs-hyderabad-1807639",
       "date": "2026-11-13T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Campus Konnect",
+      "org": "ICFAI Business School (IBS), Hyderabad",
       "tags": [
-        "web"
+        "fintech",
+        "education"
       ],
       "rwanda": false
     },
     {
-      "id": "devpost-31719",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
-      "url": "https://scope-ai-thon-2026.devpost.com/",
-      "date": "2026-11-14T23:59:00.000Z",
+      "id": "unstop-1807152",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Elite Coders Winter of Code",
+      "url": "https://unstop.com/competitions/elite-coders-winter-of-code-jb-institute-of-engineering-and-technology-1807152",
+      "date": "2026-11-14T18:30:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$CAD 1,400",
-      "org": "mcgill university",
+      "prize": "",
+      "org": "JB Institute of Engineering and Technology",
       "tags": [
-        "health",
-        "ai",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -266,22 +247,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1806057",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Game On Night: Imagine The Impossible",
-      "url": "https://unstop.com/competitions/game-on-night-imagine-the-impossible-campus-unite-1806057",
-      "date": "2026-11-20T12:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Campus Unite",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1799791",
       "type": "hackathon",
       "source": "Unstop",
@@ -418,22 +383,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1802169",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Housing Fintech Challenge",
-      "url": "https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bombay-1802169",
-      "date": "2026-11-22T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Bombay",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -469,6 +418,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1805107",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Bad Ideas Only",
+      "url": "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107",
+      "date": "2026-11-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Hoollow",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31798",
       "type": "hackathon",
       "source": "Devpost",
@@ -497,22 +462,6 @@
       "org": "Quik CPQ Solutions LLP",
       "tags": [
         "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1807152",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Elite Coders Winter of Code",
-      "url": "https://unstop.com/competitions/elite-coders-winter-of-code-jb-institute-of-engineering-and-technology-1807152",
-      "date": "2026-11-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "JB Institute of Engineering and Technology",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -568,23 +517,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1800324",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Agentware | 72-Hour Hackathon",
-      "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
-      "date": "2026-11-27T17:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hackathon Raptors",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -599,6 +531,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807297",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "HackKro CodeByte 2026",
+      "url": "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297",
+      "date": "2026-11-30T12:59:12.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HackKro",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -631,6 +579,22 @@
       "online": true,
       "prize": "$300",
       "org": "The Webb Schools CSC",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31794",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Code for Change",
+      "url": "https://code-for-change-global.devpost.com/",
+      "date": "2026-12-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$200",
+      "org": "HackathonForEveryone",
       "tags": [
         "web"
       ],
@@ -938,6 +902,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-32060",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Silicon Valley Buildathon",
+      "url": "https://silicon-valley-buildathon.devpost.com/",
+      "date": "2026-12-15T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$500",
+      "org": "Silicon Hacks Team",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
