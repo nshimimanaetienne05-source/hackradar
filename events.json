@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-12T00:09:35.236Z",
+  "updated": "2026-11-12T14:46:02.314Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (33)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
@@ -80,18 +80,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1791236",
+      "id": "unstop-1806779",
       "type": "competition",
       "source": "Unstop",
-      "name": "Samvad: Call For Article",
-      "url": "https://unstop.com/competitions/samvad-call-for-article-sp-mandalis-prin-l-n-welingkar-institute-of-management-development-research-mumbai--1791236",
-      "date": "2026-11-15T18:29:08.000Z",
+      "name": "CFA L1 Full Subject Live Mock Quiz",
+      "url": "https://unstop.com/quiz/cfa-l1-full-subject-live-mock-quiz-poonji-vidya-technologies-private-limited-1806779",
+      "date": "2026-11-15T08:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
+      "org": "Poonji Vidya Technologies Private Limited",
       "tags": [
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -164,22 +164,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1805003",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Veritas",
-      "url": "https://unstop.com/competitions/veritas-iim-calcutta-1805003",
-      "date": "2026-11-16T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Calcutta",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31552",
       "type": "hackathon",
       "source": "Devpost",
@@ -199,32 +183,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1795134",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Remote Robotics Hackathon",
-      "url": "https://unstop.com/hackathons/remote-robotics-hackathon-pes-university-pesu-bengaluru-1795134",
-      "date": "2026-11-17T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "PES University (PESU), Bengaluru",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1804850",
+      "id": "unstop-1793029",
       "type": "competition",
       "source": "Unstop",
-      "name": "Wire Wars'26: Think Fast. Design Smart.",
-      "url": "https://unstop.com/competitions/wire-wars26-think-fast-design-smart-iim-calcutta-1804850",
-      "date": "2026-11-17T18:30:00.000Z",
+      "name": "The Kotler Challenge 6.0",
+      "url": "https://unstop.com/competitions/the-kotler-challenge-60-vriddhi-80--1793029",
+      "date": "2026-11-17T11:30:36.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Calcutta",
+      "org": "Indian Institute of Management (IIM), Visakhapatnam",
       "tags": [
         "web"
       ],
@@ -248,16 +216,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1805811",
+      "id": "unstop-1792993",
       "type": "competition",
       "source": "Unstop",
-      "name": "General Case Study Competition",
-      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1805811",
-      "date": "2026-11-18T06:30:00.000Z",
+      "name": "Launchpad 7.0",
+      "url": "https://unstop.com/competitions/launchpad-70-vriddhi-80--1792993",
+      "date": "2026-11-18T11:30:31.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Rising Scholars",
+      "org": "Indian Institute of Management (IIM), Visakhapatnam",
       "tags": [
         "web"
       ],
@@ -282,16 +250,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1804937",
+      "id": "unstop-1803125",
       "type": "competition",
       "source": "Unstop",
-      "name": "Joka Writers Club",
-      "url": "https://unstop.com/competitions/joka-writers-club-iim-calcutta-1804937",
-      "date": "2026-11-20T06:30:00.000Z",
+      "name": "IEEE Open Source Week 10.0",
+      "url": "https://unstop.com/competitions/ieee-open-source-week-100-igdtuw-delhi-1803125",
+      "date": "2026-11-19T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Calcutta",
+      "org": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
       "tags": [
         "web"
       ],
@@ -416,34 +384,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1805004",
-      "type": "competition",
+      "id": "unstop-1807080",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Don the Directorship",
-      "url": "https://unstop.com/competitions/don-the-directorship-iim-calcutta-1805004",
-      "date": "2026-11-21T18:29:00.000Z",
+      "name": "Data Sprint 2.0",
+      "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
+      "date": "2026-11-21T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Calcutta",
+      "org": "Anveshan NIE",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1805005",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Minute Marvels",
-      "url": "https://unstop.com/competitions/minute-marvels-iim-calcutta-1805005",
-      "date": "2026-11-21T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Calcutta",
-      "tags": [
-        "web"
+        "data"
       ],
       "rwanda": false
     },
@@ -462,22 +414,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1804301",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Game On: Imagine The Impossible",
-      "url": "https://unstop.com/competitions/game-on-imagine-the-impossible-amrita-vishwa-vidyapeetham-1804301",
-      "date": "2026-11-22T06:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Amrita Vishwa Vidyapeetham",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -533,38 +469,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1804878",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Shark Tank : An On-the-Spot Product Innovation Challenge",
-      "url": "https://unstop.com/competitions/shark-tank-interactup-1804878",
-      "date": "2026-11-23T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InteractUp",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1803958",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Ops Quiz",
-      "url": "https://unstop.com/quiz/ops-quiz-solaris-2026--1803958",
-      "date": "2026-11-23T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Udaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31798",
       "type": "hackathon",
       "source": "Devpost",
@@ -575,6 +479,70 @@
       "online": true,
       "prize": "",
       "org": "HackathonForEveryone",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1806984",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "QuikCPQ AI Innovation Challenge 2027",
+      "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Quik CPQ Solutions LLP",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807152",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Elite Coders Winter of Code",
+      "url": "https://unstop.com/competitions/elite-coders-winter-of-code-jb-institute-of-engineering-and-technology-1807152",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "JB Institute of Engineering and Technology",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1806159",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Make Them Famous - The 48-Hour Brand Challenge",
+      "url": "https://unstop.com/competitions/make-them-famous-the-48-hour-brand-challenge-ooro-1806159",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Ooro",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1806157",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "OORO: The Attention Heist - 20 Second Reel Challenge",
+      "url": "https://unstop.com/competitions/ooro-the-attention-heist-20-second-reel-challenge-ooro-1806157",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Ooro",
       "tags": [
         "web"
       ],
@@ -600,6 +568,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1800324",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Agentware | 72-Hour Hackathon",
+      "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
+      "date": "2026-11-27T17:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Hackathon Raptors",
+      "tags": [
+        "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -614,38 +599,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1805787",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Tech Challenge 2026",
-      "url": "https://unstop.com/competitions/tech-challenge-2026-panimalar-institute-of-technology-pit-chennai-1805787",
-      "date": "2026-11-30T00:26:08.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Panimalar Institute Of Technology (PIT), Chennai",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1805544",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Claude AI Quiz Challenge",
-      "url": "https://unstop.com/quiz/claude-ai-quiz-challenge-buddha-institute-of-technology-bit-gorakhpur-1805544",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Buddha Institute of Technology (BIT), Gorakhpur",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
@@ -678,22 +631,6 @@
       "online": true,
       "prize": "$300",
       "org": "The Webb Schools CSC",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31794",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Code for Change",
-      "url": "https://code-for-change-global.devpost.com/",
-      "date": "2026-12-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$200",
-      "org": "HackathonForEveryone",
       "tags": [
         "web"
       ],
@@ -889,7 +826,7 @@
       "id": "devpost-31644",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "Reddit’s Daily Games Hackathon",
+      "name": "Reddit’s Game of the Day Hackathon",
       "url": "https://redditgameofday2026.devpost.com/",
       "date": "2026-12-08T23:59:00.000Z",
       "location": "Online",
@@ -937,6 +874,40 @@
       "rwanda": false
     },
     {
+      "id": "devpost-32024",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Relate by Neo4j Hackathon",
+      "url": "https://relate.devpost.com/",
+      "date": "2026-12-11T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Neo4j",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1806565",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "National 3D Animation Challenge 2026",
+      "url": "https://unstop.com/competitions/national-3d-animation-challenge-2026-xplo-animation-service-pvt-ltd-1806565",
+      "date": "2026-12-14T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Xplo Animation Service Pvt Ltd",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1803074",
       "type": "hackathon",
       "source": "Unstop",
@@ -971,22 +942,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-32060",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Silicon Valley Buildathon",
-      "url": "https://silicon-valley-buildathon.devpost.com/",
-      "date": "2026-12-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$500",
-      "org": "Silicon Hacks Team",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31480",
       "type": "hackathon",
       "source": "Devpost",
@@ -1000,23 +955,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1773925",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "学生向けAIブートキャンプ",
-      "url": "https://unstop.com/competitions/crp-ai-amazon-web-services-aws-1773925",
-      "date": "2026-12-20T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Amazon Web Services (AWS)",
-      "tags": [
-        "ai",
-        "web"
       ],
       "rwanda": false
     },
@@ -1056,22 +994,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1798682",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Market Mayhem",
-      "url": "https://unstop.com/competitions/market-mayhem-e-summit27-iit-bhu-varanasi-iit-bhu-1798682",
-      "date": "2026-12-26T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology, Banaras Hindu University (IIT - BHU)",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31787",
       "type": "hackathon",
       "source": "Devpost",
@@ -1086,6 +1008,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1761846",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Rabinjathon: Prime 1",
+      "url": "https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
+      "date": "2026-12-31T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rabinja Squad",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -1106,18 +1044,20 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1804209",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Techvision Challenge 2026",
-      "url": "https://unstop.com/competitions/techvision-challenge-2026-panimalar-engineering-college-pec-chennai-1804209",
-      "date": "2027-01-12T13:08:56.000Z",
+      "id": "devpost-32026",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Open Agentic Web Challenge",
+      "url": "https://cognizant-agenticweb.devpost.com/",
+      "date": "2027-01-11T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "Panimalar Engineering College (PEC), Chennai",
+      "prize": "$10,000",
+      "org": "Cognizant",
       "tags": [
-        "web"
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -1139,6 +1079,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1804218",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Neurix 2026",
+      "url": "https://unstop.com/competitions/neurix-2026-origin-point-1804218",
+      "date": "2027-01-15T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Origin Point",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30740",
       "type": "hackathon",
       "source": "Devpost",
@@ -1153,6 +1109,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1806033",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Mandate Redline: Live Global Policy Drafting Lab (Co-Author a Published Policy Brief)",
+      "url": "https://unstop.com/competitions/the-mandate-redline-live-global-policy-drafting-lab-co-author-a-published-policy-brief-global-youth-mandate-1806033",
+      "date": "2027-01-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Global Youth Mandate",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
