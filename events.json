@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T23:17:16.418Z",
+  "updated": "2026-11-13T05:29:37.268Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (34)",
+    "Unstop": "ok (32)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "failed: The operation was aborted due to timeout (kept 0 old)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
@@ -57,6 +57,40 @@
       "org": "JB Institute of Engineering and Technology",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31915",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "BUHACK 2.0",
+      "url": "https://buhack-2.devpost.com/",
+      "date": "2026-11-14T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HKBU Coding Club",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31943",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "CIVIC Hack 2026",
+      "url": "https://civic-hack-2026.devpost.com/",
+      "date": "2026-11-14T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$CAD 1,500",
+      "org": "Future Cities Institute",
+      "tags": [
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -358,7 +392,7 @@
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Anveshan NIE",
+      "org": "The National Institute of Engineering, Karnataka",
       "tags": [
         "data"
       ],
@@ -579,22 +613,6 @@
       "online": true,
       "prize": "$300",
       "org": "The Webb Schools CSC",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31794",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Code for Change",
-      "url": "https://code-for-change-global.devpost.com/",
-      "date": "2026-12-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$200",
-      "org": "HackathonForEveryone",
       "tags": [
         "web"
       ],
@@ -856,22 +874,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1806565",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "National 3D Animation Challenge 2026",
-      "url": "https://unstop.com/competitions/national-3d-animation-challenge-2026-xplo-animation-service-pvt-ltd-1806565",
-      "date": "2026-12-14T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xplo Animation Service Pvt Ltd",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1803074",
       "type": "hackathon",
       "source": "Unstop",
@@ -1089,22 +1091,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1806033",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Mandate Redline: Live Global Policy Drafting Lab (Co-Author a Published Policy Brief)",
-      "url": "https://unstop.com/competitions/the-mandate-redline-live-global-policy-drafting-lab-co-author-a-published-policy-brief-global-youth-mandate-1806033",
-      "date": "2027-01-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Global Youth Mandate",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
