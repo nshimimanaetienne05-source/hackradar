@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-13T05:29:37.268Z",
+  "updated": "2026-11-13T14:03:58.373Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (34)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
@@ -95,22 +95,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1806779",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CFA L1 Full Subject Live Mock Quiz",
-      "url": "https://unstop.com/quiz/cfa-l1-full-subject-live-mock-quiz-poonji-vidya-technologies-private-limited-1806779",
-      "date": "2026-11-15T08:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Poonji Vidya Technologies Private Limited",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30500",
       "type": "hackathon",
       "source": "Devpost",
@@ -198,22 +182,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1793029",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Kotler Challenge 6.0",
-      "url": "https://unstop.com/competitions/the-kotler-challenge-60-vriddhi-80--1793029",
-      "date": "2026-11-17T11:30:36.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Visakhapatnam",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -227,22 +195,6 @@
       "tags": [
         "web",
         "climate"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1792993",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Launchpad 7.0",
-      "url": "https://unstop.com/competitions/launchpad-70-vriddhi-80--1792993",
-      "date": "2026-11-18T11:30:31.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Visakhapatnam",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -500,38 +452,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1806159",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Make Them Famous - The 48-Hour Brand Challenge",
-      "url": "https://unstop.com/competitions/make-them-famous-the-48-hour-brand-challenge-ooro-1806159",
-      "date": "2026-11-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Ooro",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1806157",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "OORO: The Attention Heist - 20 Second Reel Challenge",
-      "url": "https://unstop.com/competitions/ooro-the-attention-heist-20-second-reel-challenge-ooro-1806157",
-      "date": "2026-11-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Ooro",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31737",
       "type": "hackathon",
       "source": "Devpost",
@@ -551,6 +471,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1808622",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "ZEPP Student Shopping Quiz – Trial",
+      "url": "https://unstop.com/quiz/zepp-student-shopping-quiz-trial-zeitgeist-retail-private-limited-1808622",
+      "date": "2026-11-26T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Zeitgeist Retail Private Limited",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1808713",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Global Open Source Competition",
+      "url": "https://unstop.com/competitions/global-open-source-competition-elite-coders-1808713",
+      "date": "2026-11-26T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Elite Coders",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -565,6 +517,166 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807650",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Finnacle : Read Past The Hype",
+      "url": "https://unstop.com/competitions/finnacle-read-past-the-hype-passion-2026-imt-ghaziabad-1807650",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807601",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Data Doyen : Finding Meaning in every metric",
+      "url": "https://unstop.com/competitions/data-doyen-finding-meaning-in-every-metric-passion-2026-imt-ghaziabad-1807601",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "data"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807485",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Blame Game : Find What Binds Failure",
+      "url": "https://unstop.com/competitions/blame-game-find-what-binds-failure-passion-2026-imt-ghaziabad-1807485",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807525",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Succession : Inherit the past. Engineer the future.",
+      "url": "https://unstop.com/competitions/succession-inherit-the-past-engineer-the-future-passion-2026-imt-ghaziabad-1807525",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807377",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Social Blueprint : Transforming Lives Through Enterprise",
+      "url": "https://unstop.com/competitions/social-blueprint-transforming-lives-through-enterprise-passion-2026-imt-ghaziabad-1807377",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807448",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "PRevent : Strategy Meets Foresight",
+      "url": "https://unstop.com/competitions/prevent-strategy-meets-foresight-passion-2026-imt-ghaziabad-1807448",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807334",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Recast: Rewriting Brand Narratives",
+      "url": "https://unstop.com/competitions/recast-rewriting-brand-narratives-passion-2026-imt-ghaziabad-1807334",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807267",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Vantage: Transforming Vision Into Enterprise",
+      "url": "https://unstop.com/competitions/vantage-transforming-vision-into-enterprise-passion-2026-imt-ghaziabad-1807267",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807077",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Operationale : Delivering Calm in Chaos",
+      "url": "https://unstop.com/competitions/operationale-passion-2026-imt-ghaziabad-1807077",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1808634",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Prompt Wars 1.0",
+      "url": "https://unstop.com/quiz/prompt-wars-10-gla-university-glau-uttar-pradesh-1808634",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "GLA University (GLAU), Uttar Pradesh",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -1061,22 +1173,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1804218",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Neurix 2026",
-      "url": "https://unstop.com/competitions/neurix-2026-origin-point-1804218",
-      "date": "2027-01-15T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Origin Point",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30740",
       "type": "hackathon",
       "source": "Devpost",
@@ -1107,22 +1203,6 @@
       "org": "Army Institute of Technology (AIT), Pune",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1800395",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
-      "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
-      "date": "2027-07-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Galuxium",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     }
