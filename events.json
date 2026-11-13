@@ -1,49 +1,15 @@
 {
-  "updated": "2026-11-13T14:03:58.373Z",
+  "updated": "2026-11-13T23:19:41.074Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (34)",
+    "Unstop": "ok (35)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
-    "Opportunities for Africans": "ok (0)"
+    "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1789431",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "AI Vibeathon 2026: 24-Hour AI Hackathon",
-      "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
-      "date": "2026-11-13T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "DotRepo",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1807639",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "C-Suite 10.0",
-      "url": "https://unstop.com/competitions/c-suite-the-boardroom-challenge-corporate-month-ibs-hyderabad-1807639",
-      "date": "2026-11-13T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1807152",
       "type": "competition",
@@ -217,22 +183,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1803125",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "IEEE Open Source Week 10.0",
-      "url": "https://unstop.com/competitions/ieee-open-source-week-100-igdtuw-delhi-1803125",
-      "date": "2026-11-19T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1799791",
       "type": "hackathon",
       "source": "Unstop",
@@ -314,22 +264,6 @@
       "org": "Product Space",
       "tags": [
         "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1800924",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ELUCode - 8",
-      "url": "https://unstop.com/hackathons/elucode-8-edulinkup-1800924",
-      "date": "2026-11-21T15:30:51.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "EduLinkUp",
-      "tags": [
         "web"
       ],
       "rwanda": false
@@ -503,6 +437,23 @@
       "rwanda": false
     },
     {
+      "id": "feed-businessday-young-economists-writing-challenge-2027-for-nigerian-undergraduate-e",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "BusinessDay Young Economists Writing Challenge 2027 for Nigerian Undergraduate Economics Students.",
+      "url": "https://www.opportunitiesforafricans.com/businessday-young-economists-writing-challenge-2027/",
+      "date": "2026-11-27T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -517,22 +468,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1807650",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Finnacle : Read Past The Hype",
-      "url": "https://unstop.com/competitions/finnacle-read-past-the-hype-passion-2026-imt-ghaziabad-1807650",
-      "date": "2026-11-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Ghaziabad",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -654,6 +589,22 @@
       "source": "Unstop",
       "name": "Operationale : Delivering Calm in Chaos",
       "url": "https://unstop.com/competitions/operationale-passion-2026-imt-ghaziabad-1807077",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Ghaziabad",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807195",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "WealthWise : Let Goals Guide Growth",
+      "url": "https://unstop.com/competitions/wealthwise-passion-2026-imt-ghaziabad-1807195",
       "date": "2026-11-28T18:29:00.000Z",
       "location": "Online",
       "online": true,
@@ -813,21 +764,18 @@
       "rwanda": false
     },
     {
-      "id": "devpost-32009",
+      "id": "unstop-1776729",
       "type": "hackathon",
-      "source": "Devpost",
-      "name": "AI for Medicine: A Global Student Hackathon on the Future of Care",
-      "url": "https://ai-for-medicine.devpost.com/",
-      "date": "2026-12-04T23:59:00.000Z",
+      "source": "Unstop",
+      "name": "HackZ'26",
+      "url": "https://unstop.com/hackathons/hackz26-computer-science-and-engineering-association-csea-ceg-anna-university-1776729",
+      "date": "2026-12-05T04:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Open Health AI Collective",
+      "org": "College of Engineering (CEG), Guindy,  Anna University",
       "tags": [
-        "health",
-        "ai",
-        "web",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -927,6 +875,22 @@
       "online": true,
       "prize": "$35,000",
       "org": "reddit",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1809171",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Game On Night: The Prompt Challenge",
+      "url": "https://unstop.com/competitions/game-on-night-the-prompt-challenge-ies-university-bhopal-1809171",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IES University, Bhopal",
       "tags": [
         "web"
       ],
@@ -1102,6 +1066,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1809486",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "LightHouse - Hackathon",
+      "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
+      "date": "2026-12-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
