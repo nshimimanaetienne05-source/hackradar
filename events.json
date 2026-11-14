@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-14T05:20:33.105Z",
+  "updated": "2026-11-14T13:06:01.744Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (35)",
+    "Unstop": "ok (31)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
@@ -146,6 +146,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1810156",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Play Arena - Imagine The Impossible - AI Image Generation challenge (Win smartphone and chance to meet MS Dhoni)",
+      "url": "https://unstop.com/competitions/play-arena-imagine-the-impossible-mumbai-university-mu-mumbai-1810156",
+      "date": "2026-11-17T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mumbai University (MU), Mumbai",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -159,6 +175,22 @@
       "tags": [
         "web",
         "climate"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1808974",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Market Maven",
+      "url": "https://unstop.com/competitions/market-maven-delhi-school-of-economics-dse-new-delhi-1808974",
+      "date": "2026-11-18T14:30:19.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Delhi School of Economics (DSE), New Delhi",
+      "tags": [
+        "education"
       ],
       "rwanda": false
     },
@@ -177,38 +209,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799791",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Expanding Horizons 8.0 Chemical",
-      "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
-      "date": "2026-11-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Motilal Nehru National Institute of Technology",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799790",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Expanding Horizons 8.0   BIOTECH",
-      "url": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
-      "date": "2026-11-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Motilal Nehru National Institute of Technology",
-      "tags": [
-        "health"
       ],
       "rwanda": false
     },
@@ -245,6 +245,22 @@
         "web",
         "blockchain",
         "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1806401",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Game On Night: Imagine the Impossible",
+      "url": "https://unstop.com/competitions/game-on-night-imagine-the-impossible-school-of-management-sciences-sms-lucknow-1806401",
+      "date": "2026-11-21T10:31:46.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "School of Management Sciences (SMS), Lucknow",
+      "tags": [
         "education"
       ],
       "rwanda": false
@@ -297,6 +313,23 @@
       "tags": [
         "ai",
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1798287",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Seed Hackathon 2026",
+      "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+      "date": "2026-11-22T18:29:40.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SEED Global Education Services Private Limited",
+      "tags": [
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -419,22 +452,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1808713",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Global Open Source Competition",
-      "url": "https://unstop.com/competitions/global-open-source-competition-elite-coders-1808713",
-      "date": "2026-11-26T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Elite Coders",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "feed-businessday-young-economists-writing-challenge-2027-for-nigerian-undergraduate-e",
       "type": "competition",
       "source": "Opportunities for Africans",
@@ -470,42 +487,10 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1807601",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Data Doyen : Finding Meaning in every metric",
-      "url": "https://unstop.com/competitions/data-doyen-finding-meaning-in-every-metric-passion-2026-imt-ghaziabad-1807601",
-      "date": "2026-11-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Ghaziabad",
-      "tags": [
-        "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1807485",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Blame Game : Find What Binds Failure",
-      "url": "https://unstop.com/competitions/blame-game-find-what-binds-failure-passion-2026-imt-ghaziabad-1807485",
-      "date": "2026-11-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Ghaziabad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1807525",
       "type": "competition",
       "source": "Unstop",
-      "name": "Succession : Inherit the past. Engineer the future.",
+      "name": "Succession : Inherit The Past. Engineer The Future.",
       "url": "https://unstop.com/competitions/succession-inherit-the-past-engineer-the-future-passion-2026-imt-ghaziabad-1807525",
       "date": "2026-11-28T18:29:00.000Z",
       "location": "Online",
@@ -550,22 +535,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1807334",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Recast: Rewriting Brand Narratives",
-      "url": "https://unstop.com/competitions/recast-rewriting-brand-narratives-passion-2026-imt-ghaziabad-1807334",
-      "date": "2026-11-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Ghaziabad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1807267",
       "type": "competition",
       "source": "Unstop",
@@ -585,24 +554,8 @@
       "id": "unstop-1807077",
       "type": "competition",
       "source": "Unstop",
-      "name": "Operationale : Delivering Calm in Chaos",
+      "name": "Operationale : Delivering Calm In Chaos",
       "url": "https://unstop.com/competitions/operationale-passion-2026-imt-ghaziabad-1807077",
-      "date": "2026-11-28T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Technology (IMT), Ghaziabad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1807195",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "WealthWise : Let Goals Guide Growth",
-      "url": "https://unstop.com/competitions/wealthwise-passion-2026-imt-ghaziabad-1807195",
       "date": "2026-11-28T18:29:00.000Z",
       "location": "Online",
       "online": true,
@@ -789,23 +742,6 @@
       "prize": "",
       "org": "Ganeshi Lal Bajaj Institute Of Technology And Management (GLBITM), Greater Noida",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799281",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Adaption Dataset Challenge",
-      "url": "https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281",
-      "date": "2026-12-06T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hackyard Technologies Pvt limited",
-      "tags": [
-        "data",
         "web"
       ],
       "rwanda": false
