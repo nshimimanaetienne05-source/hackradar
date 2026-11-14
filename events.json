@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T23:19:41.074Z",
+  "updated": "2026-11-14T05:20:33.105Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -43,20 +43,18 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31943",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CIVIC Hack 2026",
-      "url": "https://civic-hack-2026.devpost.com/",
-      "date": "2026-11-14T23:59:00.000Z",
+      "id": "unstop-1809806",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "FinSight: Sharpen Your Financial Insight - 7",
+      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-7-iim-rohtak-1809806",
+      "date": "2026-11-15T18:29:20.000Z",
       "location": "Online",
       "online": true,
-      "prize": "$CAD 1,500",
-      "org": "Future Cities Institute",
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
-        "ai",
-        "web",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -252,23 +250,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1800891",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "NextGen AI Hackathon",
-      "url": "https://unstop.com/hackathons/nextgen-ai-hackathon-product-space-1800891",
-      "date": "2026-11-21T05:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Product Space",
-      "tags": [
-        "ai",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1807080",
       "type": "hackathon",
       "source": "Unstop",
@@ -299,6 +280,23 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1789431",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AI Vibeathon 2026: 24-Hour AI Hackathon",
+      "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
+      "date": "2026-11-22T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "DotRepo",
+      "tags": [
+        "ai",
+        "web"
       ],
       "rwanda": false
     },
