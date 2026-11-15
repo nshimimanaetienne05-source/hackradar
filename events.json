@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-14T22:03:30.913Z",
+  "updated": "2026-11-15T05:17:15.175Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (24)",
+    "Unstop": "ok (22)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "ok (1)",
+    "Opportunity Desk": "failed: The operation was aborted due to timeout (kept 1 old)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
@@ -454,22 +454,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1795517",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "PixelCraft",
-      "url": "https://unstop.com/competitions/pixelcraft-ignitron-2k26-gm-university-davanagere-1795517",
-      "date": "2026-11-30T12:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "GM University Davanagere",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1795506",
       "type": "competition",
       "source": "Unstop",
@@ -548,23 +532,6 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31960",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "ML Empowerment Build Challenge 4.0",
-      "url": "https://ml-build-challenge-4.devpost.com/",
-      "date": "2026-12-02T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ML Empowerment Foundation",
-      "tags": [
-        "ai",
-        "education"
       ],
       "rwanda": false
     },
