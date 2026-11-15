@@ -1,31 +1,15 @@
 {
-  "updated": "2026-11-15T05:17:15.175Z",
+  "updated": "2026-11-15T13:35:12.675Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (22)",
+    "Unstop": "ok (21)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "failed: The operation was aborted due to timeout (kept 1 old)",
+    "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-30500",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "DSH Hacks V2 ($100k+ in prizes!)",
-      "url": "https://dsh-hacks-v2.devpost.com/",
-      "date": "2026-11-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "STEMise",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31495",
       "type": "hackathon",
@@ -98,22 +82,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1810947",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mic Mitra Quiz Competition",
-      "url": "https://unstop.com/quiz/mic-mitra-quiz-competition-gulzar-group-of-institutes-ggi-khanna-punjab-1810947",
-      "date": "2026-11-17T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Gulzar Group of Institutes (GGI),  Khanna, Punjab",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -145,6 +113,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1811172",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Culture to Commerce: Where Culture Meets Global Business",
+      "url": "https://unstop.com/competitions/culture-to-commerce-where-culture-meets-global-business-markhub24-1811172",
+      "date": "2026-11-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "MarkHub24",
+      "tags": [
+        "fintech"
       ],
       "rwanda": false
     },
@@ -181,6 +165,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31795",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AccessED Hacks",
+      "url": "https://accessed-hacks.devpost.com/",
+      "date": "2026-11-20T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$225",
+      "org": "AccessEDnpo",
+      "tags": [
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-26475",
       "type": "hackathon",
       "source": "Devpost",
@@ -196,23 +197,6 @@
         "web",
         "blockchain",
         "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31795",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AccessED Hacks",
-      "url": "https://accessed-hacks.devpost.com/",
-      "date": "2026-11-20T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$225",
-      "org": "AccessEDnpo",
-      "tags": [
-        "web",
         "education"
       ],
       "rwanda": false
@@ -387,22 +371,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1810863",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Vats Mobility – National Business & Innovation Challenge 2026",
-      "url": "https://unstop.com/competitions/vats-mobility-national-business-innovation-challenge-2026-vats-mobility-1810863",
-      "date": "2026-11-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Vats Mobility",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "feed-businessday-young-economists-writing-challenge-2026-n450-000-in-prizes",
       "type": "competition",
       "source": "Opportunity Desk",
@@ -450,6 +418,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1811666",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Zenvora Quiz – 1",
+      "url": "https://unstop.com/quiz/zenvora-quiz-1-h-p-projects-1811666",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "H&P Projects",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -532,6 +516,23 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31960",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "ML Empowerment Build Challenge 4.0",
+      "url": "https://ml-build-challenge-4.devpost.com/",
+      "date": "2026-12-02T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "ML Empowerment Foundation",
+      "tags": [
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -669,6 +670,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31994",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AI OpenBuild",
+      "url": "https://ai-openbuild.devpost.com/",
+      "date": "2026-12-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$150",
+      "org": "AI OpenBuild",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31642",
       "type": "hackathon",
       "source": "Devpost",
@@ -742,7 +760,7 @@
       "id": "unstop-1811016",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Codathon:  #1 Global Coding Contest",
+      "name": "Codathon | #1 Global Coding Contest",
       "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
       "date": "2026-12-18T18:30:00.000Z",
       "location": "Online",
@@ -803,6 +821,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1810597",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "HireveinAI Ideathon 2026",
+      "url": "https://unstop.com/competitions/hireveinai-ideathon-2026-hireveinai-ideathon-2026-hireveinai-innovations-private-limited-1810597",
+      "date": "2026-12-25T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HireveinAI Innovations Private Limited",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -903,22 +937,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1810597",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "HireveinAI Ideathon 2026",
-      "url": "https://unstop.com/competitions/hireveinai-ideathon-2026-hireveinai-ideathon-2026-hireveinai-innovations-private-limited-1810597",
-      "date": "2027-01-14T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HireveinAI Innovations Private Limited",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
