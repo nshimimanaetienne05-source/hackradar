@@ -1,50 +1,15 @@
 {
-  "updated": "2026-11-16T05:14:02.406Z",
+  "updated": "2026-11-16T15:03:52.778Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (27)",
+    "Unstop": "ok (23)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31552",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "UGREEN Hackathon 2026 on AI NAS",
-      "url": "https://ugreenhackathon.devpost.com/",
-      "date": "2026-11-16T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$46,000",
-      "org": "UGREEN",
-      "tags": [
-        "ai",
-        "web",
-        "climate",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1811165",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 6: The Trust Economy",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-6-the-trust-economy-iim-rohtak-1811165",
-      "date": "2026-11-17T14:30:41.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31024",
       "type": "hackathon",
@@ -80,22 +45,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1808031",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Ditto by Finshots Strategy Sprint: Season 1",
-      "url": "https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031",
-      "date": "2026-11-20T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Ditto Insurance",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1799791",
       "type": "hackathon",
       "source": "Unstop",
@@ -106,38 +55,6 @@
       "online": true,
       "prize": "",
       "org": "Motilal Nehru National Institute of Technology",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1811172",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Culture to Commerce: Where Culture Meets Global Business",
-      "url": "https://unstop.com/competitions/culture-to-commerce-where-culture-meets-global-business-markhub24-1811172",
-      "date": "2026-11-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "MarkHub24",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1810796",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Indian Equities Prediction Challenge",
-      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1810796",
-      "date": "2026-11-20T19:30:16.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indiastox",
       "tags": [
         "web"
       ],
@@ -160,6 +77,22 @@
         "blockchain",
         "fintech",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1811946",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Live Project Opportunity: Marketing, Product, Consulting, GenMan, Equity Valuation, Market Research & Analytics Roles",
+      "url": "https://unstop.com/competitions/consulting-case-competition-strategist-skilled-sapiens-1811946",
+      "date": "2026-11-21T03:00:26.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Skilled Sapiens",
+      "tags": [
+        "data"
       ],
       "rwanda": false
     },
@@ -367,6 +300,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1809771",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "KarmaVerse Green Champions Quiz – Children's Day Special 2026",
+      "url": "https://unstop.com/quiz/karmaverse-green-champions-quiz-childrens-day-special-2026-karmaverse-green-creator-challenge-childrens-day-special-1809771",
+      "date": "2026-11-27T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "3R Zero Waste Pvt Ltd",
+      "tags": [
+        "climate"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1810203",
       "type": "competition",
       "source": "Unstop",
@@ -434,6 +383,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1746232",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Craft N Code Telangana",
+      "url": "https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1811666",
       "type": "competition",
       "source": "Unstop",
@@ -462,6 +427,22 @@
       "org": "HackKro",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1813171",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Article Station",
+      "url": "https://unstop.com/competitions/article-station-johnson-grammar-school-secunderabad-hyderabad-telangana-1813171",
+      "date": "2026-11-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Johnson Grammar School, Secunderabad, Hyderabad, Telangana",
+      "tags": [
+        "education"
       ],
       "rwanda": false
     },
@@ -971,6 +952,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-32017",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Inceptrix 3.0",
+      "url": "https://inceptrix-hackathon.devpost.com/",
+      "date": "2026-12-24T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Tech Council - Jain Univeristy",
+      "tags": [
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1811493",
       "type": "hackathon",
       "source": "Unstop",
@@ -981,22 +979,6 @@
       "online": true,
       "prize": "",
       "org": "EduLinkUp",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1810597",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "HireveinAI Ideathon 2026",
-      "url": "https://unstop.com/competitions/hireveinai-ideathon-2026-hireveinai-ideathon-2026-hireveinai-innovations-private-limited-1810597",
-      "date": "2026-12-25T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HireveinAI Innovations Private Limited",
       "tags": [
         "web"
       ],
@@ -1017,22 +999,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1809486",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "LightHouse - Hackathon",
-      "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
-      "date": "2026-12-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Chandigarh University (CU), Ajitgarh, Punjab",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -1118,22 +1084,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1802090",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CSS Battle",
-      "url": "https://unstop.com/hackathons/css-battle-solutions-2k27-army-institute-of-technology-ait-pune-1802090",
-      "date": "2027-02-28T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Army Institute of Technology (AIT), Pune",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     }
