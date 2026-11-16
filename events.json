@@ -1,49 +1,15 @@
 {
-  "updated": "2026-11-15T22:33:48.179Z",
+  "updated": "2026-11-16T05:14:02.406Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (26)",
+    "Unstop": "ok (27)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31495",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IceHacks",
-      "url": "https://icehacks.devpost.com/",
-      "date": "2026-11-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$17,150",
-      "org": "CodeStarters",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31187",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "STEMergent Hacks 2026",
-      "url": "https://stemergent-hacks.devpost.com/",
-      "date": "2026-11-15T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "STEMergent",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31552",
       "type": "hackathon",
@@ -76,23 +42,6 @@
       "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31797",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Green Shift Hacks",
-      "url": "https://green-shift-hacks.devpost.com/",
-      "date": "2026-11-17T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$125",
-      "org": "HackathonForEveryone",
-      "tags": [
-        "web",
-        "climate"
       ],
       "rwanda": false
     },
@@ -141,6 +90,22 @@
       "online": true,
       "prize": "",
       "org": "Ditto Insurance",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1799791",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Expanding Horizons 8.0 Chemical",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+      "date": "2026-11-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Motilal Nehru National Institute of Technology",
       "tags": [
         "web"
       ],
@@ -199,23 +164,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31795",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "AccessED Hacks",
-      "url": "https://accessed-hacks.devpost.com/",
-      "date": "2026-11-20T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$225",
-      "org": "AccessEDnpo",
-      "tags": [
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1807080",
       "type": "hackathon",
       "source": "Unstop",
@@ -250,6 +198,40 @@
       "rwanda": false
     },
     {
+      "id": "devpost-30657",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Teens Hack Houston Hackathon",
+      "url": "https://tripleh.devpost.com/",
+      "date": "2026-11-21T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$300",
+      "org": "HackClub  ✓⃝",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-30456",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Bridge The Gap Hacks",
+      "url": "https://sq-hacks.devpost.com/",
+      "date": "2026-11-21T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Bridge The Gap Hacks",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1798287",
       "type": "hackathon",
       "source": "Unstop",
@@ -263,23 +245,6 @@
       "tags": [
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31796",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "SafeSpace Hacks",
-      "url": "https://safespace-hacks.devpost.com/",
-      "date": "2026-11-22T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$280",
-      "org": "SafeSpace",
-      "tags": [
-        "web",
-        "security"
       ],
       "rwanda": false
     },
@@ -385,6 +350,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31683",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "BuildyourOwnWebsite",
+      "url": "https://buildyourownwebsite.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Roxten Studios",
+      "tags": [
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1810203",
       "type": "competition",
       "source": "Unstop",
@@ -484,22 +466,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1812236",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "TechZen AI Challenge 2026",
-      "url": "https://unstop.com/quiz/techzen-ai-challenge-2026-techzen-innovation-1812236",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "TechZen Innovation",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1806110",
       "type": "competition",
       "source": "Unstop",
@@ -512,6 +478,22 @@
       "org": "SDA Bocconi Asia Center, Mumbai",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1812236",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "TechZen AI Challenge 2026",
+      "url": "https://unstop.com/quiz/techzen-ai-challenge-2026-techzen-innovation-1812236",
+      "date": "2026-11-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "TechZen Innovation",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -544,6 +526,22 @@
       "online": true,
       "prize": "$300",
       "org": "The Webb Schools CSC",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31993",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IdeaLab Hacks",
+      "url": "https://idealab-hacks.devpost.com/",
+      "date": "2026-11-30T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IdeaLab",
       "tags": [
         "web"
       ],
@@ -585,7 +583,7 @@
       "id": "devpost-31960",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "ML Empowerment Build Challenge 4.0",
+      "name": "ML Empowerment Build Challenge 4.0 - Prizes and Certificates for EVERYONE",
       "url": "https://ml-build-challenge-4.devpost.com/",
       "date": "2026-12-02T23:59:00.000Z",
       "location": "Online",
@@ -619,7 +617,7 @@
       "id": "devpost-31773",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "LaunchPad Hacks (Judges + Sponsors Needed)",
+      "name": "LaunchPad Hacks (580k In Prizes!)",
       "url": "https://launchpad-hacks.devpost.com/",
       "date": "2026-12-04T23:59:00.000Z",
       "location": "Online",
@@ -747,6 +745,40 @@
       "org": "reddit",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31796",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "SafeSpace Hacks - Judges Needed",
+      "url": "https://safespace-hacks.devpost.com/",
+      "date": "2026-12-09T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$280",
+      "org": "SafeSpace",
+      "tags": [
+        "web",
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31797",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Green Shift Hacks",
+      "url": "https://green-shift-hacks.devpost.com/",
+      "date": "2026-12-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$125",
+      "org": "HackathonForEveryone",
+      "tags": [
+        "web",
+        "climate"
       ],
       "rwanda": false
     },
@@ -882,6 +914,23 @@
       "org": "HETIC",
       "tags": [
         "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31795",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "AccessED Hacks",
+      "url": "https://accessed-hacks.devpost.com/",
+      "date": "2026-12-20T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$225",
+      "org": "AccessEDnpo",
+      "tags": [
+        "web",
         "education"
       ],
       "rwanda": false
