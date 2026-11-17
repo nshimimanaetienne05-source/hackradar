@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-16T15:03:52.778Z",
+  "updated": "2026-11-17T01:41:04.433Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (23)",
+    "Unstop": "ok (21)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
@@ -25,22 +25,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1812410",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Jargon Buster",
-      "url": "https://unstop.com/quiz/jargon-buster-iim-rohtak-1812410",
-      "date": "2026-11-19T15:00:22.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -161,6 +145,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1813607",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Metal Masters 2.0 National Level Quiz",
+      "url": "https://unstop.com/quiz/metal-masters-20-national-level-quiz-op-jindal-university-opju-raigarh-chhattisgarh-1813607",
+      "date": "2026-11-22T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "OP Jindal University (OPJU), Raigarh, Chhattisgarh",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -443,38 +443,6 @@
       "org": "Johnson Grammar School, Secunderabad, Hyderabad, Telangana",
       "tags": [
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1806110",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "TechForge 1.0",
-      "url": "https://unstop.com/competitions/techforge-10-sda-bocconi-asia-center-mumbai-1806110",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SDA Bocconi Asia Center, Mumbai",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1812236",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "TechZen AI Challenge 2026",
-      "url": "https://unstop.com/quiz/techzen-ai-challenge-2026-techzen-innovation-1812236",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "TechZen Innovation",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
@@ -817,22 +785,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1803074",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "IDEATHON- FutureX: Innovating for Global Challenges",
-      "url": "https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
-      "date": "2026-12-15T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Skill2Career",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31083",
       "type": "hackathon",
       "source": "Devpost",
@@ -862,6 +814,23 @@
       "prize": "$500",
       "org": "Silicon Hacks Team",
       "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1813102",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Dental Hackers 2026",
+      "url": "https://unstop.com/competitions/dental-hackers-2026-academically-global-healthcare-academy-1813102",
+      "date": "2026-12-16T04:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Academically Global Healthcare Academy",
+      "tags": [
+        "health",
         "web"
       ],
       "rwanda": false
@@ -947,23 +916,6 @@
       "org": "Atlassian",
       "tags": [
         "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-32017",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Inceptrix 3.0",
-      "url": "https://inceptrix-hackathon.devpost.com/",
-      "date": "2026-12-24T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Tech Council - Jain Univeristy",
-      "tags": [
-        "web",
         "education"
       ],
       "rwanda": false
@@ -1084,6 +1036,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31873",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "HackOut! 2027",
+      "url": "https://hackout-branchout.devpost.com/",
+      "date": "2027-02-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$3,000",
+      "org": "BranchOut!",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     }
