@@ -1,33 +1,15 @@
 {
-  "updated": "2026-11-18T15:15:44.531Z",
+  "updated": "2026-11-18T23:58:17.297Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
+    "Unstop": "ok (28)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-31024",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Meta VR Start Developer Competition 2026",
-      "url": "https://start-developer-competition-26.devpost.com/",
-      "date": "2026-11-18T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$1,000,000",
-      "org": "Meta",
-      "tags": [
-        "ai",
-        "web",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1817408",
       "type": "competition",
@@ -62,6 +44,22 @@
         "blockchain",
         "fintech",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1807080",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Data Sprint Challenge 2.0",
+      "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
+      "date": "2026-11-21T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "The National Institute of Engineering, Karnataka",
+      "tags": [
+        "data"
       ],
       "rwanda": false
     },
@@ -151,6 +149,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1804365",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Prodylitics 2026",
+      "url": "https://unstop.com/competitions/prodylitics-2026-iim-indore-1804365",
+      "date": "2026-11-24T16:30:15.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Indore",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1805107",
       "type": "hackathon",
       "source": "Unstop",
@@ -179,6 +193,23 @@
       "org": "HackathonForEveryone",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31775",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "OBSCURA: Satellite AI Research Challenge",
+      "url": "https://obscura.devpost.com/",
+      "date": "2026-11-24T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$50",
+      "org": "BTAJI CREW",
+      "tags": [
+        "ai",
+        "education"
       ],
       "rwanda": false
     },
@@ -779,6 +810,22 @@
       "org": "Indian Institute of Information Technology (IIIT), Allahabad",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1805203",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "GE HealthCare ThinkAloud 2026",
+      "url": "https://unstop.com/competitions/crp-ge-healthcare-thinkaloud-2026-ge-healthcare-1805203",
+      "date": "2026-12-13T18:29:36.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "GE HealthCare",
+      "tags": [
+        "health"
       ],
       "rwanda": false
     },
