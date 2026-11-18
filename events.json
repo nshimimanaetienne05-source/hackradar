@@ -1,31 +1,15 @@
 {
-  "updated": "2026-11-18T00:40:06.589Z",
+  "updated": "2026-11-18T15:15:44.531Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (31)",
+    "Unstop": "ok (25)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1814430",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FinSight: Sharpen Your Financial Insight - 8",
-      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-8-iim-rohtak-1814430",
-      "date": "2026-11-18T18:29:14.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31024",
       "type": "hackathon",
@@ -45,34 +29,19 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1814781",
+      "id": "unstop-1817408",
       "type": "competition",
       "source": "Unstop",
-      "name": "Wolkover Student Challenge",
-      "url": "https://unstop.com/competitions/wolkover-student-challenge-college-of-engineering-cherthala-1814781",
-      "date": "2026-11-20T07:31:00.000Z",
+      "name": "Project Alpha: The Hedge Fund Challenge",
+      "url": "https://unstop.com/quiz/project-alpha-the-hedge-fund-challenge-sibm-hyderabad-1817408",
+      "date": "2026-11-20T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "College of Engineering, Cherthala",
+      "org": "Symbiosis Institute of Business Management (SIBM), Hyderabad",
       "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1799791",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Expanding Horizons 8.0 Chemical",
-      "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
-      "date": "2026-11-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Motilal Nehru National Institute of Technology",
-      "tags": [
-        "web"
+        "health",
+        "fintech"
       ],
       "rwanda": false
     },
@@ -93,22 +62,6 @@
         "blockchain",
         "fintech",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1807080",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Data Sprint Challenge 2.0",
-      "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
-      "date": "2026-11-21T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The National Institute of Engineering, Karnataka",
-      "tags": [
-        "data"
       ],
       "rwanda": false
     },
@@ -165,18 +118,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1813607",
+      "id": "unstop-1817838",
       "type": "competition",
       "source": "Unstop",
-      "name": "Metal Masters 2.0 National Level Quiz",
-      "url": "https://unstop.com/quiz/metal-masters-20-national-level-quiz-op-jindal-university-opju-raigarh-chhattisgarh-1813607",
-      "date": "2026-11-22T18:29:00.000Z",
+      "name": "GenAI Gauntlet 2026 - The Generative AI Showdown",
+      "url": "https://unstop.com/quiz/genai-gauntlet-2026-the-generative-ai-showdown-ai-academia-1817838",
+      "date": "2026-11-22T12:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "OP Jindal University (OPJU), Raigarh, Chhattisgarh",
+      "org": "AI Academia",
       "tags": [
-        "web"
+        "ai"
       ],
       "rwanda": false
     },
@@ -194,23 +147,6 @@
       "tags": [
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1816222",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "BriefCase",
-      "url": "https://unstop.com/quiz/quizbuzz-sibm-hyderabad-1816222",
-      "date": "2026-11-23T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Business Management (SIBM), Hyderabad",
-      "tags": [
-        "health",
-        "fintech"
       ],
       "rwanda": false
     },
@@ -349,18 +285,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1813983",
+      "id": "unstop-1817741",
       "type": "competition",
       "source": "Unstop",
-      "name": "Logic Sprint: Online Logical Reasoning Challenge",
-      "url": "https://unstop.com/quiz/logic-sprint-online-logical-reasoning-challenge-mind-race-1813983",
-      "date": "2026-11-28T12:30:00.000Z",
+      "name": "AI IQ Challenge",
+      "url": "https://unstop.com/quiz/ai-iq-challenge-ai-academia-1817741",
+      "date": "2026-11-29T12:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Mind Race",
+      "org": "AI Academia",
       "tags": [
-        "web"
+        "ai"
       ],
       "rwanda": false
     },
@@ -381,6 +317,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1814246",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AI Xplore presents: The Ultimate AI Challenge 2026",
+      "url": "https://unstop.com/quiz/ai-xplore-presents-the-ultimate-ai-challenge-2026-ai-xplore-1814246",
+      "date": "2026-11-30T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "AI Xplore",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1815915",
       "type": "competition",
       "source": "Unstop",
@@ -393,22 +345,6 @@
       "org": "Xplo Animation Service Pvt Ltd",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1814542",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Second Serving – A Business Revival Case Competition",
-      "url": "https://unstop.com/competitions/second-serving-a-business-revival-case-competition-indian-institute-of-management-iim-guwahati-1814542",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Guwahati",
-      "tags": [
-        "fintech"
       ],
       "rwanda": false
     },
@@ -463,22 +399,6 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31993",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IdeaLab Hacks",
-      "url": "https://idealab-hacks.devpost.com/",
-      "date": "2026-11-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IdeaLab",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31794",
       "type": "hackathon",
       "source": "Devpost",
@@ -511,6 +431,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1817749",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CodeUnited India - National Hackathon",
+      "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+      "date": "2026-12-02T07:30:48.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HackWithPune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31960",
       "type": "hackathon",
       "source": "Devpost",
@@ -528,6 +464,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1817692",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "LogicWiz Open: Free Team Quiz, 10 Minutes a Day (plays till 3 December)",
+      "url": "https://unstop.com/quiz/logicwiz-open-free-team-quiz-10-minutes-a-day-plays-till-3-december-logicwiz-1817692",
+      "date": "2026-12-03T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "LogicWiz",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1815925",
       "type": "competition",
       "source": "Unstop",
@@ -540,6 +492,22 @@
       "org": "Sophia College for Women, Mumbai",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1817828",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Project Elevate: Young Business Strategists",
+      "url": "https://unstop.com/competitions/project-elevate-young-business-strategists-project-elevate-1817828",
+      "date": "2026-12-04T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Project Elevate",
+      "tags": [
+        "fintech"
       ],
       "rwanda": false
     },
@@ -606,22 +574,6 @@
       "online": true,
       "prize": "",
       "org": "Jaipuria Institute of Management (JIM), Jaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1805946",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Android Ignition",
-      "url": "https://unstop.com/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946",
-      "date": "2026-12-06T10:24:27.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Ganeshi Lal Bajaj Institute Of Technology And Management (GLBITM), Greater Noida",
       "tags": [
         "web"
       ],
@@ -699,7 +651,7 @@
       "id": "unstop-1813374",
       "type": "competition",
       "source": "Unstop",
-      "name": "Infinity'26",
+      "name": "Codevirus Infinity'26",
       "url": "https://unstop.com/competitions/infinity26-codevirus-security-1813374",
       "date": "2026-12-09T18:30:00.000Z",
       "location": "Online",
@@ -741,22 +693,6 @@
       "org": "Birla Institute of Technology, Mesra, Ranchi",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1810876",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "NeuraViz AI Challenge 2026 – Submit an AI Idea, No Coding Needed",
-      "url": "https://unstop.com/competitions/neuraviz-ai-challenge-2026-submit-an-ai-idea-no-coding-needed-neuraviz-technologies-pvt-ltd-1810876",
-      "date": "2026-12-10T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "NeuraViz Technologies Pvt. Ltd.",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
@@ -847,6 +783,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1813372",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Mondelēz Maestros 2026 - Commercial Track",
+      "url": "https://unstop.com/competitions/crp-mondelez-maestros-2026-commercial-track-mondelez-maestros-2026-mondelez-international-1813372",
+      "date": "2026-12-13T18:29:37.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mondelēz International",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1776729",
       "type": "hackathon",
       "source": "Unstop",
@@ -897,39 +849,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1813102",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Dental Hackers 2026",
-      "url": "https://unstop.com/competitions/dental-hackers-2026-academically-global-healthcare-academy-1813102",
-      "date": "2026-12-16T04:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Academically Global Healthcare Academy",
-      "tags": [
-        "health",
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1810680",
-      "type": "pitch",
-      "source": "Unstop",
-      "name": "Startup Wars",
-      "url": "https://unstop.com/competitions/startup-wars-together-we-solve-1810680",
-      "date": "2026-12-16T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Together We Solve",
-      "tags": [
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1811016",
       "type": "hackathon",
       "source": "Unstop",
@@ -959,6 +878,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1817447",
+      "type": "pitch",
+      "source": "Unstop",
+      "name": "Startup Idea Pitching",
+      "url": "https://unstop.com/competitions/startup-idea-pitching-parul-university-pu-vadodara-1817447",
+      "date": "2026-12-19T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Parul University (PU), Vadodara",
+      "tags": [
+        "fintech"
       ],
       "rwanda": false
     },
@@ -1049,22 +984,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1761846",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Rabinjathon: Prime 1",
-      "url": "https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
-      "date": "2026-12-31T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Rabinja Squad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31108",
       "type": "hackathon",
       "source": "Devpost",
@@ -1144,6 +1063,24 @@
       "online": true,
       "prize": "",
       "org": "nill",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31886",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Build with AI - Pico Space Program",
+      "url": "https://pico-space-program.devpost.com/",
+      "date": "2027-02-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$50,000",
+      "org": "XR Bootcamp",
       "tags": [
         "ai",
         "web",
