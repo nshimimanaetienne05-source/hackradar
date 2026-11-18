@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-17T15:37:46.437Z",
+  "updated": "2026-11-18T00:40:06.589Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (30)",
+    "Unstop": "ok (31)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
@@ -27,22 +27,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1814781",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Wolkover Student Challenge",
-      "url": "https://unstop.com/competitions/wolkover-student-challenge-college-of-engineering-cherthala-1814781",
-      "date": "2026-11-18T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "College of Engineering, Cherthala",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31024",
       "type": "hackathon",
       "source": "Devpost",
@@ -56,6 +40,22 @@
       "tags": [
         "ai",
         "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1814781",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Wolkover Student Challenge",
+      "url": "https://unstop.com/competitions/wolkover-student-challenge-college-of-engineering-cherthala-1814781",
+      "date": "2026-11-20T07:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "College of Engineering, Cherthala",
+      "tags": [
         "education"
       ],
       "rwanda": false
@@ -198,6 +198,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1816222",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "BriefCase",
+      "url": "https://unstop.com/quiz/quizbuzz-sibm-hyderabad-1816222",
+      "date": "2026-11-23T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Symbiosis Institute of Business Management (SIBM), Hyderabad",
+      "tags": [
+        "health",
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1805107",
       "type": "hackathon",
       "source": "Unstop",
@@ -224,6 +241,22 @@
       "online": true,
       "prize": "",
       "org": "HackathonForEveryone",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1814263",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Silicon Sprint 2026",
+      "url": "https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
+      "date": "2026-11-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "National Institute of Technology Karnataka (NITK), Surathkal",
       "tags": [
         "web"
       ],
@@ -298,39 +331,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1810203",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "India's Biggest Inter-College Quiz Championship 2026",
-      "url": "https://unstop.com/quiz/indias-biggest-inter-college-quiz-championship-2026-ies-college-of-technology-iesct-bhopal-1810203",
-      "date": "2026-11-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IES College of Technology (IESCT), Bhopal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-businessday-young-economists-writing-challenge-2027-for-nigerian-undergraduate-e",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "BusinessDay Young Economists Writing Challenge 2027 for Nigerian Undergraduate Economics Students.",
-      "url": "https://www.opportunitiesforafricans.com/businessday-young-economists-writing-challenge-2027/",
-      "date": "2026-11-27T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -365,22 +365,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1811666",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Zenvora Quiz – 1",
-      "url": "https://unstop.com/quiz/zenvora-quiz-1-h-p-projects-1811666",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "H&P Projects",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1807297",
       "type": "hackathon",
       "source": "Unstop",
@@ -397,64 +381,48 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1805697",
+      "id": "unstop-1815915",
       "type": "competition",
       "source": "Unstop",
-      "name": "Game On Night: Imagine The Impossible",
-      "url": "https://unstop.com/competitions/game-on-night-imagine-the-impossible-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1805697",
-      "date": "2026-11-30T15:30:00.000Z",
+      "name": "XPLO National 3D Animation Challenge 2026",
+      "url": "https://unstop.com/competitions/xplo-national-3d-animation-challenge-2026-xplo-animation-service-pvt-ltd-1815915",
+      "date": "2026-11-30T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
+      "org": "Xplo Animation Service Pvt Ltd",
       "tags": [
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1816592",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Data Visualization using Python - Debugging Test | Unit 1 Set B",
-      "url": "https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-1-set-b-abes-engineering-college-1816592",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ABES Engineering College",
-      "tags": [
-        "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1816631",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Data Visualization using Python - Debugging Test | Unit 2 Set A",
-      "url": "https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-2-set-a-abes-engineering-college-1816631",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ABES Engineering College",
-      "tags": [
-        "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1813171",
+      "id": "unstop-1814542",
       "type": "competition",
       "source": "Unstop",
-      "name": "Article Station",
-      "url": "https://unstop.com/competitions/article-station-johnson-grammar-school-secunderabad-hyderabad-telangana-1813171",
+      "name": "Second Serving – A Business Revival Case Competition",
+      "url": "https://unstop.com/competitions/second-serving-a-business-revival-case-competition-indian-institute-of-management-iim-guwahati-1814542",
       "date": "2026-11-30T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Johnson Grammar School, Secunderabad, Hyderabad, Telangana",
+      "org": "Indian Institute of Management (IIM), Guwahati",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-the-fao-innovation-beyond-the-buzzword-video-challenge-2026-for-students-young-p",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "The FAO Innovation Beyond the Buzzword Video Challenge 2026 for students, young professionals and creatives worldwide.",
+      "url": "https://www.opportunitiesforafricans.com/the-fao-innovation-beyond-the-buzzword-video-challenge-2026/",
+      "date": "2026-11-30T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
       "tags": [
         "education"
       ],
@@ -560,6 +528,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1815925",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Call For Entries | Beyond Margins Annual Journal 2026-27",
+      "url": "https://unstop.com/competitions/call-for-entries-beyond-margins-annual-journal-2026-27-sophia-college-for-women-mumbai-1815925",
+      "date": "2026-12-04T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Sophia College for Women, Mumbai",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31667",
       "type": "hackathon",
       "source": "Devpost",
@@ -608,6 +592,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1814259",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "E-Week 2026 - From Local Roots to Global Routes",
+      "url": "https://unstop.com/competitions/e-week-2026-from-local-roots-to-global-routes-jaipuria-institute-of-management-jim-jaipur-1814259",
+      "date": "2026-12-05T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jaipuria Institute of Management (JIM), Jaipur",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -696,6 +696,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1813374",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Infinity'26",
+      "url": "https://unstop.com/competitions/infinity26-codevirus-security-1813374",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Codevirus Security",
+      "tags": [
+        "security"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -725,6 +741,22 @@
       "org": "Birla Institute of Technology, Mesra, Ranchi",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1810876",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "NeuraViz AI Challenge 2026 – Submit an AI Idea, No Coding Needed",
+      "url": "https://unstop.com/competitions/neuraviz-ai-challenge-2026-submit-an-ai-idea-no-coding-needed-neuraviz-technologies-pvt-ltd-1810876",
+      "date": "2026-12-10T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "NeuraViz Technologies Pvt. Ltd.",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -1067,6 +1099,24 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31571",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
+      "url": "https://cloud9.devpost.com/",
+      "date": "2027-01-12T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$25,000",
+      "org": "Cloud9",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30764",
       "type": "hackathon",
       "source": "Devpost",
@@ -1098,22 +1148,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31873",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "HackOut! 2027",
-      "url": "https://hackout-branchout.devpost.com/",
-      "date": "2027-02-01T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$3,000",
-      "org": "BranchOut!",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     }
