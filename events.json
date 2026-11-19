@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-18T23:58:17.297Z",
+  "updated": "2026-11-19T07:08:20.183Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (28)",
+    "Unstop": "ok (23)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
@@ -44,22 +44,6 @@
         "blockchain",
         "fintech",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1807080",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Data Sprint Challenge 2.0",
-      "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
-      "date": "2026-11-21T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The National Institute of Engineering, Karnataka",
-      "tags": [
-        "data"
       ],
       "rwanda": false
     },
@@ -165,22 +149,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1805107",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Bad Ideas Only",
-      "url": "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107",
-      "date": "2026-11-24T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Hoollow",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31798",
       "type": "hackathon",
       "source": "Devpost",
@@ -242,22 +210,6 @@
       "org": "Zeliot Pvt Ltd",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1806984",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "QuikCPQ AI Innovation Challenge 2027",
-      "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
-      "date": "2026-11-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Quik CPQ Solutions LLP",
-      "tags": [
-        "ai"
       ],
       "rwanda": false
     },
@@ -332,16 +284,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1807297",
-      "type": "hackathon",
+      "id": "unstop-1816460",
+      "type": "competition",
       "source": "Unstop",
-      "name": "HackKro CodeByte 2026",
-      "url": "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297",
-      "date": "2026-11-30T12:59:12.000Z",
+      "name": "Call for Articles: 'The Impatient Consumer'",
+      "url": "https://unstop.com/competitions/call-for-articles-the-impatient-consumer-iim-rohtak-1816460",
+      "date": "2026-11-29T18:29:30.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "HackKro",
+      "org": "Indian Institute of Management (IIM), Rohtak",
       "tags": [
         "web"
       ],
@@ -360,22 +312,6 @@
       "org": "AI Xplore",
       "tags": [
         "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1815915",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "XPLO National 3D Animation Challenge 2026",
-      "url": "https://unstop.com/competitions/xplo-national-3d-animation-challenge-2026-xplo-animation-service-pvt-ltd-1815915",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Xplo Animation Service Pvt Ltd",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -511,22 +447,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1815925",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Call For Entries | Beyond Margins Annual Journal 2026-27",
-      "url": "https://unstop.com/competitions/call-for-entries-beyond-margins-annual-journal-2026-27-sophia-college-for-women-mumbai-1815925",
-      "date": "2026-12-04T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Sophia College for Women, Mumbai",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1817828",
       "type": "competition",
       "source": "Unstop",
@@ -595,22 +515,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1814259",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "E-Week 2026 - From Local Roots to Global Routes",
-      "url": "https://unstop.com/competitions/e-week-2026-from-local-roots-to-global-routes-jaipuria-institute-of-management-jim-jaipur-1814259",
-      "date": "2026-12-05T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Jaipuria Institute of Management (JIM), Jaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31973",
       "type": "hackathon",
       "source": "Devpost",
@@ -663,6 +567,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1818490",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Prompt War & Syntax Squad",
+      "url": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
+      "date": "2026-12-08T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31644",
       "type": "hackathon",
       "source": "Devpost",
@@ -675,22 +595,6 @@
       "org": "reddit",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1813374",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Codevirus Infinity'26",
-      "url": "https://unstop.com/competitions/infinity26-codevirus-security-1813374",
-      "date": "2026-12-09T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Codevirus Security",
-      "tags": [
-        "security"
       ],
       "rwanda": false
     },
@@ -830,32 +734,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1813372",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mondelēz Maestros 2026 - Commercial Track",
-      "url": "https://unstop.com/competitions/crp-mondelez-maestros-2026-commercial-track-mondelez-maestros-2026-mondelez-international-1813372",
-      "date": "2026-12-13T18:29:37.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mondelēz International",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1776729",
+      "id": "unstop-1817757",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "HackZ'26",
-      "url": "https://unstop.com/hackathons/hackz26-computer-science-and-engineering-association-csea-ceg-anna-university-1776729",
-      "date": "2026-12-15T04:30:00.000Z",
+      "name": "Nurn 2026 – National Innovation & Technology Challenge",
+      "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+      "date": "2026-12-15T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "College of Engineering (CEG), Guindy,  Anna University",
+      "org": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
       "tags": [
         "web"
       ],
