@@ -1,15 +1,31 @@
 {
-  "updated": "2026-11-19T20:04:23.869Z",
+  "updated": "2026-11-20T06:04:37.248Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (26)",
+    "Unstop": "ok (28)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (2)"
+    "Opportunities for Africans": "ok (3)"
   },
   "events": [
+    {
+      "id": "unstop-1818980",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "INNOVATE X",
+      "url": "https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
+      "date": "2026-11-20T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Poornima Institute of Engineering & Technology (PIET), Jaipur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
     {
       "id": "unstop-1818214",
       "type": "competition",
@@ -148,6 +164,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1820197",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "General Case Study Competition",
+      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1820197",
+      "date": "2026-11-25T06:30:13.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rising Scholars",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1814263",
       "type": "hackathon",
       "source": "Unstop",
@@ -266,22 +298,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1816460",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Call for Articles: 'The Impatient Consumer'",
-      "url": "https://unstop.com/competitions/call-for-articles-the-impatient-consumer-iim-rohtak-1816460",
-      "date": "2026-11-29T18:29:30.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1818968",
       "type": "hackathon",
       "source": "Unstop",
@@ -292,6 +308,22 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Technology (IIT), Bombay",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1819963",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "WinterArc: 30 Days of Money",
+      "url": "https://unstop.com/competitions/winterarc-30-days-of-money-fined-1819963",
+      "date": "2026-11-29T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Fined",
       "tags": [
         "web"
       ],
@@ -1049,6 +1081,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-the-klaus-j-jacobs-research-prize-2027-for-research-on-child-and-youth-developme",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "The Klaus J. Jacobs Research Prize 2027 for Research on Child and Youth Development (1 million Swiss Francs)",
+      "url": "https://www.opportunitiesforafricans.com/the-klaus-j-jacobs-research-prize-2027-for-research-on-child-and-youth-development/",
+      "date": "2027-01-31T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
