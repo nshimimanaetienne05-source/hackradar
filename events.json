@@ -1,47 +1,15 @@
 {
-  "updated": "2026-11-20T06:04:37.248Z",
+  "updated": "2026-11-20T19:41:32.328Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (28)",
+    "Unstop": "ok (21)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (3)"
+    "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "unstop-1818980",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "INNOVATE X",
-      "url": "https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
-      "date": "2026-11-20T06:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Poornima Institute of Engineering & Technology (PIET), Jaipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1818214",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Shepreneurs Spotlight",
-      "url": "https://unstop.com/competitions/shepreneurs-spotlight-shebuilds-1818214",
-      "date": "2026-11-20T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "SheBuilds",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-26475",
       "type": "hackathon",
@@ -59,22 +27,6 @@
         "blockchain",
         "fintech",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1789916",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Branded & Buttered: Quiz 7 : The Local Twist",
-      "url": "https://unstop.com/quiz/branded-buttered-quiz-7-the-local-twist-iim-rohtak-1789916",
-      "date": "2026-11-21T14:30:41.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -127,6 +79,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1819762",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Brand Swap",
+      "url": "https://unstop.com/competitions/brand-swap-utkarsh-the-business-arena-shaheed-bhagat-singh-college-new-delhi-1819762",
+      "date": "2026-11-23T12:00:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Shaheed Bhagat Singh College, New Delhi",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -248,22 +216,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1819465",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Bid & Blitz: The Virtual IPL Auction",
-      "url": "https://unstop.com/competitions/bid-blitz-the-virtual-ipl-auction-utkarsh-the-business-arena-pragyta-the-commerce-association-1819465",
-      "date": "2026-11-26T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Shaheed Bhagat Singh Evening College (SBSEC), University of Delhi (DU), New Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -278,22 +230,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1811342",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Quiz Carnival 2026",
-      "url": "https://unstop.com/quiz/quiz-carnival-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1811342",
-      "date": "2026-11-28T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Knowledge Institute of Technology (KIoT), Tamil Nadu",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -343,22 +279,6 @@
       "tags": [
         "ai",
         "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1806030",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Dataverse",
-      "url": "https://unstop.com/competitions/dataverse-iit-madras-1806030",
-      "date": "2026-11-30T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Madras",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -490,6 +410,23 @@
       "org": "BuildX",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1819948",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "PRoelio 12.0",
+      "url": "https://unstop.com/competitions/proelio-120-sibm-pune-1819948",
+      "date": "2026-12-04T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Symbiosis Institute of Business Management (SIBM), Pune",
+      "tags": [
+        "health",
+        "fintech"
       ],
       "rwanda": false
     },
@@ -781,6 +718,38 @@
       "rwanda": false
     },
     {
+      "id": "devpost-32072",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "InnovateHER Hackathon: Girls Who Code",
+      "url": "https://hackathon-girls-who-code.devpost.com/",
+      "date": "2026-12-13T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Girls Who Code",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1814814",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Buildfest 2026",
+      "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
+      "date": "2026-12-14T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Learnix Labs",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1817757",
       "type": "hackathon",
       "source": "Unstop",
@@ -825,6 +794,22 @@
       "online": true,
       "prize": "$500",
       "org": "Silicon Hacks Team",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1820730",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CS Arena 2026 - 7-Day Computer Science Quiz Series",
+      "url": "https://unstop.com/quiz/cs-arena-2026-7-day-computer-science-quiz-series-the-national-institute-of-engineering-karnataka-1820730",
+      "date": "2026-12-16T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "The National Institute of Engineering, Karnataka",
       "tags": [
         "web"
       ],
@@ -932,38 +917,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1811493",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ELU Build",
-      "url": "https://unstop.com/hackathons/elubuild-edulinkup-1811493",
-      "date": "2026-12-25T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "EduLinkUp",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1804700",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "PDH Gemini FrostFest 2026",
-      "url": "https://unstop.com/quiz/pdh-gemini-frost-fest-2026-prayagraj-devhub-1804700",
-      "date": "2026-12-26T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Prayagraj DevHub",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31787",
       "type": "hackathon",
       "source": "Devpost",
@@ -978,22 +931,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-the-developpp-ventures-ideas-competition-2027-for-young-entrepreneurs-non-diluti",
-      "type": "pitch",
-      "source": "Opportunities for Africans",
-      "name": "The develoPPP Ventures Ideas Competition 2027 for young Entrepreneurs (non-dilutive capital of 100,000 euros)",
-      "url": "https://www.opportunitiesforafricans.com/the-developpp-ventures-ideas-competition-2027/",
-      "date": "2026-12-31T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "fintech"
       ],
       "rwanda": false
     },
@@ -1085,22 +1022,6 @@
       "rwanda": false
     },
     {
-      "id": "feed-the-klaus-j-jacobs-research-prize-2027-for-research-on-child-and-youth-developme",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "The Klaus J. Jacobs Research Prize 2027 for Research on Child and Youth Development (1 million Swiss Francs)",
-      "url": "https://www.opportunitiesforafricans.com/the-klaus-j-jacobs-research-prize-2027-for-research-on-child-and-youth-development/",
-      "date": "2027-01-31T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31886",
       "type": "hackathon",
       "source": "Devpost",
@@ -1114,6 +1035,22 @@
       "tags": [
         "ai",
         "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-sadc-secondary-school-essay-competition-2027-for-students-from-sadc-member-state",
+      "type": "competition",
+      "source": "Opportunities for Africans",
+      "name": "SADC Secondary School Essay Competition 2027 for students from SADC Member States (USD$ 3,250 Prize)",
+      "url": "https://www.opportunitiesforafricans.com/sadc-secondary-school-essay-competition-2027/",
+      "date": "2027-03-31T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
         "education"
       ],
       "rwanda": false
