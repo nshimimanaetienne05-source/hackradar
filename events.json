@@ -1,31 +1,15 @@
 {
-  "updated": "2026-11-21T14:30:02.829Z",
+  "updated": "2026-11-21T22:51:43.739Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (24)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (2)"
+    "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1822078",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Promptwars",
-      "url": "https://unstop.com/hackathons/promptwars-techverse-solutions-1822078",
-      "date": "2026-11-21T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "TechVerse Solutions",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-30657",
       "type": "hackathon",
@@ -59,16 +43,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821381",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Déjà view",
-      "url": "https://unstop.com/competitions/deja-view--1821381",
-      "date": "2026-11-22T18:29:00.000Z",
+      "id": "devpost-31721",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "EvoHacks 2",
+      "url": "https://evohacks2.devpost.com/",
+      "date": "2026-11-22T23:59:00.000Z",
       "location": "Online",
       "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Visakhapatnam",
+      "prize": "$27,629",
+      "org": "EvoHacks",
       "tags": [
         "web"
       ],
@@ -103,22 +87,6 @@
       "org": "Christ ( Deemed to be University)",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1819748",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "GAME ARENA: Build Your Game, Design Your Banner & Win with Google Gemini!",
-      "url": "https://unstop.com/competitions/game-arena-build-your-game-design-your-banner-win-with-google-gemini-shri-vithal-education-and-research-ins-1819748",
-      "date": "2026-11-23T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Shri Vithal Education and Research Institute College of Engineering  (SVERI), Pandharpur",
-      "tags": [
-        "education"
       ],
       "rwanda": false
     },
@@ -208,6 +176,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1822030",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "StrategicIQ: The Ultimate Business Challenge",
+      "url": "https://unstop.com/competitions/strategiciq-the-ultimate-business-challenge--1822030",
+      "date": "2026-11-26T18:29:26.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Raipur",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1821962",
       "type": "hackathon",
       "source": "Unstop",
@@ -240,54 +224,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821295",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Beat The Street",
-      "url": "https://unstop.com/competitions/beat-the-street-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821295",
-      "date": "2026-11-27T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1795135",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Global Strategic Labyrinth",
-      "url": "https://unstop.com/competitions/global-strategic-labyrinth-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi--1795135",
-      "date": "2026-11-27T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1821518",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "MarketFrame ’26",
-      "url": "https://unstop.com/competitions/marketframe-26-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821518",
-      "date": "2026-11-27T18:29:01.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1821079",
       "type": "competition",
       "source": "Unstop",
@@ -304,66 +240,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821100",
+      "id": "unstop-1822031",
       "type": "competition",
       "source": "Unstop",
-      "name": "Mosaic",
-      "url": "https://unstop.com/competitions/mosaic-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821100",
-      "date": "2026-11-27T18:29:11.000Z",
+      "name": "Samvad: Call For Article",
+      "url": "https://unstop.com/competitions/samvad-call-for-article-sp-mandalis-prin-l-n-welingkar-institute-of-management-development-research-mumbai--1822031",
+      "date": "2026-11-27T18:29:10.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
       "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1821502",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CASECADE",
-      "url": "https://unstop.com/competitions/casecade-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821502",
-      "date": "2026-11-27T18:29:25.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1821293",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Finlogix",
-      "url": "https://unstop.com/competitions/finlogix-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821293",
-      "date": "2026-11-27T18:29:40.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1821504",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CaseQuest",
-      "url": "https://unstop.com/competitions/casequest-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821504",
-      "date": "2026-11-27T18:29:51.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
-      "tags": [
-        "web"
+        "education"
       ],
       "rwanda": false
     },
@@ -398,6 +286,25 @@
       "org": "Prasad Institute of Technology(PIT),Jaunpur",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821954",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AI-Powered Career Development Hackathon",
+      "url": "https://unstop.com/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954",
+      "date": "2026-11-28T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "UnsaidTalks Education",
+      "tags": [
+        "health",
+        "ai",
+        "web",
+        "education"
       ],
       "rwanda": false
     },
@@ -535,22 +442,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1817749",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeUnited India - National Hackathon",
-      "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
-      "date": "2026-12-02T07:30:48.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HackWithPune",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31960",
       "type": "hackathon",
       "source": "Devpost",
@@ -596,22 +487,6 @@
       "org": "The Painsparc Company",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1821424",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The First Job Reality Check 2026 | Are You Ready to Get Hired?",
-      "url": "https://unstop.com/quiz/the-first-job-reality-check-2026-are-you-ready-to-get-hired-elevate-careers-india-1821424",
-      "date": "2026-12-03T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Elevate Careers India",
-      "tags": [
-        "health"
       ],
       "rwanda": false
     },
@@ -681,6 +556,22 @@
       "tags": [
         "web",
         "blockchain"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1822549",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "AI Music/image Generation Competition",
+      "url": "https://unstop.com/competitions/ai-musicimage-generation-competition-mumbai-university-mu-mumbai-1822549",
+      "date": "2026-12-06T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mumbai University (MU), Mumbai",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -888,6 +779,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1822625",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Rinnit Health Explainer Challenge 2026: Explain a Health Topic in Your Own Words",
+      "url": "https://unstop.com/competitions/rinnit-health-explainer-challenge-2026-explain-a-health-topic-in-your-own-words-rinnit-1822625",
+      "date": "2026-12-15T21:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rinnit",
+      "tags": [
+        "health"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31083",
       "type": "hackathon",
       "source": "Devpost",
@@ -916,38 +823,6 @@
       "online": true,
       "prize": "$500",
       "org": "Silicon Hacks Team",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-global-citizen-prize-2027-cisco-youth-leadership-award-250-000-prize",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "Global Citizen Prize: 2027 Cisco Youth Leadership Award ($250,000 prize)",
-      "url": "https://opportunitydesk.org/2026/11/19/global-citizen-prize-2027-cisco-youth-leadership-award/",
-      "date": "2026-12-18T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-the-global-citizen-prize-cisco-youth-leadership-award-2027-for-inspiring-youth-l",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "The Global Citizen Prize: Cisco Youth Leadership Award 2027 for inspiring Youth Leaders (US$250,000 prize)",
-      "url": "https://www.opportunitiesforafricans.com/the-global-citizen-prize-cisco-youth-leadership-award-2027/",
-      "date": "2026-12-18T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
       "tags": [
         "web"
       ],
@@ -1168,6 +1043,22 @@
       "name": "SADC Secondary School Essay Competition 2027 for students from SADC Member States (USD$ 3,250 Prize)",
       "url": "https://www.opportunitiesforafricans.com/sadc-secondary-school-essay-competition-2027/",
       "date": "2027-03-31T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-sadc-secondary-school-essay-competition-2027",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "SADC Secondary School Essay Competition 2027",
+      "url": "https://opportunitydesk.org/2026/11/21/sadc-secondary-school-essay-competition-2027/",
+      "date": "2027-05-31T21:59:00.000Z",
       "location": "",
       "online": false,
       "prize": "",
