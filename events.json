@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-21T05:57:30.371Z",
+  "updated": "2026-11-21T14:30:02.829Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (24)",
+    "Unstop": "ok (32)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
@@ -11,20 +11,18 @@
   },
   "events": [
     {
-      "id": "devpost-31789",
+      "id": "unstop-1822078",
       "type": "hackathon",
-      "source": "Devpost",
-      "name": "STEM2Connect AI Hackathon",
-      "url": "https://stem2connect-online-hackathon.devpost.com/",
-      "date": "2026-11-21T23:59:00.000Z",
+      "source": "Unstop",
+      "name": "Promptwars",
+      "url": "https://unstop.com/hackathons/promptwars-techverse-solutions-1822078",
+      "date": "2026-11-21T18:29:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "STEM2Connect",
+      "org": "TechVerse Solutions",
       "tags": [
-        "ai",
-        "web",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -45,20 +43,34 @@
       "rwanda": false
     },
     {
-      "id": "devpost-30456",
+      "id": "unstop-1820882",
       "type": "hackathon",
-      "source": "Devpost",
-      "name": "Bridge The Gap Hacks",
-      "url": "https://sq-hacks.devpost.com/",
-      "date": "2026-11-21T23:59:00.000Z",
+      "source": "Unstop",
+      "name": "EinoHacks",
+      "url": "https://unstop.com/hackathons/einohacks-altairx-tech-1820882",
+      "date": "2026-11-22T12:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Bridge The Gap Hacks",
+      "org": "AltairX Tech",
       "tags": [
-        "ai",
-        "web",
-        "education"
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821381",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Déjà view",
+      "url": "https://unstop.com/competitions/deja-view--1821381",
+      "date": "2026-11-22T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Visakhapatnam",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -73,6 +85,38 @@
       "online": true,
       "prize": "",
       "org": "Science Innovation Association of XJTLU",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1757438",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Cognito 2026 Case Competition",
+      "url": "https://unstop.com/competitions/cognito-2026-case-competition-christ-deemed-to-be-university-1757438",
+      "date": "2026-11-23T06:29:21.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Christ ( Deemed to be University)",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1819748",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "GAME ARENA: Build Your Game, Design Your Banner & Win with Google Gemini!",
+      "url": "https://unstop.com/competitions/game-arena-build-your-game-design-your-banner-win-with-google-gemini-shri-vithal-education-and-research-ins-1819748",
+      "date": "2026-11-23T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Shri Vithal Education and Research Institute College of Engineering  (SVERI), Pandharpur",
       "tags": [
         "education"
       ],
@@ -108,22 +152,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1814263",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Silicon Sprint 2026",
-      "url": "https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
-      "date": "2026-11-25T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "National Institute of Technology Karnataka (NITK), Surathkal",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -190,6 +218,22 @@
       "online": true,
       "prize": "",
       "org": "Management Development Institute (MDI), Gurgaon",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1822089",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CFA Level I FSA, Fixed Income & Derivatives Mock Test",
+      "url": "https://unstop.com/quiz/cfa-level-i-fsa-fixed-income-derivatives-mock-test-poonji-vidya-technologies-private-limited-1822089",
+      "date": "2026-11-27T10:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Poonji Vidya Technologies Private Limited",
       "tags": [
         "web"
       ],
@@ -342,6 +386,39 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1822060",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The Biggest Tech Quiz",
+      "url": "https://unstop.com/competitions/the-biggest-tech-quiz-prasad-institute-of-technologypitjaunpur-1822060",
+      "date": "2026-11-28T16:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Prasad Institute of Technology(PIT),Jaunpur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31826",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Global AI Builder’s Challenge",
+      "url": "https://global-ai-builders-challenge.devpost.com/",
+      "date": "2026-11-28T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Refactor The World",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1818968",
       "type": "hackathon",
       "source": "Unstop",
@@ -352,6 +429,40 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Technology (IIT), Bombay",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31789",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "STEM2Connect AI Hackathon",
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "date": "2026-11-29T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "STEM2Connect",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821247",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Priors Monthly Quant Contest",
+      "url": "https://unstop.com/quiz/priors-monthly-quant-contest-priors-1821247",
+      "date": "2026-11-30T14:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Priors",
       "tags": [
         "web"
       ],
@@ -473,19 +584,34 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1819948",
+      "id": "unstop-1821486",
       "type": "competition",
       "source": "Unstop",
-      "name": "PRoelio 12.0",
-      "url": "https://unstop.com/competitions/proelio-120-sibm-pune-1819948",
-      "date": "2026-12-04T18:29:00.000Z",
+      "name": "The CourseBuddy Challenge: Solve a Case with Social Engineering and Wild Market Tricks",
+      "url": "https://unstop.com/competitions/the-coursebuddy-challenge-solve-a-case-with-social-engineering-and-wild-market-tricks-the-painsparc-company-1821486",
+      "date": "2026-12-03T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Symbiosis Institute of Business Management (SIBM), Pune",
+      "org": "The Painsparc Company",
       "tags": [
-        "health",
-        "fintech"
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821424",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "The First Job Reality Check 2026 | Are You Ready to Get Hired?",
+      "url": "https://unstop.com/quiz/the-first-job-reality-check-2026-are-you-ready-to-get-hired-elevate-careers-india-1821424",
+      "date": "2026-12-03T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Elevate Careers India",
+      "tags": [
+        "health"
       ],
       "rwanda": false
     },
@@ -542,18 +668,19 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1819278",
-      "type": "competition",
+      "id": "unstop-1820715",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "WealthNest National Case Study Challenge 2026",
-      "url": "https://unstop.com/competitions/wealthnest-national-case-study-challenge-2026-wealthnest-1819278",
-      "date": "2026-12-05T18:30:00.000Z",
+      "name": "Tauras by Revat: Crypto Trading Hackathon | Prove Your Edge, Then Trade It Live",
+      "url": "https://unstop.com/hackathons/tauras-by-revat-crypto-trading-hackathon-prove-your-edge-then-trade-it-live-revat-crypto-fund-1820715",
+      "date": "2026-12-06T18:29:36.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "WealthNest",
+      "org": "Revat Crypto Fund",
       "tags": [
-        "web"
+        "web",
+        "blockchain"
       ],
       "rwanda": false
     },
@@ -659,22 +786,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1814002",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CTF Cicada 2026",
-      "url": "https://unstop.com/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
-      "date": "2026-12-10T06:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Birla Institute of Technology, Mesra, Ranchi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31797",
       "type": "hackathon",
       "source": "Devpost",
@@ -745,22 +856,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1811349",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "OpenCode 2026",
-      "url": "https://unstop.com/hackathons/opencode-2026-opencode-indian-institute-of-information-technology-iiit-allahabad-1811349",
-      "date": "2026-12-13T17:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Information Technology (IIIT), Allahabad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1814814",
       "type": "hackathon",
       "source": "Unstop",
@@ -821,22 +916,6 @@
       "online": true,
       "prize": "$500",
       "org": "Silicon Hacks Team",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1820730",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "CS Arena 2026 - 7-Day Computer Science Quiz Series",
-      "url": "https://unstop.com/quiz/cs-arena-2026-7-day-computer-science-quiz-series-the-national-institute-of-engineering-karnataka-1820730",
-      "date": "2026-12-16T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The National Institute of Engineering, Karnataka",
       "tags": [
         "web"
       ],
@@ -958,6 +1037,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1822192",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Humanistiq Seeks Your Perspective, 2026",
+      "url": "https://unstop.com/competitions/humanistiq-seeks-your-perspective-2026-kjsim-mumbai-1822192",
+      "date": "2026-12-30T18:29:46.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "K J Somaiya Institute of Management (KJ SIM), Mumbai",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
