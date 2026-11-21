@@ -1,35 +1,15 @@
 {
-  "updated": "2026-11-20T19:41:32.328Z",
+  "updated": "2026-11-21T05:57:30.371Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (21)",
+    "Unstop": "ok (24)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (2)"
   },
   "events": [
-    {
-      "id": "devpost-26475",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Dakar Bitcoin Hack by BTrust",
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "date": "2026-11-20T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$900",
-      "org": "Dakar Bitcoin Days",
-      "tags": [
-        "ai",
-        "web",
-        "blockchain",
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31789",
       "type": "hackathon",
@@ -83,18 +63,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1819762",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Brand Swap",
-      "url": "https://unstop.com/competitions/brand-swap-utkarsh-the-business-arena-shaheed-bhagat-singh-college-new-delhi-1819762",
-      "date": "2026-11-23T12:00:00.000Z",
+      "id": "devpost-31620",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "CrossPointX 2026",
+      "url": "https://cpx2026.devpost.com/",
+      "date": "2026-11-22T23:59:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Shaheed Bhagat Singh College, New Delhi",
+      "org": "Science Innovation Association of XJTLU",
       "tags": [
-        "web"
+        "education"
       ],
       "rwanda": false
     },
@@ -128,22 +108,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1820197",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "General Case Study Competition",
-      "url": "https://unstop.com/quiz/general-case-study-competition-rising-scholars-1820197",
-      "date": "2026-11-25T06:30:13.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Rising Scholars",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -216,6 +180,150 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1821962",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "ThinCovation 2026",
+      "url": "https://unstop.com/hackathons/thincovation-2026-thincovation-2026-mdi-1821962",
+      "date": "2026-11-26T18:31:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Management Development Institute (MDI), Gurgaon",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821295",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Beat The Street",
+      "url": "https://unstop.com/competitions/beat-the-street-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821295",
+      "date": "2026-11-27T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1795135",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Global Strategic Labyrinth",
+      "url": "https://unstop.com/competitions/global-strategic-labyrinth-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi--1795135",
+      "date": "2026-11-27T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821518",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "MarketFrame ’26",
+      "url": "https://unstop.com/competitions/marketframe-26-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821518",
+      "date": "2026-11-27T18:29:01.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821079",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Concordia",
+      "url": "https://unstop.com/competitions/concordia-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821079",
+      "date": "2026-11-27T18:29:09.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821100",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Mosaic",
+      "url": "https://unstop.com/competitions/mosaic-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821100",
+      "date": "2026-11-27T18:29:11.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821502",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CASECADE",
+      "url": "https://unstop.com/competitions/casecade-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821502",
+      "date": "2026-11-27T18:29:25.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821293",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Finlogix",
+      "url": "https://unstop.com/competitions/finlogix-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821293",
+      "date": "2026-11-27T18:29:40.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821504",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "CaseQuest",
+      "url": "https://unstop.com/competitions/casequest-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821504",
+      "date": "2026-11-27T18:29:51.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31907",
       "type": "hackathon",
       "source": "Devpost",
@@ -250,39 +358,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1819963",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "WinterArc: 30 Days of Money",
-      "url": "https://unstop.com/competitions/winterarc-30-days-of-money-fined-1819963",
-      "date": "2026-11-29T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Fined",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1818971",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "AgentX: The Agentic Commerce Challenge",
-      "url": "https://unstop.com/competitions/agentx-the-agentic-commerce-challenge-iit-bombay-1818971",
-      "date": "2026-11-29T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Bombay",
-      "tags": [
-        "ai",
-        "fintech"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31808",
       "type": "hackathon",
       "source": "Devpost",
@@ -311,22 +386,6 @@
       "online": true,
       "prize": "$300",
       "org": "The Webb Schools CSC",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1817385",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Computer Science Challenge 2026",
-      "url": "https://unstop.com/quiz/computer-science-challenge-2026-zeitgeist-retail-private-limited-1817385",
-      "date": "2026-12-01T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Zeitgeist Retail Private Limited",
       "tags": [
         "web"
       ],
@@ -686,22 +745,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1818674",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "National Level NGO's Core Committee Selection Challenge 2026 (Nov 2026 - Aug 2027)",
-      "url": "https://unstop.com/competitions/national-level-ngos-core-committee-selection-challenge-2026-nov-2026-aug-2027-interactup-1818674",
-      "date": "2026-12-12T07:09:53.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InteractUp",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1811349",
       "type": "hackathon",
       "source": "Unstop",
@@ -712,22 +755,6 @@
       "online": true,
       "prize": "",
       "org": "Indian Institute of Information Technology (IIIT), Allahabad",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-32072",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "InnovateHER Hackathon: Girls Who Code",
-      "url": "https://hackathon-girls-who-code.devpost.com/",
-      "date": "2026-12-13T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Girls Who Code",
       "tags": [
         "web"
       ],
