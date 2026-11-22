@@ -1,31 +1,15 @@
 {
-  "updated": "2026-11-21T22:51:43.739Z",
+  "updated": "2026-11-22T05:31:52.344Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (24)",
+    "Unstop": "ok (25)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-30657",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Teens Hack Houston Hackathon",
-      "url": "https://tripleh.devpost.com/",
-      "date": "2026-11-21T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$300",
-      "org": "HackClub  ✓⃝",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1820882",
       "type": "hackathon",
@@ -53,38 +37,6 @@
       "online": true,
       "prize": "$27,629",
       "org": "EvoHacks",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31620",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "CrossPointX 2026",
-      "url": "https://cpx2026.devpost.com/",
-      "date": "2026-11-22T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Science Innovation Association of XJTLU",
-      "tags": [
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1757438",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Cognito 2026 Case Competition",
-      "url": "https://unstop.com/competitions/cognito-2026-case-competition-christ-deemed-to-be-university-1757438",
-      "date": "2026-11-23T06:29:21.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Christ ( Deemed to be University)",
       "tags": [
         "web"
       ],
@@ -224,22 +176,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821079",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Concordia",
-      "url": "https://unstop.com/competitions/concordia-yukta-2026-unleash-your-inner-business-titan-t-a-pai-management-institute-tapmi-manipal-1821079",
-      "date": "2026-11-27T18:29:09.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "T. A. Pai Management Institute (TAPMI), Manipal",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1822031",
       "type": "competition",
       "source": "Unstop",
@@ -252,6 +188,38 @@
       "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
       "tags": [
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1822713",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Indian Macro Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1822713",
+      "date": "2026-11-27T19:30:29.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1822712",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Indian Equities Prediction Challenge",
+      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1822712",
+      "date": "2026-11-27T19:31:43.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indiastox",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -543,6 +511,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1822884",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "ELUCode - 9",
+      "url": "https://unstop.com/hackathons/elucode-9-edulinkup-1822884",
+      "date": "2026-12-06T15:30:31.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "EduLinkUp",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1820715",
       "type": "hackathon",
       "source": "Unstop",
@@ -563,7 +547,7 @@
       "id": "unstop-1822549",
       "type": "competition",
       "source": "Unstop",
-      "name": "AI Music/image Generation Competition",
+      "name": "Gemini -  Music/image Generation Competition",
       "url": "https://unstop.com/competitions/ai-musicimage-generation-competition-mumbai-university-mu-mumbai-1822549",
       "date": "2026-12-06T18:30:00.000Z",
       "location": "Online",
@@ -571,7 +555,7 @@
       "prize": "",
       "org": "Mumbai University (MU), Mumbai",
       "tags": [
-        "ai"
+        "web"
       ],
       "rwanda": false
     },
