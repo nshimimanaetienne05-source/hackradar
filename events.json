@@ -1,31 +1,15 @@
 {
-  "updated": "2026-11-22T05:31:52.344Z",
+  "updated": "2026-11-22T14:13:07.519Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (25)",
+    "Unstop": "ok (26)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "unstop-1820882",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "EinoHacks",
-      "url": "https://unstop.com/hackathons/einohacks-altairx-tech-1820882",
-      "date": "2026-11-22T12:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "AltairX Tech",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31721",
       "type": "hackathon",
@@ -37,6 +21,22 @@
       "online": true,
       "prize": "$27,629",
       "org": "EvoHacks",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1820882",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "EinoHacks",
+      "url": "https://unstop.com/hackathons/einohacks-altairx-tech-1820882",
+      "date": "2026-11-23T10:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "AltairX Tech",
       "tags": [
         "web"
       ],
@@ -131,7 +131,7 @@
       "id": "unstop-1822030",
       "type": "competition",
       "source": "Unstop",
-      "name": "StrategicIQ: The Ultimate Business Challenge",
+      "name": "StrategIQ: The Ultimate Business Challenge",
       "url": "https://unstop.com/competitions/strategiciq-the-ultimate-business-challenge--1822030",
       "date": "2026-11-26T18:29:26.000Z",
       "location": "Online",
@@ -144,32 +144,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821962",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ThinCovation 2026",
-      "url": "https://unstop.com/hackathons/thincovation-2026-thincovation-2026-mdi-1821962",
-      "date": "2026-11-26T18:31:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Management Development Institute (MDI), Gurgaon",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1822089",
+      "id": "unstop-1822896",
       "type": "competition",
       "source": "Unstop",
-      "name": "CFA Level I FSA, Fixed Income & Derivatives Mock Test",
-      "url": "https://unstop.com/quiz/cfa-level-i-fsa-fixed-income-derivatives-mock-test-poonji-vidya-technologies-private-limited-1822089",
-      "date": "2026-11-27T10:30:00.000Z",
+      "name": "Think. Speak. Conquer.",
+      "url": "https://unstop.com/competitions/think-speak-conquer-rising-scholars-1822896",
+      "date": "2026-11-27T14:50:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Poonji Vidya Technologies Private Limited",
+      "org": "Rising Scholars",
       "tags": [
         "web"
       ],
@@ -188,6 +172,22 @@
       "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
       "tags": [
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821962",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "ThinCovation 2026",
+      "url": "https://unstop.com/hackathons/thincovation-2026-thincovation-2026-mdi-1821962",
+      "date": "2026-11-27T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Management Development Institute (MDI), Gurgaon",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -238,22 +238,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1822060",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Biggest Tech Quiz",
-      "url": "https://unstop.com/competitions/the-biggest-tech-quiz-prasad-institute-of-technologypitjaunpur-1822060",
-      "date": "2026-11-28T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Prasad Institute of Technology(PIT),Jaunpur",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -328,22 +312,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821247",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Priors Monthly Quant Contest",
-      "url": "https://unstop.com/quiz/priors-monthly-quant-contest-priors-1821247",
-      "date": "2026-11-30T14:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Priors",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31808",
       "type": "hackathon",
       "source": "Devpost",
@@ -372,6 +340,22 @@
       "online": true,
       "prize": "$300",
       "org": "The Webb Schools CSC",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31993",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "IdeaLab Hacks",
+      "url": "https://idealab-hacks.devpost.com/",
+      "date": "2026-11-30T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "IdeaLab",
       "tags": [
         "web"
       ],
@@ -437,22 +421,6 @@
       "online": true,
       "prize": "",
       "org": "BuildX",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1821486",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The CourseBuddy Challenge: Solve a Case with Social Engineering and Wild Market Tricks",
-      "url": "https://unstop.com/competitions/the-coursebuddy-challenge-solve-a-case-with-social-engineering-and-wild-market-tricks-the-painsparc-company-1821486",
-      "date": "2026-12-03T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "The Painsparc Company",
       "tags": [
         "web"
       ],
@@ -612,22 +580,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1818490",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Prompt War & Syntax Squad",
-      "url": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
-      "date": "2026-12-08T06:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31644",
       "type": "hackathon",
       "source": "Devpost",
@@ -731,10 +683,26 @@
       "rwanda": false
     },
     {
+      "id": "devpost-32072",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "InnovateHER Hackathon: Girls Who Code",
+      "url": "https://hackathon-girls-who-code.devpost.com/",
+      "date": "2026-12-13T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Girls Who Code",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1814814",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "Buildfest 2026",
+      "name": "BUILDFEST 2026 – National Student Hackathon",
       "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
       "date": "2026-12-14T18:30:00.000Z",
       "location": "Online",
@@ -742,6 +710,7 @@
       "prize": "",
       "org": "Learnix Labs",
       "tags": [
+        "web",
         "education"
       ],
       "rwanda": false
@@ -830,6 +799,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1820870",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AWS Winter League 2026",
+      "url": "https://unstop.com/hackathons/aws-winter-league-2026-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1820870",
+      "date": "2026-12-20T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31795",
       "type": "hackathon",
       "source": "Devpost",
@@ -878,6 +863,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821912",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Claude Build Challenge 2026",
+      "url": "https://unstop.com/hackathons/claude-build-challenge-2026-sage-university-bhopal-1821912",
+      "date": "2026-12-25T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "SAGE University Bhopal",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
