@@ -1,47 +1,15 @@
 {
-  "updated": "2026-11-23T06:12:43.506Z",
+  "updated": "2026-11-23T23:30:09.907Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (32)",
+    "Unstop": "ok (26)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "ok (1)",
-    "Opportunities for Africans": "ok (1)"
+    "Opportunity Desk": "ok (2)",
+    "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "unstop-1820882",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "EinoHacks",
-      "url": "https://unstop.com/hackathons/einohacks-altairx-tech-1820882",
-      "date": "2026-11-23T10:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "AltairX Tech",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823687",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FinSight: Sharpen Your Financial Insight - 10",
-      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-10-iim-rohtak-1823687",
-      "date": "2026-11-24T18:29:20.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31798",
       "type": "hackathon",
@@ -59,35 +27,18 @@
       "rwanda": false
     },
     {
-      "id": "devpost-31775",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "OBSCURA: Satellite AI Research Challenge",
-      "url": "https://obscura.devpost.com/",
-      "date": "2026-11-24T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$50",
-      "org": "BTAJI CREW",
-      "tags": [
-        "ai",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-32211",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Engineering Without Limits",
-      "url": "https://engineering-without-limits.devpost.com/",
-      "date": "2026-11-24T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
+      "id": "feed-un-fao-soil-collage-contest-2026",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "UN FAO Soil Collage Contest 2026",
+      "url": "https://opportunitydesk.org/2026/11/23/un-fao-soil-collage-contest-2026/",
+      "date": "2026-11-25T21:59:00.000Z",
+      "location": "",
+      "online": false,
       "prize": "",
-      "org": "Engineering Without Limits",
+      "org": "",
       "tags": [
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -128,50 +79,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1817686",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "MyOnne National Bug Bounty Challenge 2026",
-      "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
-      "date": "2026-11-26T11:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "MyOnne Amora Private Limited",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1822896",
+      "id": "unstop-1821556",
       "type": "competition",
       "source": "Unstop",
-      "name": "Think. Speak. Conquer.",
-      "url": "https://unstop.com/competitions/think-speak-conquer-rising-scholars-1822896",
-      "date": "2026-11-27T14:50:00.000Z",
+      "name": "Consultaire 8.0: Article Writing Competition",
+      "url": "https://unstop.com/competitions/consultaire-80-article-writing-competition-iim-amritsar-1821556",
+      "date": "2026-11-27T06:30:14.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Rising Scholars",
+      "org": "Indian Institute of Management (IIM), Amritsar",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1822031",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Samvad: Call For Article",
-      "url": "https://unstop.com/competitions/samvad-call-for-article-sp-mandalis-prin-l-n-welingkar-institute-of-management-development-research-mumbai--1822031",
-      "date": "2026-11-27T18:29:10.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)",
-      "tags": [
-        "education"
       ],
       "rwanda": false
     },
@@ -188,56 +107,6 @@
       "org": "Management Development Institute (MDI), Gurgaon",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1822713",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Indian Macro Prediction Challenge",
-      "url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1822713",
-      "date": "2026-11-27T19:30:29.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indiastox",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1822712",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Indian Equities Prediction Challenge",
-      "url": "https://unstop.com/competitions/indian-equities-prediction-challenge-indiastox-1822712",
-      "date": "2026-11-27T19:31:43.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indiastox",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31907",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Build Your First AI App",
-      "url": "https://build-your-first-ai-app.devpost.com/",
-      "date": "2026-11-27T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Yasir Insights",
-      "tags": [
-        "ai",
-        "web",
-        "education"
       ],
       "rwanda": false
     },
@@ -261,55 +130,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1823593",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Sutra – Supply Chain Management & Analytics",
-      "url": "https://unstop.com/competitions/sutra-supply-chain-management-analytics-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operations-ma-1823593",
-      "date": "2026-11-28T18:29:14.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health",
-        "data"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823376",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Vyuha - The Art of Strategic Positioning",
-      "url": "https://unstop.com/competitions/vyuha-the-art-of-strategic-positioning-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operations-man-1823376",
-      "date": "2026-11-28T18:29:21.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823610",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Veritas",
-      "url": "https://unstop.com/competitions/veritas-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operations-management-siom-nashik-1823610",
-      "date": "2026-11-28T18:29:22.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1823195",
       "type": "competition",
       "source": "Unstop",
@@ -326,77 +146,12 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1823389",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Echo – Understanding How Brand Messages Resonate With Customers",
-      "url": "https://unstop.com/competitions/echo-understanding-how-brand-messages-resonate-with-customers-maya-beyond-what-meets-the-eye-symbiosis-inst-1823389",
-      "date": "2026-11-28T18:29:32.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1823592",
       "type": "competition",
       "source": "Unstop",
       "name": "Humanova",
       "url": "https://unstop.com/competitions/humanova-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operations-management-siom-nashik-1823592",
       "date": "2026-11-28T18:29:36.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823426",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Artha - Seeing The Real Value Behind the Numbers",
-      "url": "https://unstop.com/competitions/artha-seeing-the-real-value-behind-the-numbers-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operat-1823426",
-      "date": "2026-11-28T18:29:42.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823699",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Agriquest 2026 - Rethinking Agriculture & Reshaping Supply Chains",
-      "url": "https://unstop.com/competitions/agriquest-2026-rethinking-agriculture-reshaping-supply-chains-maya-beyond-what-meets-the-eye-symbiosis-inst-1823699",
-      "date": "2026-11-28T18:29:56.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health",
-        "climate"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823706",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Ecognition",
-      "url": "https://unstop.com/competitions/ecognition-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operations-management-siom-nashik-1823706",
-      "date": "2026-11-28T18:29:59.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
@@ -424,32 +179,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1822961",
+      "id": "unstop-1819452",
       "type": "competition",
       "source": "Unstop",
-      "name": "Kuizu 5.0",
-      "url": "https://unstop.com/quiz/kuizu-50-iim-kashipur-1822961",
-      "date": "2026-11-29T12:31:00.000Z",
+      "name": "Game On Night – Imagine the Impossible",
+      "url": "https://unstop.com/competitions/game-on-night-imagine-the-impossible-balaji-institute-of-management-and-human-resource-development-bimhrd-p-1819452",
+      "date": "2026-11-29T16:34:20.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Kashipur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1818968",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Campus to Cloud Hackathon",
-      "url": "https://unstop.com/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968",
-      "date": "2026-11-29T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Technology (IIT), Bombay",
+      "org": "Balaji Institute of Management and Human Resource Development (BIMHRD), Pune",
       "tags": [
         "web"
       ],
@@ -508,6 +247,23 @@
       "rwanda": false
     },
     {
+      "id": "devpost-31775",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "OBSCURA: Satellite AI Research Challenge",
+      "url": "https://obscura.devpost.com/",
+      "date": "2026-11-30T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$50",
+      "org": "BTAJI CREW",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31993",
       "type": "hackathon",
       "source": "Devpost",
@@ -518,6 +274,22 @@
       "online": true,
       "prize": "",
       "org": "IdeaLab",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1806010",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Kshitij '26 - The Case Study Competition",
+      "url": "https://unstop.com/competitions/kshitij-26-the-case-study-competition-xim-university-bhubaneswar-1806010",
+      "date": "2026-12-01T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "XIM University, Bhubaneswar",
       "tags": [
         "web"
       ],
@@ -559,7 +331,7 @@
       "id": "devpost-31960",
       "type": "hackathon",
       "source": "Devpost",
-      "name": "ML Empowerment Build Challenge 4.0 - Prizes and Certificates for EVERYONE",
+      "name": "ML Empowerment Build Challenge 4.0 (250K IN PRIZES!)",
       "url": "https://ml-build-challenge-4.devpost.com/",
       "date": "2026-12-02T23:59:00.000Z",
       "location": "Online",
@@ -569,23 +341,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823064",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "BLUFF MASTER",
-      "url": "https://unstop.com/competitions/bluff-master-finfusion-30-symbiosis-college-of-arts-commerce-scac-pune-1823064",
-      "date": "2026-12-04T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis College of Arts & Commerce (SCAC), Pune",
-      "tags": [
-        "health",
-        "fintech"
       ],
       "rwanda": false
     },
@@ -642,6 +397,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1824377",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AgentX",
+      "url": "https://unstop.com/hackathons/agentx-ai-academia-1824377",
+      "date": "2026-12-05T12:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "AI Academia",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1822884",
       "type": "hackathon",
       "source": "Unstop",
@@ -675,6 +446,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1824946",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "QuizVerse 2026",
+      "url": "https://unstop.com/quiz/quizverse-2026-siddhartha-institute-of-engineering-technology-1824946",
+      "date": "2026-12-06T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Siddhartha Institute of Engineering & Technology",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1823739",
       "type": "hackathon",
       "source": "Unstop",
@@ -685,6 +472,22 @@
       "online": true,
       "prize": "",
       "org": "WeCodeCoders",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1820854",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Apex CTF",
+      "url": "https://unstop.com/hackathons/apex-ctf-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820854",
+      "date": "2026-12-07T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
       "tags": [
         "web"
       ],
@@ -759,6 +562,40 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1823604",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Adaptics - Open Innovation Hackathon",
+      "url": "https://unstop.com/hackathons/adaptics-open-innovation-hackathon-makers-need-more-mnm-1823604",
+      "date": "2026-12-09T11:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Makers Need More (MnM)",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31907",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Build Your First AI App",
+      "url": "https://build-your-first-ai-app.devpost.com/",
+      "date": "2026-12-09T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Yasir Insights",
+      "tags": [
+        "ai",
+        "web",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31796",
       "type": "hackathon",
       "source": "Devpost",
@@ -772,6 +609,38 @@
       "tags": [
         "web",
         "security"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1820868",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Hackathon",
+      "url": "https://unstop.com/hackathons/hackathon-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820868",
+      "date": "2026-12-10T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1825373",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Insight Edge: The Economics Competition",
+      "url": "https://unstop.com/competitions/insight-edge-the-economics-competition-iris-2027-iim-indores-flagship-fest-iim-indore-1825373",
+      "date": "2026-12-10T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Indore",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -803,6 +672,23 @@
       "online": true,
       "prize": "$150",
       "org": "AI OpenBuild",
+      "tags": [
+        "ai",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1820502",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "India AI Open 2026: Free AI Talent Contest for Students and Engineers",
+      "url": "https://unstop.com/hackathons/india-ai-open-2026-free-ai-talent-contest-for-students-and-engineers-acciojob-1820502",
+      "date": "2026-12-11T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "AccioJob",
       "tags": [
         "ai",
         "education"
@@ -862,35 +748,34 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1814814",
+      "id": "unstop-1824394",
       "type": "hackathon",
       "source": "Unstop",
-      "name": "BUILDFEST 2026 – National Student Hackathon",
-      "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
-      "date": "2026-12-14T18:30:00.000Z",
+      "name": "Starlight Arena - AI Red Teaming Competition",
+      "url": "https://unstop.com/hackathons/starlight-arena-ai-red-teaming-competition-starlight-arena-parsewave-ai-1824394",
+      "date": "2026-12-14T17:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Learnix Labs",
+      "org": "Parsewave AI",
       "tags": [
-        "web",
-        "education"
+        "ai"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1822625",
-      "type": "competition",
+      "id": "unstop-1820748",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Rinnit Health Explainer Challenge 2026: Explain a Health Topic in Your Own Words",
-      "url": "https://unstop.com/competitions/rinnit-health-explainer-challenge-2026-explain-a-health-topic-in-your-own-words-rinnit-1822625",
-      "date": "2026-12-15T21:59:00.000Z",
+      "name": "ATLAS Hackathon 2026: Prompt to Product",
+      "url": "https://unstop.com/competitions/crp-atlas-hackathon-2026-prompt-to-product-atlas-skilltech-university-maharashtra-1820748",
+      "date": "2026-12-15T18:29:03.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Rinnit",
+      "org": "ATLAS SkillTech University, Maharashtra",
       "tags": [
-        "health"
+        "web"
       ],
       "rwanda": false
     },
@@ -958,6 +843,22 @@
       "org": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1825140",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Claude AI QuizOff",
+      "url": "https://unstop.com/quiz/claude-ai-quizoff-gla-university-mathura-1825140",
+      "date": "2026-12-20T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Gla University Mathura",
+      "tags": [
+        "ai"
       ],
       "rwanda": false
     },
@@ -1135,6 +1036,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1806792",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Women for Worth",
+      "url": "https://unstop.com/competitions/crp-women-for-worth-loreal-paris-x-entreprenaari-x-aspire-for-her-1806792",
+      "date": "2027-01-29T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "LOreal Paris x EntrepreNaari x Aspire For Her",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31886",
       "type": "hackathon",
       "source": "Devpost",
@@ -1153,18 +1070,18 @@
       "rwanda": false
     },
     {
-      "id": "feed-sadc-secondary-school-essay-competition-2027-for-students-from-sadc-member-state",
-      "type": "competition",
-      "source": "Opportunities for Africans",
-      "name": "SADC Secondary School Essay Competition 2027 for students from SADC Member States (USD$ 3,250 Prize)",
-      "url": "https://www.opportunitiesforafricans.com/sadc-secondary-school-essay-competition-2027/",
-      "date": "2027-03-31T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
+      "id": "devpost-31873",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "HackOut! 2027",
+      "url": "https://hackout-branchout.devpost.com/",
+      "date": "2027-02-01T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$3,000",
+      "org": "BranchOut!",
       "tags": [
-        "education"
+        "web"
       ],
       "rwanda": false
     },
