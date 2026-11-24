@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T08:49:40.219Z",
+  "updated": "2026-11-24T22:00:25.663Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (28)",
+    "Unstop": "ok (33)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "ok (2)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
@@ -21,22 +21,6 @@
       "online": true,
       "prize": "",
       "org": "HackathonForEveryone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-un-fao-soil-collage-contest-2026",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "UN FAO Soil Collage Contest 2026",
-      "url": "https://opportunitydesk.org/2026/11/23/un-fao-soil-collage-contest-2026/",
-      "date": "2026-11-25T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
       "tags": [
         "web"
       ],
@@ -95,37 +79,34 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821556",
-      "type": "competition",
+      "id": "unstop-1814036",
+      "type": "hackathon",
       "source": "Unstop",
-      "name": "Consultaire 8.0: Article Writing Competition",
-      "url": "https://unstop.com/competitions/consultaire-80-article-writing-competition-iim-amritsar-1821556",
-      "date": "2026-11-27T06:30:14.000Z",
+      "name": "Divergent Merch Design Challenge",
+      "url": "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036",
+      "date": "2026-11-27T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Indian Institute of Management (IIM), Amritsar",
+      "org": "Divergent Classes",
       "tags": [
         "web"
       ],
       "rwanda": false
     },
     {
-      "id": "unstop-1821954",
-      "type": "hackathon",
+      "id": "unstop-1825417",
+      "type": "competition",
       "source": "Unstop",
-      "name": "AI-Powered Career Development Hackathon",
-      "url": "https://unstop.com/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954",
-      "date": "2026-11-28T18:29:00.000Z",
+      "name": "Cypher 2026",
+      "url": "https://unstop.com/competitions/cypher-2026-mdi-1825417",
+      "date": "2026-11-28T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "UnsaidTalks Education",
+      "org": "Management Development Institute (MDI), Gurgaon",
       "tags": [
-        "health",
-        "ai",
-        "web",
-        "education"
+        "web"
       ],
       "rwanda": false
     },
@@ -212,22 +193,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1806010",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Kshitij '26 - The Case Study Competition",
-      "url": "https://unstop.com/competitions/kshitij-26-the-case-study-competition-xim-university-bhubaneswar-1806010",
-      "date": "2026-12-01T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "XIM University, Bhubaneswar",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -365,6 +330,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1824861",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Find Your North 2026: The Career Compass Challenge",
+      "url": "https://unstop.com/quiz/find-your-north-2026-the-career-compass-challenge-the-north-axis-1824861",
+      "date": "2026-12-05T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "The North Axis",
+      "tags": [
+        "health"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1822884",
       "type": "hackathon",
       "source": "Unstop",
@@ -381,51 +362,18 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1820715",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Tauras by Revat: Crypto Trading Hackathon | Prove Your Edge, Then Trade It Live",
-      "url": "https://unstop.com/hackathons/tauras-by-revat-crypto-trading-hackathon-prove-your-edge-then-trade-it-live-revat-crypto-fund-1820715",
-      "date": "2026-12-06T18:29:36.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Revat Crypto Fund",
-      "tags": [
-        "web",
-        "blockchain"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1824946",
+      "id": "unstop-1826765",
       "type": "competition",
       "source": "Unstop",
-      "name": "QuizVerse 2026",
-      "url": "https://unstop.com/quiz/quizverse-2026-siddhartha-institute-of-engineering-technology-1824946",
+      "name": "Beyond Lines",
+      "url": "https://unstop.com/competitions/beyond-lines-iris-2027-iim-indore-1826765",
       "date": "2026-12-06T18:30:00.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "Siddhartha Institute of Engineering & Technology",
+      "org": "Indian Institute of Management (IIM), Indore",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1825036",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "QuizX 2026",
-      "url": "https://unstop.com/quiz/quizx-2026-student-tribe-1825036",
-      "date": "2026-12-06T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Student Tribe",
-      "tags": [
-        "education"
       ],
       "rwanda": false
     },
@@ -440,6 +388,38 @@
       "online": true,
       "prize": "",
       "org": "WeCodeCoders",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1826250",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Bharat Academix Global Innovatex 2027",
+      "url": "https://unstop.com/hackathons/bharat-academix-global-innovatex-2027-bharat-academix-1826250",
+      "date": "2026-12-07T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Bharat Academix",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1826157",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Parallax Hackathon 2026",
+      "url": "https://unstop.com/hackathons/parallax-hackathon-2026-invoqe-1826157",
+      "date": "2026-12-07T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Invoqe",
       "tags": [
         "web"
       ],
@@ -472,6 +452,22 @@
       "online": true,
       "prize": "",
       "org": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1826942",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Botman Begins",
+      "url": "https://unstop.com/competitions/botman-begins-backwaters-2027-iim-kozhikodes-management-festival-indian-institute-of-management-iim-kozhiko-1826942",
+      "date": "2026-12-07T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kozhikode",
       "tags": [
         "web"
       ],
@@ -526,6 +522,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1826956",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Optimus",
+      "url": "https://unstop.com/competitions/optimus-backwaters-2027-iim-kozhikodes-management-festival-indian-institute-of-management-iim-kozhikode-1826956",
+      "date": "2026-12-08T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kozhikode",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -607,22 +619,6 @@
       "online": true,
       "prize": "",
       "org": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1825373",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Insight Edge: The Economics Competition",
-      "url": "https://unstop.com/competitions/insight-edge-the-economics-competition-iris-2027-iim-indores-flagship-fest-iim-indore-1825373",
-      "date": "2026-12-10T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Indore",
       "tags": [
         "web"
       ],
@@ -748,22 +744,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1820748",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ATLAS Hackathon 2026: Prompt to Product",
-      "url": "https://unstop.com/competitions/crp-atlas-hackathon-2026-prompt-to-product-atlas-skilltech-university-maharashtra-1820748",
-      "date": "2026-12-15T18:29:03.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ATLAS SkillTech University, Maharashtra",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31083",
       "type": "hackathon",
       "source": "Devpost",
@@ -831,39 +811,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1818973",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Mesa' Future Founders Challenge",
-      "url": "https://unstop.com/competitions/mesa-future-founders-challenge-mesa-school-of-business-bangalore-1818973",
-      "date": "2026-12-20T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Mesa School of Business, Bangalore",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1825140",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Claude AI QuizOff",
-      "url": "https://unstop.com/quiz/claude-ai-quizoff-gla-university-mathura-1825140",
-      "date": "2026-12-20T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Gla University Mathura",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31795",
       "type": "hackathon",
       "source": "Devpost",
@@ -912,6 +859,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1826567",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "TryHackingMe Hackathon",
+      "url": "https://unstop.com/hackathons/tryhackingme-hackathon-buildx-1826567",
+      "date": "2026-12-24T07:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "BuildX",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -966,6 +929,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1826401",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "AI CodeStorm 2026",
+      "url": "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401",
+      "date": "2026-12-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Proton Solutions",
+      "tags": [
+        "ai"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31108",
       "type": "hackathon",
       "source": "Devpost",
@@ -976,6 +955,22 @@
       "online": true,
       "prize": "",
       "org": "Binnovative",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1826114",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Dex Duel 2027",
+      "url": "https://unstop.com/quiz/dex-duel-2027-dexsphere-1826114",
+      "date": "2027-01-06T07:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "DEXsphere",
       "tags": [
         "web"
       ],
@@ -1053,6 +1048,38 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1772214",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Tata Crucible Campus Quiz 2026",
+      "url": "https://unstop.com/quiz/crp-tata-crucible-campus-quiz-2026-tata-crucible-quiz-2026-2027-tata-group-1772214",
+      "date": "2027-01-23T18:29:58.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Tata Group",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1773974",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Tata Crucible Business Quiz 2026",
+      "url": "https://unstop.com/quiz/crp-tata-crucible-business-quiz-2026-tata-crucible-quiz-2026-2027-tata-group-1773974",
+      "date": "2027-01-25T18:29:53.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Tata Group",
+      "tags": [
+        "fintech"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1825465",
       "type": "competition",
       "source": "Unstop",
@@ -1099,22 +1126,6 @@
       "org": "BranchOut!",
       "tags": [
         "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-sadc-secondary-school-essay-competition-2027",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "SADC Secondary School Essay Competition 2027",
-      "url": "https://opportunitydesk.org/2026/11/21/sadc-secondary-school-essay-competition-2027/",
-      "date": "2027-05-31T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "education"
       ],
       "rwanda": false
     }
