@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-23T23:30:09.907Z",
+  "updated": "2026-11-24T08:49:40.219Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (26)",
+    "Unstop": "ok (28)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (2)",
@@ -62,6 +62,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-32188",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "STEM Innovation Challenge 2026",
+      "url": "https://stem-innovation-challenge-2026.devpost.com/",
+      "date": "2026-11-25T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$100",
+      "org": "Global STEM Innovation Initiative",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31683",
       "type": "hackathon",
       "source": "Devpost",
@@ -95,22 +111,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1821962",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ThinCovation 2026",
-      "url": "https://unstop.com/hackathons/thincovation-2026-thincovation-2026-mdi-1821962",
-      "date": "2026-11-27T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Management Development Institute (MDI), Gurgaon",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1821954",
       "type": "hackathon",
       "source": "Unstop",
@@ -130,38 +130,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1823195",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Kriya - Transforming Processes Into Performance",
-      "url": "https://unstop.com/competitions/kriya-transforming-processes-into-performance-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operati-1823195",
-      "date": "2026-11-28T18:29:30.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823592",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Humanova",
-      "url": "https://unstop.com/competitions/humanova-maya-beyond-what-meets-the-eye-symbiosis-institute-of-operations-management-siom-nashik-1823592",
-      "date": "2026-11-28T18:29:36.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Symbiosis Institute of Operations Management (SIOM), Nashik",
-      "tags": [
-        "health"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31826",
       "type": "hackathon",
       "source": "Devpost",
@@ -175,22 +143,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1819452",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Game On Night – Imagine the Impossible",
-      "url": "https://unstop.com/competitions/game-on-night-imagine-the-impossible-balaji-institute-of-management-and-human-resource-development-bimhrd-p-1819452",
-      "date": "2026-11-29T16:34:20.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Balaji Institute of Management and Human Resource Development (BIMHRD), Pune",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -260,22 +212,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-31993",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "IdeaLab Hacks",
-      "url": "https://idealab-hacks.devpost.com/",
-      "date": "2026-11-30T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "IdeaLab",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -413,6 +349,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1819005",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Campus Ambassador Program",
+      "url": "https://unstop.com/competitions/campus-ambassador-program-sanrakshan-2026-business-sustainability-conclave-indian-institute-of-management-i-1819005",
+      "date": "2026-12-05T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute Of Management (IIM) Lucknow - Noida Campus",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1822884",
       "type": "hackathon",
       "source": "Unstop",
@@ -462,6 +414,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1825036",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "QuizX 2026",
+      "url": "https://unstop.com/quiz/quizx-2026-student-tribe-1825036",
+      "date": "2026-12-06T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Student Tribe",
+      "tags": [
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1823739",
       "type": "hackathon",
       "source": "Unstop",
@@ -474,6 +442,22 @@
       "org": "WeCodeCoders",
       "tags": [
         "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1825506",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "BlackPanda Labs CTF 2026 | Free International Cybersecurity Competition",
+      "url": "https://unstop.com/hackathons/blackpanda-labs-ctf-2026-free-international-cybersecurity-competition-blackpandalabs-1825506",
+      "date": "2026-12-07T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "blackpandalabs",
+      "tags": [
+        "security"
       ],
       "rwanda": false
     },
@@ -847,6 +831,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1818973",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Mesa' Future Founders Challenge",
+      "url": "https://unstop.com/competitions/mesa-future-founders-challenge-mesa-school-of-business-bangalore-1818973",
+      "date": "2026-12-20T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Mesa School of Business, Bangalore",
+      "tags": [
+        "fintech",
+        "education"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1825140",
       "type": "competition",
       "source": "Unstop",
@@ -911,6 +912,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1821473",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "OpenVerse '26",
+      "url": "https://unstop.com/hackathons/openverse-26-campus-code-1821473",
+      "date": "2026-12-24T18:29:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Campus Code",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -1036,16 +1053,16 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1806792",
+      "id": "unstop-1825465",
       "type": "competition",
       "source": "Unstop",
-      "name": "Women for Worth",
-      "url": "https://unstop.com/competitions/crp-women-for-worth-loreal-paris-x-entreprenaari-x-aspire-for-her-1806792",
-      "date": "2027-01-29T18:29:00.000Z",
+      "name": "Be a Co-Founder: Strangers Meet and Event Hosting",
+      "url": "https://unstop.com/competitions/be-a-co-founder-strangers-meet-and-event-hosting-interactup-1825465",
+      "date": "2027-01-29T20:50:01.000Z",
       "location": "Online",
       "online": true,
       "prize": "",
-      "org": "LOreal Paris x EntrepreNaari x Aspire For Her",
+      "org": "InteractUp",
       "tags": [
         "web"
       ],
