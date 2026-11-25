@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:00:25.663Z",
+  "updated": "2026-11-25T07:24:23.556Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
@@ -10,22 +10,6 @@
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
-    {
-      "id": "devpost-31798",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Taskforge",
-      "url": "https://taskforge.devpost.com/",
-      "date": "2026-11-24T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "HackathonForEveryone",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
     {
       "id": "devpost-31737",
       "type": "hackathon",
@@ -42,22 +26,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "devpost-32188",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "STEM Innovation Challenge 2026",
-      "url": "https://stem-innovation-challenge-2026.devpost.com/",
-      "date": "2026-11-25T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "$100",
-      "org": "Global STEM Innovation Initiative",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -79,6 +47,22 @@
       "rwanda": false
     },
     {
+      "id": "devpost-32188",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "STEM Innovation Challenge 2026",
+      "url": "https://stem-innovation-challenge-2026.devpost.com/",
+      "date": "2026-11-26T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "$100",
+      "org": "Global STEM Innovation Initiative",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1814036",
       "type": "hackathon",
       "source": "Unstop",
@@ -89,22 +73,6 @@
       "online": true,
       "prize": "",
       "org": "Divergent Classes",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1825417",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Cypher 2026",
-      "url": "https://unstop.com/competitions/cypher-2026-mdi-1825417",
-      "date": "2026-11-28T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Management Development Institute (MDI), Gurgaon",
       "tags": [
         "web"
       ],
@@ -246,6 +214,23 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1812323",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Nexora AI – National AI & Innovation Hackathon 2026",
+      "url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
+      "date": "2026-12-03T09:06:16.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
+      "tags": [
+        "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31667",
       "type": "hackathon",
       "source": "Devpost",
@@ -314,22 +299,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1819005",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Campus Ambassador Program",
-      "url": "https://unstop.com/competitions/campus-ambassador-program-sanrakshan-2026-business-sustainability-conclave-indian-institute-of-management-i-1819005",
-      "date": "2026-12-05T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute Of Management (IIM) Lucknow - Noida Campus",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1824861",
       "type": "competition",
       "source": "Unstop",
@@ -342,22 +311,6 @@
       "org": "The North Axis",
       "tags": [
         "health"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1822884",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "ELUCode - 9",
-      "url": "https://unstop.com/hackathons/elucode-9-edulinkup-1822884",
-      "date": "2026-12-06T15:30:31.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "EduLinkUp",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -388,6 +341,22 @@
       "online": true,
       "prize": "",
       "org": "WeCodeCoders",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1825938",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "CoMemor Contributor Challenge",
+      "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+      "date": "2026-12-07T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "CoMemor",
       "tags": [
         "web"
       ],
@@ -526,6 +495,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1827267",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Fundamental Cloud Computing Quiz",
+      "url": "https://unstop.com/quiz/fundamental-cloud-computing-quiz-abes-engineering-college-1827267",
+      "date": "2026-12-08T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Abes Engineering College",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1826956",
       "type": "competition",
       "source": "Unstop",
@@ -609,6 +594,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1827596",
+      "type": "pitch",
+      "source": "Unstop",
+      "name": "Online Idea Pitching Competition",
+      "url": "https://unstop.com/competitions/online-idea-pitching-competition-late-g-n-sapkal-college-of-engineering-nashik-1827596",
+      "date": "2026-12-10T06:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Late G N Sapkal College of Engineering Nashik",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "unstop-1820868",
       "type": "hackathon",
       "source": "Unstop",
@@ -638,6 +639,22 @@
       "tags": [
         "web",
         "climate"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-31798",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Taskforge",
+      "url": "https://taskforge.devpost.com/",
+      "date": "2026-12-10T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "HackathonForEveryone",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -740,6 +757,22 @@
       "org": "Parsewave AI",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1827110",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Endgame × Cesim Elite 2026",
+      "url": "https://unstop.com/competitions/endgame-cesim-elite-2026-iim-kashipur-1827110",
+      "date": "2026-12-14T18:29:52.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Indian Institute of Management (IIM), Kashipur",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -1013,6 +1046,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1827124",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "YESM : Pa-Writo ( Essay Writing Competition)",
+      "url": "https://unstop.com/competitions/yesm-pa-writo-essay-writing-competition-jadavpur-university-kolkata-1827124",
+      "date": "2027-01-14T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-30764",
       "type": "hackathon",
       "source": "Devpost",
@@ -1076,22 +1125,6 @@
       "org": "Tata Group",
       "tags": [
         "fintech"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1825465",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Be a Co-Founder: Strangers Meet and Event Hosting",
-      "url": "https://unstop.com/competitions/be-a-co-founder-strangers-meet-and-event-hosting-interactup-1825465",
-      "date": "2027-01-29T20:50:01.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "InteractUp",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
