@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-25T21:12:42.867Z",
+  "updated": "2026-11-26T07:13:06.364Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (40)",
+    "Unstop": "ok (42)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (1)",
@@ -43,6 +43,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1826953",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Imagine the Impossible: The Game Design Challenge",
+      "url": "https://unstop.com/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+      "date": "2026-11-28T13:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Kalindi College (KC), University of Delhi (DU), Delhi",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31826",
       "type": "hackathon",
       "source": "Devpost",
@@ -56,6 +72,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1828503",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Finaholics Concord Case Competition",
+      "url": "https://unstop.com/competitions/finaholics-concord-case-competition-institute-of-management-technology-imt-nagpur-1828503",
+      "date": "2026-11-29T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Institute of Management Technology (IMT), Nagpur",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -74,22 +106,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1806031",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "APSET 2027 - CSE",
-      "url": "https://unstop.com/quiz/apset-2027-cse-jntua-college-of-engineering-pulivendula-pulivendula-1806031",
-      "date": "2026-11-30T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "JNTUA College of Engineering Pulivendula, Pulivendula",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -161,6 +177,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1828541",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Case Study Competition",
+      "url": "https://unstop.com/competitions/case-study-competition-jalpaiguri-goverment-engineering-college-1828541",
+      "date": "2026-12-01T04:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jalpaiguri Goverment Engineering College",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31794",
       "type": "hackathon",
       "source": "Devpost",
@@ -189,6 +221,22 @@
       "org": "lablab.ai",
       "tags": [
         "ai"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1828578",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Stratedgex",
+      "url": "https://unstop.com/competitions/stratedgex-jalpaiguri-goverment-engineering-college-1828578",
+      "date": "2026-12-02T11:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jalpaiguri Goverment Engineering College",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -222,6 +270,22 @@
       "org": "PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
       "tags": [
         "ai",
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1828749",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Online Coding Challenge",
+      "url": "https://unstop.com/hackathons/online-coding-challenge-rastrakavi-ramdhari-singh-dinkar-college-of-engineeringrrsdce-begusarai-1828749",
+      "date": "2026-12-03T06:11:44.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Rastrakavi Ramdhari Singh Dinkar College of Engineering(RRSDCE), Begusarai",
+      "tags": [
         "web"
       ],
       "rwanda": false
@@ -275,38 +339,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1824377",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "AgentX",
-      "url": "https://unstop.com/hackathons/agentx-ai-academia-1824377",
-      "date": "2026-12-05T12:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "AI Academia",
-      "tags": [
-        "ai"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1823739",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "CodeEncoders India 2026 — National Hackathon",
-      "url": "https://unstop.com/hackathons/codeencoders-india-2026-national-hackathon-wecodecoders-1823739",
-      "date": "2026-12-07T13:01:47.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "WeCodeCoders",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
@@ -385,6 +417,22 @@
       "online": true,
       "prize": "",
       "org": "St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "feed-engyro-research-proposal-competition-2027",
+      "type": "competition",
+      "source": "Opportunity Desk",
+      "name": "ENGYRO Research Proposal Competition 2027",
+      "url": "https://opportunitydesk.org/2026/11/25/engyro-research-proposal-competition-2027/",
+      "date": "2026-12-07T21:59:00.000Z",
+      "location": "",
+      "online": false,
+      "prize": "",
+      "org": "",
       "tags": [
         "web"
       ],
@@ -486,6 +534,23 @@
       "prize": "",
       "org": "Makers Need More (MnM)",
       "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1828890",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Agentic AI Hackathon 2026",
+      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+      "date": "2026-12-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Proton Solutions",
+      "tags": [
+        "ai",
         "web"
       ],
       "rwanda": false
@@ -621,6 +686,22 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1828678",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "Hackday Dec",
+      "url": "https://unstop.com/hackathons/hackday-dec-trishulx-1828678",
+      "date": "2026-12-11T18:29:27.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "TrishulX",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -788,109 +869,6 @@
       "source": "Unstop",
       "name": "The Wordsmith Wars",
       "url": "https://unstop.com/quiz/the-wordsmith-wars-ibs-hyderabad-1828179",
-      "date": "2026-12-12T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1828024",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Legacy Reboot",
-      "url": "https://unstop.com/competitions/legacy-reboot-ibs-hyderabad-1828024",
-      "date": "2026-12-12T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1827876",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "INK & SILICON: Article Writing on Technology",
-      "url": "https://unstop.com/competitions/ink-silicon-article-writing-on-technology-ibs-hyderabad-1827876",
-      "date": "2026-12-12T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1828049",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The AI Ethics Arena",
-      "url": "https://unstop.com/competitions/the-ai-ethics-arena-ibs-hyderabad-1828049",
-      "date": "2026-12-12T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "ai",
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1828061",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "The Eureka Effect",
-      "url": "https://unstop.com/competitions/the-eureka-effect-ibs-hyderabad-1828061",
-      "date": "2026-12-12T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1827902",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Build, Buy or Retain",
-      "url": "https://unstop.com/competitions/build-buy-or-retain-ibs-hyderabad-1827902",
-      "date": "2026-12-12T16:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "ICFAI Business School (IBS), Hyderabad",
-      "tags": [
-        "fintech",
-        "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1827893",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Root Cause: Technology Case Study",
-      "url": "https://unstop.com/competitions/root-cause-technology-case-study-ibs-hyderabad-1827893",
       "date": "2026-12-12T16:30:00.000Z",
       "location": "Online",
       "online": true,
@@ -1169,6 +1147,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1825463",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "International Youth Summit Position Challenge - Dec 2026 Edition",
+      "url": "https://unstop.com/competitions/international-youth-summit-position-challenge-dec-2026-edition-interactup-1825463",
+      "date": "2026-12-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "InteractUp",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31108",
       "type": "hackathon",
       "source": "Devpost",
@@ -1221,22 +1215,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1828349",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Samvet 2047 – The India Review | National Call for Papers | Inaugural Edition 2026–27",
-      "url": "https://unstop.com/competitions/samvet-2047-the-india-review-national-call-for-papers-inaugural-edition-2026-27-ramjas-college-1828349",
-      "date": "2027-01-14T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Ramjas college",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-30764",
       "type": "hackathon",
       "source": "Devpost",
@@ -1268,22 +1246,6 @@
         "ai",
         "web",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-caine-prize-for-african-writing-2027-10-000-prize",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "Caine Prize for African Writing 2027 (£10,000 prize)",
-      "url": "https://opportunitydesk.org/2026/11/25/caine-prize-for-african-writing-2027/",
-      "date": "2027-01-25T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
-      "tags": [
-        "web"
       ],
       "rwanda": false
     },
