@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T21:01:48.671Z",
+  "updated": "2026-11-27T07:09:25.975Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (31)",
+    "Unstop": "ok (34)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
-    "Opportunity Desk": "ok (1)",
+    "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (0)"
   },
   "events": [
@@ -276,22 +276,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1829528",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Strategy Sprint - Management and Strategy Quiz",
-      "url": "https://unstop.com/quiz/strategy-sprint-management-and-strategy-quiz-kaizen-institute-of-management-accountants-1829528",
-      "date": "2026-12-03T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Institute of Management Accountants",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1829481",
       "type": "competition",
       "source": "Unstop",
@@ -376,22 +360,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1829315",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Consultimate 11.0",
-      "url": "https://unstop.com/competitions/consultimate-110-international-management-institute-imi-new-delhi-1829315",
-      "date": "2026-12-07T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "International Management Institute (IMI), New Delhi",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "unstop-1826250",
       "type": "hackathon",
       "source": "Unstop",
@@ -418,38 +386,6 @@
       "online": true,
       "prize": "",
       "org": "Invoqe",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1825506",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "BlackPanda Labs CTF 2026 | Free International Cybersecurity Competition",
-      "url": "https://unstop.com/hackathons/blackpanda-labs-ctf-2026-free-international-cybersecurity-competition-blackpandalabs-1825506",
-      "date": "2026-12-07T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "blackpandalabs",
-      "tags": [
-        "security"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "feed-engyro-research-proposal-competition-2027",
-      "type": "competition",
-      "source": "Opportunity Desk",
-      "name": "ENGYRO Research Proposal Competition 2027",
-      "url": "https://opportunitydesk.org/2026/11/25/engyro-research-proposal-competition-2027/",
-      "date": "2026-12-07T21:59:00.000Z",
-      "location": "",
-      "online": false,
-      "prize": "",
-      "org": "",
       "tags": [
         "web"
       ],
@@ -862,6 +798,22 @@
       "rwanda": false
     },
     {
+      "id": "unstop-1830335",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "Cloud Essentials & Digital Transformation",
+      "url": "https://unstop.com/quiz/cloud-essentials-digital-transformation-aditya-university-surampalam-1830335",
+      "date": "2026-12-22T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Aditya university surampalam",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
       "id": "devpost-31572",
       "type": "hackathon",
       "source": "Devpost",
@@ -889,22 +841,6 @@
       "online": true,
       "prize": "",
       "org": "BuildX",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1821473",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "OpenVerse '26",
-      "url": "https://unstop.com/hackathons/openverse-26-campus-code-1821473",
-      "date": "2026-12-24T18:29:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Campus Code",
       "tags": [
         "web"
       ],
@@ -957,6 +893,22 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1828645",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "InteractUp Nexus National Hackathon",
+      "url": "https://unstop.com/hackathons/interactup-nexus-national-hackathon-interactup-1828645",
+      "date": "2026-12-30T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "InteractUp",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
@@ -1093,6 +1045,86 @@
         "ai",
         "web",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1829983",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "YESM - Focalibre (Short Film Making )",
+      "url": "https://unstop.com/competitions/yesm-focalibre-short-film-making-jadavpur-university-kolkata-1829983",
+      "date": "2027-01-22T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1829979",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "YESM - Fiscal Pix ( Photography Competition )",
+      "url": "https://unstop.com/competitions/yesm-fiscal-pix-photography-competition-jadavpur-university-kolkata-1829979",
+      "date": "2027-01-24T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1830018",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "YESM - Artflation (Poster Making Competition)",
+      "url": "https://unstop.com/competitions/yesm-artflation-poster-making-competition-jadavpur-university-kolkata-1830018",
+      "date": "2027-01-25T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1830019",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "YESM - Memesis (Meme Making)",
+      "url": "https://unstop.com/competitions/yesm-memesis-meme-making-jadavpur-university-kolkata-1830019",
+      "date": "2027-01-26T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1829985",
+      "type": "competition",
+      "source": "Unstop",
+      "name": "YESM - Econmotion (Reel Making Competition )",
+      "url": "https://unstop.com/competitions/yesm-econmotion-reel-making-competition-jadavpur-university-kolkata-1829985",
+      "date": "2027-01-26T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Jadavpur University (JU), Kolkata",
+      "tags": [
+        "web"
       ],
       "rwanda": false
     },
