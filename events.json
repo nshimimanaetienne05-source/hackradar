@@ -1,32 +1,15 @@
 {
-  "updated": "2026-11-27T20:47:00.731Z",
+  "updated": "2026-11-28T06:42:36.886Z",
   "sources": {
     "HackRadar": "ok (0)",
     "Devpost": "ok (40)",
-    "Unstop": "ok (46)",
+    "Unstop": "ok (45)",
     "MLH": "ok (24)",
     "Lablab.ai": "failed: No upcoming events found (page layout may have changed) (kept 1 old)",
     "Opportunity Desk": "ok (0)",
     "Opportunities for Africans": "ok (1)"
   },
   "events": [
-    {
-      "id": "devpost-32133",
-      "type": "hackathon",
-      "source": "Devpost",
-      "name": "Creators AI Winter Challenge",
-      "url": "https://creators-ai-winter-challenge.devpost.com/",
-      "date": "2026-11-27T23:59:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Creators AI ",
-      "tags": [
-        "ai",
-        "fintech"
-      ],
-      "rwanda": false
-    },
     {
       "id": "unstop-1830742",
       "type": "competition",
@@ -92,22 +75,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1829975",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "FinSight: Sharpen Your Financial Insight - 11",
-      "url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-11-iim-rohtak-1829975",
-      "date": "2026-11-28T18:29:12.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Indian Institute of Management (IIM), Rohtak",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31826",
       "type": "hackathon",
       "source": "Devpost",
@@ -121,6 +88,23 @@
       "tags": [
         "ai",
         "education"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "devpost-32133",
+      "type": "hackathon",
+      "source": "Devpost",
+      "name": "Creators AI Winter Challenge",
+      "url": "https://creators-ai-winter-challenge.devpost.com/",
+      "date": "2026-11-28T23:59:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "Creators AI ",
+      "tags": [
+        "ai",
+        "fintech"
       ],
       "rwanda": false
     },
@@ -287,23 +271,6 @@
       "tags": [
         "ai",
         "education"
-      ],
-      "rwanda": false
-    },
-    {
-      "id": "unstop-1812323",
-      "type": "hackathon",
-      "source": "Unstop",
-      "name": "Nexora AI – National AI & Innovation Hackathon 2026",
-      "url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
-      "date": "2026-12-03T03:36:16.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
-      "tags": [
-        "ai",
-        "web"
       ],
       "rwanda": false
     },
@@ -847,22 +814,6 @@
       "rwanda": false
     },
     {
-      "id": "unstop-1830335",
-      "type": "competition",
-      "source": "Unstop",
-      "name": "Cloud Essentials & Digital Transformation",
-      "url": "https://unstop.com/quiz/cloud-essentials-digital-transformation-aditya-university-surampalam-1830335",
-      "date": "2026-12-22T18:30:00.000Z",
-      "location": "Online",
-      "online": true,
-      "prize": "",
-      "org": "Aditya university surampalam",
-      "tags": [
-        "web"
-      ],
-      "rwanda": false
-    },
-    {
       "id": "devpost-31572",
       "type": "hackathon",
       "source": "Devpost",
@@ -1085,6 +1036,22 @@
       "online": true,
       "prize": "",
       "org": "Binnovative",
+      "tags": [
+        "web"
+      ],
+      "rwanda": false
+    },
+    {
+      "id": "unstop-1831784",
+      "type": "hackathon",
+      "source": "Unstop",
+      "name": "DSA WAR",
+      "url": "https://unstop.com/hackathons/dsa-war-gla-university-glau-uttar-pradesh-1831784",
+      "date": "2027-01-09T18:30:00.000Z",
+      "location": "Online",
+      "online": true,
+      "prize": "",
+      "org": "GLA University (GLAU), Uttar Pradesh",
       "tags": [
         "web"
       ],
